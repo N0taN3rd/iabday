@@ -1,0 +1,2607 @@
+{
+  "mementos": [
+    {
+      "datetime": "19961111114317",
+      "uri": "http://web.archive.org/web/19961111114317/http://www.motley.com/"
+    },
+    {
+      "datetime": "19961224223346",
+      "uri": "http://web.archive.org/web/19961224223346/http://motley.com/"
+    },
+    {
+      "datetime": "19961230022556",
+      "uri": "http://web.archive.org/web/19961230022556/http://www.motley.com/"
+    },
+    {
+      "datetime": "19970204053549",
+      "uri": "http://web.archive.org/web/19970204053549/http://www.motley.com/"
+    },
+    {
+      "datetime": "19970405140534",
+      "uri": "http://web.archive.org/web/19970405140534/http://www.motley.com/"
+    },
+    {
+      "datetime": "19971221134532",
+      "uri": "http://web.archive.org/web/19971221134532/http://motley.com/"
+    },
+    {
+      "datetime": "19980125083618",
+      "uri": "http://web.archive.org/web/19980125083618/http://www.motley.com/"
+    },
+    {
+      "datetime": "19981201174251",
+      "uri": "http://web.archive.org/web/19981201174251/http://www.motley.com/"
+    },
+    {
+      "datetime": "19981203040817",
+      "uri": "http://web.archive.org/web/19981203040817/http://motley.com/"
+    },
+    {
+      "datetime": "19981212015740",
+      "uri": "http://web.archive.org/web/19981212015740/http://motley.com/"
+    },
+    {
+      "datetime": "19981212031121",
+      "uri": "http://web.archive.org/web/19981212031121/http://www.motley.com/"
+    },
+    {
+      "datetime": "19990125090946",
+      "uri": "http://web.archive.org/web/19990125090946/http://motley.com/"
+    },
+    {
+      "datetime": "19990129045202",
+      "uri": "http://web.archive.org/web/19990129045202/http://motley.com/"
+    },
+    {
+      "datetime": "19990208005408",
+      "uri": "http://web.archive.org/web/19990208005408/http://motley.com/"
+    },
+    {
+      "datetime": "19990218115641",
+      "uri": "http://web.archive.org/web/19990218115641/http://www.motley.com/"
+    },
+    {
+      "datetime": "19990424040333",
+      "uri": "http://web.archive.org/web/19990424040333/http://motley.com/"
+    },
+    {
+      "datetime": "19990424074029",
+      "uri": "http://web.archive.org/web/19990424074029/http://www.motley.com/"
+    },
+    {
+      "datetime": "19990427062027",
+      "uri": "http://web.archive.org/web/19990427062027/http://motley.com/"
+    },
+    {
+      "datetime": "19991013145140",
+      "uri": "http://web.archive.org/web/19991013145140/http://motley.com/"
+    },
+    {
+      "datetime": "19991122001320",
+      "uri": "http://web.archive.org/web/19991122001320/http://motley.com/"
+    },
+    {
+      "datetime": "20000229090112",
+      "uri": "http://web.archive.org/web/20000229090112/http://www.motley.com/"
+    },
+    {
+      "datetime": "20000301122709",
+      "uri": "http://web.archive.org/web/20000301122709/http://www.motley.com/"
+    },
+    {
+      "datetime": "20000302010431",
+      "uri": "http://web.archive.org/web/20000302010431/http://www.motley.com/"
+    },
+    {
+      "datetime": "20000311181354",
+      "uri": "http://web.archive.org/web/20000311181354/http://motley.com/"
+    },
+    {
+      "datetime": "20000510083531",
+      "uri": "http://web.archive.org/web/20000510083531/http://www.motley.com/"
+    },
+    {
+      "datetime": "20000510142943",
+      "uri": "http://web.archive.org/web/20000510142943/http://www.motley.com/"
+    },
+    {
+      "datetime": "20000511134821",
+      "uri": "http://web.archive.org/web/20000511134821/http://www.motley.com/"
+    },
+    {
+      "datetime": "20000520004811",
+      "uri": "http://web.archive.org/web/20000520004811/http://motley.com/"
+    },
+    {
+      "datetime": "20000520094006",
+      "uri": "http://web.archive.org/web/20000520094006/http://www.motley.com/"
+    },
+    {
+      "datetime": "20000610050237",
+      "uri": "http://web.archive.org/web/20000610050237/http://motley.com/"
+    },
+    {
+      "datetime": "20000619170835",
+      "uri": "http://web.archive.org/web/20000619170835/http://www.motley.com/"
+    },
+    {
+      "datetime": "20000620065822",
+      "uri": "http://web.archive.org/web/20000620065822/http://www.motley.com/"
+    },
+    {
+      "datetime": "20000621012133",
+      "uri": "http://web.archive.org/web/20000621012133/http://www.motley.com/"
+    },
+    {
+      "datetime": "20000706205904",
+      "uri": "http://web.archive.org/web/20000706205904/http://motley.com/"
+    },
+    {
+      "datetime": "20000815072916",
+      "uri": "http://web.archive.org/web/20000815072916/http://www.motley.com/"
+    },
+    {
+      "datetime": "20001006043306",
+      "uri": "http://web.archive.org/web/20001006043306/http://motley.com/"
+    },
+    {
+      "datetime": "20001018164901",
+      "uri": "http://web.archive.org/web/20001018164901/http://motley.com/"
+    },
+    {
+      "datetime": "20001018165130",
+      "uri": "http://web.archive.org/web/20001018165130/http://www.motley.com/"
+    },
+    {
+      "datetime": "20001109120000",
+      "uri": "http://web.archive.org/web/20001109120000/http://www.motley.com/"
+    },
+    {
+      "datetime": "20001121153800",
+      "uri": "http://web.archive.org/web/20001121153800/http://www.motley.com/"
+    },
+    {
+      "datetime": "20001205040800",
+      "uri": "http://web.archive.org/web/20001205040800/http://motley.com/"
+    },
+    {
+      "datetime": "20001205214200",
+      "uri": "http://web.archive.org/web/20001205214200/http://www.motley.com/"
+    },
+    {
+      "datetime": "20010201162100",
+      "uri": "http://web.archive.org/web/20010201162100/http://www.motley.com/"
+    },
+    {
+      "datetime": "20010301154034",
+      "uri": "http://web.archive.org/web/20010301154034/http://www.motley.com/"
+    },
+    {
+      "datetime": "20010302011729",
+      "uri": "http://web.archive.org/web/20010302011729/http://www.motley.com/"
+    },
+    {
+      "datetime": "20010401085411",
+      "uri": "http://web.archive.org/web/20010401085411/http://motley.com/"
+    },
+    {
+      "datetime": "20010401134523",
+      "uri": "http://web.archive.org/web/20010401134523/http://www.motley.com/"
+    },
+    {
+      "datetime": "20010504064848",
+      "uri": "http://web.archive.org/web/20010504064848/http://www.motley.com/"
+    },
+    {
+      "datetime": "20010515140319",
+      "uri": "http://web.archive.org/web/20010515140319/http://www.motley.com/"
+    },
+    {
+      "datetime": "20010522073258",
+      "uri": "http://web.archive.org/web/20010522073258/http://www.motley.com/"
+    },
+    {
+      "datetime": "20010522090623",
+      "uri": "http://web.archive.org/web/20010522090623/http://www.motley.com/"
+    },
+    {
+      "datetime": "20010628052535",
+      "uri": "http://web.archive.org/web/20010628052535/http://www.motley.com/"
+    },
+    {
+      "datetime": "20010709231135",
+      "uri": "http://web.archive.org/web/20010709231135/http://www.motley.com/"
+    },
+    {
+      "datetime": "20010711160916",
+      "uri": "http://web.archive.org/web/20010711160916/http://www.motley.com/"
+    },
+    {
+      "datetime": "20010713025757",
+      "uri": "http://web.archive.org/web/20010713025757/http://www.motley.com/"
+    },
+    {
+      "datetime": "20010722023455",
+      "uri": "http://web.archive.org/web/20010722023455/http://motley.com/"
+    },
+    {
+      "datetime": "20011107184709",
+      "uri": "http://web.archive.org/web/20011107184709/http://www.motley.com/"
+    },
+    {
+      "datetime": "20020123010725",
+      "uri": "http://web.archive.org/web/20020123010725/http://www.motley.com/"
+    },
+    {
+      "datetime": "20020123204930",
+      "uri": "http://web.archive.org/web/20020123204930/http://motley.com/"
+    },
+    {
+      "datetime": "20020325211758",
+      "uri": "http://web.archive.org/web/20020325211758/http://motley.com/"
+    },
+    {
+      "datetime": "20020328171205",
+      "uri": "http://web.archive.org/web/20020328171205/http://www.motley.com/"
+    },
+    {
+      "datetime": "20020330130053",
+      "uri": "http://web.archive.org/web/20020330130053/http://motley.com/"
+    },
+    {
+      "datetime": "20020529205632",
+      "uri": "http://web.archive.org/web/20020529205632/http://www.motley.com/"
+    },
+    {
+      "datetime": "20020602181826",
+      "uri": "http://web.archive.org/web/20020602181826/http://motley.com/"
+    },
+    {
+      "datetime": "20020603024021",
+      "uri": "http://web.archive.org/web/20020603024021/http://www.motley.com/"
+    },
+    {
+      "datetime": "20020604184547",
+      "uri": "http://web.archive.org/web/20020604184547/http://motley.com/"
+    },
+    {
+      "datetime": "20020718210506",
+      "uri": "http://web.archive.org/web/20020718210506/http://www.motley.com/"
+    },
+    {
+      "datetime": "20020725205549",
+      "uri": "http://web.archive.org/web/20020725205549/http://motley.com/"
+    },
+    {
+      "datetime": "20020925074736",
+      "uri": "http://web.archive.org/web/20020925074736/http://motley.com/"
+    },
+    {
+      "datetime": "20020929185706",
+      "uri": "http://web.archive.org/web/20020929185706/http://www.motley.com/"
+    },
+    {
+      "datetime": "20021120191853",
+      "uri": "http://web.archive.org/web/20021120191853/http://motley.com/"
+    },
+    {
+      "datetime": "20021129012558",
+      "uri": "http://web.archive.org/web/20021129012558/http://www.motley.com/"
+    },
+    {
+      "datetime": "20021129101657",
+      "uri": "http://web.archive.org/web/20021129101657/http://motley.com/"
+    },
+    {
+      "datetime": "20030129035415",
+      "uri": "http://web.archive.org/web/20030129035415/http://motley.com/"
+    },
+    {
+      "datetime": "20030210183420",
+      "uri": "http://web.archive.org/web/20030210183420/http://www.motley.com/"
+    },
+    {
+      "datetime": "20030319024835",
+      "uri": "http://web.archive.org/web/20030319024835/http://www.motley.com/"
+    },
+    {
+      "datetime": "20030421052117",
+      "uri": "http://web.archive.org/web/20030421052117/http://www.motley.com/"
+    },
+    {
+      "datetime": "20030421111044",
+      "uri": "http://web.archive.org/web/20030421111044/http://motley.com/"
+    },
+    {
+      "datetime": "20030422211637",
+      "uri": "http://web.archive.org/web/20030422211637/http://motley.com/"
+    },
+    {
+      "datetime": "20030501184637",
+      "uri": "http://web.archive.org/web/20030501184637/http://www.motley.com/"
+    },
+    {
+      "datetime": "20030523093217",
+      "uri": "http://web.archive.org/web/20030523093217/http://www.motley.com/"
+    },
+    {
+      "datetime": "20030524083508",
+      "uri": "http://web.archive.org/web/20030524083508/http://www.motley.com/"
+    },
+    {
+      "datetime": "20030526204133",
+      "uri": "http://web.archive.org/web/20030526204133/http://motley.com/"
+    },
+    {
+      "datetime": "20030612105040",
+      "uri": "http://web.archive.org/web/20030612105040/http://www.motley.com/"
+    },
+    {
+      "datetime": "20030623032336",
+      "uri": "http://web.archive.org/web/20030623032336/http://motley.com/"
+    },
+    {
+      "datetime": "20030725075547",
+      "uri": "http://web.archive.org/web/20030725075547/http://www.motley.com/"
+    },
+    {
+      "datetime": "20030808133120",
+      "uri": "http://web.archive.org/web/20030808133120/http://www.motley.com/"
+    },
+    {
+      "datetime": "20031005114119",
+      "uri": "http://web.archive.org/web/20031005114119/http://www.motley.com/"
+    },
+    {
+      "datetime": "20031015124319",
+      "uri": "http://web.archive.org/web/20031015124319/http://www.motley.com/"
+    },
+    {
+      "datetime": "20031022055558",
+      "uri": "http://web.archive.org/web/20031022055558/http://www.motley.com/"
+    },
+    {
+      "datetime": "20031212102454",
+      "uri": "http://web.archive.org/web/20031212102454/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040102115736",
+      "uri": "http://web.archive.org/web/20040102115736/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040204165003",
+      "uri": "http://web.archive.org/web/20040204165003/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040410223110",
+      "uri": "http://web.archive.org/web/20040410223110/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040606063118",
+      "uri": "http://web.archive.org/web/20040606063118/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040610000421",
+      "uri": "http://web.archive.org/web/20040610000421/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040611065436",
+      "uri": "http://web.archive.org/web/20040611065436/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040612203721",
+      "uri": "http://web.archive.org/web/20040612203721/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040615002428",
+      "uri": "http://web.archive.org/web/20040615002428/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040616143114",
+      "uri": "http://web.archive.org/web/20040616143114/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040622132312",
+      "uri": "http://web.archive.org/web/20040622132312/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040623161127",
+      "uri": "http://web.archive.org/web/20040623161127/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040624050944",
+      "uri": "http://web.archive.org/web/20040624050944/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040627074110",
+      "uri": "http://web.archive.org/web/20040627074110/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040628020912",
+      "uri": "http://web.archive.org/web/20040628020912/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040629062050",
+      "uri": "http://web.archive.org/web/20040629062050/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040630024806",
+      "uri": "http://web.archive.org/web/20040630024806/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040701070605",
+      "uri": "http://web.archive.org/web/20040701070605/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040703072812",
+      "uri": "http://web.archive.org/web/20040703072812/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040704021634",
+      "uri": "http://web.archive.org/web/20040704021634/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040705010440",
+      "uri": "http://web.archive.org/web/20040705010440/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040707002238",
+      "uri": "http://web.archive.org/web/20040707002238/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040708004906",
+      "uri": "http://web.archive.org/web/20040708004906/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040710003444",
+      "uri": "http://web.archive.org/web/20040710003444/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040710032638",
+      "uri": "http://web.archive.org/web/20040710032638/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040711035031",
+      "uri": "http://web.archive.org/web/20040711035031/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040712001151",
+      "uri": "http://web.archive.org/web/20040712001151/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040713015049",
+      "uri": "http://web.archive.org/web/20040713015049/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040714030930",
+      "uri": "http://web.archive.org/web/20040714030930/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040715064351",
+      "uri": "http://web.archive.org/web/20040715064351/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040716002952",
+      "uri": "http://web.archive.org/web/20040716002952/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040717073416",
+      "uri": "http://web.archive.org/web/20040717073416/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040718040744",
+      "uri": "http://web.archive.org/web/20040718040744/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040718081858",
+      "uri": "http://web.archive.org/web/20040718081858/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040719025247",
+      "uri": "http://web.archive.org/web/20040719025247/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040719084218",
+      "uri": "http://web.archive.org/web/20040719084218/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040721014206",
+      "uri": "http://web.archive.org/web/20040721014206/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040721075508",
+      "uri": "http://web.archive.org/web/20040721075508/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040722091932",
+      "uri": "http://web.archive.org/web/20040722091932/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040723092416",
+      "uri": "http://web.archive.org/web/20040723092416/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040724061328",
+      "uri": "http://web.archive.org/web/20040724061328/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040725065055",
+      "uri": "http://web.archive.org/web/20040725065055/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040726050953",
+      "uri": "http://web.archive.org/web/20040726050953/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040727031803",
+      "uri": "http://web.archive.org/web/20040727031803/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040804065921",
+      "uri": "http://web.archive.org/web/20040804065921/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040805072337",
+      "uri": "http://web.archive.org/web/20040805072337/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040806043718",
+      "uri": "http://web.archive.org/web/20040806043718/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040808005609",
+      "uri": "http://web.archive.org/web/20040808005609/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040809022734",
+      "uri": "http://web.archive.org/web/20040809022734/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040809223038",
+      "uri": "http://web.archive.org/web/20040809223038/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040810083949",
+      "uri": "http://web.archive.org/web/20040810083949/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040810121757",
+      "uri": "http://web.archive.org/web/20040810121757/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040811054840",
+      "uri": "http://web.archive.org/web/20040811054840/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040811081908",
+      "uri": "http://web.archive.org/web/20040811081908/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040812074201",
+      "uri": "http://web.archive.org/web/20040812074201/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040813012053",
+      "uri": "http://web.archive.org/web/20040813012053/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040814073334",
+      "uri": "http://web.archive.org/web/20040814073334/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040814124352",
+      "uri": "http://web.archive.org/web/20040814124352/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040815044959",
+      "uri": "http://web.archive.org/web/20040815044959/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040818060453",
+      "uri": "http://web.archive.org/web/20040818060453/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040819051554",
+      "uri": "http://web.archive.org/web/20040819051554/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040822044130",
+      "uri": "http://web.archive.org/web/20040822044130/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040823001543",
+      "uri": "http://web.archive.org/web/20040823001543/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040824004747",
+      "uri": "http://web.archive.org/web/20040824004747/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040824085506",
+      "uri": "http://web.archive.org/web/20040824085506/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040826041037",
+      "uri": "http://web.archive.org/web/20040826041037/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040827023501",
+      "uri": "http://web.archive.org/web/20040827023501/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040827082739",
+      "uri": "http://web.archive.org/web/20040827082739/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040829014719",
+      "uri": "http://web.archive.org/web/20040829014719/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040829101605",
+      "uri": "http://web.archive.org/web/20040829101605/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040829224759",
+      "uri": "http://web.archive.org/web/20040829224759/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040901034334",
+      "uri": "http://web.archive.org/web/20040901034334/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040903182159",
+      "uri": "http://web.archive.org/web/20040903182159/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040904054058",
+      "uri": "http://web.archive.org/web/20040904054058/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040907042927",
+      "uri": "http://web.archive.org/web/20040907042927/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040908054043",
+      "uri": "http://web.archive.org/web/20040908054043/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040909072138",
+      "uri": "http://web.archive.org/web/20040909072138/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040910043508",
+      "uri": "http://web.archive.org/web/20040910043508/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040910235936",
+      "uri": "http://web.archive.org/web/20040910235936/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040912042328",
+      "uri": "http://web.archive.org/web/20040912042328/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040915035519",
+      "uri": "http://web.archive.org/web/20040915035519/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040918053141",
+      "uri": "http://web.archive.org/web/20040918053141/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040922051919",
+      "uri": "http://web.archive.org/web/20040922051919/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040923052938",
+      "uri": "http://web.archive.org/web/20040923052938/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040924003704",
+      "uri": "http://web.archive.org/web/20040924003704/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040924081822",
+      "uri": "http://web.archive.org/web/20040924081822/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040925052758",
+      "uri": "http://web.archive.org/web/20040925052758/http://www.motley.com/"
+    },
+    {
+      "datetime": "20040929021434",
+      "uri": "http://web.archive.org/web/20040929021434/http://www.motley.com/"
+    },
+    {
+      "datetime": "20041021085819",
+      "uri": "http://web.archive.org/web/20041021085819/http://www.motley.com/"
+    },
+    {
+      "datetime": "20041023031633",
+      "uri": "http://web.archive.org/web/20041023031633/http://www.motley.com/"
+    },
+    {
+      "datetime": "20041103032458",
+      "uri": "http://web.archive.org/web/20041103032458/http://www.motley.com/"
+    },
+    {
+      "datetime": "20041104042001",
+      "uri": "http://web.archive.org/web/20041104042001/http://www.motley.com/"
+    },
+    {
+      "datetime": "20041105092123",
+      "uri": "http://web.archive.org/web/20041105092123/http://www.motley.com/"
+    },
+    {
+      "datetime": "20041106085744",
+      "uri": "http://web.archive.org/web/20041106085744/http://www.motley.com/"
+    },
+    {
+      "datetime": "20041109084449",
+      "uri": "http://web.archive.org/web/20041109084449/http://www.motley.com/"
+    },
+    {
+      "datetime": "20041114084722",
+      "uri": "http://web.archive.org/web/20041114084722/http://www.motley.com/"
+    },
+    {
+      "datetime": "20041115092224",
+      "uri": "http://web.archive.org/web/20041115092224/http://www.motley.com/"
+    },
+    {
+      "datetime": "20041116005459",
+      "uri": "http://web.archive.org/web/20041116005459/http://www.motley.com/"
+    },
+    {
+      "datetime": "20041116094320",
+      "uri": "http://web.archive.org/web/20041116094320/http://www.motley.com/"
+    },
+    {
+      "datetime": "20041127163831",
+      "uri": "http://web.archive.org/web/20041127163831/http://www.motley.com/"
+    },
+    {
+      "datetime": "20041130163643",
+      "uri": "http://web.archive.org/web/20041130163643/http://motley.com/"
+    },
+    {
+      "datetime": "20041204091824",
+      "uri": "http://web.archive.org/web/20041204091824/http://www.motley.com/"
+    },
+    {
+      "datetime": "20041207072536",
+      "uri": "http://web.archive.org/web/20041207072536/http://www.motley.com/"
+    },
+    {
+      "datetime": "20041208095937",
+      "uri": "http://web.archive.org/web/20041208095937/http://www.motley.com/"
+    },
+    {
+      "datetime": "20041209093649",
+      "uri": "http://web.archive.org/web/20041209093649/http://www.motley.com/"
+    },
+    {
+      "datetime": "20041211090817",
+      "uri": "http://web.archive.org/web/20041211090817/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050102083800",
+      "uri": "http://web.archive.org/web/20050102083800/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050105090831",
+      "uri": "http://web.archive.org/web/20050105090831/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050113061048",
+      "uri": "http://web.archive.org/web/20050113061048/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050203012254",
+      "uri": "http://web.archive.org/web/20050203012254/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050205175545",
+      "uri": "http://web.archive.org/web/20050205175545/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050208041041",
+      "uri": "http://web.archive.org/web/20050208041041/http://motley.com/"
+    },
+    {
+      "datetime": "20050211034751",
+      "uri": "http://web.archive.org/web/20050211034751/http://motley.com/"
+    },
+    {
+      "datetime": "20050212012739",
+      "uri": "http://web.archive.org/web/20050212012739/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050214132424",
+      "uri": "http://web.archive.org/web/20050214132424/http://motley.com/"
+    },
+    {
+      "datetime": "20050330084512",
+      "uri": "http://web.archive.org/web/20050330084512/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050401060007",
+      "uri": "http://web.archive.org/web/20050401060007/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050407043400",
+      "uri": "http://web.archive.org/web/20050407043400/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050409041432",
+      "uri": "http://web.archive.org/web/20050409041432/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050410051701",
+      "uri": "http://web.archive.org/web/20050410051701/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050410082631",
+      "uri": "http://web.archive.org/web/20050410082631/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050411013531",
+      "uri": "http://web.archive.org/web/20050411013531/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050414075050",
+      "uri": "http://web.archive.org/web/20050414075050/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050415002253",
+      "uri": "http://web.archive.org/web/20050415002253/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050419001247",
+      "uri": "http://web.archive.org/web/20050419001247/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050419074701",
+      "uri": "http://web.archive.org/web/20050419074701/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050422012543",
+      "uri": "http://web.archive.org/web/20050422012543/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050422082628",
+      "uri": "http://web.archive.org/web/20050422082628/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050428004828",
+      "uri": "http://web.archive.org/web/20050428004828/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050428234852",
+      "uri": "http://web.archive.org/web/20050428234852/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050508233336",
+      "uri": "http://web.archive.org/web/20050508233336/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050512082953",
+      "uri": "http://web.archive.org/web/20050512082953/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050515001936",
+      "uri": "http://web.archive.org/web/20050515001936/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050518001532",
+      "uri": "http://web.archive.org/web/20050518001532/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050519010309",
+      "uri": "http://web.archive.org/web/20050519010309/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050522014733",
+      "uri": "http://web.archive.org/web/20050522014733/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050529025154",
+      "uri": "http://web.archive.org/web/20050529025154/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050530015122",
+      "uri": "http://web.archive.org/web/20050530015122/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050531232647",
+      "uri": "http://web.archive.org/web/20050531232647/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050606005235",
+      "uri": "http://web.archive.org/web/20050606005235/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050608235922",
+      "uri": "http://web.archive.org/web/20050608235922/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050609235601",
+      "uri": "http://web.archive.org/web/20050609235601/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050616005908",
+      "uri": "http://web.archive.org/web/20050616005908/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050620232738",
+      "uri": "http://web.archive.org/web/20050620232738/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050626232930",
+      "uri": "http://web.archive.org/web/20050626232930/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050628232316",
+      "uri": "http://web.archive.org/web/20050628232316/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050702010855",
+      "uri": "http://web.archive.org/web/20050702010855/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050706042432",
+      "uri": "http://web.archive.org/web/20050706042432/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050707012548",
+      "uri": "http://web.archive.org/web/20050707012548/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050717013951",
+      "uri": "http://web.archive.org/web/20050717013951/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050719001742",
+      "uri": "http://web.archive.org/web/20050719001742/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050720195122",
+      "uri": "http://web.archive.org/web/20050720195122/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050720235401",
+      "uri": "http://web.archive.org/web/20050720235401/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050722023954",
+      "uri": "http://web.archive.org/web/20050722023954/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050723000328",
+      "uri": "http://web.archive.org/web/20050723000328/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050724021123",
+      "uri": "http://web.archive.org/web/20050724021123/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050725000702",
+      "uri": "http://web.archive.org/web/20050725000702/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050727221358",
+      "uri": "http://web.archive.org/web/20050727221358/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050731023525",
+      "uri": "http://web.archive.org/web/20050731023525/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050803030434",
+      "uri": "http://web.archive.org/web/20050803030434/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050805031212",
+      "uri": "http://web.archive.org/web/20050805031212/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050811084220",
+      "uri": "http://web.archive.org/web/20050811084220/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050813012853",
+      "uri": "http://web.archive.org/web/20050813012853/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050814023954",
+      "uri": "http://web.archive.org/web/20050814023954/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050814080017",
+      "uri": "http://web.archive.org/web/20050814080017/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050825132802",
+      "uri": "http://web.archive.org/web/20050825132802/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050825160508",
+      "uri": "http://web.archive.org/web/20050825160508/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050825230114",
+      "uri": "http://web.archive.org/web/20050825230114/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050826041841",
+      "uri": "http://web.archive.org/web/20050826041841/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050826181702",
+      "uri": "http://web.archive.org/web/20050826181702/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050827192613",
+      "uri": "http://web.archive.org/web/20050827192613/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050828062237",
+      "uri": "http://web.archive.org/web/20050828062237/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050829184507",
+      "uri": "http://web.archive.org/web/20050829184507/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050829223220",
+      "uri": "http://web.archive.org/web/20050829223220/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050829225356",
+      "uri": "http://web.archive.org/web/20050829225356/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050830005156",
+      "uri": "http://web.archive.org/web/20050830005156/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050831115535",
+      "uri": "http://web.archive.org/web/20050831115535/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050901055330",
+      "uri": "http://web.archive.org/web/20050901055330/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050902102435",
+      "uri": "http://web.archive.org/web/20050902102435/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050906081202",
+      "uri": "http://web.archive.org/web/20050906081202/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050907030246",
+      "uri": "http://web.archive.org/web/20050907030246/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050907211539",
+      "uri": "http://web.archive.org/web/20050907211539/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050907212341",
+      "uri": "http://web.archive.org/web/20050907212341/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050908012007",
+      "uri": "http://web.archive.org/web/20050908012007/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050909110557",
+      "uri": "http://web.archive.org/web/20050909110557/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050910235351",
+      "uri": "http://web.archive.org/web/20050910235351/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050913130508",
+      "uri": "http://web.archive.org/web/20050913130508/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050913164400",
+      "uri": "http://web.archive.org/web/20050913164400/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050916175721",
+      "uri": "http://web.archive.org/web/20050916175721/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050916230320",
+      "uri": "http://web.archive.org/web/20050916230320/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050918210221",
+      "uri": "http://web.archive.org/web/20050918210221/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050920100438",
+      "uri": "http://web.archive.org/web/20050920100438/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050920111850",
+      "uri": "http://web.archive.org/web/20050920111850/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050921062817",
+      "uri": "http://web.archive.org/web/20050921062817/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050922082936",
+      "uri": "http://web.archive.org/web/20050922082936/http://www.motley.com/"
+    },
+    {
+      "datetime": "20050930185022",
+      "uri": "http://web.archive.org/web/20050930185022/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051001122308",
+      "uri": "http://web.archive.org/web/20051001122308/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051003225920",
+      "uri": "http://web.archive.org/web/20051003225920/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051013073456",
+      "uri": "http://web.archive.org/web/20051013073456/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051013091309",
+      "uri": "http://web.archive.org/web/20051013091309/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051016023913",
+      "uri": "http://web.archive.org/web/20051016023913/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051018032529",
+      "uri": "http://web.archive.org/web/20051018032529/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051023014031",
+      "uri": "http://web.archive.org/web/20051023014031/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051025073637",
+      "uri": "http://web.archive.org/web/20051025073637/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051025080910",
+      "uri": "http://web.archive.org/web/20051025080910/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051026103638",
+      "uri": "http://web.archive.org/web/20051026103638/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051027031938",
+      "uri": "http://web.archive.org/web/20051027031938/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051028050742",
+      "uri": "http://web.archive.org/web/20051028050742/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051029175317",
+      "uri": "http://web.archive.org/web/20051029175317/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051101093841",
+      "uri": "http://web.archive.org/web/20051101093841/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051103060600",
+      "uri": "http://web.archive.org/web/20051103060600/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051104014625",
+      "uri": "http://web.archive.org/web/20051104014625/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051105020000",
+      "uri": "http://web.archive.org/web/20051105020000/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051107230324",
+      "uri": "http://web.archive.org/web/20051107230324/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051108005743",
+      "uri": "http://web.archive.org/web/20051108005743/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051124120639",
+      "uri": "http://web.archive.org/web/20051124120639/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051124151217",
+      "uri": "http://web.archive.org/web/20051124151217/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051124194242",
+      "uri": "http://web.archive.org/web/20051124194242/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051124230127",
+      "uri": "http://web.archive.org/web/20051124230127/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051124231635",
+      "uri": "http://web.archive.org/web/20051124231635/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051125054010",
+      "uri": "http://web.archive.org/web/20051125054010/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051125140454",
+      "uri": "http://web.archive.org/web/20051125140454/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051125170146",
+      "uri": "http://web.archive.org/web/20051125170146/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051125210615",
+      "uri": "http://web.archive.org/web/20051125210615/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051126054844",
+      "uri": "http://web.archive.org/web/20051126054844/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051126173728",
+      "uri": "http://web.archive.org/web/20051126173728/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051126195514",
+      "uri": "http://web.archive.org/web/20051126195514/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051127040039",
+      "uri": "http://web.archive.org/web/20051127040039/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051127092518",
+      "uri": "http://web.archive.org/web/20051127092518/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051128025819",
+      "uri": "http://web.archive.org/web/20051128025819/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051129031944",
+      "uri": "http://web.archive.org/web/20051129031944/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051201044713",
+      "uri": "http://web.archive.org/web/20051201044713/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051203060742",
+      "uri": "http://web.archive.org/web/20051203060742/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051204042649",
+      "uri": "http://web.archive.org/web/20051204042649/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051205035055",
+      "uri": "http://web.archive.org/web/20051205035055/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051208054856",
+      "uri": "http://web.archive.org/web/20051208054856/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051210020219",
+      "uri": "http://web.archive.org/web/20051210020219/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051212064826",
+      "uri": "http://web.archive.org/web/20051212064826/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051214072539",
+      "uri": "http://web.archive.org/web/20051214072539/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051215063706",
+      "uri": "http://web.archive.org/web/20051215063706/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051217134918",
+      "uri": "http://web.archive.org/web/20051217134918/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051218092517",
+      "uri": "http://web.archive.org/web/20051218092517/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051219154357",
+      "uri": "http://web.archive.org/web/20051219154357/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051220073741",
+      "uri": "http://web.archive.org/web/20051220073741/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051220092601",
+      "uri": "http://web.archive.org/web/20051220092601/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051221052509",
+      "uri": "http://web.archive.org/web/20051221052509/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051224002008",
+      "uri": "http://web.archive.org/web/20051224002008/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051224144418",
+      "uri": "http://web.archive.org/web/20051224144418/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051226104122",
+      "uri": "http://web.archive.org/web/20051226104122/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051228044028",
+      "uri": "http://web.archive.org/web/20051228044028/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051230041056",
+      "uri": "http://web.archive.org/web/20051230041056/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051231021307",
+      "uri": "http://web.archive.org/web/20051231021307/http://www.motley.com/"
+    },
+    {
+      "datetime": "20051231141842",
+      "uri": "http://web.archive.org/web/20051231141842/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060101050937",
+      "uri": "http://web.archive.org/web/20060101050937/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060101104819",
+      "uri": "http://web.archive.org/web/20060101104819/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060103044620",
+      "uri": "http://web.archive.org/web/20060103044620/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060106082730",
+      "uri": "http://web.archive.org/web/20060106082730/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060110075644",
+      "uri": "http://web.archive.org/web/20060110075644/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060110183930",
+      "uri": "http://web.archive.org/web/20060110183930/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060111072139",
+      "uri": "http://web.archive.org/web/20060111072139/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060111154721",
+      "uri": "http://web.archive.org/web/20060111154721/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060112012807",
+      "uri": "http://web.archive.org/web/20060112012807/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060112043328",
+      "uri": "http://web.archive.org/web/20060112043328/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060112162734",
+      "uri": "http://web.archive.org/web/20060112162734/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060115125231",
+      "uri": "http://web.archive.org/web/20060115125231/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060117080401",
+      "uri": "http://web.archive.org/web/20060117080401/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060118035622",
+      "uri": "http://web.archive.org/web/20060118035622/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060118225450",
+      "uri": "http://web.archive.org/web/20060118225450/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060126205207",
+      "uri": "http://web.archive.org/web/20060126205207/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060127222323",
+      "uri": "http://web.archive.org/web/20060127222323/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060202003232",
+      "uri": "http://web.archive.org/web/20060202003232/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060205100204",
+      "uri": "http://web.archive.org/web/20060205100204/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060205133729",
+      "uri": "http://web.archive.org/web/20060205133729/http://motley.com/"
+    },
+    {
+      "datetime": "20060206034618",
+      "uri": "http://web.archive.org/web/20060206034618/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060207092811",
+      "uri": "http://web.archive.org/web/20060207092811/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060208021155",
+      "uri": "http://web.archive.org/web/20060208021155/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060208094444",
+      "uri": "http://web.archive.org/web/20060208094444/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060211023415",
+      "uri": "http://web.archive.org/web/20060211023415/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060403002550",
+      "uri": "http://web.archive.org/web/20060403002550/http://motley.com/"
+    },
+    {
+      "datetime": "20060407092849",
+      "uri": "http://web.archive.org/web/20060407092849/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060407092909",
+      "uri": "http://web.archive.org/web/20060407092909/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060407092914",
+      "uri": "http://web.archive.org/web/20060407092914/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060407092948",
+      "uri": "http://web.archive.org/web/20060407092948/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060408171222",
+      "uri": "http://web.archive.org/web/20060408171222/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060409010733",
+      "uri": "http://web.archive.org/web/20060409010733/http://motley.com/"
+    },
+    {
+      "datetime": "20060409160111",
+      "uri": "http://web.archive.org/web/20060409160111/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060410174117",
+      "uri": "http://web.archive.org/web/20060410174117/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060412183457",
+      "uri": "http://web.archive.org/web/20060412183457/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060414083430",
+      "uri": "http://web.archive.org/web/20060414083430/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060423202526",
+      "uri": "http://web.archive.org/web/20060423202526/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060423202551",
+      "uri": "http://web.archive.org/web/20060423202551/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060424082337",
+      "uri": "http://web.archive.org/web/20060424082337/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060425054654",
+      "uri": "http://web.archive.org/web/20060425054654/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060427182451",
+      "uri": "http://web.archive.org/web/20060427182451/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060427191731",
+      "uri": "http://web.archive.org/web/20060427191731/http://www.motley.com/?"
+    },
+    {
+      "datetime": "20060428084843",
+      "uri": "http://web.archive.org/web/20060428084843/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060513030553",
+      "uri": "http://web.archive.org/web/20060513030553/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060519025800",
+      "uri": "http://web.archive.org/web/20060519025800/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060612051345",
+      "uri": "http://web.archive.org/web/20060612051345/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060612195222",
+      "uri": "http://web.archive.org/web/20060612195222/http://motley.com/"
+    },
+    {
+      "datetime": "20060613034955",
+      "uri": "http://web.archive.org/web/20060613034955/http://motley.com/"
+    },
+    {
+      "datetime": "20060615024815",
+      "uri": "http://web.archive.org/web/20060615024815/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060615205822",
+      "uri": "http://web.archive.org/web/20060615205822/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060705090226",
+      "uri": "http://web.archive.org/web/20060705090226/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060706053520",
+      "uri": "http://web.archive.org/web/20060706053520/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060818231450",
+      "uri": "http://web.archive.org/web/20060818231450/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060818231514",
+      "uri": "http://web.archive.org/web/20060818231514/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060827204213",
+      "uri": "http://web.archive.org/web/20060827204213/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060827204322",
+      "uri": "http://web.archive.org/web/20060827204322/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060827204431",
+      "uri": "http://web.archive.org/web/20060827204431/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060827212544",
+      "uri": "http://web.archive.org/web/20060827212544/http://www.motley.com/"
+    },
+    {
+      "datetime": "20060828010018",
+      "uri": "http://web.archive.org/web/20060828010018/http://www.motley.com/"
+    },
+    {
+      "datetime": "20061117150008",
+      "uri": "http://web.archive.org/web/20061117150008/http://www.motley.com/"
+    },
+    {
+      "datetime": "20061118022313",
+      "uri": "http://web.archive.org/web/20061118022313/http://www.motley.com/"
+    },
+    {
+      "datetime": "20061127215137",
+      "uri": "http://web.archive.org/web/20061127215137/http://motley.com/"
+    },
+    {
+      "datetime": "20070105054352",
+      "uri": "http://web.archive.org/web/20070105054352/http://www.motley.com/"
+    },
+    {
+      "datetime": "20070119165427",
+      "uri": "http://web.archive.org/web/20070119165427/http://www.motley.com/"
+    },
+    {
+      "datetime": "20070124195755",
+      "uri": "http://web.archive.org/web/20070124195755/http://www.motley.com/"
+    },
+    {
+      "datetime": "20070202025306",
+      "uri": "http://web.archive.org/web/20070202025306/http://www.motley.com/"
+    },
+    {
+      "datetime": "20070209234702",
+      "uri": "http://web.archive.org/web/20070209234702/http://www.motley.com/"
+    },
+    {
+      "datetime": "20070306022032",
+      "uri": "http://web.archive.org/web/20070306022032/http://www.motley.com/"
+    },
+    {
+      "datetime": "20070405201316",
+      "uri": "http://web.archive.org/web/20070405201316/http://www.motley.com/"
+    },
+    {
+      "datetime": "20070502072642",
+      "uri": "http://web.archive.org/web/20070502072642/http://www.motley.com/"
+    },
+    {
+      "datetime": "20070502201951",
+      "uri": "http://web.archive.org/web/20070502201951/http://www2.motley.com/"
+    },
+    {
+      "datetime": "20070505092139",
+      "uri": "http://web.archive.org/web/20070505092139/http://www2.motley.com/"
+    },
+    {
+      "datetime": "20070506084518",
+      "uri": "http://web.archive.org/web/20070506084518/http://www2.motley.com/"
+    },
+    {
+      "datetime": "20070526134432",
+      "uri": "http://web.archive.org/web/20070526134432/http://www.motley.com/"
+    },
+    {
+      "datetime": "20070605221856",
+      "uri": "http://web.archive.org/web/20070605221856/http://www2.motley.com/"
+    },
+    {
+      "datetime": "20070609130850",
+      "uri": "http://web.archive.org/web/20070609130850/http://www2.motley.com/"
+    },
+    {
+      "datetime": "20070613051946",
+      "uri": "http://web.archive.org/web/20070613051946/http://www.motley.com/"
+    },
+    {
+      "datetime": "20070928083737",
+      "uri": "http://web.archive.org/web/20070928083737/http://www2.motley.com/"
+    },
+    {
+      "datetime": "20070928083758",
+      "uri": "http://web.archive.org/web/20070928083758/http://www.motley.com/"
+    },
+    {
+      "datetime": "20070928083847",
+      "uri": "http://web.archive.org/web/20070928083847/http://www.motley.com//"
+    },
+    {
+      "datetime": "20071016030723",
+      "uri": "http://web.archive.org/web/20071016030723/http://www2.motley.com/"
+    },
+    {
+      "datetime": "20071017055558",
+      "uri": "http://web.archive.org/web/20071017055558/http://www.motley.com/"
+    },
+    {
+      "datetime": "20080415233213",
+      "uri": "http://web.archive.org/web/20080415233213/http://motley.com"
+    },
+    {
+      "datetime": "20080415233213",
+      "uri": "http://web.archive.org/web/20080415233213/http://motley.com"
+    },
+    {
+      "datetime": "20080415233214",
+      "uri": "http://web.archive.org/web/20080415233214/http://motley.com"
+    },
+    {
+      "datetime": "20080509071937",
+      "uri": "http://web.archive.org/web/20080509071937/http://www.motley.com/"
+    },
+    {
+      "datetime": "20080514035918",
+      "uri": "http://web.archive.org/web/20080514035918/http://motley.com/"
+    },
+    {
+      "datetime": "20090122181539",
+      "uri": "http://web.archive.org/web/20090122181539/http://www.motley.com/"
+    },
+    {
+      "datetime": "20090828100801",
+      "uri": "http://web.archive.org/web/20090828100801/http://www.motley.com/"
+    },
+    {
+      "datetime": "20100102155540",
+      "uri": "http://web.archive.org/web/20100102155540/http://motley.com/"
+    },
+    {
+      "datetime": "20100107193343",
+      "uri": "http://web.archive.org/web/20100107193343/http://www.motley.com/"
+    },
+    {
+      "datetime": "20101008204458",
+      "uri": "http://web.archive.org/web/20101008204458/http://motley.com/"
+    },
+    {
+      "datetime": "20101127015232",
+      "uri": "http://web.archive.org/web/20101127015232/http://motley.com/"
+    },
+    {
+      "datetime": "20101203153756",
+      "uri": "http://web.archive.org/web/20101203153756/http://www.motley.com/"
+    },
+    {
+      "datetime": "20101218073951",
+      "uri": "http://web.archive.org/web/20101218073951/http://motley.com/"
+    },
+    {
+      "datetime": "20110202201941",
+      "uri": "http://web.archive.org/web/20110202201941/http://motley.com/"
+    },
+    {
+      "datetime": "20110217065756",
+      "uri": "http://web.archive.org/web/20110217065756/http://www.motley.com/"
+    },
+    {
+      "datetime": "20110225150426",
+      "uri": "http://web.archive.org/web/20110225150426/http://motley.com/"
+    },
+    {
+      "datetime": "20110310072544",
+      "uri": "http://web.archive.org/web/20110310072544/http://www.motley.com/"
+    },
+    {
+      "datetime": "20110430083249",
+      "uri": "http://web.archive.org/web/20110430083249/http://motley.com/"
+    },
+    {
+      "datetime": "20110430222333",
+      "uri": "http://web.archive.org/web/20110430222333/http://www.motley.com/"
+    },
+    {
+      "datetime": "20110507210614",
+      "uri": "http://web.archive.org/web/20110507210614/http://www.motley.com/"
+    },
+    {
+      "datetime": "20110519194837",
+      "uri": "http://web.archive.org/web/20110519194837/http://www.motley.com/"
+    },
+    {
+      "datetime": "20110714120644",
+      "uri": "http://web.archive.org/web/20110714120644/http://motley.com/"
+    },
+    {
+      "datetime": "20110714120938",
+      "uri": "http://web.archive.org/web/20110714120938/http://www.motley.com/"
+    },
+    {
+      "datetime": "20110714121059",
+      "uri": "http://web.archive.org/web/20110714121059/http://www.motley.com/"
+    },
+    {
+      "datetime": "20110718163309",
+      "uri": "http://web.archive.org/web/20110718163309/http://www.motley.com/"
+    },
+    {
+      "datetime": "20110718163640",
+      "uri": "http://web.archive.org/web/20110718163640/http://www.motley.com/"
+    },
+    {
+      "datetime": "20110722034020",
+      "uri": "http://web.archive.org/web/20110722034020/http://motley.com/"
+    },
+    {
+      "datetime": "20110722080105",
+      "uri": "http://web.archive.org/web/20110722080105/http://motley.com/"
+    },
+    {
+      "datetime": "20110807222837",
+      "uri": "http://web.archive.org/web/20110807222837/http://www.motley.com/"
+    },
+    {
+      "datetime": "20110809162439",
+      "uri": "http://web.archive.org/web/20110809162439/http://www.motley.com/"
+    },
+    {
+      "datetime": "20110809232715",
+      "uri": "http://web.archive.org/web/20110809232715/http://www.motley.com/"
+    },
+    {
+      "datetime": "20110810043045",
+      "uri": "http://web.archive.org/web/20110810043045/http://www.motley.com/"
+    },
+    {
+      "datetime": "20110810063240",
+      "uri": "http://web.archive.org/web/20110810063240/http://www.motley.com/"
+    },
+    {
+      "datetime": "20110813091209",
+      "uri": "http://web.archive.org/web/20110813091209/http://www.motley.com/"
+    },
+    {
+      "datetime": "20110813114136",
+      "uri": "http://web.archive.org/web/20110813114136/http://www.motley.com/"
+    },
+    {
+      "datetime": "20110929022316",
+      "uri": "http://web.archive.org/web/20110929022316/http://www.motley.com/"
+    },
+    {
+      "datetime": "20110930044639",
+      "uri": "http://web.archive.org/web/20110930044639/http://motley.com/"
+    },
+    {
+      "datetime": "20111007052158",
+      "uri": "http://web.archive.org/web/20111007052158/http://motley.com/"
+    },
+    {
+      "datetime": "20111008054336",
+      "uri": "http://web.archive.org/web/20111008054336/http://www.motley.com/"
+    },
+    {
+      "datetime": "20111027235333",
+      "uri": "http://web.archive.org/web/20111027235333/http://motley.com/"
+    },
+    {
+      "datetime": "20111108015059",
+      "uri": "http://web.archive.org/web/20111108015059/http://www.motley.com/"
+    },
+    {
+      "datetime": "20111226195125",
+      "uri": "http://web.archive.org/web/20111226195125/http://www2.motley.com/"
+    },
+    {
+      "datetime": "20120103092548",
+      "uri": "http://web.archive.org/web/20120103092548/http://motley.com/"
+    },
+    {
+      "datetime": "20120113085402",
+      "uri": "http://web.archive.org/web/20120113085402/http://motley.com/"
+    },
+    {
+      "datetime": "20120204221333",
+      "uri": "http://web.archive.org/web/20120204221333/http://www.motley.com/"
+    },
+    {
+      "datetime": "20120208115249",
+      "uri": "http://web.archive.org/web/20120208115249/http://www.motley.com/"
+    },
+    {
+      "datetime": "20120220071823",
+      "uri": "http://web.archive.org/web/20120220071823/http://motley.com/"
+    },
+    {
+      "datetime": "20120309184711",
+      "uri": "http://web.archive.org/web/20120309184711/http://www2.motley.com/"
+    },
+    {
+      "datetime": "20120403233920",
+      "uri": "http://web.archive.org/web/20120403233920/http://www.motley.com/"
+    },
+    {
+      "datetime": "20120501181500",
+      "uri": "http://web.archive.org/web/20120501181500/http://www.motley.com/"
+    },
+    {
+      "datetime": "20120508023556",
+      "uri": "http://web.archive.org/web/20120508023556/http://www.motley.com/"
+    },
+    {
+      "datetime": "20120512150432",
+      "uri": "http://web.archive.org/web/20120512150432/http://motley.com/"
+    },
+    {
+      "datetime": "20120714163902",
+      "uri": "http://web.archive.org/web/20120714163902/http://motley.com/"
+    },
+    {
+      "datetime": "20120729201504",
+      "uri": "http://web.archive.org/web/20120729201504/http://www2.motley.com/"
+    },
+    {
+      "datetime": "20120808101218",
+      "uri": "http://web.archive.org/web/20120808101218/http://www.motley.com/"
+    },
+    {
+      "datetime": "20120828011554",
+      "uri": "http://web.archive.org/web/20120828011554/http://www.motley.com/"
+    },
+    {
+      "datetime": "20120829230622",
+      "uri": "http://web.archive.org/web/20120829230622/http://www.motley.com/"
+    },
+    {
+      "datetime": "20120919063234",
+      "uri": "http://web.archive.org/web/20120919063234/http://motley.com/"
+    },
+    {
+      "datetime": "20121003024210",
+      "uri": "http://web.archive.org/web/20121003024210/http://www.motley.com/"
+    },
+    {
+      "datetime": "20121004094207",
+      "uri": "http://web.archive.org/web/20121004094207/http://www2.motley.com/"
+    },
+    {
+      "datetime": "20121013230020",
+      "uri": "http://web.archive.org/web/20121013230020/http://motley.com/"
+    },
+    {
+      "datetime": "20121015082345",
+      "uri": "http://web.archive.org/web/20121015082345/http://motley.com/"
+    },
+    {
+      "datetime": "20121016213556",
+      "uri": "http://web.archive.org/web/20121016213556/http://motley.com/"
+    },
+    {
+      "datetime": "20121108022454",
+      "uri": "http://web.archive.org/web/20121108022454/http://www.motley.com/"
+    },
+    {
+      "datetime": "20121207024419",
+      "uri": "http://web.archive.org/web/20121207024419/http://motley.com/"
+    },
+    {
+      "datetime": "20130112202624",
+      "uri": "http://web.archive.org/web/20130112202624/http://motley.com/"
+    },
+    {
+      "datetime": "20130112212652",
+      "uri": "http://web.archive.org/web/20130112212652/http://www.motley.com/"
+    },
+    {
+      "datetime": "20130114215733",
+      "uri": "http://web.archive.org/web/20130114215733/http://motley.com/"
+    },
+    {
+      "datetime": "20130114221747",
+      "uri": "http://web.archive.org/web/20130114221747/http://www.motley.com/"
+    },
+    {
+      "datetime": "20130208133632",
+      "uri": "http://web.archive.org/web/20130208133632/http://www.motley.com/"
+    },
+    {
+      "datetime": "20130215231648",
+      "uri": "http://web.archive.org/web/20130215231648/http://motley.com/"
+    },
+    {
+      "datetime": "20130226123533",
+      "uri": "http://web.archive.org/web/20130226123533/http://www2.motley.com/"
+    },
+    {
+      "datetime": "20130302034916",
+      "uri": "http://web.archive.org/web/20130302034916/http://motley.com/"
+    },
+    {
+      "datetime": "20130328112446",
+      "uri": "http://web.archive.org/web/20130328112446/http://www.motley.com/"
+    },
+    {
+      "datetime": "20130328112452",
+      "uri": "http://web.archive.org/web/20130328112452/http://www.motley.com/"
+    },
+    {
+      "datetime": "20130328163035",
+      "uri": "http://web.archive.org/web/20130328163035/http://motley.com/"
+    },
+    {
+      "datetime": "20130401073525",
+      "uri": "http://web.archive.org/web/20130401073525/http://www.motley.com/"
+    },
+    {
+      "datetime": "20130401073532",
+      "uri": "http://web.archive.org/web/20130401073532/http://www.motley.com/"
+    },
+    {
+      "datetime": "20130401103659",
+      "uri": "http://web.archive.org/web/20130401103659/http://motley.com/"
+    },
+    {
+      "datetime": "20130402060110",
+      "uri": "http://web.archive.org/web/20130402060110/http://motley.com/"
+    },
+    {
+      "datetime": "20130420160517",
+      "uri": "http://web.archive.org/web/20130420160517/http://motley.com/"
+    },
+    {
+      "datetime": "20130423074735",
+      "uri": "http://web.archive.org/web/20130423074735/http://motley.com/"
+    },
+    {
+      "datetime": "20130424044249",
+      "uri": "http://web.archive.org/web/20130424044249/http://www.motley.com/"
+    },
+    {
+      "datetime": "20130430070111",
+      "uri": "http://web.archive.org/web/20130430070111/http://motley.com/"
+    },
+    {
+      "datetime": "20130510051643",
+      "uri": "http://web.archive.org/web/20130510051643/http://www.motley.com/"
+    },
+    {
+      "datetime": "20130513104419",
+      "uri": "http://web.archive.org/web/20130513104419/http://www2.motley.com/"
+    },
+    {
+      "datetime": "20130529190507",
+      "uri": "http://web.archive.org/web/20130529190507/http://www.motley.com/"
+    },
+    {
+      "datetime": "20130609110039",
+      "uri": "http://web.archive.org/web/20130609110039/http://motley.com/"
+    },
+    {
+      "datetime": "20130614050945",
+      "uri": "http://web.archive.org/web/20130614050945/http://motley.com/"
+    },
+    {
+      "datetime": "20130717024623",
+      "uri": "http://web.archive.org/web/20130717024623/http://www.motley.com/"
+    },
+    {
+      "datetime": "20130723051717",
+      "uri": "http://web.archive.org/web/20130723051717/http://www.motley.com/"
+    },
+    {
+      "datetime": "20130805064810",
+      "uri": "http://web.archive.org/web/20130805064810/http://motley.com/"
+    },
+    {
+      "datetime": "20130805201545",
+      "uri": "http://web.archive.org/web/20130805201545/http://www.motley.com/"
+    },
+    {
+      "datetime": "20130810054457",
+      "uri": "http://web.archive.org/web/20130810054457/http://www.motley.com/"
+    },
+    {
+      "datetime": "20130829224923",
+      "uri": "http://web.archive.org/web/20130829224923/http://www2.motley.com/"
+    },
+    {
+      "datetime": "20130921092904",
+      "uri": "http://web.archive.org/web/20130921092904/http://www2.motley.com/"
+    },
+    {
+      "datetime": "20130921183947",
+      "uri": "http://web.archive.org/web/20130921183947/http://www.motley.com/"
+    },
+    {
+      "datetime": "20131031123122",
+      "uri": "http://web.archive.org/web/20131031123122/http://www2.motley.com/"
+    },
+    {
+      "datetime": "20131110155004",
+      "uri": "http://web.archive.org/web/20131110155004/http://www.motley.com/"
+    },
+    {
+      "datetime": "20131213062925",
+      "uri": "http://web.archive.org/web/20131213062925/http://www2.motley.com/"
+    },
+    {
+      "datetime": "20131231045200",
+      "uri": "http://web.archive.org/web/20131231045200/http://motley.com/"
+    },
+    {
+      "datetime": "20140108040315",
+      "uri": "http://web.archive.org/web/20140108040315/http://www.motley.com/"
+    },
+    {
+      "datetime": "20140208013659",
+      "uri": "http://web.archive.org/web/20140208013659/http://motley.com/"
+    },
+    {
+      "datetime": "20140208024658",
+      "uri": "http://web.archive.org/web/20140208024658/http://www.motley.com/"
+    },
+    {
+      "datetime": "20140208030718",
+      "uri": "http://web.archive.org/web/20140208030718/http://www.motley.com/"
+    },
+    {
+      "datetime": "20140210070318",
+      "uri": "http://web.archive.org/web/20140210070318/http://www.motley.com/"
+    },
+    {
+      "datetime": "20140410121737",
+      "uri": "http://web.archive.org/web/20140410121737/http://motley.com/"
+    },
+    {
+      "datetime": "20140419235742",
+      "uri": "http://web.archive.org/web/20140419235742/http://www.motley.com/"
+    },
+    {
+      "datetime": "20140510132451",
+      "uri": "http://web.archive.org/web/20140510132451/http://www.motley.com/"
+    },
+    {
+      "datetime": "20140516210304",
+      "uri": "http://web.archive.org/web/20140516210304/http://www.motley.com/"
+    },
+    {
+      "datetime": "20140517163153",
+      "uri": "http://web.archive.org/web/20140517163153/http://motley.com/"
+    },
+    {
+      "datetime": "20140528073409",
+      "uri": "http://web.archive.org/web/20140528073409/http://www.motley.com/"
+    },
+    {
+      "datetime": "20140625035858",
+      "uri": "http://web.archive.org/web/20140625035858/http://motley.com/"
+    },
+    {
+      "datetime": "20140625051429",
+      "uri": "http://web.archive.org/web/20140625051429/http://www.motley.com/"
+    },
+    {
+      "datetime": "20140706153038",
+      "uri": "http://web.archive.org/web/20140706153038/http://motley.com/"
+    },
+    {
+      "datetime": "20140716115400",
+      "uri": "http://web.archive.org/web/20140716115400/http://motley.com/"
+    },
+    {
+      "datetime": "20140801001650",
+      "uri": "http://web.archive.org/web/20140801001650/http://www.motley.com/"
+    },
+    {
+      "datetime": "20140819111919",
+      "uri": "http://web.archive.org/web/20140819111919/http://www.motley.com/"
+    },
+    {
+      "datetime": "20140908012919",
+      "uri": "http://web.archive.org/web/20140908012919/http://www.motley.com/"
+    },
+    {
+      "datetime": "20141012154217",
+      "uri": "http://web.archive.org/web/20141012154217/http://www.motley.com/"
+    },
+    {
+      "datetime": "20141102133441",
+      "uri": "http://web.archive.org/web/20141102133441/http://www.motley.com/"
+    },
+    {
+      "datetime": "20141109023213",
+      "uri": "http://web.archive.org/web/20141109023213/http://motley.com/"
+    },
+    {
+      "datetime": "20141113030139",
+      "uri": "http://web.archive.org/web/20141113030139/http://www.motley.com/"
+    },
+    {
+      "datetime": "20141116000154",
+      "uri": "http://web.archive.org/web/20141116000154/http://www.motley.com/"
+    },
+    {
+      "datetime": "20141218015718",
+      "uri": "http://web.archive.org/web/20141218015718/http://motley.com/"
+    },
+    {
+      "datetime": "20141219080100",
+      "uri": "http://web.archive.org/web/20141219080100/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150121053513",
+      "uri": "http://web.archive.org/web/20150121053513/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150122063501",
+      "uri": "http://web.archive.org/web/20150122063501/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150124131240",
+      "uri": "http://web.archive.org/web/20150124131240/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150130045419",
+      "uri": "http://web.archive.org/web/20150130045419/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150130211650",
+      "uri": "http://web.archive.org/web/20150130211650/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150209063611",
+      "uri": "http://web.archive.org/web/20150209063611/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150309210042",
+      "uri": "http://web.archive.org/web/20150309210042/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150314220723",
+      "uri": "http://web.archive.org/web/20150314220723/http://motley.com/"
+    },
+    {
+      "datetime": "20150314233739",
+      "uri": "http://web.archive.org/web/20150314233739/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150317154451",
+      "uri": "http://web.archive.org/web/20150317154451/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150324025945",
+      "uri": "http://web.archive.org/web/20150324025945/http://motley.com/"
+    },
+    {
+      "datetime": "20150424084104",
+      "uri": "http://web.archive.org/web/20150424084104/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150425172012",
+      "uri": "http://web.archive.org/web/20150425172012/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150512175133",
+      "uri": "http://web.archive.org/web/20150512175133/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150628210230",
+      "uri": "http://web.archive.org/web/20150628210230/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150702012939",
+      "uri": "http://web.archive.org/web/20150702012939/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150704024349",
+      "uri": "http://web.archive.org/web/20150704024349/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150730233533",
+      "uri": "http://web.archive.org/web/20150730233533/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150801192802",
+      "uri": "http://web.archive.org/web/20150801192802/http://motley.com/"
+    },
+    {
+      "datetime": "20150818140540",
+      "uri": "http://web.archive.org/web/20150818140540/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150905052304",
+      "uri": "http://web.archive.org/web/20150905052304/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150908213520",
+      "uri": "http://web.archive.org/web/20150908213520/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150910152850",
+      "uri": "http://web.archive.org/web/20150910152850/http://www.motley.com/"
+    },
+    {
+      "datetime": "20150915055528",
+      "uri": "http://web.archive.org/web/20150915055528/http://motley.com/"
+    },
+    {
+      "datetime": "20151017080754",
+      "uri": "http://web.archive.org/web/20151017080754/http://www.motley.com"
+    },
+    {
+      "datetime": "20151023140534",
+      "uri": "http://web.archive.org/web/20151023140534/http://www.motley.com/"
+    },
+    {
+      "datetime": "20151103160218",
+      "uri": "http://web.archive.org/web/20151103160218/http://www.motley.com/"
+    },
+    {
+      "datetime": "20151107045803",
+      "uri": "http://web.archive.org/web/20151107045803/http://www.motley.com/"
+    },
+    {
+      "datetime": "20151226195357",
+      "uri": "http://web.archive.org/web/20151226195357/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160105040339",
+      "uri": "http://web.archive.org/web/20160105040339/http://www.motley.com"
+    },
+    {
+      "datetime": "20160109172537",
+      "uri": "http://web.archive.org/web/20160109172537/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160110184237",
+      "uri": "http://web.archive.org/web/20160110184237/http://motley.com/"
+    },
+    {
+      "datetime": "20160115053134",
+      "uri": "http://web.archive.org/web/20160115053134/http://motley.com/"
+    },
+    {
+      "datetime": "20160115222255",
+      "uri": "http://web.archive.org/web/20160115222255/http://motley.com/"
+    },
+    {
+      "datetime": "20160117074233",
+      "uri": "http://web.archive.org/web/20160117074233/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160121104804",
+      "uri": "http://web.archive.org/web/20160121104804/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160121145602",
+      "uri": "http://web.archive.org/web/20160121145602/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160122104537",
+      "uri": "http://web.archive.org/web/20160122104537/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160122190114",
+      "uri": "http://web.archive.org/web/20160122190114/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160124210523",
+      "uri": "http://web.archive.org/web/20160124210523/http://motley.com/"
+    },
+    {
+      "datetime": "20160208170915",
+      "uri": "http://web.archive.org/web/20160208170915/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160303171837",
+      "uri": "http://web.archive.org/web/20160303171837/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160303192645",
+      "uri": "http://web.archive.org/web/20160303192645/http://motley.com/"
+    },
+    {
+      "datetime": "20160304102409",
+      "uri": "http://web.archive.org/web/20160304102409/http://motley.com/"
+    },
+    {
+      "datetime": "20160305001051",
+      "uri": "http://web.archive.org/web/20160305001051/http://www.motley.com//"
+    },
+    {
+      "datetime": "20160307034546",
+      "uri": "http://web.archive.org/web/20160307034546/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160307223843",
+      "uri": "http://web.archive.org/web/20160307223843/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160308044414",
+      "uri": "http://web.archive.org/web/20160308044414/http://motley.com/"
+    },
+    {
+      "datetime": "20160309223705",
+      "uri": "http://web.archive.org/web/20160309223705/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160313162109",
+      "uri": "http://web.archive.org/web/20160313162109/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160318004816",
+      "uri": "http://web.archive.org/web/20160318004816/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160318144408",
+      "uri": "http://web.archive.org/web/20160318144408/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160322212226",
+      "uri": "http://web.archive.org/web/20160322212226/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160323051433",
+      "uri": "http://web.archive.org/web/20160323051433/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160401204817",
+      "uri": "http://web.archive.org/web/20160401204817/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160410020055",
+      "uri": "http://web.archive.org/web/20160410020055/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160410153931",
+      "uri": "http://web.archive.org/web/20160410153931/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160411184054",
+      "uri": "http://web.archive.org/web/20160411184054/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160416024527",
+      "uri": "http://web.archive.org/web/20160416024527/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160421114622",
+      "uri": "http://web.archive.org/web/20160421114622/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160422104408",
+      "uri": "http://web.archive.org/web/20160422104408/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160424132839",
+      "uri": "http://web.archive.org/web/20160424132839/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160424215707",
+      "uri": "http://web.archive.org/web/20160424215707/http://motley.com/"
+    },
+    {
+      "datetime": "20160506115925",
+      "uri": "http://web.archive.org/web/20160506115925/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160528232734",
+      "uri": "http://web.archive.org/web/20160528232734/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160624011623",
+      "uri": "http://web.archive.org/web/20160624011623/http://motley.com/"
+    },
+    {
+      "datetime": "20160714082222",
+      "uri": "http://web.archive.org/web/20160714082222/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160723195919",
+      "uri": "http://web.archive.org/web/20160723195919/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160727080204",
+      "uri": "http://web.archive.org/web/20160727080204/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160802053437",
+      "uri": "http://web.archive.org/web/20160802053437/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160806190730",
+      "uri": "http://web.archive.org/web/20160806190730/http://motley.com/"
+    },
+    {
+      "datetime": "20160806192420",
+      "uri": "http://web.archive.org/web/20160806192420/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160807052742",
+      "uri": "http://web.archive.org/web/20160807052742/http://motley.com/"
+    },
+    {
+      "datetime": "20160807052744",
+      "uri": "http://web.archive.org/web/20160807052744/http://www.motley.com/"
+    },
+    {
+      "datetime": "20160811202122",
+      "uri": "http://web.archive.org/web/20160811202122/http://www.motley.com/"
+    },
+    {
+      "datetime": "20161003151816",
+      "uri": "http://web.archive.org/web/20161003151816/http://motley.com/"
+    }
+  ],
+  "first": "Mon, 11 Nov 1996 11:43:17 GMT",
+  "timegate": "http://web.archive.org/web/http://www.motley.com/",
+  "member_points": [
+    {
+      "t": "19700822050800",
+      "member": "Nikki Sixx",
+      "plays": [
+        "backing vocals",
+        " piano",
+        " synthesizer",
+        " keyboards",
+        "bass guitar"
+      ],
+      "f": "19810101000100"
+    },
+    {
+      "t": "19700820170800",
+      "member": "Randy Castillo",
+      "plays": [
+        " percussion",
+        "drums"
+      ],
+      "f": "19990101000100"
+    },
+    {
+      "t": "19700819130800",
+      "member": "Vince Neil",
+      "plays": [
+        "lead vocals",
+        "harmonica",
+        " rhythm guitar"
+      ],
+      "f": "19810101000100"
+    },
+    {
+      "t": "19700822050800",
+      "member": "Vince Neil",
+      "plays": [
+        "lead vocals",
+        "harmonica",
+        " rhythm guitar"
+      ],
+      "f": "19970101000100"
+    },
+    {
+      "t": "19700820030800",
+      "member": "John Corabi",
+      "plays": [
+        "lead vocals",
+        " piano",
+        " bass guitar",
+        " rhythm guitar"
+      ],
+      "f": "19920101000100"
+    },
+    {
+      "t": "19700820090800",
+      "member": "Tommy Lee",
+      "plays": [
+        "backing vocals",
+        " piano",
+        " keyboards",
+        " percussion",
+        "drums"
+      ],
+      "f": "19810101000100"
+    },
+    {
+      "t": "19700822050800",
+      "member": "Tommy Lee",
+      "plays": [
+        "backing vocals",
+        " piano",
+        " keyboards",
+        " percussion",
+        "drums"
+      ],
+      "f": "20040101000100"
+    },
+    {
+      "t": "19700822050800",
+      "member": "Mick Mars",
+      "plays": [
+        " talkbox",
+        "lead guitar",
+        " sitar",
+        "backing vocals",
+        " mandolin"
+      ],
+      "f": "19810101000100"
+    }
+  ],
+  "original": "http://www.motley.com/",
+  "timemap": "http://web.archive.org/web/timemap/link/http://www.motley.com/",
+  "last": "Thu, 13 Oct 2016 01:33:17 GMT"
+}

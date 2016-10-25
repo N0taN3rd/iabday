@@ -1,0 +1,525 @@
+{
+  "mementos": [
+    {
+      "datetime": "20030528230304",
+      "uri": "http://web.archive.org/web/20030528230304/http://www.anata.se/"
+    },
+    {
+      "datetime": "20030719031555",
+      "uri": "http://web.archive.org/web/20030719031555/http://www.anata.se/"
+    },
+    {
+      "datetime": "20030924190928",
+      "uri": "http://web.archive.org/web/20030924190928/http://www.anata.se/"
+    },
+    {
+      "datetime": "20031027151957",
+      "uri": "http://web.archive.org/web/20031027151957/http://www.anata.se/"
+    },
+    {
+      "datetime": "20031124212542",
+      "uri": "http://web.archive.org/web/20031124212542/http://www.anata.se/"
+    },
+    {
+      "datetime": "20031201023528",
+      "uri": "http://web.archive.org/web/20031201023528/http://www.anata.se/"
+    },
+    {
+      "datetime": "20031218130609",
+      "uri": "http://web.archive.org/web/20031218130609/http://www.anata.se/"
+    },
+    {
+      "datetime": "20040407131040",
+      "uri": "http://web.archive.org/web/20040407131040/http://www.anata.se/"
+    },
+    {
+      "datetime": "20040608052130",
+      "uri": "http://web.archive.org/web/20040608052130/http://www.anata.se/"
+    },
+    {
+      "datetime": "20040612221633",
+      "uri": "http://web.archive.org/web/20040612221633/http://www.anata.se/"
+    },
+    {
+      "datetime": "20040730011002",
+      "uri": "http://web.archive.org/web/20040730011002/http://www.anata.se/"
+    },
+    {
+      "datetime": "20040902210215",
+      "uri": "http://web.archive.org/web/20040902210215/http://www.anata.se/"
+    },
+    {
+      "datetime": "20040925161705",
+      "uri": "http://web.archive.org/web/20040925161705/http://www.anata.se/"
+    },
+    {
+      "datetime": "20041204102116",
+      "uri": "http://web.archive.org/web/20041204102116/http://www.anata.se/"
+    },
+    {
+      "datetime": "20050206041843",
+      "uri": "http://web.archive.org/web/20050206041843/http://www.anata.se/"
+    },
+    {
+      "datetime": "20050304031104",
+      "uri": "http://web.archive.org/web/20050304031104/http://www.anata.se/"
+    },
+    {
+      "datetime": "20050402203122",
+      "uri": "http://web.archive.org/web/20050402203122/http://www.anata.se/"
+    },
+    {
+      "datetime": "20050522080151",
+      "uri": "http://web.archive.org/web/20050522080151/http://www.anata.se/"
+    },
+    {
+      "datetime": "20050728100753",
+      "uri": "http://web.archive.org/web/20050728100753/http://www.anata.se/"
+    },
+    {
+      "datetime": "20051004040055",
+      "uri": "http://web.archive.org/web/20051004040055/http://www.anata.se/"
+    },
+    {
+      "datetime": "20051026233257",
+      "uri": "http://web.archive.org/web/20051026233257/http://www.anata.se/"
+    },
+    {
+      "datetime": "20051031042749",
+      "uri": "http://web.archive.org/web/20051031042749/http://www.anata.se/"
+    },
+    {
+      "datetime": "20060101162807",
+      "uri": "http://web.archive.org/web/20060101162807/http://www.anata.se/"
+    },
+    {
+      "datetime": "20060218040919",
+      "uri": "http://web.archive.org/web/20060218040919/http://www.anata.se/"
+    },
+    {
+      "datetime": "20060310001939",
+      "uri": "http://web.archive.org/web/20060310001939/http://www.anata.se/"
+    },
+    {
+      "datetime": "20060422130329",
+      "uri": "http://web.archive.org/web/20060422130329/http://www.anata.se/"
+    },
+    {
+      "datetime": "20060622201813",
+      "uri": "http://web.archive.org/web/20060622201813/http://www.anata.se/"
+    },
+    {
+      "datetime": "20060627193520",
+      "uri": "http://web.archive.org/web/20060627193520/http://www.anata.se/"
+    },
+    {
+      "datetime": "20060813192320",
+      "uri": "http://web.archive.org/web/20060813192320/http://www.anata.se/"
+    },
+    {
+      "datetime": "20061004155851",
+      "uri": "http://web.archive.org/web/20061004155851/http://www.anata.se/"
+    },
+    {
+      "datetime": "20070103210618",
+      "uri": "http://web.archive.org/web/20070103210618/http://www.anata.se/"
+    },
+    {
+      "datetime": "20070108161841",
+      "uri": "http://web.archive.org/web/20070108161841/http://www.anata.se/"
+    },
+    {
+      "datetime": "20070113161602",
+      "uri": "http://web.archive.org/web/20070113161602/http://www.anata.se/"
+    },
+    {
+      "datetime": "20070118203304",
+      "uri": "http://web.archive.org/web/20070118203304/http://www.anata.se/"
+    },
+    {
+      "datetime": "20070123235723",
+      "uri": "http://web.archive.org/web/20070123235723/http://www.anata.se/"
+    },
+    {
+      "datetime": "20070208050908",
+      "uri": "http://web.archive.org/web/20070208050908/http://www.anata.se/"
+    },
+    {
+      "datetime": "20070220160636",
+      "uri": "http://web.archive.org/web/20070220160636/http://www.anata.se/"
+    },
+    {
+      "datetime": "20070310234741",
+      "uri": "http://web.archive.org/web/20070310234741/http://www.anata.se/"
+    },
+    {
+      "datetime": "20070321051139",
+      "uri": "http://web.archive.org/web/20070321051139/http://www.anata.se/"
+    },
+    {
+      "datetime": "20070403173106",
+      "uri": "http://web.archive.org/web/20070403173106/http://www.anata.se/"
+    },
+    {
+      "datetime": "20070421214527",
+      "uri": "http://web.archive.org/web/20070421214527/http://www.anata.se/"
+    },
+    {
+      "datetime": "20070522044002",
+      "uri": "http://web.archive.org/web/20070522044002/http://www.anata.se/"
+    },
+    {
+      "datetime": "20070607153028",
+      "uri": "http://web.archive.org/web/20070607153028/http://www.anata.se/"
+    },
+    {
+      "datetime": "20070622001942",
+      "uri": "http://web.archive.org/web/20070622001942/http://www.anata.se/"
+    },
+    {
+      "datetime": "20070712170544",
+      "uri": "http://web.archive.org/web/20070712170544/http://www.anata.se/"
+    },
+    {
+      "datetime": "20070828114524",
+      "uri": "http://web.archive.org/web/20070828114524/http://www.anata.se/"
+    },
+    {
+      "datetime": "20071026075149",
+      "uri": "http://web.archive.org/web/20071026075149/http://www.anata.se/"
+    },
+    {
+      "datetime": "20071027084430",
+      "uri": "http://web.archive.org/web/20071027084430/http://www.anata.se/"
+    },
+    {
+      "datetime": "20071125213851",
+      "uri": "http://web.archive.org/web/20071125213851/http://www.anata.se/"
+    },
+    {
+      "datetime": "20071224172537",
+      "uri": "http://web.archive.org/web/20071224172537/http://www.anata.se/"
+    },
+    {
+      "datetime": "20080124110428",
+      "uri": "http://web.archive.org/web/20080124110428/http://www.anata.se/"
+    },
+    {
+      "datetime": "20080218140828",
+      "uri": "http://web.archive.org/web/20080218140828/http://www.anata.se/"
+    },
+    {
+      "datetime": "20080224011908",
+      "uri": "http://web.archive.org/web/20080224011908/http://www.anata.se/"
+    },
+    {
+      "datetime": "20080316122500",
+      "uri": "http://web.archive.org/web/20080316122500/http://www.anata.se/"
+    },
+    {
+      "datetime": "20080325204041",
+      "uri": "http://web.archive.org/web/20080325204041/http://www.anata.se/"
+    },
+    {
+      "datetime": "20080426001237",
+      "uri": "http://web.archive.org/web/20080426001237/http://www.anata.se/"
+    },
+    {
+      "datetime": "20080516131905",
+      "uri": "http://web.archive.org/web/20080516131905/http://www.anata.se/"
+    },
+    {
+      "datetime": "20080612091317",
+      "uri": "http://web.archive.org/web/20080612091317/http://www.anata.se/"
+    },
+    {
+      "datetime": "20080701124919",
+      "uri": "http://web.archive.org/web/20080701124919/http://www.anata.se/"
+    },
+    {
+      "datetime": "20080702163856",
+      "uri": "http://web.archive.org/web/20080702163856/http://www.anata.se/"
+    },
+    {
+      "datetime": "20080704012139",
+      "uri": "http://web.archive.org/web/20080704012139/http://www.anata.se/"
+    },
+    {
+      "datetime": "20080705073814",
+      "uri": "http://web.archive.org/web/20080705073814/http://www.anata.se/"
+    },
+    {
+      "datetime": "20080706220500",
+      "uri": "http://web.archive.org/web/20080706220500/http://www.anata.se/"
+    },
+    {
+      "datetime": "20080729024753",
+      "uri": "http://web.archive.org/web/20080729024753/http://www.anata.se/"
+    },
+    {
+      "datetime": "20080730050652",
+      "uri": "http://web.archive.org/web/20080730050652/http://www.anata.se/"
+    },
+    {
+      "datetime": "20080821042327",
+      "uri": "http://web.archive.org/web/20080821042327/http://www.anata.se/"
+    },
+    {
+      "datetime": "20080914020641",
+      "uri": "http://web.archive.org/web/20080914020641/http://www.anata.se/"
+    },
+    {
+      "datetime": "20081014202349",
+      "uri": "http://web.archive.org/web/20081014202349/http://www.anata.se/"
+    },
+    {
+      "datetime": "20081024142918",
+      "uri": "http://web.archive.org/web/20081024142918/http://www.anata.se/"
+    },
+    {
+      "datetime": "20090129032544",
+      "uri": "http://web.archive.org/web/20090129032544/http://www.anata.se/"
+    },
+    {
+      "datetime": "20090209020512",
+      "uri": "http://web.archive.org/web/20090209020512/http://www.anata.se/"
+    },
+    {
+      "datetime": "20100211144105",
+      "uri": "http://web.archive.org/web/20100211144105/http://www.anata.se/"
+    },
+    {
+      "datetime": "20100812054800",
+      "uri": "http://web.archive.org/web/20100812054800/http://www.anata.se/"
+    },
+    {
+      "datetime": "20110719005754",
+      "uri": "http://web.archive.org/web/20110719005754/http://www.anata.se/"
+    },
+    {
+      "datetime": "20110719005759",
+      "uri": "http://web.archive.org/web/20110719005759/http://www.anata.se/"
+    },
+    {
+      "datetime": "20110917011429",
+      "uri": "http://web.archive.org/web/20110917011429/http://www.anata.se/"
+    },
+    {
+      "datetime": "20110928180959",
+      "uri": "http://web.archive.org/web/20110928180959/http://www.anata.se/"
+    },
+    {
+      "datetime": "20111005041928",
+      "uri": "http://web.archive.org/web/20111005041928/http://www.anata.se/"
+    },
+    {
+      "datetime": "20120118042610",
+      "uri": "http://web.archive.org/web/20120118042610/http://www.anata.se/"
+    },
+    {
+      "datetime": "20120119122059",
+      "uri": "http://web.archive.org/web/20120119122059/http://www.anata.se/"
+    },
+    {
+      "datetime": "20120120113548",
+      "uri": "http://web.archive.org/web/20120120113548/http://www.anata.se/"
+    },
+    {
+      "datetime": "20120120232034",
+      "uri": "http://web.archive.org/web/20120120232034/http://www.anata.se/"
+    },
+    {
+      "datetime": "20120121091040",
+      "uri": "http://web.archive.org/web/20120121091040/http://www.anata.se/"
+    },
+    {
+      "datetime": "20120121155340",
+      "uri": "http://web.archive.org/web/20120121155340/http://www.anata.se/"
+    },
+    {
+      "datetime": "20120125044533",
+      "uri": "http://web.archive.org/web/20120125044533/http://www.anata.se/"
+    },
+    {
+      "datetime": "20120125114417",
+      "uri": "http://web.archive.org/web/20120125114417/http://www.anata.se/"
+    },
+    {
+      "datetime": "20120125225914",
+      "uri": "http://web.archive.org/web/20120125225914/http://www.anata.se/"
+    },
+    {
+      "datetime": "20120126160052",
+      "uri": "http://web.archive.org/web/20120126160052/http://www.anata.se/"
+    },
+    {
+      "datetime": "20120128000918",
+      "uri": "http://web.archive.org/web/20120128000918/http://www.anata.se/"
+    },
+    {
+      "datetime": "20120204020729",
+      "uri": "http://web.archive.org/web/20120204020729/http://www.anata.se/"
+    },
+    {
+      "datetime": "20120314210731",
+      "uri": "http://web.archive.org/web/20120314210731/http://www.anata.se/"
+    },
+    {
+      "datetime": "20120716122505",
+      "uri": "http://web.archive.org/web/20120716122505/http://www.anata.se/"
+    },
+    {
+      "datetime": "20120819082724",
+      "uri": "http://web.archive.org/web/20120819082724/http://www.anata.se/"
+    },
+    {
+      "datetime": "20120911044557",
+      "uri": "http://web.archive.org/web/20120911044557/http://www.anata.se/"
+    },
+    {
+      "datetime": "20121106103117",
+      "uri": "http://web.archive.org/web/20121106103117/http://www.anata.se/"
+    },
+    {
+      "datetime": "20121113135643",
+      "uri": "http://web.archive.org/web/20121113135643/http://www.anata.se/"
+    },
+    {
+      "datetime": "20121228182435",
+      "uri": "http://web.archive.org/web/20121228182435/http://www.anata.se/"
+    },
+    {
+      "datetime": "20130413160523",
+      "uri": "http://web.archive.org/web/20130413160523/http://www.anata.se/"
+    },
+    {
+      "datetime": "20130415193457",
+      "uri": "http://web.archive.org/web/20130415193457/http://www.anata.se/"
+    },
+    {
+      "datetime": "20130908223524",
+      "uri": "http://web.archive.org/web/20130908223524/http://www.anata.se/"
+    },
+    {
+      "datetime": "20131006113307",
+      "uri": "http://web.archive.org/web/20131006113307/http://www.anata.se/"
+    },
+    {
+      "datetime": "20140218225423",
+      "uri": "http://web.archive.org/web/20140218225423/http://www.anata.se/"
+    },
+    {
+      "datetime": "20140328150825",
+      "uri": "http://web.archive.org/web/20140328150825/http://www.anata.se/"
+    },
+    {
+      "datetime": "20140903171612",
+      "uri": "http://web.archive.org/web/20140903171612/http://www.anata.se/"
+    },
+    {
+      "datetime": "20150505061355",
+      "uri": "http://web.archive.org/web/20150505061355/http://www.anata.se/"
+    },
+    {
+      "datetime": "20151027230956",
+      "uri": "http://web.archive.org/web/20151027230956/http://www.anata.se/"
+    },
+    {
+      "datetime": "20160109173904",
+      "uri": "http://web.archive.org/web/20160109173904/http://www.anata.se/"
+    },
+    {
+      "datetime": "20160124002722",
+      "uri": "http://web.archive.org/web/20160124002722/http://www.anata.se/"
+    },
+    {
+      "datetime": "20160124002723",
+      "uri": "http://web.archive.org/web/20160124002723/http://www.anata.se/"
+    },
+    {
+      "datetime": "20160301214915",
+      "uri": "http://web.archive.org/web/20160301214915/http://www.anata.se/"
+    },
+    {
+      "datetime": "20160303190859",
+      "uri": "http://web.archive.org/web/20160303190859/http://www.anata.se/"
+    },
+    {
+      "datetime": "20160602190008",
+      "uri": "http://web.archive.org/web/20160602190008/http://anata.se/"
+    },
+    {
+      "datetime": "20160825164642",
+      "uri": "http://web.archive.org/web/20160825164642/http://www.anata.se/"
+    },
+    {
+      "datetime": "20161001174156",
+      "uri": "http://web.archive.org/web/20161001174156/http://anata.se/"
+    }
+  ],
+  "first": "Wed, 28 May 2003 23:03:04 GMT",
+  "timegate": "http://web.archive.org/web/http://www.anata.se",
+  "member_points": [
+    {
+      "t": "20161025051088",
+      "member": "Henrik Drake",
+      "plays": [
+        "bass "
+      ],
+      "f": "19960101000100"
+    },
+    {
+      "t": "19700820140800",
+      "member": "Robert Petersson",
+      "plays": [
+        "drums "
+      ],
+      "f": "19930101000100"
+    },
+    {
+      "t": "20161025051088",
+      "member": "Fredrik Sch\u00e4lin",
+      "plays": [
+        "lead vocals",
+        "guitar"
+      ],
+      "f": "19930101000100"
+    },
+    {
+      "t": "19700821100800",
+      "member": "Andreas Allenmark",
+      "plays": [
+        "backing vocals",
+        "guitar"
+      ],
+      "f": "19970101000100"
+    },
+    {
+      "t": "19700820000800",
+      "member": "Mattias Svensson",
+      "plays": [
+        "guitar "
+      ],
+      "f": "19930101000100"
+    },
+    {
+      "t": "19700820000800",
+      "member": "Martin Sj\u00f6strand",
+      "plays": [
+        "bass "
+      ],
+      "f": "19930101000100"
+    },
+    {
+      "t": "20161025051088",
+      "member": "Conny Pettersson",
+      "plays": [
+        "drums "
+      ],
+      "f": "20010101000100"
+    }
+  ],
+  "original": "http://www.anata.se",
+  "timemap": "http://web.archive.org/web/timemap/link/http://www.anata.se",
+  "last": "Thu, 06 Oct 2016 01:52:34 GMT"
+}

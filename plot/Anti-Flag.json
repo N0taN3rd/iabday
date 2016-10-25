@@ -1,0 +1,180 @@
+{
+  "mementos": [
+    {
+      "datetime": "20150716022659",
+      "uri": "http://web.archive.org/web/20150716022659/http://www.anti-flag.com/news"
+    },
+    {
+      "datetime": "20150716022659",
+      "uri": "http://web.archive.org/web/20150716022659/http://www.anti-flag.com/news/"
+    },
+    {
+      "datetime": "20150816083122",
+      "uri": "http://web.archive.org/web/20150816083122/http://www.anti-flag.com/news"
+    },
+    {
+      "datetime": "20150816083122",
+      "uri": "http://web.archive.org/web/20150816083122/http://www.anti-flag.com/news/"
+    },
+    {
+      "datetime": "20150916035116",
+      "uri": "http://web.archive.org/web/20150916035116/http://www.anti-flag.com/news"
+    },
+    {
+      "datetime": "20150916035116",
+      "uri": "http://web.archive.org/web/20150916035116/http://www.anti-flag.com/news/"
+    },
+    {
+      "datetime": "20151013063122",
+      "uri": "http://web.archive.org/web/20151013063122/http://anti-flag.com/news"
+    },
+    {
+      "datetime": "20151016192045",
+      "uri": "http://web.archive.org/web/20151016192045/http://www.anti-flag.com/news"
+    },
+    {
+      "datetime": "20151016192045",
+      "uri": "http://web.archive.org/web/20151016192045/http://www.anti-flag.com/news/"
+    },
+    {
+      "datetime": "20151116185248",
+      "uri": "http://web.archive.org/web/20151116185248/http://www.anti-flag.com/news"
+    },
+    {
+      "datetime": "20151116185248",
+      "uri": "http://web.archive.org/web/20151116185248/http://www.anti-flag.com/news/"
+    },
+    {
+      "datetime": "20151218070354",
+      "uri": "http://web.archive.org/web/20151218070354/http://www.anti-flag.com/news"
+    },
+    {
+      "datetime": "20151218070354",
+      "uri": "http://web.archive.org/web/20151218070354/http://www.anti-flag.com/news/"
+    },
+    {
+      "datetime": "20160116174432",
+      "uri": "http://web.archive.org/web/20160116174432/http://www.anti-flag.com/news"
+    },
+    {
+      "datetime": "20160116174432",
+      "uri": "http://web.archive.org/web/20160116174432/http://www.anti-flag.com/news/"
+    },
+    {
+      "datetime": "20160213134747",
+      "uri": "http://web.archive.org/web/20160213134747/http://www.anti-flag.com/news"
+    },
+    {
+      "datetime": "20160213134747",
+      "uri": "http://web.archive.org/web/20160213134747/http://www.anti-flag.com/news/"
+    },
+    {
+      "datetime": "20160220002559",
+      "uri": "http://web.archive.org/web/20160220002559/http://www.anti-flag.com/news/?"
+    },
+    {
+      "datetime": "20160220133802",
+      "uri": "http://web.archive.org/web/20160220133802/http://www.anti-flag.com/news/?"
+    },
+    {
+      "datetime": "20160312090109",
+      "uri": "http://web.archive.org/web/20160312090109/http://www.anti-flag.com/news"
+    },
+    {
+      "datetime": "20160312090109",
+      "uri": "http://web.archive.org/web/20160312090109/http://www.anti-flag.com/news/"
+    },
+    {
+      "datetime": "20160322145056",
+      "uri": "http://web.archive.org/web/20160322145056/http://www.anti-flag.com/news/?"
+    },
+    {
+      "datetime": "20160402043200",
+      "uri": "http://web.archive.org/web/20160402043200/http://anti-flag.com/news"
+    },
+    {
+      "datetime": "20160407131357",
+      "uri": "http://web.archive.org/web/20160407131357/http://www.anti-flag.com/news"
+    },
+    {
+      "datetime": "20160407131357",
+      "uri": "http://web.archive.org/web/20160407131357/http://www.anti-flag.com/news/"
+    },
+    {
+      "datetime": "20160422194547",
+      "uri": "http://web.archive.org/web/20160422194547/http://www.anti-flag.com/news/?"
+    },
+    {
+      "datetime": "20160521101101",
+      "uri": "http://web.archive.org/web/20160521101101/http://www.anti-flag.com/news/"
+    }
+  ],
+  "first": "Thu, 16 Jul 2015 02:26:59 GMT",
+  "timegate": "http://web.archive.org/web/http://www.anti-flag.com/news/",
+  "member_points": [
+    {
+      "t": "19700819050800",
+      "member": "Pat Thetic",
+      "plays": [
+        "percussion",
+        "drums"
+      ],
+      "f": "19880101000100"
+    },
+    {
+      "t": "20161025051062",
+      "member": "Pat Thetic",
+      "plays": [
+        "percussion",
+        "drums"
+      ],
+      "f": "19920101000100"
+    },
+    {
+      "t": "19700819050800",
+      "member": "Justin Sane",
+      "plays": [
+        "lead vocals",
+        "lead guitar"
+      ],
+      "f": "19880101000100"
+    },
+    {
+      "t": "20161025051062",
+      "member": "Justin Sane",
+      "plays": [
+        "lead vocals",
+        "lead guitar"
+      ],
+      "f": "19920101000100"
+    },
+    {
+      "t": "19700820030800",
+      "member": "Chris Head",
+      "plays": [
+        "bass guitar "
+      ],
+      "f": "19970101000100"
+    },
+    {
+      "t": "20161025051062",
+      "member": "Chris Head",
+      "plays": [
+        "bass guitar "
+      ],
+      "f": "19970101000100"
+    },
+    {
+      "t": "20161025051062",
+      "member": "Chris#2 (Chris Barker)",
+      "plays": [
+        "backing and lead vocals",
+        "bass guitar"
+      ],
+      "f": "19990101000100"
+    }
+  ],
+  "original": "http://www.anti-flag.com/news/",
+  "timemap": "http://web.archive.org/web/timemap/link/http://www.anti-flag.com/news/",
+  "last": "Thu, 02 Jun 2016 09:31:00 GMT"
+}

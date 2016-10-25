@@ -1,0 +1,2965 @@
+{
+  "mementos": [
+    {
+      "datetime": "20000302014253",
+      "uri": "http://web.archive.org/web/20000302014253/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20000302032039",
+      "uri": "http://web.archive.org/web/20000302032039/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20000302092813",
+      "uri": "http://web.archive.org/web/20000302092813/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20000304135215",
+      "uri": "http://web.archive.org/web/20000304135215/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20000511045528",
+      "uri": "http://web.archive.org/web/20000511045528/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20000511205739",
+      "uri": "http://web.archive.org/web/20000511205739/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20000520023118",
+      "uri": "http://web.archive.org/web/20000520023118/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20000616202351",
+      "uri": "http://web.archive.org/web/20000616202351/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20000706194140",
+      "uri": "http://web.archive.org/web/20000706194140/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20000815054751",
+      "uri": "http://web.archive.org/web/20000815054751/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20000926000427",
+      "uri": "http://web.archive.org/web/20000926000427/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20000930130340",
+      "uri": "http://web.archive.org/web/20000930130340/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20001018115912",
+      "uri": "http://web.archive.org/web/20001018115912/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20001018122353",
+      "uri": "http://web.archive.org/web/20001018122353/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20001018145621",
+      "uri": "http://web.archive.org/web/20001018145621/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20001018232015",
+      "uri": "http://web.archive.org/web/20001018232015/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20001109161900",
+      "uri": "http://web.archive.org/web/20001109161900/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20001121230200",
+      "uri": "http://web.archive.org/web/20001121230200/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20001206194200",
+      "uri": "http://web.archive.org/web/20001206194200/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20001210040700",
+      "uri": "http://web.archive.org/web/20001210040700/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20010202024900",
+      "uri": "http://web.archive.org/web/20010202024900/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20010202075600",
+      "uri": "http://web.archive.org/web/20010202075600/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20010302105818",
+      "uri": "http://web.archive.org/web/20010302105818/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20010331225910",
+      "uri": "http://web.archive.org/web/20010331225910/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20010401072339",
+      "uri": "http://web.archive.org/web/20010401072339/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20010410010239",
+      "uri": "http://web.archive.org/web/20010410010239/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20010419081642",
+      "uri": "http://web.archive.org/web/20010419081642/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20010515191710",
+      "uri": "http://web.archive.org/web/20010515191710/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20010924173501",
+      "uri": "http://web.archive.org/web/20010924173501/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20020329001531",
+      "uri": "http://web.archive.org/web/20020329001531/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20020330180142",
+      "uri": "http://web.archive.org/web/20020330180142/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20020524000805",
+      "uri": "http://web.archive.org/web/20020524000805/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20020528021235",
+      "uri": "http://web.archive.org/web/20020528021235/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20020528233259",
+      "uri": "http://web.archive.org/web/20020528233259/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20020531063302",
+      "uri": "http://web.archive.org/web/20020531063302/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20020604031129",
+      "uri": "http://web.archive.org/web/20020604031129/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20020923095645",
+      "uri": "http://web.archive.org/web/20020923095645/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20020925145452",
+      "uri": "http://web.archive.org/web/20020925145452/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20020928081846",
+      "uri": "http://web.archive.org/web/20020928081846/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20020929235948",
+      "uri": "http://web.archive.org/web/20020929235948/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20021120095520",
+      "uri": "http://web.archive.org/web/20021120095520/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20021123065935",
+      "uri": "http://web.archive.org/web/20021123065935/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20021125221418",
+      "uri": "http://web.archive.org/web/20021125221418/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20021130223421",
+      "uri": "http://web.archive.org/web/20021130223421/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20030130024817",
+      "uri": "http://web.archive.org/web/20030130024817/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20030210120640",
+      "uri": "http://web.archive.org/web/20030210120640/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20030211034821",
+      "uri": "http://web.archive.org/web/20030211034821/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20030326152046",
+      "uri": "http://web.archive.org/web/20030326152046/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20030328062102",
+      "uri": "http://web.archive.org/web/20030328062102/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20030523094746",
+      "uri": "http://web.archive.org/web/20030523094746/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20030524112513",
+      "uri": "http://web.archive.org/web/20030524112513/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20030621103519",
+      "uri": "http://web.archive.org/web/20030621103519/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20030624163028",
+      "uri": "http://web.archive.org/web/20030624163028/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20030721052638",
+      "uri": "http://web.archive.org/web/20030721052638/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20030727023645",
+      "uri": "http://web.archive.org/web/20030727023645/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20030925155312",
+      "uri": "http://web.archive.org/web/20030925155312/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20031012135330",
+      "uri": "http://web.archive.org/web/20031012135330/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20031014134858",
+      "uri": "http://web.archive.org/web/20031014134858/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20031028192628",
+      "uri": "http://web.archive.org/web/20031028192628/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20031122100855",
+      "uri": "http://web.archive.org/web/20031122100855/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20031124215730",
+      "uri": "http://web.archive.org/web/20031124215730/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20031125191452",
+      "uri": "http://web.archive.org/web/20031125191452/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20031201110049",
+      "uri": "http://web.archive.org/web/20031201110049/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20031203191504",
+      "uri": "http://web.archive.org/web/20031203191504/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040324125823",
+      "uri": "http://web.archive.org/web/20040324125823/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040327075433",
+      "uri": "http://web.archive.org/web/20040327075433/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20040520170025",
+      "uri": "http://web.archive.org/web/20040520170025/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040604132112",
+      "uri": "http://web.archive.org/web/20040604132112/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20040605003404",
+      "uri": "http://web.archive.org/web/20040605003404/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040608214142",
+      "uri": "http://web.archive.org/web/20040608214142/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20040610232812",
+      "uri": "http://web.archive.org/web/20040610232812/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040611202550",
+      "uri": "http://web.archive.org/web/20040611202550/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040612065245",
+      "uri": "http://web.archive.org/web/20040612065245/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20040613000510",
+      "uri": "http://web.archive.org/web/20040613000510/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20040615234255",
+      "uri": "http://web.archive.org/web/20040615234255/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20040616085258",
+      "uri": "http://web.archive.org/web/20040616085258/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040616131242",
+      "uri": "http://web.archive.org/web/20040616131242/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20040630212810",
+      "uri": "http://web.archive.org/web/20040630212810/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040703060111",
+      "uri": "http://web.archive.org/web/20040703060111/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040708023117",
+      "uri": "http://web.archive.org/web/20040708023117/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040722075227",
+      "uri": "http://web.archive.org/web/20040722075227/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040723025248",
+      "uri": "http://web.archive.org/web/20040723025248/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040726232932",
+      "uri": "http://web.archive.org/web/20040726232932/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20040729100027",
+      "uri": "http://web.archive.org/web/20040729100027/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040804051206",
+      "uri": "http://web.archive.org/web/20040804051206/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20040805014530",
+      "uri": "http://web.archive.org/web/20040805014530/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040810025857",
+      "uri": "http://web.archive.org/web/20040810025857/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040823082511",
+      "uri": "http://web.archive.org/web/20040823082511/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040827041841",
+      "uri": "http://web.archive.org/web/20040827041841/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040830204538",
+      "uri": "http://web.archive.org/web/20040830204538/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20040831165308",
+      "uri": "http://web.archive.org/web/20040831165308/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040921015511",
+      "uri": "http://web.archive.org/web/20040921015511/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20040921040937",
+      "uri": "http://web.archive.org/web/20040921040937/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040925093558",
+      "uri": "http://web.archive.org/web/20040925093558/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20040926021139",
+      "uri": "http://web.archive.org/web/20040926021139/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20040929093129",
+      "uri": "http://web.archive.org/web/20040929093129/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20041001081245",
+      "uri": "http://web.archive.org/web/20041001081245/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20041023081848",
+      "uri": "http://web.archive.org/web/20041023081848/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20041125100504",
+      "uri": "http://web.archive.org/web/20041125100504/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20041127042517",
+      "uri": "http://web.archive.org/web/20041127042517/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20041128092542",
+      "uri": "http://web.archive.org/web/20041128092542/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20041129170600",
+      "uri": "http://web.archive.org/web/20041129170600/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20041211044517",
+      "uri": "http://web.archive.org/web/20041211044517/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20041215085359",
+      "uri": "http://web.archive.org/web/20041215085359/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20041216091622",
+      "uri": "http://web.archive.org/web/20041216091622/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050120083706",
+      "uri": "http://web.archive.org/web/20050120083706/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050126001737",
+      "uri": "http://web.archive.org/web/20050126001737/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20050130084540",
+      "uri": "http://web.archive.org/web/20050130084540/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050204124544",
+      "uri": "http://web.archive.org/web/20050204124544/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050207155143",
+      "uri": "http://web.archive.org/web/20050207155143/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050209175443",
+      "uri": "http://web.archive.org/web/20050209175443/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050224030708",
+      "uri": "http://web.archive.org/web/20050224030708/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050306032821",
+      "uri": "http://web.archive.org/web/20050306032821/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20050426005105",
+      "uri": "http://web.archive.org/web/20050426005105/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050513221048",
+      "uri": "http://web.archive.org/web/20050513221048/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050514024326",
+      "uri": "http://web.archive.org/web/20050514024326/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20050520013108",
+      "uri": "http://web.archive.org/web/20050520013108/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050522010609",
+      "uri": "http://web.archive.org/web/20050522010609/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050525011452",
+      "uri": "http://web.archive.org/web/20050525011452/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050531230342",
+      "uri": "http://web.archive.org/web/20050531230342/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050614012614",
+      "uri": "http://web.archive.org/web/20050614012614/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050618083043",
+      "uri": "http://web.archive.org/web/20050618083043/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050619235925",
+      "uri": "http://web.archive.org/web/20050619235925/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050626001829",
+      "uri": "http://web.archive.org/web/20050626001829/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050628233045",
+      "uri": "http://web.archive.org/web/20050628233045/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050703043438",
+      "uri": "http://web.archive.org/web/20050703043438/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20050706051823",
+      "uri": "http://web.archive.org/web/20050706051823/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050706101122",
+      "uri": "http://web.archive.org/web/20050706101122/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050708025353",
+      "uri": "http://web.archive.org/web/20050708025353/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050715034814",
+      "uri": "http://web.archive.org/web/20050715034814/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050727015235",
+      "uri": "http://web.archive.org/web/20050727015235/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050729095031",
+      "uri": "http://web.archive.org/web/20050729095031/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050731000709",
+      "uri": "http://web.archive.org/web/20050731000709/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050803022521",
+      "uri": "http://web.archive.org/web/20050803022521/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050809011632",
+      "uri": "http://web.archive.org/web/20050809011632/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050813004521",
+      "uri": "http://web.archive.org/web/20050813004521/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050817044503",
+      "uri": "http://web.archive.org/web/20050817044503/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050818003729",
+      "uri": "http://web.archive.org/web/20050818003729/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20050823052053",
+      "uri": "http://web.archive.org/web/20050823052053/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050825222232",
+      "uri": "http://web.archive.org/web/20050825222232/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050826051144",
+      "uri": "http://web.archive.org/web/20050826051144/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20050827091219",
+      "uri": "http://web.archive.org/web/20050827091219/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050829061432",
+      "uri": "http://web.archive.org/web/20050829061432/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050831001259",
+      "uri": "http://web.archive.org/web/20050831001259/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050922182137",
+      "uri": "http://web.archive.org/web/20050922182137/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20050923225330",
+      "uri": "http://web.archive.org/web/20050923225330/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20051013073315",
+      "uri": "http://web.archive.org/web/20051013073315/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051024184343",
+      "uri": "http://web.archive.org/web/20051024184343/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20051025110518",
+      "uri": "http://web.archive.org/web/20051025110518/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051027050340",
+      "uri": "http://web.archive.org/web/20051027050340/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20051031054850",
+      "uri": "http://web.archive.org/web/20051031054850/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20051031055158",
+      "uri": "http://web.archive.org/web/20051031055158/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051031063119",
+      "uri": "http://web.archive.org/web/20051031063119/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051101094826",
+      "uri": "http://web.archive.org/web/20051101094826/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20051125130036",
+      "uri": "http://web.archive.org/web/20051125130036/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051125145213",
+      "uri": "http://web.archive.org/web/20051125145213/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051126000415",
+      "uri": "http://web.archive.org/web/20051126000415/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051126025111",
+      "uri": "http://web.archive.org/web/20051126025111/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051126064259",
+      "uri": "http://web.archive.org/web/20051126064259/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051130224140",
+      "uri": "http://web.archive.org/web/20051130224140/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051202022736",
+      "uri": "http://web.archive.org/web/20051202022736/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051210020539",
+      "uri": "http://web.archive.org/web/20051210020539/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051210154011",
+      "uri": "http://web.archive.org/web/20051210154011/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20051213005449",
+      "uri": "http://web.archive.org/web/20051213005449/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051215025301",
+      "uri": "http://web.archive.org/web/20051215025301/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20051217130947",
+      "uri": "http://web.archive.org/web/20051217130947/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051218051120",
+      "uri": "http://web.archive.org/web/20051218051120/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051223053411",
+      "uri": "http://web.archive.org/web/20051223053411/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051223081354",
+      "uri": "http://web.archive.org/web/20051223081354/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051224070053",
+      "uri": "http://web.archive.org/web/20051224070053/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051225035436",
+      "uri": "http://web.archive.org/web/20051225035436/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051225094950",
+      "uri": "http://web.archive.org/web/20051225094950/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051228034139",
+      "uri": "http://web.archive.org/web/20051228034139/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051231180243",
+      "uri": "http://web.archive.org/web/20051231180243/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20051231223042",
+      "uri": "http://web.archive.org/web/20051231223042/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060101035626",
+      "uri": "http://web.archive.org/web/20060101035626/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060101042420",
+      "uri": "http://web.archive.org/web/20060101042420/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060101060240",
+      "uri": "http://web.archive.org/web/20060101060240/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20060101122520",
+      "uri": "http://web.archive.org/web/20060101122520/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060101152254",
+      "uri": "http://web.archive.org/web/20060101152254/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060101170053",
+      "uri": "http://web.archive.org/web/20060101170053/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060101202942",
+      "uri": "http://web.archive.org/web/20060101202942/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060101235507",
+      "uri": "http://web.archive.org/web/20060101235507/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060102013837",
+      "uri": "http://web.archive.org/web/20060102013837/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060102045222",
+      "uri": "http://web.archive.org/web/20060102045222/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060102084235",
+      "uri": "http://web.archive.org/web/20060102084235/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060102113910",
+      "uri": "http://web.archive.org/web/20060102113910/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060102152942",
+      "uri": "http://web.archive.org/web/20060102152942/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060102172918",
+      "uri": "http://web.archive.org/web/20060102172918/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060102205725",
+      "uri": "http://web.archive.org/web/20060102205725/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060102233227",
+      "uri": "http://web.archive.org/web/20060102233227/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060103082952",
+      "uri": "http://web.archive.org/web/20060103082952/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060103152643",
+      "uri": "http://web.archive.org/web/20060103152643/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060103215339",
+      "uri": "http://web.archive.org/web/20060103215339/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060104004451",
+      "uri": "http://web.archive.org/web/20060104004451/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060104044832",
+      "uri": "http://web.archive.org/web/20060104044832/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060104084125",
+      "uri": "http://web.archive.org/web/20060104084125/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060104103537",
+      "uri": "http://web.archive.org/web/20060104103537/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060104161155",
+      "uri": "http://web.archive.org/web/20060104161155/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060104171007",
+      "uri": "http://web.archive.org/web/20060104171007/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060104205559",
+      "uri": "http://web.archive.org/web/20060104205559/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060105065028",
+      "uri": "http://web.archive.org/web/20060105065028/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060110080902",
+      "uri": "http://web.archive.org/web/20060110080902/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20060110094002",
+      "uri": "http://web.archive.org/web/20060110094002/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060110195332",
+      "uri": "http://web.archive.org/web/20060110195332/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060112011255",
+      "uri": "http://web.archive.org/web/20060112011255/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060113104539",
+      "uri": "http://web.archive.org/web/20060113104539/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060202014640",
+      "uri": "http://web.archive.org/web/20060202014640/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20060202015226",
+      "uri": "http://web.archive.org/web/20060202015226/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060202171053",
+      "uri": "http://web.archive.org/web/20060202171053/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20060206213412",
+      "uri": "http://web.archive.org/web/20060206213412/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060208023155",
+      "uri": "http://web.archive.org/web/20060208023155/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060209024848",
+      "uri": "http://web.archive.org/web/20060209024848/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060220201450",
+      "uri": "http://web.archive.org/web/20060220201450/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20060402215921",
+      "uri": "http://web.archive.org/web/20060402215921/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20060409160602",
+      "uri": "http://web.archive.org/web/20060409160602/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060410164558",
+      "uri": "http://web.archive.org/web/20060410164558/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060412082639",
+      "uri": "http://web.archive.org/web/20060412082639/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060412184703",
+      "uri": "http://web.archive.org/web/20060412184703/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060413210739",
+      "uri": "http://web.archive.org/web/20060413210739/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060414163649",
+      "uri": "http://web.archive.org/web/20060414163649/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060415185107",
+      "uri": "http://web.archive.org/web/20060415185107/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060417172758",
+      "uri": "http://web.archive.org/web/20060417172758/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060421044512",
+      "uri": "http://web.archive.org/web/20060421044512/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20060422001603",
+      "uri": "http://web.archive.org/web/20060422001603/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060422001608",
+      "uri": "http://web.archive.org/web/20060422001608/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060422001630",
+      "uri": "http://web.archive.org/web/20060422001630/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060422235825",
+      "uri": "http://web.archive.org/web/20060422235825/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060424082602",
+      "uri": "http://web.archive.org/web/20060424082602/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060425211419",
+      "uri": "http://web.archive.org/web/20060425211419/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060512053153",
+      "uri": "http://web.archive.org/web/20060512053153/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060612225256",
+      "uri": "http://web.archive.org/web/20060612225256/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060613072519",
+      "uri": "http://web.archive.org/web/20060613072519/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20060615202018",
+      "uri": "http://web.archive.org/web/20060615202018/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060702123146",
+      "uri": "http://web.archive.org/web/20060702123146/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20060702123556",
+      "uri": "http://web.archive.org/web/20060702123556/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20060702182751",
+      "uri": "http://web.archive.org/web/20060702182751/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060702182818",
+      "uri": "http://web.archive.org/web/20060702182818/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060702182906",
+      "uri": "http://web.archive.org/web/20060702182906/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060705031221",
+      "uri": "http://web.archive.org/web/20060705031221/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060706031057",
+      "uri": "http://web.archive.org/web/20060706031057/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060711031607",
+      "uri": "http://web.archive.org/web/20060711031607/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060711124109",
+      "uri": "http://web.archive.org/web/20060711124109/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060715230108",
+      "uri": "http://web.archive.org/web/20060715230108/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060721062858",
+      "uri": "http://web.archive.org/web/20060721062858/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060721084949",
+      "uri": "http://web.archive.org/web/20060721084949/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060721100358",
+      "uri": "http://web.archive.org/web/20060721100358/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060721125152",
+      "uri": "http://web.archive.org/web/20060721125152/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060804000106",
+      "uri": "http://web.archive.org/web/20060804000106/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20060818233446",
+      "uri": "http://web.archive.org/web/20060818233446/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20060821230410",
+      "uri": "http://web.archive.org/web/20060821230410/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060822005208",
+      "uri": "http://web.archive.org/web/20060822005208/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060822005224",
+      "uri": "http://web.archive.org/web/20060822005224/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060822005245",
+      "uri": "http://web.archive.org/web/20060822005245/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060822013552",
+      "uri": "http://web.archive.org/web/20060822013552/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20060901025603",
+      "uri": "http://web.archive.org/web/20060901025603/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20061004044027",
+      "uri": "http://web.archive.org/web/20061004044027/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20061026010408",
+      "uri": "http://web.archive.org/web/20061026010408/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20061109120742",
+      "uri": "http://web.archive.org/web/20061109120742/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20061118101223",
+      "uri": "http://web.archive.org/web/20061118101223/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20061128005156",
+      "uri": "http://web.archive.org/web/20061128005156/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20061205035455",
+      "uri": "http://web.archive.org/web/20061205035455/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20061205095452",
+      "uri": "http://web.archive.org/web/20061205095452/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20061214204300",
+      "uri": "http://web.archive.org/web/20061214204300/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20061220155024",
+      "uri": "http://web.archive.org/web/20061220155024/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20061230143600",
+      "uri": "http://web.archive.org/web/20061230143600/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070104090241",
+      "uri": "http://web.archive.org/web/20070104090241/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070109020506",
+      "uri": "http://web.archive.org/web/20070109020506/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070113210725",
+      "uri": "http://web.archive.org/web/20070113210725/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070118200630",
+      "uri": "http://web.archive.org/web/20070118200630/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070123231904",
+      "uri": "http://web.archive.org/web/20070123231904/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070129102419",
+      "uri": "http://web.archive.org/web/20070129102419/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070202023333",
+      "uri": "http://web.archive.org/web/20070202023333/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070202181624",
+      "uri": "http://web.archive.org/web/20070202181624/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070210003035",
+      "uri": "http://web.archive.org/web/20070210003035/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070217152527",
+      "uri": "http://web.archive.org/web/20070217152527/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070225142352",
+      "uri": "http://web.archive.org/web/20070225142352/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070305223016",
+      "uri": "http://web.archive.org/web/20070305223016/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070314012804",
+      "uri": "http://web.archive.org/web/20070314012804/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070323001313",
+      "uri": "http://web.archive.org/web/20070323001313/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070406223207",
+      "uri": "http://web.archive.org/web/20070406223207/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070501115031",
+      "uri": "http://web.archive.org/web/20070501115031/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070520061221",
+      "uri": "http://web.archive.org/web/20070520061221/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070611091247",
+      "uri": "http://web.archive.org/web/20070611091247/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070711002309",
+      "uri": "http://web.archive.org/web/20070711002309/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070731005253",
+      "uri": "http://web.archive.org/web/20070731005253/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20070813074759",
+      "uri": "http://web.archive.org/web/20070813074759/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20070901163841",
+      "uri": "http://web.archive.org/web/20070901163841/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20070912171935",
+      "uri": "http://web.archive.org/web/20070912171935/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20070928011204",
+      "uri": "http://web.archive.org/web/20070928011204/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20070928011220",
+      "uri": "http://web.archive.org/web/20070928011220/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071002071147",
+      "uri": "http://web.archive.org/web/20071002071147/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071005184525",
+      "uri": "http://web.archive.org/web/20071005184525/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071006231045",
+      "uri": "http://web.archive.org/web/20071006231045/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071009065305",
+      "uri": "http://web.archive.org/web/20071009065305/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071011000807",
+      "uri": "http://web.archive.org/web/20071011000807/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071013232000",
+      "uri": "http://web.archive.org/web/20071013232000/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071020195204",
+      "uri": "http://web.archive.org/web/20071020195204/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071021120834",
+      "uri": "http://web.archive.org/web/20071021120834/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071026023536",
+      "uri": "http://web.archive.org/web/20071026023536/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071031070609",
+      "uri": "http://web.archive.org/web/20071031070609/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071105082416",
+      "uri": "http://web.archive.org/web/20071105082416/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071110212824",
+      "uri": "http://web.archive.org/web/20071110212824/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071115183416",
+      "uri": "http://web.archive.org/web/20071115183416/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071121010619",
+      "uri": "http://web.archive.org/web/20071121010619/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071126055718",
+      "uri": "http://web.archive.org/web/20071126055718/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071201133658",
+      "uri": "http://web.archive.org/web/20071201133658/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071207204338",
+      "uri": "http://web.archive.org/web/20071207204338/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071212230746",
+      "uri": "http://web.archive.org/web/20071212230746/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071218002031",
+      "uri": "http://web.archive.org/web/20071218002031/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071223003433",
+      "uri": "http://web.archive.org/web/20071223003433/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20071228034610",
+      "uri": "http://web.archive.org/web/20071228034610/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080101195806",
+      "uri": "http://web.archive.org/web/20080101195806/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080106160447",
+      "uri": "http://web.archive.org/web/20080106160447/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080111134959",
+      "uri": "http://web.archive.org/web/20080111134959/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080116150313",
+      "uri": "http://web.archive.org/web/20080116150313/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080122074607",
+      "uri": "http://web.archive.org/web/20080122074607/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080131142037",
+      "uri": "http://web.archive.org/web/20080131142037/http://www.rancidrancid.com/?"
+    },
+    {
+      "datetime": "20080208031251",
+      "uri": "http://web.archive.org/web/20080208031251/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080212200448",
+      "uri": "http://web.archive.org/web/20080212200448/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080217223749",
+      "uri": "http://web.archive.org/web/20080217223749/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080223065940",
+      "uri": "http://web.archive.org/web/20080223065940/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080229052150",
+      "uri": "http://web.archive.org/web/20080229052150/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20080303203627",
+      "uri": "http://web.archive.org/web/20080303203627/http://www.rancidrancid.com/?"
+    },
+    {
+      "datetime": "20080305205101",
+      "uri": "http://web.archive.org/web/20080305205101/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080311131442",
+      "uri": "http://web.archive.org/web/20080311131442/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20080317020110",
+      "uri": "http://web.archive.org/web/20080317020110/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080321221626",
+      "uri": "http://web.archive.org/web/20080321221626/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080327022143",
+      "uri": "http://web.archive.org/web/20080327022143/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080403064836",
+      "uri": "http://web.archive.org/web/20080403064836/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080404004827",
+      "uri": "http://web.archive.org/web/20080404004827/http://www.rancidrancid.com/?"
+    },
+    {
+      "datetime": "20080409151153",
+      "uri": "http://web.archive.org/web/20080409151153/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080415135558",
+      "uri": "http://web.archive.org/web/20080415135558/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080420115646",
+      "uri": "http://web.archive.org/web/20080420115646/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080430131241",
+      "uri": "http://web.archive.org/web/20080430131241/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080430204748",
+      "uri": "http://web.archive.org/web/20080430204748/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080504213118",
+      "uri": "http://web.archive.org/web/20080504213118/http://www.rancidrancid.com/?"
+    },
+    {
+      "datetime": "20080509040830",
+      "uri": "http://web.archive.org/web/20080509040830/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080509064704",
+      "uri": "http://web.archive.org/web/20080509064704/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080512011946",
+      "uri": "http://web.archive.org/web/20080512011946/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20080516015753",
+      "uri": "http://web.archive.org/web/20080516015753/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080523191323",
+      "uri": "http://web.archive.org/web/20080523191323/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080602081438",
+      "uri": "http://web.archive.org/web/20080602081438/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080609072933",
+      "uri": "http://web.archive.org/web/20080609072933/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080913124103",
+      "uri": "http://web.archive.org/web/20080913124103/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080919031527",
+      "uri": "http://web.archive.org/web/20080919031527/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080924122607",
+      "uri": "http://web.archive.org/web/20080924122607/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20080930033154",
+      "uri": "http://web.archive.org/web/20080930033154/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20081005201017",
+      "uri": "http://web.archive.org/web/20081005201017/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20081011075855",
+      "uri": "http://web.archive.org/web/20081011075855/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20081017041434",
+      "uri": "http://web.archive.org/web/20081017041434/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20081022155034",
+      "uri": "http://web.archive.org/web/20081022155034/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20081107233507",
+      "uri": "http://web.archive.org/web/20081107233507/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20081206100015",
+      "uri": "http://web.archive.org/web/20081206100015/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20081216034542",
+      "uri": "http://web.archive.org/web/20081216034542/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20081218090859",
+      "uri": "http://web.archive.org/web/20081218090859/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090131220533",
+      "uri": "http://web.archive.org/web/20090131220533/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20090210135529",
+      "uri": "http://web.archive.org/web/20090210135529/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20090218174059",
+      "uri": "http://web.archive.org/web/20090218174059/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20090226231947",
+      "uri": "http://web.archive.org/web/20090226231947/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090307135737",
+      "uri": "http://web.archive.org/web/20090307135737/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090315101558",
+      "uri": "http://web.archive.org/web/20090315101558/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090323221625",
+      "uri": "http://web.archive.org/web/20090323221625/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090402230216",
+      "uri": "http://web.archive.org/web/20090402230216/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090412223705",
+      "uri": "http://web.archive.org/web/20090412223705/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090420100355",
+      "uri": "http://web.archive.org/web/20090420100355/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20090427220329",
+      "uri": "http://web.archive.org/web/20090427220329/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090505205655",
+      "uri": "http://web.archive.org/web/20090505205655/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090514102755",
+      "uri": "http://web.archive.org/web/20090514102755/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090523065446",
+      "uri": "http://web.archive.org/web/20090523065446/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090531222700",
+      "uri": "http://web.archive.org/web/20090531222700/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090609210414",
+      "uri": "http://web.archive.org/web/20090609210414/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090621032912",
+      "uri": "http://web.archive.org/web/20090621032912/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090628104846",
+      "uri": "http://web.archive.org/web/20090628104846/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090705122812",
+      "uri": "http://web.archive.org/web/20090705122812/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090713041126",
+      "uri": "http://web.archive.org/web/20090713041126/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090721004040",
+      "uri": "http://web.archive.org/web/20090721004040/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090728185347",
+      "uri": "http://web.archive.org/web/20090728185347/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090805114823",
+      "uri": "http://web.archive.org/web/20090805114823/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090815031059",
+      "uri": "http://web.archive.org/web/20090815031059/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090820063113",
+      "uri": "http://web.archive.org/web/20090820063113/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090825130052",
+      "uri": "http://web.archive.org/web/20090825130052/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090906020957",
+      "uri": "http://web.archive.org/web/20090906020957/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20090908150549",
+      "uri": "http://web.archive.org/web/20090908150549/http://rancidrancid.com/?"
+    },
+    {
+      "datetime": "20090916214703",
+      "uri": "http://web.archive.org/web/20090916214703/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20090928090559",
+      "uri": "http://web.archive.org/web/20090928090559/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20091009161851",
+      "uri": "http://web.archive.org/web/20091009161851/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20091009161938",
+      "uri": "http://web.archive.org/web/20091009161938/http://rancidrancid.com/?"
+    },
+    {
+      "datetime": "20091020202835",
+      "uri": "http://web.archive.org/web/20091020202835/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20091026040043",
+      "uri": "http://web.archive.org/web/20091026040043/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20091027194021",
+      "uri": "http://web.archive.org/web/20091027194021/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20091101193231",
+      "uri": "http://web.archive.org/web/20091101193231/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20091116035344",
+      "uri": "http://web.archive.org/web/20091116035344/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20091129064551",
+      "uri": "http://web.archive.org/web/20091129064551/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20091210115135",
+      "uri": "http://web.archive.org/web/20091210115135/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20091213001543",
+      "uri": "http://web.archive.org/web/20091213001543/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20091214024330",
+      "uri": "http://web.archive.org/web/20091214024330/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20091220220332",
+      "uri": "http://web.archive.org/web/20091220220332/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20091229221156",
+      "uri": "http://web.archive.org/web/20091229221156/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20100103163212",
+      "uri": "http://web.archive.org/web/20100103163212/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20100105005617",
+      "uri": "http://web.archive.org/web/20100105005617/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20100108061107",
+      "uri": "http://web.archive.org/web/20100108061107/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20100118134530",
+      "uri": "http://web.archive.org/web/20100118134530/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20100130191339",
+      "uri": "http://web.archive.org/web/20100130191339/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20100212121329",
+      "uri": "http://web.archive.org/web/20100212121329/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20100225223057",
+      "uri": "http://web.archive.org/web/20100225223057/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20100310115347",
+      "uri": "http://web.archive.org/web/20100310115347/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20100323225455",
+      "uri": "http://web.archive.org/web/20100323225455/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20100406064654",
+      "uri": "http://web.archive.org/web/20100406064654/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20100417173347",
+      "uri": "http://web.archive.org/web/20100417173347/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20100430153722",
+      "uri": "http://web.archive.org/web/20100430153722/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20100514122324",
+      "uri": "http://web.archive.org/web/20100514122324/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20100526115044",
+      "uri": "http://web.archive.org/web/20100526115044/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20100609090758",
+      "uri": "http://web.archive.org/web/20100609090758/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20100706123525",
+      "uri": "http://web.archive.org/web/20100706123525/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20100721234953",
+      "uri": "http://web.archive.org/web/20100721234953/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20100724120733",
+      "uri": "http://web.archive.org/web/20100724120733/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20100817165722",
+      "uri": "http://web.archive.org/web/20100817165722/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20100907051628",
+      "uri": "http://web.archive.org/web/20100907051628/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20100925224637",
+      "uri": "http://web.archive.org/web/20100925224637/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20101011112135",
+      "uri": "http://web.archive.org/web/20101011112135/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20101027052426",
+      "uri": "http://web.archive.org/web/20101027052426/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20101111170852",
+      "uri": "http://web.archive.org/web/20101111170852/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20101128200200",
+      "uri": "http://web.archive.org/web/20101128200200/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20101129040152",
+      "uri": "http://web.archive.org/web/20101129040152/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20101213184944",
+      "uri": "http://web.archive.org/web/20101213184944/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20101219092754",
+      "uri": "http://web.archive.org/web/20101219092754/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20101229034716",
+      "uri": "http://web.archive.org/web/20101229034716/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20110105071652",
+      "uri": "http://web.archive.org/web/20110105071652/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20110117185843",
+      "uri": "http://web.archive.org/web/20110117185843/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20110202103324",
+      "uri": "http://web.archive.org/web/20110202103324/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20110203110313",
+      "uri": "http://web.archive.org/web/20110203110313/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20110220215632",
+      "uri": "http://web.archive.org/web/20110220215632/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20110226101021",
+      "uri": "http://web.archive.org/web/20110226101021/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20110228075934",
+      "uri": "http://web.archive.org/web/20110228075934/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20110310122919",
+      "uri": "http://web.archive.org/web/20110310122919/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20110410200230",
+      "uri": "http://web.archive.org/web/20110410200230/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20110423031743",
+      "uri": "http://web.archive.org/web/20110423031743/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20110426020249",
+      "uri": "http://web.archive.org/web/20110426020249/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20110427100508",
+      "uri": "http://web.archive.org/web/20110427100508/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20110512005552",
+      "uri": "http://web.archive.org/web/20110512005552/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20110527114241",
+      "uri": "http://web.archive.org/web/20110527114241/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20110611081032",
+      "uri": "http://web.archive.org/web/20110611081032/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20110626190349",
+      "uri": "http://web.archive.org/web/20110626190349/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20110629123102",
+      "uri": "http://web.archive.org/web/20110629123102/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20110703014520",
+      "uri": "http://web.archive.org/web/20110703014520/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20110709081257",
+      "uri": "http://web.archive.org/web/20110709081257/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20110715152813",
+      "uri": "http://web.archive.org/web/20110715152813/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20110715152945",
+      "uri": "http://web.archive.org/web/20110715152945/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20110722171530",
+      "uri": "http://web.archive.org/web/20110722171530/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20110726190638",
+      "uri": "http://web.archive.org/web/20110726190638/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20110822071846",
+      "uri": "http://web.archive.org/web/20110822071846/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20110825153039",
+      "uri": "http://web.archive.org/web/20110825153039/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20110825153513",
+      "uri": "http://web.archive.org/web/20110825153513/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20110903095749",
+      "uri": "http://web.archive.org/web/20110903095749/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20110925002435",
+      "uri": "http://web.archive.org/web/20110925002435/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20111001090810",
+      "uri": "http://web.archive.org/web/20111001090810/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20111004220146",
+      "uri": "http://web.archive.org/web/20111004220146/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20111006173353",
+      "uri": "http://web.archive.org/web/20111006173353/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20111012174251",
+      "uri": "http://web.archive.org/web/20111012174251/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20111012223852",
+      "uri": "http://web.archive.org/web/20111012223852/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20111108233248",
+      "uri": "http://web.archive.org/web/20111108233248/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20111123010811",
+      "uri": "http://web.archive.org/web/20111123010811/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20111206095953",
+      "uri": "http://web.archive.org/web/20111206095953/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20120105022847",
+      "uri": "http://web.archive.org/web/20120105022847/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20120106015316",
+      "uri": "http://web.archive.org/web/20120106015316/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20120111145503",
+      "uri": "http://web.archive.org/web/20120111145503/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20120112001027",
+      "uri": "http://web.archive.org/web/20120112001027/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120112062742",
+      "uri": "http://web.archive.org/web/20120112062742/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120122023255",
+      "uri": "http://web.archive.org/web/20120122023255/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120207084414",
+      "uri": "http://web.archive.org/web/20120207084414/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20120207085331",
+      "uri": "http://web.archive.org/web/20120207085331/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20120219044927",
+      "uri": "http://web.archive.org/web/20120219044927/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120304133123",
+      "uri": "http://web.archive.org/web/20120304133123/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120318112053",
+      "uri": "http://web.archive.org/web/20120318112053/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120329125827",
+      "uri": "http://web.archive.org/web/20120329125827/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120410033535",
+      "uri": "http://web.archive.org/web/20120410033535/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120424012652",
+      "uri": "http://web.archive.org/web/20120424012652/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120503023647",
+      "uri": "http://web.archive.org/web/20120503023647/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20120504082411",
+      "uri": "http://web.archive.org/web/20120504082411/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20120504110353",
+      "uri": "http://web.archive.org/web/20120504110353/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120504162054",
+      "uri": "http://web.archive.org/web/20120504162054/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20120506075341",
+      "uri": "http://web.archive.org/web/20120506075341/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20120507031507",
+      "uri": "http://web.archive.org/web/20120507031507/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20120518010648",
+      "uri": "http://web.archive.org/web/20120518010648/http://rancidrancid.com/?"
+    },
+    {
+      "datetime": "20120520165037",
+      "uri": "http://web.archive.org/web/20120520165037/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120521201408",
+      "uri": "http://web.archive.org/web/20120521201408/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120604054956",
+      "uri": "http://web.archive.org/web/20120604054956/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120617170618",
+      "uri": "http://web.archive.org/web/20120617170618/http://rancidrancid.com/?"
+    },
+    {
+      "datetime": "20120621002010",
+      "uri": "http://web.archive.org/web/20120621002010/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120705010659",
+      "uri": "http://web.archive.org/web/20120705010659/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120718093710",
+      "uri": "http://web.archive.org/web/20120718093710/http://rancidrancid.com/?"
+    },
+    {
+      "datetime": "20120719043202",
+      "uri": "http://web.archive.org/web/20120719043202/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120801123713",
+      "uri": "http://web.archive.org/web/20120801123713/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120817034745",
+      "uri": "http://web.archive.org/web/20120817034745/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120904022035",
+      "uri": "http://web.archive.org/web/20120904022035/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20120930070929",
+      "uri": "http://web.archive.org/web/20120930070929/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20121005180718",
+      "uri": "http://web.archive.org/web/20121005180718/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20121006042944",
+      "uri": "http://web.archive.org/web/20121006042944/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20121015112216",
+      "uri": "http://web.archive.org/web/20121015112216/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20121020024842",
+      "uri": "http://web.archive.org/web/20121020024842/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20121111013606",
+      "uri": "http://web.archive.org/web/20121111013606/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20121127054955",
+      "uri": "http://web.archive.org/web/20121127054955/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20121209190810",
+      "uri": "http://web.archive.org/web/20121209190810/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130102081738",
+      "uri": "http://web.archive.org/web/20130102081738/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130102083550",
+      "uri": "http://web.archive.org/web/20130102083550/http://rancidrancid.com/?"
+    },
+    {
+      "datetime": "20130113071411",
+      "uri": "http://web.archive.org/web/20130113071411/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20130113195022",
+      "uri": "http://web.archive.org/web/20130113195022/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130115081959",
+      "uri": "http://web.archive.org/web/20130115081959/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130123181352",
+      "uri": "http://web.archive.org/web/20130123181352/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20130202024204",
+      "uri": "http://web.archive.org/web/20130202024204/http://rancidrancid.com/?"
+    },
+    {
+      "datetime": "20130207093210",
+      "uri": "http://web.archive.org/web/20130207093210/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130224235347",
+      "uri": "http://web.archive.org/web/20130224235347/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130306032830",
+      "uri": "http://web.archive.org/web/20130306032830/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130313143336",
+      "uri": "http://web.archive.org/web/20130313143336/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130320203149",
+      "uri": "http://web.archive.org/web/20130320203149/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20130320203151",
+      "uri": "http://web.archive.org/web/20130320203151/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130401154748",
+      "uri": "http://web.archive.org/web/20130401154748/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130402155529",
+      "uri": "http://web.archive.org/web/20130402155529/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130403034310",
+      "uri": "http://web.archive.org/web/20130403034310/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20130404073921",
+      "uri": "http://web.archive.org/web/20130404073921/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130415042021",
+      "uri": "http://web.archive.org/web/20130415042021/http://rancidrancid.com/?"
+    },
+    {
+      "datetime": "20130417084335",
+      "uri": "http://web.archive.org/web/20130417084335/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130420063058",
+      "uri": "http://web.archive.org/web/20130420063058/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130420065108",
+      "uri": "http://web.archive.org/web/20130420065108/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130421071004",
+      "uri": "http://web.archive.org/web/20130421071004/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20130430080923",
+      "uri": "http://web.archive.org/web/20130430080923/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130502031105",
+      "uri": "http://web.archive.org/web/20130502031105/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130510212916",
+      "uri": "http://web.archive.org/web/20130510212916/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130512141759",
+      "uri": "http://web.archive.org/web/20130512141759/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20130515145919",
+      "uri": "http://web.archive.org/web/20130515145919/http://rancidrancid.com/?"
+    },
+    {
+      "datetime": "20130517032759",
+      "uri": "http://web.archive.org/web/20130517032759/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130602040622",
+      "uri": "http://web.archive.org/web/20130602040622/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130617181335",
+      "uri": "http://web.archive.org/web/20130617181335/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130621230425",
+      "uri": "http://web.archive.org/web/20130621230425/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130628095934",
+      "uri": "http://web.archive.org/web/20130628095934/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130709081717",
+      "uri": "http://web.archive.org/web/20130709081717/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130721174158",
+      "uri": "http://web.archive.org/web/20130721174158/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130805081243",
+      "uri": "http://web.archive.org/web/20130805081243/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130806100651",
+      "uri": "http://web.archive.org/web/20130806100651/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130814083423",
+      "uri": "http://web.archive.org/web/20130814083423/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20130825072742",
+      "uri": "http://web.archive.org/web/20130825072742/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20130915132543",
+      "uri": "http://web.archive.org/web/20130915132543/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20131013082914",
+      "uri": "http://web.archive.org/web/20131013082914/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20131022024921",
+      "uri": "http://web.archive.org/web/20131022024921/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20131022032758",
+      "uri": "http://web.archive.org/web/20131022032758/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20131022033318",
+      "uri": "http://web.archive.org/web/20131022033318/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20131022131145",
+      "uri": "http://web.archive.org/web/20131022131145/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20131115055521",
+      "uri": "http://web.archive.org/web/20131115055521/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20131216022136",
+      "uri": "http://web.archive.org/web/20131216022136/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20140104172545",
+      "uri": "http://web.archive.org/web/20140104172545/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20140114210506",
+      "uri": "http://web.archive.org/web/20140114210506/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20140214095809",
+      "uri": "http://web.archive.org/web/20140214095809/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20140312201813",
+      "uri": "http://web.archive.org/web/20140312201813/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20140327144334",
+      "uri": "http://web.archive.org/web/20140327144334/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20140328013906",
+      "uri": "http://web.archive.org/web/20140328013906/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20140404053717",
+      "uri": "http://web.archive.org/web/20140404053717/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20140430004607",
+      "uri": "http://web.archive.org/web/20140430004607/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20140527072042",
+      "uri": "http://web.archive.org/web/20140527072042/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20140530163546",
+      "uri": "http://web.archive.org/web/20140530163546/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20140626003517",
+      "uri": "http://web.archive.org/web/20140626003517/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20140701031455",
+      "uri": "http://web.archive.org/web/20140701031455/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20140702080043",
+      "uri": "http://web.archive.org/web/20140702080043/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20140705183456",
+      "uri": "http://web.archive.org/web/20140705183456/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20140705194410",
+      "uri": "http://web.archive.org/web/20140705194410/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20140822084328",
+      "uri": "http://web.archive.org/web/20140822084328/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20140908233328",
+      "uri": "http://web.archive.org/web/20140908233328/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20140922052159",
+      "uri": "http://web.archive.org/web/20140922052159/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141004065717",
+      "uri": "http://web.archive.org/web/20141004065717/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141007021424",
+      "uri": "http://web.archive.org/web/20141007021424/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141011170851",
+      "uri": "http://web.archive.org/web/20141011170851/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141019221851",
+      "uri": "http://web.archive.org/web/20141019221851/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141025184142",
+      "uri": "http://web.archive.org/web/20141025184142/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20141025184144",
+      "uri": "http://web.archive.org/web/20141025184144/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141030001423",
+      "uri": "http://web.archive.org/web/20141030001423/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141106060045",
+      "uri": "http://web.archive.org/web/20141106060045/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141108013922",
+      "uri": "http://web.archive.org/web/20141108013922/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20141108013924",
+      "uri": "http://web.archive.org/web/20141108013924/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141108061315",
+      "uri": "http://web.archive.org/web/20141108061315/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20141108061317",
+      "uri": "http://web.archive.org/web/20141108061317/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141113211711",
+      "uri": "http://web.archive.org/web/20141113211711/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141125144121",
+      "uri": "http://web.archive.org/web/20141125144121/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141205124432",
+      "uri": "http://web.archive.org/web/20141205124432/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141209113900",
+      "uri": "http://web.archive.org/web/20141209113900/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141214150921",
+      "uri": "http://web.archive.org/web/20141214150921/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141214150922",
+      "uri": "http://web.archive.org/web/20141214150922/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141214150936",
+      "uri": "http://web.archive.org/web/20141214150936/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141214150937",
+      "uri": "http://web.archive.org/web/20141214150937/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141214150952",
+      "uri": "http://web.archive.org/web/20141214150952/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141214150954",
+      "uri": "http://web.archive.org/web/20141214150954/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141217235550",
+      "uri": "http://web.archive.org/web/20141217235550/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141218142255",
+      "uri": "http://web.archive.org/web/20141218142255/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141218171153",
+      "uri": "http://web.archive.org/web/20141218171153/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141222142702",
+      "uri": "http://web.archive.org/web/20141222142702/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141226154436",
+      "uri": "http://web.archive.org/web/20141226154436/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141227062303",
+      "uri": "http://web.archive.org/web/20141227062303/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141227062303",
+      "uri": "http://web.archive.org/web/20141227062303/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141227062307",
+      "uri": "http://web.archive.org/web/20141227062307/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141227062325",
+      "uri": "http://web.archive.org/web/20141227062325/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141227062330",
+      "uri": "http://web.archive.org/web/20141227062330/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141227062345",
+      "uri": "http://web.archive.org/web/20141227062345/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20141229120450",
+      "uri": "http://web.archive.org/web/20141229120450/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150101083220",
+      "uri": "http://web.archive.org/web/20150101083220/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150105002050",
+      "uri": "http://web.archive.org/web/20150105002050/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150113025620",
+      "uri": "http://web.archive.org/web/20150113025620/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150114030552",
+      "uri": "http://web.archive.org/web/20150114030552/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150119041321",
+      "uri": "http://web.archive.org/web/20150119041321/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150121152624",
+      "uri": "http://web.archive.org/web/20150121152624/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150125074600",
+      "uri": "http://web.archive.org/web/20150125074600/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150201223813",
+      "uri": "http://web.archive.org/web/20150201223813/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20150202030454",
+      "uri": "http://web.archive.org/web/20150202030454/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150205230243",
+      "uri": "http://web.archive.org/web/20150205230243/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150206234542",
+      "uri": "http://web.archive.org/web/20150206234542/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150216125145",
+      "uri": "http://web.archive.org/web/20150216125145/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150228012844",
+      "uri": "http://web.archive.org/web/20150228012844/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150306134021",
+      "uri": "http://web.archive.org/web/20150306134021/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20150306134030",
+      "uri": "http://web.archive.org/web/20150306134030/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150314191638",
+      "uri": "http://web.archive.org/web/20150314191638/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150314223237",
+      "uri": "http://web.archive.org/web/20150314223237/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150314233825",
+      "uri": "http://web.archive.org/web/20150314233825/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150326042454",
+      "uri": "http://web.archive.org/web/20150326042454/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150403190246",
+      "uri": "http://web.archive.org/web/20150403190246/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150403190246",
+      "uri": "http://web.archive.org/web/20150403190246/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150405120802",
+      "uri": "http://web.archive.org/web/20150405120802/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150407183008",
+      "uri": "http://web.archive.org/web/20150407183008/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150408152747",
+      "uri": "http://web.archive.org/web/20150408152747/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20150411081206",
+      "uri": "http://web.archive.org/web/20150411081206/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150418120550",
+      "uri": "http://web.archive.org/web/20150418120550/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20150423152034",
+      "uri": "http://web.archive.org/web/20150423152034/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150511133755",
+      "uri": "http://web.archive.org/web/20150511133755/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150530055726",
+      "uri": "http://web.archive.org/web/20150530055726/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150607032339",
+      "uri": "http://web.archive.org/web/20150607032339/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150612130311",
+      "uri": "http://web.archive.org/web/20150612130311/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150625204640",
+      "uri": "http://web.archive.org/web/20150625204640/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150626013533",
+      "uri": "http://web.archive.org/web/20150626013533/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150701050250",
+      "uri": "http://web.archive.org/web/20150701050250/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150701074459",
+      "uri": "http://web.archive.org/web/20150701074459/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150704073212",
+      "uri": "http://web.archive.org/web/20150704073212/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20150704073217",
+      "uri": "http://web.archive.org/web/20150704073217/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150705144526",
+      "uri": "http://web.archive.org/web/20150705144526/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150713022235",
+      "uri": "http://web.archive.org/web/20150713022235/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150729150703",
+      "uri": "http://web.archive.org/web/20150729150703/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150730011249",
+      "uri": "http://web.archive.org/web/20150730011249/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150730213506",
+      "uri": "http://web.archive.org/web/20150730213506/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20150730213509",
+      "uri": "http://web.archive.org/web/20150730213509/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150801080331",
+      "uri": "http://web.archive.org/web/20150801080331/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150801080332",
+      "uri": "http://web.archive.org/web/20150801080332/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150801082110",
+      "uri": "http://web.archive.org/web/20150801082110/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150801082111",
+      "uri": "http://web.archive.org/web/20150801082111/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150801082112",
+      "uri": "http://web.archive.org/web/20150801082112/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150806161142",
+      "uri": "http://web.archive.org/web/20150806161142/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150811014124",
+      "uri": "http://web.archive.org/web/20150811014124/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20150816065900",
+      "uri": "http://web.archive.org/web/20150816065900/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150816094211",
+      "uri": "http://web.archive.org/web/20150816094211/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150824175241",
+      "uri": "http://web.archive.org/web/20150824175241/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150824175250",
+      "uri": "http://web.archive.org/web/20150824175250/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150905093230",
+      "uri": "http://web.archive.org/web/20150905093230/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20150905124238",
+      "uri": "http://web.archive.org/web/20150905124238/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150907021941",
+      "uri": "http://web.archive.org/web/20150907021941/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150920142955",
+      "uri": "http://web.archive.org/web/20150920142955/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20150925021340",
+      "uri": "http://web.archive.org/web/20150925021340/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20151004015815",
+      "uri": "http://web.archive.org/web/20151004015815/http://rancidrancid.com/?"
+    },
+    {
+      "datetime": "20151006042012",
+      "uri": "http://web.archive.org/web/20151006042012/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20151015021812",
+      "uri": "http://web.archive.org/web/20151015021812/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20151018130316",
+      "uri": "http://web.archive.org/web/20151018130316/http://www.rancidrancid.com"
+    },
+    {
+      "datetime": "20151018130319",
+      "uri": "http://web.archive.org/web/20151018130319/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20151031071112",
+      "uri": "http://web.archive.org/web/20151031071112/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20151103201444",
+      "uri": "http://web.archive.org/web/20151103201444/http://rancidrancid.com/?"
+    },
+    {
+      "datetime": "20151107014907",
+      "uri": "http://web.archive.org/web/20151107014907/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20151107014908",
+      "uri": "http://web.archive.org/web/20151107014908/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20151114064016",
+      "uri": "http://web.archive.org/web/20151114064016/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20151130041733",
+      "uri": "http://web.archive.org/web/20151130041733/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20151213132038",
+      "uri": "http://web.archive.org/web/20151213132038/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20151226144034",
+      "uri": "http://web.archive.org/web/20151226144034/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20151231111931",
+      "uri": "http://web.archive.org/web/20151231111931/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20151231111932",
+      "uri": "http://web.archive.org/web/20151231111932/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20151231112028",
+      "uri": "http://web.archive.org/web/20151231112028/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20160101151219",
+      "uri": "http://web.archive.org/web/20160101151219/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160109003606",
+      "uri": "http://web.archive.org/web/20160109003606/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20160109003607",
+      "uri": "http://web.archive.org/web/20160109003607/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160109161505",
+      "uri": "http://web.archive.org/web/20160109161505/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160110161848",
+      "uri": "http://web.archive.org/web/20160110161848/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20160110161849",
+      "uri": "http://web.archive.org/web/20160110161849/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160110161856",
+      "uri": "http://web.archive.org/web/20160110161856/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20160113162951",
+      "uri": "http://web.archive.org/web/20160113162951/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160118111631",
+      "uri": "http://web.archive.org/web/20160118111631/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160123150046",
+      "uri": "http://web.archive.org/web/20160123150046/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20160201034447",
+      "uri": "http://web.archive.org/web/20160201034447/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20160203084228",
+      "uri": "http://web.archive.org/web/20160203084228/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160212114514",
+      "uri": "http://web.archive.org/web/20160212114514/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160216015151",
+      "uri": "http://web.archive.org/web/20160216015151/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160218131550",
+      "uri": "http://web.archive.org/web/20160218131550/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160303174707",
+      "uri": "http://web.archive.org/web/20160303174707/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20160304001542",
+      "uri": "http://web.archive.org/web/20160304001542/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20160304111848",
+      "uri": "http://web.archive.org/web/20160304111848/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160304175143",
+      "uri": "http://web.archive.org/web/20160304175143/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160305070953",
+      "uri": "http://web.archive.org/web/20160305070953/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160306015901",
+      "uri": "http://web.archive.org/web/20160306015901/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160311212850",
+      "uri": "http://web.archive.org/web/20160311212850/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160315065435",
+      "uri": "http://web.archive.org/web/20160315065435/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20160321025556",
+      "uri": "http://web.archive.org/web/20160321025556/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160326011601",
+      "uri": "http://web.archive.org/web/20160326011601/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20160326011603",
+      "uri": "http://web.archive.org/web/20160326011603/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160330024912",
+      "uri": "http://web.archive.org/web/20160330024912/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20160330082125",
+      "uri": "http://web.archive.org/web/20160330082125/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160407030019",
+      "uri": "http://web.archive.org/web/20160407030019/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160407094551",
+      "uri": "http://web.archive.org/web/20160407094551/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160410163044",
+      "uri": "http://web.archive.org/web/20160410163044/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20160410163045",
+      "uri": "http://web.archive.org/web/20160410163045/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160413042543",
+      "uri": "http://web.archive.org/web/20160413042543/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160421143623",
+      "uri": "http://web.archive.org/web/20160421143623/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160426213029",
+      "uri": "http://web.archive.org/web/20160426213029/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160502000243",
+      "uri": "http://web.archive.org/web/20160502000243/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160514035853",
+      "uri": "http://web.archive.org/web/20160514035853/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20160528163524",
+      "uri": "http://web.archive.org/web/20160528163524/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160531082831",
+      "uri": "http://web.archive.org/web/20160531082831/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20160531082834",
+      "uri": "http://web.archive.org/web/20160531082834/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160731043233",
+      "uri": "http://web.archive.org/web/20160731043233/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160806094211",
+      "uri": "http://web.archive.org/web/20160806094211/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20160810153954",
+      "uri": "http://web.archive.org/web/20160810153954/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20160818034001",
+      "uri": "http://web.archive.org/web/20160818034001/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20160918233035",
+      "uri": "http://web.archive.org/web/20160918233035/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20160918233037",
+      "uri": "http://web.archive.org/web/20160918233037/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20161003165544",
+      "uri": "http://web.archive.org/web/20161003165544/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20161006034738",
+      "uri": "http://web.archive.org/web/20161006034738/http://www.rancidrancid.com/"
+    },
+    {
+      "datetime": "20161006034740",
+      "uri": "http://web.archive.org/web/20161006034740/http://rancidrancid.com/"
+    },
+    {
+      "datetime": "20161009203227",
+      "uri": "http://web.archive.org/web/20161009203227/http://www.rancidrancid.com/"
+    }
+  ],
+  "first": "Thu, 02 Mar 2000 01:42:53 GMT",
+  "timegate": "http://web.archive.org/web/http://rancidrancid.com/",
+  "member_points": [
+    {
+      "t": "20161025051043",
+      "member": "Lars Frederiksen",
+      "plays": [
+        "lead and backing vocals",
+        "guitar"
+      ],
+      "f": "19930101000100"
+    },
+    {
+      "t": "20161025051043",
+      "member": "Branden Steineckert",
+      "plays": [
+        "percussion",
+        "drums"
+      ],
+      "f": "20060101000100"
+    },
+    {
+      "t": "19700821040800",
+      "member": "Brett Reed",
+      "plays": [
+        " percussion",
+        "drums",
+        " backing vocals"
+      ],
+      "f": "19910101000100"
+    },
+    {
+      "t": "20161025051043",
+      "member": "Tim Armstrong",
+      "plays": [
+        "guitar",
+        "lead and backing vocals"
+      ],
+      "f": "19910101000100"
+    },
+    {
+      "t": "20161025051043",
+      "member": "Matt Freeman",
+      "plays": [
+        "backing and lead vocals",
+        "bass guitar"
+      ],
+      "f": "19910101000100"
+    }
+  ],
+  "original": "http://rancidrancid.com/",
+  "timemap": "http://web.archive.org/web/timemap/link/http://rancidrancid.com/",
+  "last": "Fri, 21 Oct 2016 19:15:31 GMT"
+}

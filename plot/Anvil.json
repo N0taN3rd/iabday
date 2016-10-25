@@ -1,0 +1,448 @@
+{
+  "mementos": [
+    {
+      "datetime": "20040603034954",
+      "uri": "http://web.archive.org/web/20040603034954/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20040618180124",
+      "uri": "http://web.archive.org/web/20040618180124/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20040808183049",
+      "uri": "http://web.archive.org/web/20040808183049/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20040815142343",
+      "uri": "http://web.archive.org/web/20040815142343/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20040819082247",
+      "uri": "http://web.archive.org/web/20040819082247/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20041011165656",
+      "uri": "http://web.archive.org/web/20041011165656/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20041021012940",
+      "uri": "http://web.archive.org/web/20041021012940/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20041213220136",
+      "uri": "http://web.archive.org/web/20041213220136/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20041214002235",
+      "uri": "http://web.archive.org/web/20041214002235/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20050205185352",
+      "uri": "http://web.archive.org/web/20050205185352/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20050211112744",
+      "uri": "http://web.archive.org/web/20050211112744/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20050307185255",
+      "uri": "http://web.archive.org/web/20050307185255/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20050324001002",
+      "uri": "http://web.archive.org/web/20050324001002/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20051022085909",
+      "uri": "http://web.archive.org/web/20051022085909/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20051023113133",
+      "uri": "http://web.archive.org/web/20051023113133/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20051023113701",
+      "uri": "http://web.archive.org/web/20051023113701/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20051023174228",
+      "uri": "http://web.archive.org/web/20051023174228/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20051023174844",
+      "uri": "http://web.archive.org/web/20051023174844/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20051025064827",
+      "uri": "http://web.archive.org/web/20051025064827/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20051111005707",
+      "uri": "http://web.archive.org/web/20051111005707/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20051120061648",
+      "uri": "http://web.archive.org/web/20051120061648/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20051201024219",
+      "uri": "http://web.archive.org/web/20051201024219/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20051212045502",
+      "uri": "http://web.archive.org/web/20051212045502/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20051212050231",
+      "uri": "http://web.archive.org/web/20051212050231/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20051214100214",
+      "uri": "http://web.archive.org/web/20051214100214/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20051218100528",
+      "uri": "http://web.archive.org/web/20051218100528/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20060109150410",
+      "uri": "http://web.archive.org/web/20060109150410/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060127233149",
+      "uri": "http://web.archive.org/web/20060127233149/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060128063559",
+      "uri": "http://web.archive.org/web/20060128063559/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060201233504",
+      "uri": "http://web.archive.org/web/20060201233504/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060205004827",
+      "uri": "http://web.archive.org/web/20060205004827/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060221034429",
+      "uri": "http://web.archive.org/web/20060221034429/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060424052714",
+      "uri": "http://web.archive.org/web/20060424052714/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060425212433",
+      "uri": "http://web.archive.org/web/20060425212433/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060610132235",
+      "uri": "http://web.archive.org/web/20060610132235/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060714165249",
+      "uri": "http://web.archive.org/web/20060714165249/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060719220214",
+      "uri": "http://web.archive.org/web/20060719220214/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060720145850",
+      "uri": "http://web.archive.org/web/20060720145850/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060803143031",
+      "uri": "http://web.archive.org/web/20060803143031/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060813130738",
+      "uri": "http://web.archive.org/web/20060813130738/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060902075437",
+      "uri": "http://web.archive.org/web/20060902075437/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060903142038",
+      "uri": "http://web.archive.org/web/20060903142038/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060906081924",
+      "uri": "http://web.archive.org/web/20060906081924/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060907010427",
+      "uri": "http://web.archive.org/web/20060907010427/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060908162210",
+      "uri": "http://web.archive.org/web/20060908162210/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060910000448",
+      "uri": "http://web.archive.org/web/20060910000448/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060911140658",
+      "uri": "http://web.archive.org/web/20060911140658/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060917171548",
+      "uri": "http://web.archive.org/web/20060917171548/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060920041330",
+      "uri": "http://web.archive.org/web/20060920041330/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060921222317",
+      "uri": "http://web.archive.org/web/20060921222317/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060923030224",
+      "uri": "http://web.archive.org/web/20060923030224/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060924061834",
+      "uri": "http://web.archive.org/web/20060924061834/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060925105339",
+      "uri": "http://web.archive.org/web/20060925105339/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060926135308",
+      "uri": "http://web.archive.org/web/20060926135308/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060927180904",
+      "uri": "http://web.archive.org/web/20060927180904/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060928220038",
+      "uri": "http://web.archive.org/web/20060928220038/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20060930012018",
+      "uri": "http://web.archive.org/web/20060930012018/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20061010042326",
+      "uri": "http://web.archive.org/web/20061010042326/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20061205020755",
+      "uri": "http://web.archive.org/web/20061205020755/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20070205085500",
+      "uri": "http://web.archive.org/web/20070205085500/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20070505062351",
+      "uri": "http://web.archive.org/web/20070505062351/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20080706131048",
+      "uri": "http://web.archive.org/web/20080706131048/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20080908094044",
+      "uri": "http://web.archive.org/web/20080908094044/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20110826063942",
+      "uri": "http://web.archive.org/web/20110826063942/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20110826064006",
+      "uri": "http://web.archive.org/web/20110826064006/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20120127221115",
+      "uri": "http://web.archive.org/web/20120127221115/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20120422023247",
+      "uri": "http://web.archive.org/web/20120422023247/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20120422023252",
+      "uri": "http://web.archive.org/web/20120422023252/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20130629131934",
+      "uri": "http://web.archive.org/web/20130629131934/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20130929033826",
+      "uri": "http://web.archive.org/web/20130929033826/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20131022050320",
+      "uri": "http://web.archive.org/web/20131022050320/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20131022105838",
+      "uri": "http://web.archive.org/web/20131022105838/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20131104071717",
+      "uri": "http://web.archive.org/web/20131104071717/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20141109182156",
+      "uri": "http://web.archive.org/web/20141109182156/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20141109194323",
+      "uri": "http://web.archive.org/web/20141109194323/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20141206113959",
+      "uri": "http://web.archive.org/web/20141206113959/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20150524183505",
+      "uri": "http://web.archive.org/web/20150524183505/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20150916182127",
+      "uri": "http://web.archive.org/web/20150916182127/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20160109003243",
+      "uri": "http://web.archive.org/web/20160109003243/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20160308234240",
+      "uri": "http://web.archive.org/web/20160308234240/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20160323050548",
+      "uri": "http://web.archive.org/web/20160323050548/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20160330001014",
+      "uri": "http://web.archive.org/web/20160330001014/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20160412042730",
+      "uri": "http://web.archive.org/web/20160412042730/http://my.tbaytel.net/tgallo/anvil"
+    },
+    {
+      "datetime": "20160412042730",
+      "uri": "http://web.archive.org/web/20160412042730/http://my.tbaytel.net/tgallo/anvil/"
+    },
+    {
+      "datetime": "20160413072257",
+      "uri": "http://web.archive.org/web/20160413072257/http://my.tbaytel.net/tgallo/anvil/"
+    }
+  ],
+  "first": "Thu, 03 Jun 2004 03:49:54 GMT",
+  "timegate": "http://web.archive.org/web/http://my.tbaytel.net/tgallo/anvil/",
+  "member_points": [
+    {
+      "t": "20161025051070",
+      "member": "Steve \"Lips\" Kudlow",
+      "plays": [
+        "lead vocals",
+        "lead guitar"
+      ],
+      "f": "19780101000100"
+    },
+    {
+      "t": "19700822020800",
+      "member": "Sal Italiano",
+      "plays": [
+        "bass guitar"
+      ],
+      "f": "20120101000100"
+    },
+    {
+      "t": "19700819050800",
+      "member": "Dave \"Squirrely\" Allison \u2013 guitar,",
+      "plays": [
+        "vocals "
+      ],
+      "f": "19780101000100"
+    },
+    {
+      "t": "20161025051070",
+      "member": "Chris Robertson",
+      "plays": [
+        "bass guitar "
+      ],
+      "f": "20140101000100"
+    },
+    {
+      "t": "20161025051070",
+      "member": "Steve \"Lips\" Kudlow \u2013 lead vocals, lead",
+      "plays": [
+        "guitar "
+      ],
+      "f": "19780101000100"
+    },
+    {
+      "t": "19700819220800",
+      "member": "Sebastian Marino",
+      "plays": [
+        "guitar"
+      ],
+      "f": "19890101000100"
+    },
+    {
+      "t": "19700820000800",
+      "member": "Mike Duncan",
+      "plays": [
+        "bass guitar"
+      ],
+      "f": "19930101000100"
+    },
+    {
+      "t": "19700819160800",
+      "member": "Ian \"Dix\" Dickson \u2013 bass",
+      "plays": [
+        "guitar "
+      ],
+      "f": "19780101000100"
+    },
+    {
+      "t": "20161025051070",
+      "member": "Robb \"Robbo\" Reiner",
+      "plays": [
+        "drums "
+      ],
+      "f": "19780101000100"
+    },
+    {
+      "t": "19700821070800",
+      "member": "Ivan Hurd",
+      "plays": [
+        "guitar"
+      ],
+      "f": "19950101000100"
+    },
+    {
+      "t": "20161025051070",
+      "member": "Robb \"Robbo\" Reiner \u2013",
+      "plays": [
+        "drums "
+      ],
+      "f": "19780101000100"
+    },
+    {
+      "t": "19700821210800",
+      "member": "Glenn \"Glenn Five\" Gyorffy \u2013 bass guitar, backing",
+      "plays": [
+        "vocals "
+      ],
+      "f": "19960101000100"
+    }
+  ],
+  "original": "http://my.tbaytel.net/tgallo/anvil/",
+  "timemap": "http://web.archive.org/web/timemap/link/http://my.tbaytel.net/tgallo/anvil/",
+  "last": "Sat, 23 Jul 2016 01:07:28 GMT"
+}

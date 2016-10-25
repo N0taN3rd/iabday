@@ -1,0 +1,465 @@
+{
+  "mementos": [
+    {
+      "datetime": "20110207113236",
+      "uri": "http://web.archive.org/web/20110207113236/http://aljourgensen.com/"
+    },
+    {
+      "datetime": "20130505091858",
+      "uri": "http://web.archive.org/web/20130505091858/http://aljourgensen.com/"
+    },
+    {
+      "datetime": "20141216191715",
+      "uri": "http://web.archive.org/web/20141216191715/http://aljourgensen.com/"
+    },
+    {
+      "datetime": "20150801041440",
+      "uri": "http://web.archive.org/web/20150801041440/http://aljourgensen.com/"
+    },
+    {
+      "datetime": "20150925221257",
+      "uri": "http://web.archive.org/web/20150925221257/http://aljourgensen.com/"
+    },
+    {
+      "datetime": "20160109225856",
+      "uri": "http://web.archive.org/web/20160109225856/http://aljourgensen.com/"
+    },
+    {
+      "datetime": "20160211233119",
+      "uri": "http://web.archive.org/web/20160211233119/http://www.aljourgensen.com/"
+    },
+    {
+      "datetime": "20160212134700",
+      "uri": "http://web.archive.org/web/20160212134700/http://www.aljourgensen.com/"
+    },
+    {
+      "datetime": "20160309035737",
+      "uri": "http://web.archive.org/web/20160309035737/http://aljourgensen.com/"
+    },
+    {
+      "datetime": "20160621071000",
+      "uri": "http://web.archive.org/web/20160621071000/http://www.aljourgensen.com/"
+    },
+    {
+      "datetime": "20160810020839",
+      "uri": "http://web.archive.org/web/20160810020839/http://www.aljourgensen.com/"
+    },
+    {
+      "datetime": "20160910074735",
+      "uri": "http://web.archive.org/web/20160910074735/http://www.aljourgensen.com/"
+    }
+  ],
+  "first": "Mon, 07 Feb 2011 11:32:36 GMT",
+  "timegate": "http://web.archive.org/web/http://www.aljourgensen.com/",
+  "member_points": [
+    {
+      "t": "19700818180800",
+      "member": "John Soroka",
+      "plays": [
+        "keyboards",
+        " percussion",
+        " backing vocals"
+      ],
+      "f": "19840101000100"
+    },
+    {
+      "t": "19700818120800",
+      "member": "Mark Pothier",
+      "plays": [
+        "keyboards",
+        " backing vocals"
+      ],
+      "f": "19830101000100"
+    },
+    {
+      "t": "19700818120800",
+      "member": "Shay Jones",
+      "plays": [
+        "vocals"
+      ],
+      "f": "19820101000100"
+    },
+    {
+      "t": "19700818150800",
+      "member": "Doug Chamberlin",
+      "plays": [
+        "keyboards",
+        " backing vocals"
+      ],
+      "f": "19830101000100"
+    },
+    {
+      "t": "19700819080800",
+      "member": "Nivek Ogre",
+      "plays": [
+        "vocals",
+        " guitar",
+        " keyboards"
+      ],
+      "f": "19880101000100"
+    },
+    {
+      "t": "19700819130800",
+      "member": "Sam Ladwig",
+      "plays": [
+        "guitar"
+      ],
+      "f": "19920101000100"
+    },
+    {
+      "t": "19700818230800",
+      "member": "Marston Daley",
+      "plays": [
+        "keyboards"
+      ],
+      "f": "19870101000100"
+    },
+    {
+      "t": "19700821100800",
+      "member": "Al Jourgensen",
+      "plays": [
+        " keyboards",
+        " synthesizers",
+        "vocals",
+        " guitar",
+        "drums",
+        " bass guitar"
+      ],
+      "f": "19810101000100"
+    },
+    {
+      "t": "19700822000800",
+      "member": "Al Jourgensen",
+      "plays": [
+        " keyboards",
+        " synthesizers",
+        "vocals",
+        " guitar",
+        "drums",
+        " bass guitar"
+      ],
+      "f": "20110101000100"
+    },
+    {
+      "t": "20161025051072",
+      "member": "Al Jourgensen",
+      "plays": [
+        " keyboards",
+        " synthesizers",
+        "vocals",
+        " guitar",
+        "drums",
+        " bass guitar"
+      ],
+      "f": "20140101000100"
+    },
+    {
+      "t": "19700821100800",
+      "member": "Sin Quirin",
+      "plays": [
+        "guitars",
+        "bass"
+      ],
+      "f": "20070101000100"
+    },
+    {
+      "t": "19700822000800",
+      "member": "Sin Quirin",
+      "plays": [
+        "guitars",
+        "bass"
+      ],
+      "f": "20110101000100"
+    },
+    {
+      "t": "20161025051072",
+      "member": "Sin Quirin",
+      "plays": [
+        "guitars",
+        "bass"
+      ],
+      "f": "20140101000100"
+    },
+    {
+      "t": "19700819020800",
+      "member": "Jeff Ward",
+      "plays": [
+        "drums"
+      ],
+      "f": "19880101000100"
+    },
+    {
+      "t": "19700820230800",
+      "member": "Eddy Garcia",
+      "plays": [
+        "bass"
+      ],
+      "f": "20040101000100"
+    },
+    {
+      "t": "19700818230800",
+      "member": "n Acker",
+      "plays": [
+        "vocals"
+      ],
+      "f": "19870101000100"
+    },
+    {
+      "t": "19700820230800",
+      "member": "Darrell James",
+      "plays": [
+        "keyboards"
+      ],
+      "f": "20030101000100"
+    },
+    {
+      "t": "19700819220800",
+      "member": "Mike Scaccia",
+      "plays": [
+        "guitars",
+        " bass"
+      ],
+      "f": "19890101000100"
+    },
+    {
+      "t": "19700821040800",
+      "member": "Mike Scaccia",
+      "plays": [
+        "guitars",
+        " bass"
+      ],
+      "f": "20030101000100"
+    },
+    {
+      "t": "19700821210800",
+      "member": "Mike Scaccia",
+      "plays": [
+        "guitars",
+        " bass"
+      ],
+      "f": "20110101000100"
+    },
+    {
+      "t": "19700820200800",
+      "member": "Tia Sprocket",
+      "plays": [
+        "drums"
+      ],
+      "f": "20030101000100"
+    },
+    {
+      "t": "19700822050800",
+      "member": "Monte Pittman",
+      "plays": [
+        "guitars"
+      ],
+      "f": "20140101000100"
+    },
+    {
+      "t": "19700818150800",
+      "member": "Patty Jourgensen",
+      "plays": [
+        "keyboards",
+        " backing vocals"
+      ],
+      "f": "19840101000100"
+    },
+    {
+      "t": "19700820230800",
+      "member": "Rick Valles",
+      "plays": [
+        "guitar"
+      ],
+      "f": "20040101000100"
+    },
+    {
+      "t": "20161025051072",
+      "member": "Cesar Soto",
+      "plays": [
+        "guitars "
+      ],
+      "f": "20150101000100"
+    },
+    {
+      "t": "19700821100800",
+      "member": ". Bell",
+      "plays": [
+        "vocals"
+      ],
+      "f": "20080101000100"
+    },
+    {
+      "t": "19700822050800",
+      "member": ". Bell",
+      "plays": [
+        "vocals"
+      ],
+      "f": "20150101000100"
+    },
+    {
+      "t": "19700819080800",
+      "member": "Joe Kelly",
+      "plays": [
+        "vocals",
+        " backing vocals"
+      ],
+      "f": "19890101000100"
+    },
+    {
+      "t": "19700820090800",
+      "member": "Louis Svitek",
+      "plays": [
+        "guitar"
+      ],
+      "f": "19920101000100"
+    },
+    {
+      "t": "19700820200800",
+      "member": "Louis Svitek",
+      "plays": [
+        "guitar"
+      ],
+      "f": "20030101000100"
+    },
+    {
+      "t": "19700821100800",
+      "member": "John Bechdel",
+      "plays": [
+        "keyboards "
+      ],
+      "f": "20060101000100"
+    },
+    {
+      "t": "19700822000800",
+      "member": "John Bechdel",
+      "plays": [
+        "keyboards "
+      ],
+      "f": "20110101000100"
+    },
+    {
+      "t": "20161025051072",
+      "member": "John Bechdel",
+      "plays": [
+        "keyboards "
+      ],
+      "f": "20140101000100"
+    },
+    {
+      "t": "19700819130800",
+      "member": "Michael Bassin",
+      "plays": [
+        "guitar"
+      ],
+      "f": "19920101000100"
+    },
+    {
+      "t": "20161025051072",
+      "member": "Roy Mayorga",
+      "plays": [
+        "percussion",
+        "drums"
+      ],
+      "f": "20160101000100"
+    },
+    {
+      "t": "19700818150800",
+      "member": "Yvonne Gage",
+      "plays": [
+        "vocals",
+        " backing vocals"
+      ],
+      "f": "19840101000100"
+    },
+    {
+      "t": "19700821100800",
+      "member": "Tommy Victor",
+      "plays": [
+        "guitars",
+        " bass"
+      ],
+      "f": "20050101000100"
+    },
+    {
+      "t": "19700821210800",
+      "member": "Tommy Victor",
+      "plays": [
+        "guitars",
+        " bass"
+      ],
+      "f": "20110101000100"
+    },
+    {
+      "t": "19700821040800",
+      "member": "Joey Jordison",
+      "plays": [
+        "drums"
+      ],
+      "f": "20060101000100"
+    },
+    {
+      "t": "19700818210800",
+      "member": "Roland Barker",
+      "plays": [
+        " saxophone",
+        "keyboards"
+      ],
+      "f": "19860101000100"
+    },
+    {
+      "t": "19700819160800",
+      "member": "Roland Barker",
+      "plays": [
+        " saxophone",
+        "keyboards"
+      ],
+      "f": "19920101000100"
+    },
+    {
+      "t": "19700819080800",
+      "member": "Terry Roberts",
+      "plays": [
+        "guitar",
+        " backing vocals"
+      ],
+      "f": "19890101000100"
+    },
+    {
+      "t": "19700819080800",
+      "member": "William Tucker",
+      "plays": [
+        "guitar"
+      ],
+      "f": "19890101000100"
+    },
+    {
+      "t": "19700819080800",
+      "member": "Martin Atkins",
+      "plays": [
+        "drums"
+      ],
+      "f": "19890101000100"
+    },
+    {
+      "t": "20161025051072",
+      "member": "Jason Christopher",
+      "plays": [
+        "backing vocals",
+        "bass"
+      ],
+      "f": "20160101000100"
+    },
+    {
+      "t": "19700820090800",
+      "member": "Zlatko Hukic",
+      "plays": [
+        "guitar",
+        " electronics"
+      ],
+      "f": "19960101000100"
+    }
+  ],
+  "original": "http://www.aljourgensen.com/",
+  "timemap": "http://web.archive.org/web/timemap/link/http://www.aljourgensen.com/",
+  "last": "Mon, 03 Oct 2016 11:24:04 GMT"
+}

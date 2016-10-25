@@ -1,0 +1,5472 @@
+{
+  "mementos": [
+    {
+      "datetime": "19971212084655",
+      "uri": "http://web.archive.org/web/19971212084655/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "19971212090419",
+      "uri": "http://web.archive.org/web/19971212090419/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "19981202132743",
+      "uri": "http://web.archive.org/web/19981202132743/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "19990117025619",
+      "uri": "http://web.archive.org/web/19990117025619/http://megadeth.com/"
+    },
+    {
+      "datetime": "19990117094943",
+      "uri": "http://web.archive.org/web/19990117094943/http://megadeth.com/"
+    },
+    {
+      "datetime": "19990125090838",
+      "uri": "http://web.archive.org/web/19990125090838/http://megadeth.com/"
+    },
+    {
+      "datetime": "19990128055433",
+      "uri": "http://web.archive.org/web/19990128055433/http://megadeth.com/"
+    },
+    {
+      "datetime": "19990208005308",
+      "uri": "http://web.archive.org/web/19990208005308/http://megadeth.com/"
+    },
+    {
+      "datetime": "19990208014753",
+      "uri": "http://web.archive.org/web/19990208014753/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "19990421115154",
+      "uri": "http://web.archive.org/web/19990421115154/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "19990429200012",
+      "uri": "http://web.archive.org/web/19990429200012/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20000301122722",
+      "uri": "http://web.archive.org/web/20000301122722/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20000302094741",
+      "uri": "http://web.archive.org/web/20000302094741/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20000408045534",
+      "uri": "http://web.archive.org/web/20000408045534/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20000408213045",
+      "uri": "http://web.archive.org/web/20000408213045/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20000510031632",
+      "uri": "http://web.archive.org/web/20000510031632/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20000510151140",
+      "uri": "http://web.archive.org/web/20000510151140/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20000511204756",
+      "uri": "http://web.archive.org/web/20000511204756/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20000511224727",
+      "uri": "http://web.archive.org/web/20000511224727/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20000620010908",
+      "uri": "http://web.archive.org/web/20000620010908/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20000620043331",
+      "uri": "http://web.archive.org/web/20000620043331/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20000815074835",
+      "uri": "http://web.archive.org/web/20000815074835/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20001018013341",
+      "uri": "http://web.archive.org/web/20001018013341/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20001018022735",
+      "uri": "http://web.archive.org/web/20001018022735/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20001109234200",
+      "uri": "http://web.archive.org/web/20001109234200/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20001202120300",
+      "uri": "http://web.archive.org/web/20001202120300/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20010202063900",
+      "uri": "http://web.archive.org/web/20010202063900/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20010202160300",
+      "uri": "http://web.archive.org/web/20010202160300/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20010203124900",
+      "uri": "http://web.archive.org/web/20010203124900/http://megadeth.com/"
+    },
+    {
+      "datetime": "20010203142600",
+      "uri": "http://web.archive.org/web/20010203142600/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20010301082344",
+      "uri": "http://web.archive.org/web/20010301082344/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20010301191450",
+      "uri": "http://web.archive.org/web/20010301191450/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20010302045822",
+      "uri": "http://web.archive.org/web/20010302045822/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20010302114020",
+      "uri": "http://web.archive.org/web/20010302114020/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20010404222935",
+      "uri": "http://web.archive.org/web/20010404222935/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20010418143724",
+      "uri": "http://web.archive.org/web/20010418143724/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20010504063848",
+      "uri": "http://web.archive.org/web/20010504063848/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20010513073526",
+      "uri": "http://web.archive.org/web/20010513073526/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20010524184919",
+      "uri": "http://web.archive.org/web/20010524184919/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20010530214338",
+      "uri": "http://web.archive.org/web/20010530214338/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20010628053213",
+      "uri": "http://web.archive.org/web/20010628053213/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20010720192259",
+      "uri": "http://web.archive.org/web/20010720192259/http://megadeth.com/"
+    },
+    {
+      "datetime": "20010917034045",
+      "uri": "http://web.archive.org/web/20010917034045/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20010923125407",
+      "uri": "http://web.archive.org/web/20010923125407/http://megadeth.com/"
+    },
+    {
+      "datetime": "20011128211613",
+      "uri": "http://web.archive.org/web/20011128211613/http://megadeth.com/"
+    },
+    {
+      "datetime": "20020123010633",
+      "uri": "http://web.archive.org/web/20020123010633/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20020125094206",
+      "uri": "http://web.archive.org/web/20020125094206/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20020325191342",
+      "uri": "http://web.archive.org/web/20020325191342/http://megadeth.com/"
+    },
+    {
+      "datetime": "20020721095952",
+      "uri": "http://web.archive.org/web/20020721095952/http://megadeth.com/"
+    },
+    {
+      "datetime": "20020802110931",
+      "uri": "http://web.archive.org/web/20020802110931/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20020923024524",
+      "uri": "http://web.archive.org/web/20020923024524/http://megadeth.com/"
+    },
+    {
+      "datetime": "20020925061923",
+      "uri": "http://web.archive.org/web/20020925061923/http://megadeth.com/"
+    },
+    {
+      "datetime": "20020927165443",
+      "uri": "http://web.archive.org/web/20020927165443/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20020929180457",
+      "uri": "http://web.archive.org/web/20020929180457/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20021121222244",
+      "uri": "http://web.archive.org/web/20021121222244/http://megadeth.com/"
+    },
+    {
+      "datetime": "20021130062201",
+      "uri": "http://web.archive.org/web/20021130062201/http://megadeth.com/"
+    },
+    {
+      "datetime": "20021201030259",
+      "uri": "http://web.archive.org/web/20021201030259/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20030122184716",
+      "uri": "http://web.archive.org/web/20030122184716/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20030125211741",
+      "uri": "http://web.archive.org/web/20030125211741/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20030202160059",
+      "uri": "http://web.archive.org/web/20030202160059/http://megadeth.com/"
+    },
+    {
+      "datetime": "20030220091837",
+      "uri": "http://web.archive.org/web/20030220091837/http://megadeth.com/"
+    },
+    {
+      "datetime": "20030326143032",
+      "uri": "http://web.archive.org/web/20030326143032/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20030401172929",
+      "uri": "http://web.archive.org/web/20030401172929/http://megadeth.com/"
+    },
+    {
+      "datetime": "20030419100345",
+      "uri": "http://web.archive.org/web/20030419100345/http://megadeth.com/"
+    },
+    {
+      "datetime": "20030422003437",
+      "uri": "http://web.archive.org/web/20030422003437/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20030501124738",
+      "uri": "http://web.archive.org/web/20030501124738/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20030527095803",
+      "uri": "http://web.archive.org/web/20030527095803/http://megadeth.com/"
+    },
+    {
+      "datetime": "20030722080913",
+      "uri": "http://web.archive.org/web/20030722080913/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20030802171651",
+      "uri": "http://web.archive.org/web/20030802171651/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20031001185017",
+      "uri": "http://web.archive.org/web/20031001185017/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20031002070306",
+      "uri": "http://web.archive.org/web/20031002070306/http://megadeth.com/"
+    },
+    {
+      "datetime": "20031011042628",
+      "uri": "http://web.archive.org/web/20031011042628/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20031018112621",
+      "uri": "http://web.archive.org/web/20031018112621/http://megadeth.com/"
+    },
+    {
+      "datetime": "20031022062531",
+      "uri": "http://web.archive.org/web/20031022062531/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20031027014251",
+      "uri": "http://web.archive.org/web/20031027014251/http://megadeth.com/"
+    },
+    {
+      "datetime": "20031123043637",
+      "uri": "http://web.archive.org/web/20031123043637/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20031128151344",
+      "uri": "http://web.archive.org/web/20031128151344/http://megadeth.com/"
+    },
+    {
+      "datetime": "20031206233049",
+      "uri": "http://web.archive.org/web/20031206233049/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20031213115930",
+      "uri": "http://web.archive.org/web/20031213115930/http://megadeth.com/"
+    },
+    {
+      "datetime": "20031224121219",
+      "uri": "http://web.archive.org/web/20031224121219/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20031225152301",
+      "uri": "http://web.archive.org/web/20031225152301/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040321124156",
+      "uri": "http://web.archive.org/web/20040321124156/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040401153929",
+      "uri": "http://web.archive.org/web/20040401153929/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040511214824",
+      "uri": "http://web.archive.org/web/20040511214824/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040604185216",
+      "uri": "http://web.archive.org/web/20040604185216/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040607225912",
+      "uri": "http://web.archive.org/web/20040607225912/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040609184152",
+      "uri": "http://web.archive.org/web/20040609184152/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040612074627",
+      "uri": "http://web.archive.org/web/20040612074627/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040614051017",
+      "uri": "http://web.archive.org/web/20040614051017/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040614072802",
+      "uri": "http://web.archive.org/web/20040614072802/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040616010411",
+      "uri": "http://web.archive.org/web/20040616010411/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040616083118",
+      "uri": "http://web.archive.org/web/20040616083118/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040616105853",
+      "uri": "http://web.archive.org/web/20040616105853/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040618032041",
+      "uri": "http://web.archive.org/web/20040618032041/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040618075922",
+      "uri": "http://web.archive.org/web/20040618075922/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040619125420",
+      "uri": "http://web.archive.org/web/20040619125420/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040622221939",
+      "uri": "http://web.archive.org/web/20040622221939/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040623170758",
+      "uri": "http://web.archive.org/web/20040623170758/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040624151535",
+      "uri": "http://web.archive.org/web/20040624151535/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040625221338",
+      "uri": "http://web.archive.org/web/20040625221338/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040626124911",
+      "uri": "http://web.archive.org/web/20040626124911/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040627004747",
+      "uri": "http://web.archive.org/web/20040627004747/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040630175913",
+      "uri": "http://web.archive.org/web/20040630175913/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040701075124",
+      "uri": "http://web.archive.org/web/20040701075124/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040703032806",
+      "uri": "http://web.archive.org/web/20040703032806/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040706082444",
+      "uri": "http://web.archive.org/web/20040706082444/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040707011332",
+      "uri": "http://web.archive.org/web/20040707011332/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040708004802",
+      "uri": "http://web.archive.org/web/20040708004802/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040708083750",
+      "uri": "http://web.archive.org/web/20040708083750/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040710040949",
+      "uri": "http://web.archive.org/web/20040710040949/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040711043403",
+      "uri": "http://web.archive.org/web/20040711043403/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040711074104",
+      "uri": "http://web.archive.org/web/20040711074104/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040712052340",
+      "uri": "http://web.archive.org/web/20040712052340/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040713033114",
+      "uri": "http://web.archive.org/web/20040713033114/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040713080534",
+      "uri": "http://web.archive.org/web/20040713080534/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040714040732",
+      "uri": "http://web.archive.org/web/20040714040732/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040715002320",
+      "uri": "http://web.archive.org/web/20040715002320/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040717035812",
+      "uri": "http://web.archive.org/web/20040717035812/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040718061045",
+      "uri": "http://web.archive.org/web/20040718061045/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040719004616",
+      "uri": "http://web.archive.org/web/20040719004616/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040720024633",
+      "uri": "http://web.archive.org/web/20040720024633/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040721011020",
+      "uri": "http://web.archive.org/web/20040721011020/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040723080522",
+      "uri": "http://web.archive.org/web/20040723080522/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040728002008",
+      "uri": "http://web.archive.org/web/20040728002008/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040808003101",
+      "uri": "http://web.archive.org/web/20040808003101/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040808233453",
+      "uri": "http://web.archive.org/web/20040808233453/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040809231128",
+      "uri": "http://web.archive.org/web/20040809231128/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040813020337",
+      "uri": "http://web.archive.org/web/20040813020337/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040814111332",
+      "uri": "http://web.archive.org/web/20040814111332/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040815074743",
+      "uri": "http://web.archive.org/web/20040815074743/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040826232147",
+      "uri": "http://web.archive.org/web/20040826232147/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040830085111",
+      "uri": "http://web.archive.org/web/20040830085111/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040830184953",
+      "uri": "http://web.archive.org/web/20040830184953/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040831074435",
+      "uri": "http://web.archive.org/web/20040831074435/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040901033202",
+      "uri": "http://web.archive.org/web/20040901033202/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040902091804",
+      "uri": "http://web.archive.org/web/20040902091804/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040904081811",
+      "uri": "http://web.archive.org/web/20040904081811/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040906005125",
+      "uri": "http://web.archive.org/web/20040906005125/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040909013826",
+      "uri": "http://web.archive.org/web/20040909013826/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040911021351",
+      "uri": "http://web.archive.org/web/20040911021351/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040916090109",
+      "uri": "http://web.archive.org/web/20040916090109/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040917075839",
+      "uri": "http://web.archive.org/web/20040917075839/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040919042624",
+      "uri": "http://web.archive.org/web/20040919042624/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040920235646",
+      "uri": "http://web.archive.org/web/20040920235646/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040923052954",
+      "uri": "http://web.archive.org/web/20040923052954/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20040923054103",
+      "uri": "http://web.archive.org/web/20040923054103/http://megadeth.com/"
+    },
+    {
+      "datetime": "20040929032540",
+      "uri": "http://web.archive.org/web/20040929032540/http://megadeth.com/"
+    },
+    {
+      "datetime": "20041012031953",
+      "uri": "http://web.archive.org/web/20041012031953/http://megadeth.com/"
+    },
+    {
+      "datetime": "20041016081822",
+      "uri": "http://web.archive.org/web/20041016081822/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20041017081032",
+      "uri": "http://web.archive.org/web/20041017081032/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20041024075927",
+      "uri": "http://web.archive.org/web/20041024075927/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20041101091510",
+      "uri": "http://web.archive.org/web/20041101091510/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20041118090939",
+      "uri": "http://web.archive.org/web/20041118090939/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20041129085242",
+      "uri": "http://web.archive.org/web/20041129085242/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20041201181150",
+      "uri": "http://web.archive.org/web/20041201181150/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20041205062020",
+      "uri": "http://web.archive.org/web/20041205062020/http://megadeth.com/"
+    },
+    {
+      "datetime": "20041212050042",
+      "uri": "http://web.archive.org/web/20041212050042/http://megadeth.com/"
+    },
+    {
+      "datetime": "20041213015219",
+      "uri": "http://web.archive.org/web/20041213015219/http://megadeth.com/"
+    },
+    {
+      "datetime": "20041230092659",
+      "uri": "http://web.archive.org/web/20041230092659/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050115093948",
+      "uri": "http://web.archive.org/web/20050115093948/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050123093126",
+      "uri": "http://web.archive.org/web/20050123093126/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050123235930",
+      "uri": "http://web.archive.org/web/20050123235930/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050125032220",
+      "uri": "http://web.archive.org/web/20050125032220/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050126034410",
+      "uri": "http://web.archive.org/web/20050126034410/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050129090439",
+      "uri": "http://web.archive.org/web/20050129090439/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050129090640",
+      "uri": "http://web.archive.org/web/20050129090640/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050202183353",
+      "uri": "http://web.archive.org/web/20050202183353/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050204085452",
+      "uri": "http://web.archive.org/web/20050204085452/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050205091115",
+      "uri": "http://web.archive.org/web/20050205091115/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050206034112",
+      "uri": "http://web.archive.org/web/20050206034112/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050208032927",
+      "uri": "http://web.archive.org/web/20050208032927/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050208091948",
+      "uri": "http://web.archive.org/web/20050208091948/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050208183247",
+      "uri": "http://web.archive.org/web/20050208183247/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050209092554",
+      "uri": "http://web.archive.org/web/20050209092554/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050210145841",
+      "uri": "http://web.archive.org/web/20050210145841/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050212015435",
+      "uri": "http://web.archive.org/web/20050212015435/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050212015722",
+      "uri": "http://web.archive.org/web/20050212015722/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050212093251",
+      "uri": "http://web.archive.org/web/20050212093251/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050214205101",
+      "uri": "http://web.archive.org/web/20050214205101/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050218084500",
+      "uri": "http://web.archive.org/web/20050218084500/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050221021141",
+      "uri": "http://web.archive.org/web/20050221021141/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050222230208",
+      "uri": "http://web.archive.org/web/20050222230208/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050223042158",
+      "uri": "http://web.archive.org/web/20050223042158/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050226032304",
+      "uri": "http://web.archive.org/web/20050226032304/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050301191036",
+      "uri": "http://web.archive.org/web/20050301191036/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050303171534",
+      "uri": "http://web.archive.org/web/20050303171534/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050304060657",
+      "uri": "http://web.archive.org/web/20050304060657/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050306051732",
+      "uri": "http://web.archive.org/web/20050306051732/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050307032612",
+      "uri": "http://web.archive.org/web/20050307032612/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050307190308",
+      "uri": "http://web.archive.org/web/20050307190308/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050309060741",
+      "uri": "http://web.archive.org/web/20050309060741/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050315084200",
+      "uri": "http://web.archive.org/web/20050315084200/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050315193507",
+      "uri": "http://web.archive.org/web/20050315193507/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050319042829",
+      "uri": "http://web.archive.org/web/20050319042829/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050320005019",
+      "uri": "http://web.archive.org/web/20050320005019/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050322004704",
+      "uri": "http://web.archive.org/web/20050322004704/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050324094324",
+      "uri": "http://web.archive.org/web/20050324094324/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050327031048",
+      "uri": "http://web.archive.org/web/20050327031048/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050328014736",
+      "uri": "http://web.archive.org/web/20050328014736/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050328210300",
+      "uri": "http://web.archive.org/web/20050328210300/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050330200816",
+      "uri": "http://web.archive.org/web/20050330200816/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050331004015",
+      "uri": "http://web.archive.org/web/20050331004015/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050331085133",
+      "uri": "http://web.archive.org/web/20050331085133/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050401071658",
+      "uri": "http://web.archive.org/web/20050401071658/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050401233409",
+      "uri": "http://web.archive.org/web/20050401233409/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050404003003",
+      "uri": "http://web.archive.org/web/20050404003003/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050405223836",
+      "uri": "http://web.archive.org/web/20050405223836/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050406135344",
+      "uri": "http://web.archive.org/web/20050406135344/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050406181405",
+      "uri": "http://web.archive.org/web/20050406181405/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050408012801",
+      "uri": "http://web.archive.org/web/20050408012801/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050409053925",
+      "uri": "http://web.archive.org/web/20050409053925/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050414030015",
+      "uri": "http://web.archive.org/web/20050414030015/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050415233317",
+      "uri": "http://web.archive.org/web/20050415233317/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050420011354",
+      "uri": "http://web.archive.org/web/20050420011354/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050427083217",
+      "uri": "http://web.archive.org/web/20050427083217/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050429000231",
+      "uri": "http://web.archive.org/web/20050429000231/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050508081555",
+      "uri": "http://web.archive.org/web/20050508081555/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050510011906",
+      "uri": "http://web.archive.org/web/20050510011906/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050511024402",
+      "uri": "http://web.archive.org/web/20050511024402/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050512021304",
+      "uri": "http://web.archive.org/web/20050512021304/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050513223335",
+      "uri": "http://web.archive.org/web/20050513223335/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050514021935",
+      "uri": "http://web.archive.org/web/20050514021935/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050515012258",
+      "uri": "http://web.archive.org/web/20050515012258/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050516001627",
+      "uri": "http://web.archive.org/web/20050516001627/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050516234608",
+      "uri": "http://web.archive.org/web/20050516234608/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050517234845",
+      "uri": "http://web.archive.org/web/20050517234845/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050518090652",
+      "uri": "http://web.archive.org/web/20050518090652/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050519031240",
+      "uri": "http://web.archive.org/web/20050519031240/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050521004334",
+      "uri": "http://web.archive.org/web/20050521004334/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050522013858",
+      "uri": "http://web.archive.org/web/20050522013858/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050523020152",
+      "uri": "http://web.archive.org/web/20050523020152/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050524002606",
+      "uri": "http://web.archive.org/web/20050524002606/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050525025913",
+      "uri": "http://web.archive.org/web/20050525025913/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050526022209",
+      "uri": "http://web.archive.org/web/20050526022209/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050526073311",
+      "uri": "http://web.archive.org/web/20050526073311/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050527002930",
+      "uri": "http://web.archive.org/web/20050527002930/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050529003602",
+      "uri": "http://web.archive.org/web/20050529003602/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050531012902",
+      "uri": "http://web.archive.org/web/20050531012902/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050531221644",
+      "uri": "http://web.archive.org/web/20050531221644/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050601013258",
+      "uri": "http://web.archive.org/web/20050601013258/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050602004142",
+      "uri": "http://web.archive.org/web/20050602004142/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050603010910",
+      "uri": "http://web.archive.org/web/20050603010910/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050604025452",
+      "uri": "http://web.archive.org/web/20050604025452/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050605025041",
+      "uri": "http://web.archive.org/web/20050605025041/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050605073945",
+      "uri": "http://web.archive.org/web/20050605073945/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050606014807",
+      "uri": "http://web.archive.org/web/20050606014807/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050607012132",
+      "uri": "http://web.archive.org/web/20050607012132/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050608001948",
+      "uri": "http://web.archive.org/web/20050608001948/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050609022300",
+      "uri": "http://web.archive.org/web/20050609022300/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050610003244",
+      "uri": "http://web.archive.org/web/20050610003244/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050611022628",
+      "uri": "http://web.archive.org/web/20050611022628/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050612011957",
+      "uri": "http://web.archive.org/web/20050612011957/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050613012722",
+      "uri": "http://web.archive.org/web/20050613012722/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050614002749",
+      "uri": "http://web.archive.org/web/20050614002749/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050615004549",
+      "uri": "http://web.archive.org/web/20050615004549/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050616002958",
+      "uri": "http://web.archive.org/web/20050616002958/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050617005959",
+      "uri": "http://web.archive.org/web/20050617005959/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050618002211",
+      "uri": "http://web.archive.org/web/20050618002211/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050618085422",
+      "uri": "http://web.archive.org/web/20050618085422/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050619001831",
+      "uri": "http://web.archive.org/web/20050619001831/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050620004812",
+      "uri": "http://web.archive.org/web/20050620004812/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050621001213",
+      "uri": "http://web.archive.org/web/20050621001213/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050621083048",
+      "uri": "http://web.archive.org/web/20050621083048/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050622024432",
+      "uri": "http://web.archive.org/web/20050622024432/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050622234428",
+      "uri": "http://web.archive.org/web/20050622234428/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050624011049",
+      "uri": "http://web.archive.org/web/20050624011049/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050625013514",
+      "uri": "http://web.archive.org/web/20050625013514/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050626011209",
+      "uri": "http://web.archive.org/web/20050626011209/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050627005052",
+      "uri": "http://web.archive.org/web/20050627005052/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050628005107",
+      "uri": "http://web.archive.org/web/20050628005107/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050628235656",
+      "uri": "http://web.archive.org/web/20050628235656/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050630005817",
+      "uri": "http://web.archive.org/web/20050630005817/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050701001645",
+      "uri": "http://web.archive.org/web/20050701001645/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050701081400",
+      "uri": "http://web.archive.org/web/20050701081400/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050702024847",
+      "uri": "http://web.archive.org/web/20050702024847/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050702232124",
+      "uri": "http://web.archive.org/web/20050702232124/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050703080245",
+      "uri": "http://web.archive.org/web/20050703080245/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050706044815",
+      "uri": "http://web.archive.org/web/20050706044815/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050706062017",
+      "uri": "http://web.archive.org/web/20050706062017/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050706092645",
+      "uri": "http://web.archive.org/web/20050706092645/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050707014537",
+      "uri": "http://web.archive.org/web/20050707014537/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050708011441",
+      "uri": "http://web.archive.org/web/20050708011441/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050708074522",
+      "uri": "http://web.archive.org/web/20050708074522/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050709000010",
+      "uri": "http://web.archive.org/web/20050709000010/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050709234902",
+      "uri": "http://web.archive.org/web/20050709234902/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050711003913",
+      "uri": "http://web.archive.org/web/20050711003913/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050712015358",
+      "uri": "http://web.archive.org/web/20050712015358/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050713030546",
+      "uri": "http://web.archive.org/web/20050713030546/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050713234730",
+      "uri": "http://web.archive.org/web/20050713234730/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050714084525",
+      "uri": "http://web.archive.org/web/20050714084525/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050715020929",
+      "uri": "http://web.archive.org/web/20050715020929/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050716043551",
+      "uri": "http://web.archive.org/web/20050716043551/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050717003735",
+      "uri": "http://web.archive.org/web/20050717003735/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050718014119",
+      "uri": "http://web.archive.org/web/20050718014119/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050719002411",
+      "uri": "http://web.archive.org/web/20050719002411/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050720000345",
+      "uri": "http://web.archive.org/web/20050720000345/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050720235715",
+      "uri": "http://web.archive.org/web/20050720235715/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050722000800",
+      "uri": "http://web.archive.org/web/20050722000800/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050723031144",
+      "uri": "http://web.archive.org/web/20050723031144/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050724015428",
+      "uri": "http://web.archive.org/web/20050724015428/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050724233857",
+      "uri": "http://web.archive.org/web/20050724233857/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050725082416",
+      "uri": "http://web.archive.org/web/20050725082416/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050726002637",
+      "uri": "http://web.archive.org/web/20050726002637/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050727011214",
+      "uri": "http://web.archive.org/web/20050727011214/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050728021808",
+      "uri": "http://web.archive.org/web/20050728021808/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050729031654",
+      "uri": "http://web.archive.org/web/20050729031654/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050730003407",
+      "uri": "http://web.archive.org/web/20050730003407/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050801011550",
+      "uri": "http://web.archive.org/web/20050801011550/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050801234510",
+      "uri": "http://web.archive.org/web/20050801234510/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050803025200",
+      "uri": "http://web.archive.org/web/20050803025200/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050804001646",
+      "uri": "http://web.archive.org/web/20050804001646/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050805021222",
+      "uri": "http://web.archive.org/web/20050805021222/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050806012411",
+      "uri": "http://web.archive.org/web/20050806012411/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050806234545",
+      "uri": "http://web.archive.org/web/20050806234545/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050809003033",
+      "uri": "http://web.archive.org/web/20050809003033/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050810013236",
+      "uri": "http://web.archive.org/web/20050810013236/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050810235107",
+      "uri": "http://web.archive.org/web/20050810235107/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050812001741",
+      "uri": "http://web.archive.org/web/20050812001741/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050815014435",
+      "uri": "http://web.archive.org/web/20050815014435/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050816172745",
+      "uri": "http://web.archive.org/web/20050816172745/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050817064025",
+      "uri": "http://web.archive.org/web/20050817064025/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050818165535",
+      "uri": "http://web.archive.org/web/20050818165535/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050818194217",
+      "uri": "http://web.archive.org/web/20050818194217/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050819073258",
+      "uri": "http://web.archive.org/web/20050819073258/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050822124231",
+      "uri": "http://web.archive.org/web/20050822124231/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050822140440",
+      "uri": "http://web.archive.org/web/20050822140440/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050822154510",
+      "uri": "http://web.archive.org/web/20050822154510/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050822174918",
+      "uri": "http://web.archive.org/web/20050822174918/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050822180603",
+      "uri": "http://web.archive.org/web/20050822180603/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050822180823",
+      "uri": "http://web.archive.org/web/20050822180823/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050823013331",
+      "uri": "http://web.archive.org/web/20050823013331/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050824174320",
+      "uri": "http://web.archive.org/web/20050824174320/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050824225622",
+      "uri": "http://web.archive.org/web/20050824225622/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050825075824",
+      "uri": "http://web.archive.org/web/20050825075824/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050825081036",
+      "uri": "http://web.archive.org/web/20050825081036/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050825120004",
+      "uri": "http://web.archive.org/web/20050825120004/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050825162107",
+      "uri": "http://web.archive.org/web/20050825162107/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050826073748",
+      "uri": "http://web.archive.org/web/20050826073748/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050826090558",
+      "uri": "http://web.archive.org/web/20050826090558/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050826125750",
+      "uri": "http://web.archive.org/web/20050826125750/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050826172643",
+      "uri": "http://web.archive.org/web/20050826172643/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050826195843",
+      "uri": "http://web.archive.org/web/20050826195843/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050826222926",
+      "uri": "http://web.archive.org/web/20050826222926/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050827005927",
+      "uri": "http://web.archive.org/web/20050827005927/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050827035320",
+      "uri": "http://web.archive.org/web/20050827035320/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050827041402",
+      "uri": "http://web.archive.org/web/20050827041402/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050827045457",
+      "uri": "http://web.archive.org/web/20050827045457/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050827153846",
+      "uri": "http://web.archive.org/web/20050827153846/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050828050020",
+      "uri": "http://web.archive.org/web/20050828050020/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050828064655",
+      "uri": "http://web.archive.org/web/20050828064655/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050828071354",
+      "uri": "http://web.archive.org/web/20050828071354/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050828073240",
+      "uri": "http://web.archive.org/web/20050828073240/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050828104952",
+      "uri": "http://web.archive.org/web/20050828104952/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050828140509",
+      "uri": "http://web.archive.org/web/20050828140509/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050828165642",
+      "uri": "http://web.archive.org/web/20050828165642/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050828171553",
+      "uri": "http://web.archive.org/web/20050828171553/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050828175134",
+      "uri": "http://web.archive.org/web/20050828175134/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050828194033",
+      "uri": "http://web.archive.org/web/20050828194033/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050828194244",
+      "uri": "http://web.archive.org/web/20050828194244/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050828202945",
+      "uri": "http://web.archive.org/web/20050828202945/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050828222215",
+      "uri": "http://web.archive.org/web/20050828222215/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050828223433",
+      "uri": "http://web.archive.org/web/20050828223433/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050828233916",
+      "uri": "http://web.archive.org/web/20050828233916/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050829221732",
+      "uri": "http://web.archive.org/web/20050829221732/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050830010245",
+      "uri": "http://web.archive.org/web/20050830010245/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050830123947",
+      "uri": "http://web.archive.org/web/20050830123947/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050830165022",
+      "uri": "http://web.archive.org/web/20050830165022/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050831065620",
+      "uri": "http://web.archive.org/web/20050831065620/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050831083449",
+      "uri": "http://web.archive.org/web/20050831083449/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050831130617",
+      "uri": "http://web.archive.org/web/20050831130617/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050831192445",
+      "uri": "http://web.archive.org/web/20050831192445/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050831201026",
+      "uri": "http://web.archive.org/web/20050831201026/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050831213948",
+      "uri": "http://web.archive.org/web/20050831213948/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050831220330",
+      "uri": "http://web.archive.org/web/20050831220330/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050901040947",
+      "uri": "http://web.archive.org/web/20050901040947/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050901123124",
+      "uri": "http://web.archive.org/web/20050901123124/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050901155751",
+      "uri": "http://web.archive.org/web/20050901155751/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050901193650",
+      "uri": "http://web.archive.org/web/20050901193650/http://megadeth.com/"
+    },
+    {
+      "datetime": "20050902154029",
+      "uri": "http://web.archive.org/web/20050902154029/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050905171227",
+      "uri": "http://web.archive.org/web/20050905171227/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050908105626",
+      "uri": "http://web.archive.org/web/20050908105626/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050911050754",
+      "uri": "http://web.archive.org/web/20050911050754/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050912000238",
+      "uri": "http://web.archive.org/web/20050912000238/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20050912201156",
+      "uri": "http://web.archive.org/web/20050912201156/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051001001039",
+      "uri": "http://web.archive.org/web/20051001001039/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051001010532",
+      "uri": "http://web.archive.org/web/20051001010532/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051001093204",
+      "uri": "http://web.archive.org/web/20051001093204/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051001093532",
+      "uri": "http://web.archive.org/web/20051001093532/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051001104834",
+      "uri": "http://web.archive.org/web/20051001104834/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051013060244",
+      "uri": "http://web.archive.org/web/20051013060244/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051013064003",
+      "uri": "http://web.archive.org/web/20051013064003/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051024023205",
+      "uri": "http://web.archive.org/web/20051024023205/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051025000352",
+      "uri": "http://web.archive.org/web/20051025000352/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051025000827",
+      "uri": "http://web.archive.org/web/20051025000827/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051025061023",
+      "uri": "http://web.archive.org/web/20051025061023/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051101233329",
+      "uri": "http://web.archive.org/web/20051101233329/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051102042026",
+      "uri": "http://web.archive.org/web/20051102042026/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051102062618",
+      "uri": "http://web.archive.org/web/20051102062618/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051104015552",
+      "uri": "http://web.archive.org/web/20051104015552/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051106014954",
+      "uri": "http://web.archive.org/web/20051106014954/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051108041744",
+      "uri": "http://web.archive.org/web/20051108041744/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051124073531",
+      "uri": "http://web.archive.org/web/20051124073531/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051124173728",
+      "uri": "http://web.archive.org/web/20051124173728/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051124191809",
+      "uri": "http://web.archive.org/web/20051124191809/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051125032040",
+      "uri": "http://web.archive.org/web/20051125032040/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051125064602",
+      "uri": "http://web.archive.org/web/20051125064602/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051125082543",
+      "uri": "http://web.archive.org/web/20051125082543/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051125182905",
+      "uri": "http://web.archive.org/web/20051125182905/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051128045259",
+      "uri": "http://web.archive.org/web/20051128045259/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051130033006",
+      "uri": "http://web.archive.org/web/20051130033006/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051201022122",
+      "uri": "http://web.archive.org/web/20051201022122/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051201025412",
+      "uri": "http://web.archive.org/web/20051201025412/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051203041054",
+      "uri": "http://web.archive.org/web/20051203041054/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051205013348",
+      "uri": "http://web.archive.org/web/20051205013348/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051206012740",
+      "uri": "http://web.archive.org/web/20051206012740/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051206084317",
+      "uri": "http://web.archive.org/web/20051206084317/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051207012729",
+      "uri": "http://web.archive.org/web/20051207012729/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051207013016",
+      "uri": "http://web.archive.org/web/20051207013016/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051208025856",
+      "uri": "http://web.archive.org/web/20051208025856/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051210021744",
+      "uri": "http://web.archive.org/web/20051210021744/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051210025711",
+      "uri": "http://web.archive.org/web/20051210025711/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051211071136",
+      "uri": "http://web.archive.org/web/20051211071136/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051211125323",
+      "uri": "http://web.archive.org/web/20051211125323/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051212043611",
+      "uri": "http://web.archive.org/web/20051212043611/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051212070339",
+      "uri": "http://web.archive.org/web/20051212070339/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051213020019",
+      "uri": "http://web.archive.org/web/20051213020019/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051213030504",
+      "uri": "http://web.archive.org/web/20051213030504/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051214041412",
+      "uri": "http://web.archive.org/web/20051214041412/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051214235829",
+      "uri": "http://web.archive.org/web/20051214235829/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051216112405",
+      "uri": "http://web.archive.org/web/20051216112405/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051217061806",
+      "uri": "http://web.archive.org/web/20051217061806/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051217094020",
+      "uri": "http://web.archive.org/web/20051217094020/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051218124401",
+      "uri": "http://web.archive.org/web/20051218124401/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051218161504",
+      "uri": "http://web.archive.org/web/20051218161504/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051219050207",
+      "uri": "http://web.archive.org/web/20051219050207/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051219081852",
+      "uri": "http://web.archive.org/web/20051219081852/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051219094336",
+      "uri": "http://web.archive.org/web/20051219094336/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051220115333",
+      "uri": "http://web.archive.org/web/20051220115333/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051220154651",
+      "uri": "http://web.archive.org/web/20051220154651/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051221041107",
+      "uri": "http://web.archive.org/web/20051221041107/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051221043701",
+      "uri": "http://web.archive.org/web/20051221043701/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051223124449",
+      "uri": "http://web.archive.org/web/20051223124449/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051223142123",
+      "uri": "http://web.archive.org/web/20051223142123/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051224024558",
+      "uri": "http://web.archive.org/web/20051224024558/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051224215816",
+      "uri": "http://web.archive.org/web/20051224215816/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051224234129",
+      "uri": "http://web.archive.org/web/20051224234129/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051225044928",
+      "uri": "http://web.archive.org/web/20051225044928/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051226063016",
+      "uri": "http://web.archive.org/web/20051226063016/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051227040542",
+      "uri": "http://web.archive.org/web/20051227040542/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051227043218",
+      "uri": "http://web.archive.org/web/20051227043218/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051228054159",
+      "uri": "http://web.archive.org/web/20051228054159/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051229192453",
+      "uri": "http://web.archive.org/web/20051229192453/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051230095930",
+      "uri": "http://web.archive.org/web/20051230095930/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051230121425",
+      "uri": "http://web.archive.org/web/20051230121425/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051230181645",
+      "uri": "http://web.archive.org/web/20051230181645/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051231051601",
+      "uri": "http://web.archive.org/web/20051231051601/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20051231063617",
+      "uri": "http://web.archive.org/web/20051231063617/http://megadeth.com/"
+    },
+    {
+      "datetime": "20051231125628",
+      "uri": "http://web.archive.org/web/20051231125628/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060101090851",
+      "uri": "http://web.archive.org/web/20060101090851/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060103061940",
+      "uri": "http://web.archive.org/web/20060103061940/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060104053005",
+      "uri": "http://web.archive.org/web/20060104053005/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060105034338",
+      "uri": "http://web.archive.org/web/20060105034338/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060110052338",
+      "uri": "http://web.archive.org/web/20060110052338/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060110104705",
+      "uri": "http://web.archive.org/web/20060110104705/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060110140820",
+      "uri": "http://web.archive.org/web/20060110140820/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060110143016",
+      "uri": "http://web.archive.org/web/20060110143016/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060110191018",
+      "uri": "http://web.archive.org/web/20060110191018/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060111000437",
+      "uri": "http://web.archive.org/web/20060111000437/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060111060315",
+      "uri": "http://web.archive.org/web/20060111060315/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060112042716",
+      "uri": "http://web.archive.org/web/20060112042716/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060112102851",
+      "uri": "http://web.archive.org/web/20060112102851/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060114062317",
+      "uri": "http://web.archive.org/web/20060114062317/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060114085912",
+      "uri": "http://web.archive.org/web/20060114085912/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060116033203",
+      "uri": "http://web.archive.org/web/20060116033203/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060117045313",
+      "uri": "http://web.archive.org/web/20060117045313/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060126203128",
+      "uri": "http://web.archive.org/web/20060126203128/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060126205449",
+      "uri": "http://web.archive.org/web/20060126205449/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060127015214",
+      "uri": "http://web.archive.org/web/20060127015214/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060128112005",
+      "uri": "http://web.archive.org/web/20060128112005/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060202035736",
+      "uri": "http://web.archive.org/web/20060202035736/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060202133935",
+      "uri": "http://web.archive.org/web/20060202133935/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060202235706",
+      "uri": "http://web.archive.org/web/20060202235706/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060203042134",
+      "uri": "http://web.archive.org/web/20060203042134/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060203042232",
+      "uri": "http://web.archive.org/web/20060203042232/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060204021444",
+      "uri": "http://web.archive.org/web/20060204021444/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060204060150",
+      "uri": "http://web.archive.org/web/20060204060150/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060205045835",
+      "uri": "http://web.archive.org/web/20060205045835/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060205103201",
+      "uri": "http://web.archive.org/web/20060205103201/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060206031654",
+      "uri": "http://web.archive.org/web/20060206031654/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060206032928",
+      "uri": "http://web.archive.org/web/20060206032928/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060207014104",
+      "uri": "http://web.archive.org/web/20060207014104/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060207093145",
+      "uri": "http://web.archive.org/web/20060207093145/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060208034312",
+      "uri": "http://web.archive.org/web/20060208034312/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060209022049",
+      "uri": "http://web.archive.org/web/20060209022049/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060209025754",
+      "uri": "http://web.archive.org/web/20060209025754/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060221205439",
+      "uri": "http://web.archive.org/web/20060221205439/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060221205447",
+      "uri": "http://web.archive.org/web/20060221205447/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060221205508",
+      "uri": "http://web.archive.org/web/20060221205508/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060221205516",
+      "uri": "http://web.archive.org/web/20060221205516/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060221205537",
+      "uri": "http://web.archive.org/web/20060221205537/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060225164240",
+      "uri": "http://web.archive.org/web/20060225164240/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060308064824",
+      "uri": "http://web.archive.org/web/20060308064824/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060308064848",
+      "uri": "http://web.archive.org/web/20060308064848/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060308064933",
+      "uri": "http://web.archive.org/web/20060308064933/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060308065037",
+      "uri": "http://web.archive.org/web/20060308065037/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060326111358",
+      "uri": "http://web.archive.org/web/20060326111358/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060405140801",
+      "uri": "http://web.archive.org/web/20060405140801/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060408041741",
+      "uri": "http://web.archive.org/web/20060408041741/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060408041812",
+      "uri": "http://web.archive.org/web/20060408041812/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060408041912",
+      "uri": "http://web.archive.org/web/20060408041912/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060408075447",
+      "uri": "http://web.archive.org/web/20060408075447/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060408151653",
+      "uri": "http://web.archive.org/web/20060408151653/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060409140905",
+      "uri": "http://web.archive.org/web/20060409140905/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060410145311",
+      "uri": "http://web.archive.org/web/20060410145311/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060411125222",
+      "uri": "http://web.archive.org/web/20060411125222/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060411125410",
+      "uri": "http://web.archive.org/web/20060411125410/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060411125451",
+      "uri": "http://web.archive.org/web/20060411125451/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060411185525",
+      "uri": "http://web.archive.org/web/20060411185525/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060411194420",
+      "uri": "http://web.archive.org/web/20060411194420/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060412175358",
+      "uri": "http://web.archive.org/web/20060412175358/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060412175816",
+      "uri": "http://web.archive.org/web/20060412175816/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060413185647",
+      "uri": "http://web.archive.org/web/20060413185647/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060414155231",
+      "uri": "http://web.archive.org/web/20060414155231/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060414174216",
+      "uri": "http://web.archive.org/web/20060414174216/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060415101014",
+      "uri": "http://web.archive.org/web/20060415101014/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060415171218",
+      "uri": "http://web.archive.org/web/20060415171218/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060421095817",
+      "uri": "http://web.archive.org/web/20060421095817/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060422180920",
+      "uri": "http://web.archive.org/web/20060422180920/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060423184039",
+      "uri": "http://web.archive.org/web/20060423184039/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060423184118",
+      "uri": "http://web.archive.org/web/20060423184118/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060424084327",
+      "uri": "http://web.archive.org/web/20060424084327/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060424100636",
+      "uri": "http://web.archive.org/web/20060424100636/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060424155934",
+      "uri": "http://web.archive.org/web/20060424155934/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060425043606",
+      "uri": "http://web.archive.org/web/20060425043606/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060428061322",
+      "uri": "http://web.archive.org/web/20060428061322/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060515190522",
+      "uri": "http://web.archive.org/web/20060515190522/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060603122149",
+      "uri": "http://web.archive.org/web/20060603122149/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060603122201",
+      "uri": "http://web.archive.org/web/20060603122201/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060613053913",
+      "uri": "http://web.archive.org/web/20060613053913/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060613064042",
+      "uri": "http://web.archive.org/web/20060613064042/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060614030401",
+      "uri": "http://web.archive.org/web/20060614030401/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060614030428",
+      "uri": "http://web.archive.org/web/20060614030428/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060614030542",
+      "uri": "http://web.archive.org/web/20060614030542/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060701172123",
+      "uri": "http://web.archive.org/web/20060701172123/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060701172203",
+      "uri": "http://web.archive.org/web/20060701172203/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060701172211",
+      "uri": "http://web.archive.org/web/20060701172211/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060701172259",
+      "uri": "http://web.archive.org/web/20060701172259/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060701172324",
+      "uri": "http://web.archive.org/web/20060701172324/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060702180849",
+      "uri": "http://web.archive.org/web/20060702180849/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060702180913",
+      "uri": "http://web.archive.org/web/20060702180913/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060702180939",
+      "uri": "http://web.archive.org/web/20060702180939/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060702181028",
+      "uri": "http://web.archive.org/web/20060702181028/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060702181041",
+      "uri": "http://web.archive.org/web/20060702181041/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060702181114",
+      "uri": "http://web.archive.org/web/20060702181114/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060702181123",
+      "uri": "http://web.archive.org/web/20060702181123/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060705040554",
+      "uri": "http://web.archive.org/web/20060705040554/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060705113441",
+      "uri": "http://web.archive.org/web/20060705113441/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060706013307",
+      "uri": "http://web.archive.org/web/20060706013307/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060706065315",
+      "uri": "http://web.archive.org/web/20060706065315/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060706124454",
+      "uri": "http://web.archive.org/web/20060706124454/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060711040511",
+      "uri": "http://web.archive.org/web/20060711040511/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060711145243",
+      "uri": "http://web.archive.org/web/20060711145243/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060715175741",
+      "uri": "http://web.archive.org/web/20060715175741/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060720043050",
+      "uri": "http://web.archive.org/web/20060720043050/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060720043426",
+      "uri": "http://web.archive.org/web/20060720043426/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060720081424",
+      "uri": "http://web.archive.org/web/20060720081424/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060720110912",
+      "uri": "http://web.archive.org/web/20060720110912/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060720110923",
+      "uri": "http://web.archive.org/web/20060720110923/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060720110945",
+      "uri": "http://web.archive.org/web/20060720110945/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060720110952",
+      "uri": "http://web.archive.org/web/20060720110952/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060720111013",
+      "uri": "http://web.archive.org/web/20060720111013/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060721025640",
+      "uri": "http://web.archive.org/web/20060721025640/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060721031313",
+      "uri": "http://web.archive.org/web/20060721031313/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060721042648",
+      "uri": "http://web.archive.org/web/20060721042648/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060804064108",
+      "uri": "http://web.archive.org/web/20060804064108/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060804084015",
+      "uri": "http://web.archive.org/web/20060804084015/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060810173742",
+      "uri": "http://web.archive.org/web/20060810173742/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060810173806",
+      "uri": "http://web.archive.org/web/20060810173806/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060810173911",
+      "uri": "http://web.archive.org/web/20060810173911/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060810173947",
+      "uri": "http://web.archive.org/web/20060810173947/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060812013956",
+      "uri": "http://web.archive.org/web/20060812013956/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060812141630",
+      "uri": "http://web.archive.org/web/20060812141630/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060813111609",
+      "uri": "http://web.archive.org/web/20060813111609/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060815003031",
+      "uri": "http://web.archive.org/web/20060815003031/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060815063213",
+      "uri": "http://web.archive.org/web/20060815063213/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060819100431",
+      "uri": "http://web.archive.org/web/20060819100431/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060829223746",
+      "uri": "http://web.archive.org/web/20060829223746/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060830081542",
+      "uri": "http://web.archive.org/web/20060830081542/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060831052753",
+      "uri": "http://web.archive.org/web/20060831052753/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060901013423",
+      "uri": "http://web.archive.org/web/20060901013423/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20060902083220",
+      "uri": "http://web.archive.org/web/20060902083220/http://megadeth.com/"
+    },
+    {
+      "datetime": "20060908043952",
+      "uri": "http://web.archive.org/web/20060908043952/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20061004065343",
+      "uri": "http://web.archive.org/web/20061004065343/http://megadeth.com/"
+    },
+    {
+      "datetime": "20061021224922",
+      "uri": "http://web.archive.org/web/20061021224922/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20061107230152",
+      "uri": "http://web.archive.org/web/20061107230152/http://megadeth.com/"
+    },
+    {
+      "datetime": "20061109021131",
+      "uri": "http://web.archive.org/web/20061109021131/http://megadeth.com/"
+    },
+    {
+      "datetime": "20061117154920",
+      "uri": "http://web.archive.org/web/20061117154920/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20061125015956",
+      "uri": "http://web.archive.org/web/20061125015956/http://megadeth.com/"
+    },
+    {
+      "datetime": "20061125075258",
+      "uri": "http://web.archive.org/web/20061125075258/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20061128054022",
+      "uri": "http://web.archive.org/web/20061128054022/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20061201031051",
+      "uri": "http://web.archive.org/web/20061201031051/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20061202053022",
+      "uri": "http://web.archive.org/web/20061202053022/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20061205092933",
+      "uri": "http://web.archive.org/web/20061205092933/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20061210004105",
+      "uri": "http://web.archive.org/web/20061210004105/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20061214183220",
+      "uri": "http://web.archive.org/web/20061214183220/http://megadeth.com/"
+    },
+    {
+      "datetime": "20061219135514",
+      "uri": "http://web.archive.org/web/20061219135514/http://megadeth.com/"
+    },
+    {
+      "datetime": "20061228103356",
+      "uri": "http://web.archive.org/web/20061228103356/http://megadeth.com/"
+    },
+    {
+      "datetime": "20070102210942",
+      "uri": "http://web.archive.org/web/20070102210942/http://megadeth.com/"
+    },
+    {
+      "datetime": "20070104204021",
+      "uri": "http://web.archive.org/web/20070104204021/http://www.megadeth.com/#"
+    },
+    {
+      "datetime": "20070107120505",
+      "uri": "http://web.archive.org/web/20070107120505/http://megadeth.com/"
+    },
+    {
+      "datetime": "20070109142513",
+      "uri": "http://web.archive.org/web/20070109142513/http://www.megadeth.com/#"
+    },
+    {
+      "datetime": "20070112114813",
+      "uri": "http://web.archive.org/web/20070112114813/http://megadeth.com/"
+    },
+    {
+      "datetime": "20070114164629",
+      "uri": "http://web.archive.org/web/20070114164629/http://megadeth.com/#"
+    },
+    {
+      "datetime": "20070119193227",
+      "uri": "http://web.archive.org/web/20070119193227/http://megadeth.com/#"
+    },
+    {
+      "datetime": "20070122214927",
+      "uri": "http://web.archive.org/web/20070122214927/http://megadeth.com/"
+    },
+    {
+      "datetime": "20070125012339",
+      "uri": "http://web.archive.org/web/20070125012339/http://www.megadeth.com/#"
+    },
+    {
+      "datetime": "20070128103816",
+      "uri": "http://web.archive.org/web/20070128103816/http://megadeth.com/"
+    },
+    {
+      "datetime": "20070202024125",
+      "uri": "http://web.archive.org/web/20070202024125/http://megadeth.com/"
+    },
+    {
+      "datetime": "20070205043902",
+      "uri": "http://web.archive.org/web/20070205043902/http://www.megadeth.com/#"
+    },
+    {
+      "datetime": "20070208035159",
+      "uri": "http://web.archive.org/web/20070208035159/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20070210013645",
+      "uri": "http://web.archive.org/web/20070210013645/http://megadeth.com/"
+    },
+    {
+      "datetime": "20070217161642",
+      "uri": "http://web.archive.org/web/20070217161642/http://megadeth.com/"
+    },
+    {
+      "datetime": "20070225121745",
+      "uri": "http://web.archive.org/web/20070225121745/http://www.megadeth.com/#"
+    },
+    {
+      "datetime": "20070225141503",
+      "uri": "http://web.archive.org/web/20070225141503/http://megadeth.com/"
+    },
+    {
+      "datetime": "20070305203136",
+      "uri": "http://web.archive.org/web/20070305203136/http://megadeth.com/"
+    },
+    {
+      "datetime": "20070305205234",
+      "uri": "http://web.archive.org/web/20070305205234/http://www.megadeth.com/#"
+    },
+    {
+      "datetime": "20070313225835",
+      "uri": "http://web.archive.org/web/20070313225835/http://www.megadeth.com/#"
+    },
+    {
+      "datetime": "20070313232826",
+      "uri": "http://web.archive.org/web/20070313232826/http://megadeth.com/"
+    },
+    {
+      "datetime": "20070318092555",
+      "uri": "http://web.archive.org/web/20070318092555/http://www.megadeth.com/#"
+    },
+    {
+      "datetime": "20070322233327",
+      "uri": "http://web.archive.org/web/20070322233327/http://megadeth.com/"
+    },
+    {
+      "datetime": "20070322234524",
+      "uri": "http://web.archive.org/web/20070322234524/http://www.megadeth.com/#"
+    },
+    {
+      "datetime": "20070405064922",
+      "uri": "http://web.archive.org/web/20070405064922/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20070406172344",
+      "uri": "http://web.archive.org/web/20070406172344/http://megadeth.com/"
+    },
+    {
+      "datetime": "20070406190957",
+      "uri": "http://web.archive.org/web/20070406190957/http://www.megadeth.com/#"
+    },
+    {
+      "datetime": "20070426103822",
+      "uri": "http://web.archive.org/web/20070426103822/http://megadeth.com/"
+    },
+    {
+      "datetime": "20070502021357",
+      "uri": "http://web.archive.org/web/20070502021357/http://megadeth.com/"
+    },
+    {
+      "datetime": "20070507054919",
+      "uri": "http://web.archive.org/web/20070507054919/http://www.megadeth.com/#"
+    },
+    {
+      "datetime": "20070517150647",
+      "uri": "http://web.archive.org/web/20070517150647/http://megadeth.com/"
+    },
+    {
+      "datetime": "20070605094550",
+      "uri": "http://web.archive.org/web/20070605094550/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20070613035912",
+      "uri": "http://web.archive.org/web/20070613035912/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20070717061102",
+      "uri": "http://web.archive.org/web/20070717061102/http://megadeth.com/"
+    },
+    {
+      "datetime": "20070810200515",
+      "uri": "http://web.archive.org/web/20070810200515/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20070826110600",
+      "uri": "http://web.archive.org/web/20070826110600/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20070925083445",
+      "uri": "http://web.archive.org/web/20070925083445/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20070927034247",
+      "uri": "http://web.archive.org/web/20070927034247/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20070927035105",
+      "uri": "http://web.archive.org/web/20070927035105/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20070929083824",
+      "uri": "http://web.archive.org/web/20070929083824/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20070930182433",
+      "uri": "http://web.archive.org/web/20070930182433/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20071004032216",
+      "uri": "http://web.archive.org/web/20071004032216/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20071004205723",
+      "uri": "http://web.archive.org/web/20071004205723/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20071005212649",
+      "uri": "http://web.archive.org/web/20071005212649/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20071007055606",
+      "uri": "http://web.archive.org/web/20071007055606/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20071023091703",
+      "uri": "http://web.archive.org/web/20071023091703/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20071101091432",
+      "uri": "http://web.archive.org/web/20071101091432/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20071111160542",
+      "uri": "http://web.archive.org/web/20071111160542/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20071121194134",
+      "uri": "http://web.archive.org/web/20071121194134/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20071201210918",
+      "uri": "http://web.archive.org/web/20071201210918/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20071210082448",
+      "uri": "http://web.archive.org/web/20071210082448/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20071217175851",
+      "uri": "http://web.archive.org/web/20071217175851/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20071225093230",
+      "uri": "http://web.archive.org/web/20071225093230/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080102043712",
+      "uri": "http://web.archive.org/web/20080102043712/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080112115020",
+      "uri": "http://web.archive.org/web/20080112115020/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080120083657",
+      "uri": "http://web.archive.org/web/20080120083657/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080126063731",
+      "uri": "http://web.archive.org/web/20080126063731/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080201141908",
+      "uri": "http://web.archive.org/web/20080201141908/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080208124204",
+      "uri": "http://web.archive.org/web/20080208124204/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080215105910",
+      "uri": "http://web.archive.org/web/20080215105910/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080218033117",
+      "uri": "http://web.archive.org/web/20080218033117/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080227021939",
+      "uri": "http://web.archive.org/web/20080227021939/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080305221205",
+      "uri": "http://web.archive.org/web/20080305221205/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080314202636",
+      "uri": "http://web.archive.org/web/20080314202636/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080315042850",
+      "uri": "http://web.archive.org/web/20080315042850/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080325041127",
+      "uri": "http://web.archive.org/web/20080325041127/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080403071641",
+      "uri": "http://web.archive.org/web/20080403071641/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080408141214",
+      "uri": "http://web.archive.org/web/20080408141214/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080415120614",
+      "uri": "http://web.archive.org/web/20080415120614/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080420081407",
+      "uri": "http://web.archive.org/web/20080420081407/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080428080535",
+      "uri": "http://web.archive.org/web/20080428080535/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080502181953",
+      "uri": "http://web.archive.org/web/20080502181953/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080507192750",
+      "uri": "http://web.archive.org/web/20080507192750/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080512111105",
+      "uri": "http://web.archive.org/web/20080512111105/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080518015004",
+      "uri": "http://web.archive.org/web/20080518015004/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080526061527",
+      "uri": "http://web.archive.org/web/20080526061527/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080530184800",
+      "uri": "http://web.archive.org/web/20080530184800/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080604121403",
+      "uri": "http://web.archive.org/web/20080604121403/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080608085227",
+      "uri": "http://web.archive.org/web/20080608085227/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080612082311",
+      "uri": "http://web.archive.org/web/20080612082311/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080615232816",
+      "uri": "http://web.archive.org/web/20080615232816/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080619163202",
+      "uri": "http://web.archive.org/web/20080619163202/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080623193435",
+      "uri": "http://web.archive.org/web/20080623193435/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080628074155",
+      "uri": "http://web.archive.org/web/20080628074155/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080701062619",
+      "uri": "http://web.archive.org/web/20080701062619/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080703102400",
+      "uri": "http://web.archive.org/web/20080703102400/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080704110159",
+      "uri": "http://web.archive.org/web/20080704110159/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080705040436",
+      "uri": "http://web.archive.org/web/20080705040436/http://megadeth.com/"
+    },
+    {
+      "datetime": "20080705124749",
+      "uri": "http://web.archive.org/web/20080705124749/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080706131556",
+      "uri": "http://web.archive.org/web/20080706131556/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080707161410",
+      "uri": "http://web.archive.org/web/20080707161410/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080708181218",
+      "uri": "http://web.archive.org/web/20080708181218/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080709195758",
+      "uri": "http://web.archive.org/web/20080709195758/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080710211107",
+      "uri": "http://web.archive.org/web/20080710211107/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080711222440",
+      "uri": "http://web.archive.org/web/20080711222440/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080713003936",
+      "uri": "http://web.archive.org/web/20080713003936/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080714014431",
+      "uri": "http://web.archive.org/web/20080714014431/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080715052034",
+      "uri": "http://web.archive.org/web/20080715052034/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080716093814",
+      "uri": "http://web.archive.org/web/20080716093814/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080717121532",
+      "uri": "http://web.archive.org/web/20080717121532/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080718131015",
+      "uri": "http://web.archive.org/web/20080718131015/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080719154003",
+      "uri": "http://web.archive.org/web/20080719154003/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080720161642",
+      "uri": "http://web.archive.org/web/20080720161642/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080721182507",
+      "uri": "http://web.archive.org/web/20080721182507/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080722193023",
+      "uri": "http://web.archive.org/web/20080722193023/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080723201508",
+      "uri": "http://web.archive.org/web/20080723201508/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080724215934",
+      "uri": "http://web.archive.org/web/20080724215934/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080726004441",
+      "uri": "http://web.archive.org/web/20080726004441/http://megadeth.com/"
+    },
+    {
+      "datetime": "20080727012744",
+      "uri": "http://web.archive.org/web/20080727012744/http://megadeth.com/"
+    },
+    {
+      "datetime": "20080728044815",
+      "uri": "http://web.archive.org/web/20080728044815/http://megadeth.com/"
+    },
+    {
+      "datetime": "20080730053625",
+      "uri": "http://web.archive.org/web/20080730053625/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080805014637",
+      "uri": "http://web.archive.org/web/20080805014637/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080806022513",
+      "uri": "http://web.archive.org/web/20080806022513/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080807032958",
+      "uri": "http://web.archive.org/web/20080807032958/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080808051305",
+      "uri": "http://web.archive.org/web/20080808051305/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080809065138",
+      "uri": "http://web.archive.org/web/20080809065138/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080810085003",
+      "uri": "http://web.archive.org/web/20080810085003/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080811085447",
+      "uri": "http://web.archive.org/web/20080811085447/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080812103008",
+      "uri": "http://web.archive.org/web/20080812103008/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080813132424",
+      "uri": "http://web.archive.org/web/20080813132424/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080814140645",
+      "uri": "http://web.archive.org/web/20080814140645/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080815163152",
+      "uri": "http://web.archive.org/web/20080815163152/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080816163425",
+      "uri": "http://web.archive.org/web/20080816163425/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080817222911",
+      "uri": "http://web.archive.org/web/20080817222911/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080819010503",
+      "uri": "http://web.archive.org/web/20080819010503/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080820012053",
+      "uri": "http://web.archive.org/web/20080820012053/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080820045945",
+      "uri": "http://web.archive.org/web/20080820045945/http://www.megadeth.com./"
+    },
+    {
+      "datetime": "20080821031806",
+      "uri": "http://web.archive.org/web/20080821031806/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080822035332",
+      "uri": "http://web.archive.org/web/20080822035332/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080823045726",
+      "uri": "http://web.archive.org/web/20080823045726/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080824075237",
+      "uri": "http://web.archive.org/web/20080824075237/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080825110730",
+      "uri": "http://web.archive.org/web/20080825110730/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080826131907",
+      "uri": "http://web.archive.org/web/20080826131907/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080827171259",
+      "uri": "http://web.archive.org/web/20080827171259/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080828181929",
+      "uri": "http://web.archive.org/web/20080828181929/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080830210319",
+      "uri": "http://web.archive.org/web/20080830210319/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080831224105",
+      "uri": "http://web.archive.org/web/20080831224105/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080901225557",
+      "uri": "http://web.archive.org/web/20080901225557/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080903005808",
+      "uri": "http://web.archive.org/web/20080903005808/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080904021313",
+      "uri": "http://web.archive.org/web/20080904021313/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080905031701",
+      "uri": "http://web.archive.org/web/20080905031701/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080906044300",
+      "uri": "http://web.archive.org/web/20080906044300/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080907054546",
+      "uri": "http://web.archive.org/web/20080907054546/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080908055615",
+      "uri": "http://web.archive.org/web/20080908055615/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080909063505",
+      "uri": "http://web.archive.org/web/20080909063505/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080910140424",
+      "uri": "http://web.archive.org/web/20080910140424/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080910235224",
+      "uri": "http://web.archive.org/web/20080910235224/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080912002557",
+      "uri": "http://web.archive.org/web/20080912002557/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080913035328",
+      "uri": "http://web.archive.org/web/20080913035328/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20080926162316",
+      "uri": "http://web.archive.org/web/20080926162316/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20081008223325",
+      "uri": "http://web.archive.org/web/20081008223325/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20081023063808",
+      "uri": "http://web.archive.org/web/20081023063808/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20081024211020",
+      "uri": "http://web.archive.org/web/20081024211020/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20081108013650",
+      "uri": "http://web.archive.org/web/20081108013650/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20081112070348",
+      "uri": "http://web.archive.org/web/20081112070348/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20081206104329",
+      "uri": "http://web.archive.org/web/20081206104329/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20081216084021",
+      "uri": "http://web.archive.org/web/20081216084021/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20081220085102",
+      "uri": "http://web.archive.org/web/20081220085102/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20090107084550",
+      "uri": "http://web.archive.org/web/20090107084550/http://megadeth.com/"
+    },
+    {
+      "datetime": "20090119124625",
+      "uri": "http://web.archive.org/web/20090119124625/http://megadeth.com/"
+    },
+    {
+      "datetime": "20090202122730",
+      "uri": "http://web.archive.org/web/20090202122730/http://megadeth.com/"
+    },
+    {
+      "datetime": "20090216224157",
+      "uri": "http://web.archive.org/web/20090216224157/http://megadeth.com/"
+    },
+    {
+      "datetime": "20090218013956",
+      "uri": "http://web.archive.org/web/20090218013956/http://megadeth.com/"
+    },
+    {
+      "datetime": "20090228140124",
+      "uri": "http://web.archive.org/web/20090228140124/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20090313012706",
+      "uri": "http://web.archive.org/web/20090313012706/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20090323113319",
+      "uri": "http://web.archive.org/web/20090323113319/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20090403054450",
+      "uri": "http://web.archive.org/web/20090403054450/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20090413234055",
+      "uri": "http://web.archive.org/web/20090413234055/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20090425195159",
+      "uri": "http://web.archive.org/web/20090425195159/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20090508085640",
+      "uri": "http://web.archive.org/web/20090508085640/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20090523205838",
+      "uri": "http://web.archive.org/web/20090523205838/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20090627160659",
+      "uri": "http://web.archive.org/web/20090627160659/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20090713080752",
+      "uri": "http://web.archive.org/web/20090713080752/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20090717193910",
+      "uri": "http://web.archive.org/web/20090717193910/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20090722153737",
+      "uri": "http://web.archive.org/web/20090722153737/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20090728104517",
+      "uri": "http://web.archive.org/web/20090728104517/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20090801145240",
+      "uri": "http://web.archive.org/web/20090801145240/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20090803085437",
+      "uri": "http://web.archive.org/web/20090803085437/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20090815221608",
+      "uri": "http://web.archive.org/web/20090815221608/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20090830222543",
+      "uri": "http://web.archive.org/web/20090830222543/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20091003061635",
+      "uri": "http://web.archive.org/web/20091003061635/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20091009142655",
+      "uri": "http://web.archive.org/web/20091009142655/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20091019173915",
+      "uri": "http://web.archive.org/web/20091019173915/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20091021150716",
+      "uri": "http://web.archive.org/web/20091021150716/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20091027212938",
+      "uri": "http://web.archive.org/web/20091027212938/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20091124103152",
+      "uri": "http://web.archive.org/web/20091124103152/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20091219020619",
+      "uri": "http://web.archive.org/web/20091219020619/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20091224111831",
+      "uri": "http://web.archive.org/web/20091224111831/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20100102003405",
+      "uri": "http://web.archive.org/web/20100102003405/http://megadeth.com/"
+    },
+    {
+      "datetime": "20100106113552",
+      "uri": "http://web.archive.org/web/20100106113552/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20100117211707",
+      "uri": "http://web.archive.org/web/20100117211707/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20100217101211",
+      "uri": "http://web.archive.org/web/20100217101211/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20100310121207",
+      "uri": "http://web.archive.org/web/20100310121207/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20100329202540",
+      "uri": "http://web.archive.org/web/20100329202540/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20100421060900",
+      "uri": "http://web.archive.org/web/20100421060900/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20100504052407",
+      "uri": "http://web.archive.org/web/20100504052407/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20100516160517",
+      "uri": "http://web.archive.org/web/20100516160517/http://megadeth.com/"
+    },
+    {
+      "datetime": "20100520235818",
+      "uri": "http://web.archive.org/web/20100520235818/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20100530045306",
+      "uri": "http://web.archive.org/web/20100530045306/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20100607025256",
+      "uri": "http://web.archive.org/web/20100607025256/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20100618195729",
+      "uri": "http://web.archive.org/web/20100618195729/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20100630161415",
+      "uri": "http://web.archive.org/web/20100630161415/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20100721132230",
+      "uri": "http://web.archive.org/web/20100721132230/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20100805051821",
+      "uri": "http://web.archive.org/web/20100805051821/http://www.megadeth.com//"
+    },
+    {
+      "datetime": "20100808051516",
+      "uri": "http://web.archive.org/web/20100808051516/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20100823135752",
+      "uri": "http://web.archive.org/web/20100823135752/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20100925112929",
+      "uri": "http://web.archive.org/web/20100925112929/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20101015213448",
+      "uri": "http://web.archive.org/web/20101015213448/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20101017104828",
+      "uri": "http://web.archive.org/web/20101017104828/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20101023175308",
+      "uri": "http://web.archive.org/web/20101023175308/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20101029205740",
+      "uri": "http://web.archive.org/web/20101029205740/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20101103083044",
+      "uri": "http://web.archive.org/web/20101103083044/http://www.megadeth.com//"
+    },
+    {
+      "datetime": "20101126162042",
+      "uri": "http://web.archive.org/web/20101126162042/http://megadeth.com/"
+    },
+    {
+      "datetime": "20101206050807",
+      "uri": "http://web.archive.org/web/20101206050807/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20101220042811",
+      "uri": "http://web.archive.org/web/20101220042811/http://megadeth.com/"
+    },
+    {
+      "datetime": "20110101172056",
+      "uri": "http://web.archive.org/web/20110101172056/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20110128173854",
+      "uri": "http://web.archive.org/web/20110128173854/http://megadeth.com/"
+    },
+    {
+      "datetime": "20110129030720",
+      "uri": "http://web.archive.org/web/20110129030720/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20110209033151",
+      "uri": "http://web.archive.org/web/20110209033151/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20110225111533",
+      "uri": "http://web.archive.org/web/20110225111533/http://megadeth.com/"
+    },
+    {
+      "datetime": "20110409032801",
+      "uri": "http://web.archive.org/web/20110409032801/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20110429004915",
+      "uri": "http://web.archive.org/web/20110429004915/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20110429184506",
+      "uri": "http://web.archive.org/web/20110429184506/http://megadeth.com/"
+    },
+    {
+      "datetime": "20110519201748",
+      "uri": "http://web.archive.org/web/20110519201748/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20110521154437",
+      "uri": "http://web.archive.org/web/20110521154437/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20110601164543",
+      "uri": "http://web.archive.org/web/20110601164543/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20110614203955",
+      "uri": "http://web.archive.org/web/20110614203955/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20110705172800",
+      "uri": "http://web.archive.org/web/20110705172800/http://megadeth.com/"
+    },
+    {
+      "datetime": "20110715200624",
+      "uri": "http://web.archive.org/web/20110715200624/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20110716022718",
+      "uri": "http://web.archive.org/web/20110716022718/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20110717183545",
+      "uri": "http://web.archive.org/web/20110717183545/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20110805145619",
+      "uri": "http://web.archive.org/web/20110805145619/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20110812091242",
+      "uri": "http://web.archive.org/web/20110812091242/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20110821171020",
+      "uri": "http://web.archive.org/web/20110821171020/http://megadeth.com/"
+    },
+    {
+      "datetime": "20110901221204",
+      "uri": "http://web.archive.org/web/20110901221204/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20110918234003",
+      "uri": "http://web.archive.org/web/20110918234003/http://megadeth.com/"
+    },
+    {
+      "datetime": "20110923150506",
+      "uri": "http://web.archive.org/web/20110923150506/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20110928001418",
+      "uri": "http://web.archive.org/web/20110928001418/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20110929232630",
+      "uri": "http://web.archive.org/web/20110929232630/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20111004234737",
+      "uri": "http://web.archive.org/web/20111004234737/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20111005000146",
+      "uri": "http://web.archive.org/web/20111005000146/http://megadeth.com/"
+    },
+    {
+      "datetime": "20111006144718",
+      "uri": "http://web.archive.org/web/20111006144718/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20111006181953",
+      "uri": "http://web.archive.org/web/20111006181953/http://megadeth.com/"
+    },
+    {
+      "datetime": "20111010235921",
+      "uri": "http://web.archive.org/web/20111010235921/http://megadeth.com/"
+    },
+    {
+      "datetime": "20111011003810",
+      "uri": "http://web.archive.org/web/20111011003810/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20111013041105",
+      "uri": "http://web.archive.org/web/20111013041105/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20111015130219",
+      "uri": "http://web.archive.org/web/20111015130219/http://megadeth.com/"
+    },
+    {
+      "datetime": "20111021141453",
+      "uri": "http://web.archive.org/web/20111021141453/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20111101232806",
+      "uri": "http://web.archive.org/web/20111101232806/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20111119171010",
+      "uri": "http://web.archive.org/web/20111119171010/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20111220045542",
+      "uri": "http://web.archive.org/web/20111220045542/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20120103094329",
+      "uri": "http://web.archive.org/web/20120103094329/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120104000503",
+      "uri": "http://web.archive.org/web/20120104000503/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20120111105612",
+      "uri": "http://web.archive.org/web/20120111105612/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120111122023",
+      "uri": "http://web.archive.org/web/20120111122023/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20120111171723",
+      "uri": "http://web.archive.org/web/20120111171723/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20120111181629",
+      "uri": "http://web.archive.org/web/20120111181629/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120111201646",
+      "uri": "http://web.archive.org/web/20120111201646/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120111204503",
+      "uri": "http://web.archive.org/web/20120111204503/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120112042519",
+      "uri": "http://web.archive.org/web/20120112042519/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120112054026",
+      "uri": "http://web.archive.org/web/20120112054026/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120112065624",
+      "uri": "http://web.archive.org/web/20120112065624/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20120112084406",
+      "uri": "http://web.archive.org/web/20120112084406/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120112093842",
+      "uri": "http://web.archive.org/web/20120112093842/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120112101232",
+      "uri": "http://web.archive.org/web/20120112101232/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120112104045",
+      "uri": "http://web.archive.org/web/20120112104045/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120112110803",
+      "uri": "http://web.archive.org/web/20120112110803/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120112141245",
+      "uri": "http://web.archive.org/web/20120112141245/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120112144333",
+      "uri": "http://web.archive.org/web/20120112144333/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120112184536",
+      "uri": "http://web.archive.org/web/20120112184536/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120113031456",
+      "uri": "http://web.archive.org/web/20120113031456/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120114004514",
+      "uri": "http://web.archive.org/web/20120114004514/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120114104452",
+      "uri": "http://web.archive.org/web/20120114104452/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120114111135",
+      "uri": "http://web.archive.org/web/20120114111135/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120114173601",
+      "uri": "http://web.archive.org/web/20120114173601/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120114212236",
+      "uri": "http://web.archive.org/web/20120114212236/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120114234052",
+      "uri": "http://web.archive.org/web/20120114234052/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120115001343",
+      "uri": "http://web.archive.org/web/20120115001343/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120115011244",
+      "uri": "http://web.archive.org/web/20120115011244/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120116230123",
+      "uri": "http://web.archive.org/web/20120116230123/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120116232454",
+      "uri": "http://web.archive.org/web/20120116232454/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120116233409",
+      "uri": "http://web.archive.org/web/20120116233409/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120117061858",
+      "uri": "http://web.archive.org/web/20120117061858/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120117131600",
+      "uri": "http://web.archive.org/web/20120117131600/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120117144447",
+      "uri": "http://web.archive.org/web/20120117144447/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120117231829",
+      "uri": "http://web.archive.org/web/20120117231829/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120118092125",
+      "uri": "http://web.archive.org/web/20120118092125/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120118111448",
+      "uri": "http://web.archive.org/web/20120118111448/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120118115658",
+      "uri": "http://web.archive.org/web/20120118115658/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120118121218",
+      "uri": "http://web.archive.org/web/20120118121218/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120118141727",
+      "uri": "http://web.archive.org/web/20120118141727/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120118144947",
+      "uri": "http://web.archive.org/web/20120118144947/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120118154244",
+      "uri": "http://web.archive.org/web/20120118154244/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120118191102",
+      "uri": "http://web.archive.org/web/20120118191102/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120118231019",
+      "uri": "http://web.archive.org/web/20120118231019/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120119024431",
+      "uri": "http://web.archive.org/web/20120119024431/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120119044247",
+      "uri": "http://web.archive.org/web/20120119044247/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120119073942",
+      "uri": "http://web.archive.org/web/20120119073942/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120119184438",
+      "uri": "http://web.archive.org/web/20120119184438/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120119212548",
+      "uri": "http://web.archive.org/web/20120119212548/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120120001222",
+      "uri": "http://web.archive.org/web/20120120001222/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120120005108",
+      "uri": "http://web.archive.org/web/20120120005108/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120120020527",
+      "uri": "http://web.archive.org/web/20120120020527/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20120120020954",
+      "uri": "http://web.archive.org/web/20120120020954/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120120041523",
+      "uri": "http://web.archive.org/web/20120120041523/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120120071226",
+      "uri": "http://web.archive.org/web/20120120071226/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120120172358",
+      "uri": "http://web.archive.org/web/20120120172358/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120121041210",
+      "uri": "http://web.archive.org/web/20120121041210/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120121111110",
+      "uri": "http://web.archive.org/web/20120121111110/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120121235022",
+      "uri": "http://web.archive.org/web/20120121235022/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120122010622",
+      "uri": "http://web.archive.org/web/20120122010622/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120122034512",
+      "uri": "http://web.archive.org/web/20120122034512/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120122111319",
+      "uri": "http://web.archive.org/web/20120122111319/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120123072635",
+      "uri": "http://web.archive.org/web/20120123072635/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120123103442",
+      "uri": "http://web.archive.org/web/20120123103442/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120123204812",
+      "uri": "http://web.archive.org/web/20120123204812/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120124045603",
+      "uri": "http://web.archive.org/web/20120124045603/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120124085613",
+      "uri": "http://web.archive.org/web/20120124085613/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120125063320",
+      "uri": "http://web.archive.org/web/20120125063320/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120125171840",
+      "uri": "http://web.archive.org/web/20120125171840/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120126051250",
+      "uri": "http://web.archive.org/web/20120126051250/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120126213139",
+      "uri": "http://web.archive.org/web/20120126213139/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120126221302",
+      "uri": "http://web.archive.org/web/20120126221302/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120127000634",
+      "uri": "http://web.archive.org/web/20120127000634/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120204112035",
+      "uri": "http://web.archive.org/web/20120204112035/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20120219143714",
+      "uri": "http://web.archive.org/web/20120219143714/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20120321113233",
+      "uri": "http://web.archive.org/web/20120321113233/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20120402222300",
+      "uri": "http://web.archive.org/web/20120402222300/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120415053511",
+      "uri": "http://web.archive.org/web/20120415053511/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20120421005007",
+      "uri": "http://web.archive.org/web/20120421005007/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120428124916",
+      "uri": "http://web.archive.org/web/20120428124916/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20120501180450",
+      "uri": "http://web.archive.org/web/20120501180450/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120504065412",
+      "uri": "http://web.archive.org/web/20120504065412/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20120511203726",
+      "uri": "http://web.archive.org/web/20120511203726/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120522015523",
+      "uri": "http://web.archive.org/web/20120522015523/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20120622053039",
+      "uri": "http://web.archive.org/web/20120622053039/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20120717083916",
+      "uri": "http://web.archive.org/web/20120717083916/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20120723083507",
+      "uri": "http://web.archive.org/web/20120723083507/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20120823005740",
+      "uri": "http://web.archive.org/web/20120823005740/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20120918191205",
+      "uri": "http://web.archive.org/web/20120918191205/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120918192931",
+      "uri": "http://web.archive.org/web/20120918192931/http://megadeth.com/"
+    },
+    {
+      "datetime": "20120918222228",
+      "uri": "http://web.archive.org/web/20120918222228/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20121019204048",
+      "uri": "http://web.archive.org/web/20121019204048/http://www.megadeth.com//"
+    },
+    {
+      "datetime": "20121022105518",
+      "uri": "http://web.archive.org/web/20121022105518/http://megadeth.com/"
+    },
+    {
+      "datetime": "20121128074428",
+      "uri": "http://web.archive.org/web/20121128074428/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20121130095405",
+      "uri": "http://web.archive.org/web/20121130095405/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20121206134008",
+      "uri": "http://web.archive.org/web/20121206134008/http://megadeth.com/"
+    },
+    {
+      "datetime": "20130115054202",
+      "uri": "http://web.archive.org/web/20130115054202/http://megadeth.com/"
+    },
+    {
+      "datetime": "20130116114246",
+      "uri": "http://web.archive.org/web/20130116114246/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130116172714",
+      "uri": "http://web.archive.org/web/20130116172714/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130213034016",
+      "uri": "http://web.archive.org/web/20130213034016/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130302045252",
+      "uri": "http://web.archive.org/web/20130302045252/http://megadeth.com/"
+    },
+    {
+      "datetime": "20130302110605",
+      "uri": "http://web.archive.org/web/20130302110605/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130316040914",
+      "uri": "http://web.archive.org/web/20130316040914/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130402071340",
+      "uri": "http://web.archive.org/web/20130402071340/http://megadeth.com/"
+    },
+    {
+      "datetime": "20130412005225",
+      "uri": "http://web.archive.org/web/20130412005225/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130420154802",
+      "uri": "http://web.archive.org/web/20130420154802/http://megadeth.com/"
+    },
+    {
+      "datetime": "20130420200247",
+      "uri": "http://web.archive.org/web/20130420200247/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130423082505",
+      "uri": "http://web.archive.org/web/20130423082505/http://megadeth.com/"
+    },
+    {
+      "datetime": "20130424021905",
+      "uri": "http://web.archive.org/web/20130424021905/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130429045823",
+      "uri": "http://web.archive.org/web/20130429045823/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130430054056",
+      "uri": "http://web.archive.org/web/20130430054056/http://megadeth.com/"
+    },
+    {
+      "datetime": "20130506234444",
+      "uri": "http://web.archive.org/web/20130506234444/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130515084352",
+      "uri": "http://web.archive.org/web/20130515084352/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130521021157",
+      "uri": "http://web.archive.org/web/20130521021157/http://megadeth.com/"
+    },
+    {
+      "datetime": "20130522223730",
+      "uri": "http://web.archive.org/web/20130522223730/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130525001953",
+      "uri": "http://web.archive.org/web/20130525001953/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130605005817",
+      "uri": "http://web.archive.org/web/20130605005817/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130613145233",
+      "uri": "http://web.archive.org/web/20130613145233/http://megadeth.com/"
+    },
+    {
+      "datetime": "20130628095022",
+      "uri": "http://web.archive.org/web/20130628095022/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130704082522",
+      "uri": "http://web.archive.org/web/20130704082522/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130706123022",
+      "uri": "http://web.archive.org/web/20130706123022/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130707191434",
+      "uri": "http://web.archive.org/web/20130707191434/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130715170425",
+      "uri": "http://web.archive.org/web/20130715170425/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130717020305",
+      "uri": "http://web.archive.org/web/20130717020305/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130722183446",
+      "uri": "http://web.archive.org/web/20130722183446/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130724185718",
+      "uri": "http://web.archive.org/web/20130724185718/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130728074915",
+      "uri": "http://web.archive.org/web/20130728074915/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130803215959",
+      "uri": "http://web.archive.org/web/20130803215959/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130811033336",
+      "uri": "http://web.archive.org/web/20130811033336/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130819035131",
+      "uri": "http://web.archive.org/web/20130819035131/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130826133800",
+      "uri": "http://web.archive.org/web/20130826133800/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130828002818",
+      "uri": "http://web.archive.org/web/20130828002818/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130829055242",
+      "uri": "http://web.archive.org/web/20130829055242/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130905101215",
+      "uri": "http://web.archive.org/web/20130905101215/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130905140420",
+      "uri": "http://web.archive.org/web/20130905140420/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130913213500",
+      "uri": "http://web.archive.org/web/20130913213500/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130921205100",
+      "uri": "http://web.archive.org/web/20130921205100/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20130926220619",
+      "uri": "http://web.archive.org/web/20130926220619/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131001022214",
+      "uri": "http://web.archive.org/web/20131001022214/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131003170659",
+      "uri": "http://web.archive.org/web/20131003170659/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131011062858",
+      "uri": "http://web.archive.org/web/20131011062858/http://megadeth.com/"
+    },
+    {
+      "datetime": "20131011062917",
+      "uri": "http://web.archive.org/web/20131011062917/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131011083149",
+      "uri": "http://web.archive.org/web/20131011083149/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131014131938",
+      "uri": "http://web.archive.org/web/20131014131938/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131019105925",
+      "uri": "http://web.archive.org/web/20131019105925/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131019202454",
+      "uri": "http://web.archive.org/web/20131019202454/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131026165321",
+      "uri": "http://web.archive.org/web/20131026165321/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131028080143",
+      "uri": "http://web.archive.org/web/20131028080143/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131101205139",
+      "uri": "http://web.archive.org/web/20131101205139/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131102204522",
+      "uri": "http://web.archive.org/web/20131102204522/http://megadeth.com/"
+    },
+    {
+      "datetime": "20131104234004",
+      "uri": "http://web.archive.org/web/20131104234004/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131105045455",
+      "uri": "http://web.archive.org/web/20131105045455/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131107060830",
+      "uri": "http://web.archive.org/web/20131107060830/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131113034250",
+      "uri": "http://web.archive.org/web/20131113034250/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131121085236",
+      "uri": "http://web.archive.org/web/20131121085236/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131128033354",
+      "uri": "http://web.archive.org/web/20131128033354/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131207163511",
+      "uri": "http://web.archive.org/web/20131207163511/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131216150525",
+      "uri": "http://web.archive.org/web/20131216150525/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131217224518",
+      "uri": "http://web.archive.org/web/20131217224518/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131226032120",
+      "uri": "http://web.archive.org/web/20131226032120/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20131229121529",
+      "uri": "http://web.archive.org/web/20131229121529/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140103120735",
+      "uri": "http://web.archive.org/web/20140103120735/http://megadeth.com/"
+    },
+    {
+      "datetime": "20140105010458",
+      "uri": "http://web.archive.org/web/20140105010458/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140107190710",
+      "uri": "http://web.archive.org/web/20140107190710/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140108072624",
+      "uri": "http://web.archive.org/web/20140108072624/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140109084449",
+      "uri": "http://web.archive.org/web/20140109084449/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140119073511",
+      "uri": "http://web.archive.org/web/20140119073511/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140122160643",
+      "uri": "http://web.archive.org/web/20140122160643/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140129104022",
+      "uri": "http://web.archive.org/web/20140129104022/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140208014058",
+      "uri": "http://web.archive.org/web/20140208014058/http://megadeth.com/"
+    },
+    {
+      "datetime": "20140208071324",
+      "uri": "http://web.archive.org/web/20140208071324/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140210004015",
+      "uri": "http://web.archive.org/web/20140210004015/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140222195121",
+      "uri": "http://web.archive.org/web/20140222195121/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140223201315",
+      "uri": "http://web.archive.org/web/20140223201315/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140301080110",
+      "uri": "http://web.archive.org/web/20140301080110/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140306004947",
+      "uri": "http://web.archive.org/web/20140306004947/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140307133658",
+      "uri": "http://web.archive.org/web/20140307133658/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140307210812",
+      "uri": "http://web.archive.org/web/20140307210812/http://megadeth.com/"
+    },
+    {
+      "datetime": "20140313011037",
+      "uri": "http://web.archive.org/web/20140313011037/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140313124711",
+      "uri": "http://web.archive.org/web/20140313124711/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140314142132",
+      "uri": "http://web.archive.org/web/20140314142132/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140314170321",
+      "uri": "http://web.archive.org/web/20140314170321/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140317050548",
+      "uri": "http://web.archive.org/web/20140317050548/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140319042954",
+      "uri": "http://web.archive.org/web/20140319042954/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140323003914",
+      "uri": "http://web.archive.org/web/20140323003914/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140403225222",
+      "uri": "http://web.archive.org/web/20140403225222/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140406173824",
+      "uri": "http://web.archive.org/web/20140406173824/http://megadeth.com/"
+    },
+    {
+      "datetime": "20140414082711",
+      "uri": "http://web.archive.org/web/20140414082711/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140423041305",
+      "uri": "http://web.archive.org/web/20140423041305/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140502060923",
+      "uri": "http://web.archive.org/web/20140502060923/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140511085911",
+      "uri": "http://web.archive.org/web/20140511085911/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140517033349",
+      "uri": "http://web.archive.org/web/20140517033349/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140517213233",
+      "uri": "http://web.archive.org/web/20140517213233/http://megadeth.com/"
+    },
+    {
+      "datetime": "20140519193104",
+      "uri": "http://web.archive.org/web/20140519193104/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140520173613",
+      "uri": "http://web.archive.org/web/20140520173613/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140528052821",
+      "uri": "http://web.archive.org/web/20140528052821/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140529173807",
+      "uri": "http://web.archive.org/web/20140529173807/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140530212812",
+      "uri": "http://web.archive.org/web/20140530212812/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140608233734",
+      "uri": "http://web.archive.org/web/20140608233734/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140618055059",
+      "uri": "http://web.archive.org/web/20140618055059/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140625035911",
+      "uri": "http://web.archive.org/web/20140625035911/http://megadeth.com/"
+    },
+    {
+      "datetime": "20140625142602",
+      "uri": "http://web.archive.org/web/20140625142602/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140627195004",
+      "uri": "http://web.archive.org/web/20140627195004/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140706172422",
+      "uri": "http://web.archive.org/web/20140706172422/http://www.megadeth.com/?"
+    },
+    {
+      "datetime": "20140707181059",
+      "uri": "http://web.archive.org/web/20140707181059/http://megadeth.com/"
+    },
+    {
+      "datetime": "20140708104505",
+      "uri": "http://web.archive.org/web/20140708104505/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140717204535",
+      "uri": "http://web.archive.org/web/20140717204535/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140720070338",
+      "uri": "http://web.archive.org/web/20140720070338/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140730015844",
+      "uri": "http://web.archive.org/web/20140730015844/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140801001643",
+      "uri": "http://web.archive.org/web/20140801001643/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140803013500",
+      "uri": "http://web.archive.org/web/20140803013500/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140807015733",
+      "uri": "http://web.archive.org/web/20140807015733/http://www.megadeth.com/?"
+    },
+    {
+      "datetime": "20140809084340",
+      "uri": "http://web.archive.org/web/20140809084340/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140817185807",
+      "uri": "http://web.archive.org/web/20140817185807/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140819061142",
+      "uri": "http://web.archive.org/web/20140819061142/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140819145637",
+      "uri": "http://web.archive.org/web/20140819145637/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140826192555",
+      "uri": "http://web.archive.org/web/20140826192555/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140829050613",
+      "uri": "http://web.archive.org/web/20140829050613/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140904115029",
+      "uri": "http://web.archive.org/web/20140904115029/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140905055518",
+      "uri": "http://web.archive.org/web/20140905055518/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140906050107",
+      "uri": "http://web.archive.org/web/20140906050107/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140907053907",
+      "uri": "http://web.archive.org/web/20140907053907/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140912090830",
+      "uri": "http://web.archive.org/web/20140912090830/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140916195820",
+      "uri": "http://web.archive.org/web/20140916195820/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140919124402",
+      "uri": "http://web.archive.org/web/20140919124402/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140919181951",
+      "uri": "http://web.archive.org/web/20140919181951/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20140926143248",
+      "uri": "http://web.archive.org/web/20140926143248/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141010211340",
+      "uri": "http://web.archive.org/web/20141010211340/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141016043828",
+      "uri": "http://web.archive.org/web/20141016043828/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141018073330",
+      "uri": "http://web.archive.org/web/20141018073330/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141019115912",
+      "uri": "http://web.archive.org/web/20141019115912/http://www.megadeth.com/?"
+    },
+    {
+      "datetime": "20141019125612",
+      "uri": "http://web.archive.org/web/20141019125612/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141019171754",
+      "uri": "http://web.archive.org/web/20141019171754/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141020124939",
+      "uri": "http://web.archive.org/web/20141020124939/http://www.megadeth.com/?"
+    },
+    {
+      "datetime": "20141022164345",
+      "uri": "http://web.archive.org/web/20141022164345/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141103131802",
+      "uri": "http://web.archive.org/web/20141103131802/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141109144839",
+      "uri": "http://web.archive.org/web/20141109144839/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141113030105",
+      "uri": "http://web.archive.org/web/20141113030105/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141113040158",
+      "uri": "http://web.archive.org/web/20141113040158/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141116151924",
+      "uri": "http://web.archive.org/web/20141116151924/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141119180557",
+      "uri": "http://web.archive.org/web/20141119180557/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141120105616",
+      "uri": "http://web.archive.org/web/20141120105616/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141121055720",
+      "uri": "http://web.archive.org/web/20141121055720/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141130210240",
+      "uri": "http://web.archive.org/web/20141130210240/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141201141739",
+      "uri": "http://web.archive.org/web/20141201141739/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141208024510",
+      "uri": "http://web.archive.org/web/20141208024510/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141215084001",
+      "uri": "http://web.archive.org/web/20141215084001/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141217225001",
+      "uri": "http://web.archive.org/web/20141217225001/http://megadeth.com/"
+    },
+    {
+      "datetime": "20141218015245",
+      "uri": "http://web.archive.org/web/20141218015245/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141219001617",
+      "uri": "http://web.archive.org/web/20141219001617/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141220004310",
+      "uri": "http://web.archive.org/web/20141220004310/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141223025900",
+      "uri": "http://web.archive.org/web/20141223025900/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141223125210",
+      "uri": "http://web.archive.org/web/20141223125210/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141230003518",
+      "uri": "http://web.archive.org/web/20141230003518/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20141230033720",
+      "uri": "http://web.archive.org/web/20141230033720/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150107232304",
+      "uri": "http://web.archive.org/web/20150107232304/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150108125226",
+      "uri": "http://web.archive.org/web/20150108125226/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150112230542",
+      "uri": "http://web.archive.org/web/20150112230542/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150114101931",
+      "uri": "http://web.archive.org/web/20150114101931/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150114130843",
+      "uri": "http://web.archive.org/web/20150114130843/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150116101056",
+      "uri": "http://web.archive.org/web/20150116101056/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150118012433",
+      "uri": "http://web.archive.org/web/20150118012433/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150119224131",
+      "uri": "http://web.archive.org/web/20150119224131/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150126042820",
+      "uri": "http://web.archive.org/web/20150126042820/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150128053441",
+      "uri": "http://web.archive.org/web/20150128053441/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150128220424",
+      "uri": "http://web.archive.org/web/20150128220424/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150202035404",
+      "uri": "http://web.archive.org/web/20150202035404/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150205214602",
+      "uri": "http://web.archive.org/web/20150205214602/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150205230151",
+      "uri": "http://web.archive.org/web/20150205230151/http://megadeth.com/"
+    },
+    {
+      "datetime": "20150205230151",
+      "uri": "http://web.archive.org/web/20150205230151/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150206235629",
+      "uri": "http://web.archive.org/web/20150206235629/http://megadeth.com/"
+    },
+    {
+      "datetime": "20150206235629",
+      "uri": "http://web.archive.org/web/20150206235629/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150209051510",
+      "uri": "http://web.archive.org/web/20150209051510/http://www.megadeth.com/?"
+    },
+    {
+      "datetime": "20150214060429",
+      "uri": "http://web.archive.org/web/20150214060429/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150217232511",
+      "uri": "http://web.archive.org/web/20150217232511/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150221034839",
+      "uri": "http://web.archive.org/web/20150221034839/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150228131533",
+      "uri": "http://web.archive.org/web/20150228131533/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150228184817",
+      "uri": "http://web.archive.org/web/20150228184817/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150303094536",
+      "uri": "http://web.archive.org/web/20150303094536/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150307201150",
+      "uri": "http://web.archive.org/web/20150307201150/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150311182657",
+      "uri": "http://web.archive.org/web/20150311182657/http://www.megadeth.com/?"
+    },
+    {
+      "datetime": "20150314220440",
+      "uri": "http://web.archive.org/web/20150314220440/http://megadeth.com/"
+    },
+    {
+      "datetime": "20150315031138",
+      "uri": "http://web.archive.org/web/20150315031138/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150315204656",
+      "uri": "http://web.archive.org/web/20150315204656/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150317211658",
+      "uri": "http://web.archive.org/web/20150317211658/http://megadeth.com/"
+    },
+    {
+      "datetime": "20150323044524",
+      "uri": "http://web.archive.org/web/20150323044524/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150330091236",
+      "uri": "http://web.archive.org/web/20150330091236/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150330111255",
+      "uri": "http://web.archive.org/web/20150330111255/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150406040600",
+      "uri": "http://web.archive.org/web/20150406040600/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150408225439",
+      "uri": "http://web.archive.org/web/20150408225439/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150409074821",
+      "uri": "http://web.archive.org/web/20150409074821/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150410070407",
+      "uri": "http://web.archive.org/web/20150410070407/http://megadeth.com/"
+    },
+    {
+      "datetime": "20150411085921",
+      "uri": "http://web.archive.org/web/20150411085921/http://www.megadeth.com/?"
+    },
+    {
+      "datetime": "20150413072321",
+      "uri": "http://web.archive.org/web/20150413072321/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150419073734",
+      "uri": "http://web.archive.org/web/20150419073734/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150422052301",
+      "uri": "http://web.archive.org/web/20150422052301/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150425124318",
+      "uri": "http://web.archive.org/web/20150425124318/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150502043458",
+      "uri": "http://web.archive.org/web/20150502043458/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150509100147",
+      "uri": "http://web.archive.org/web/20150509100147/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150511112105",
+      "uri": "http://web.archive.org/web/20150511112105/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150512061859",
+      "uri": "http://web.archive.org/web/20150512061859/http://www.megadeth.com/?"
+    },
+    {
+      "datetime": "20150518044010",
+      "uri": "http://web.archive.org/web/20150518044010/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150526081009",
+      "uri": "http://web.archive.org/web/20150526081009/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150602071719",
+      "uri": "http://web.archive.org/web/20150602071719/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150603025523",
+      "uri": "http://web.archive.org/web/20150603025523/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150608160454",
+      "uri": "http://web.archive.org/web/20150608160454/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150610050911",
+      "uri": "http://web.archive.org/web/20150610050911/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150612091511",
+      "uri": "http://web.archive.org/web/20150612091511/http://www.megadeth.com/?"
+    },
+    {
+      "datetime": "20150617112831",
+      "uri": "http://web.archive.org/web/20150617112831/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150621195536",
+      "uri": "http://web.archive.org/web/20150621195536/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150624233950",
+      "uri": "http://web.archive.org/web/20150624233950/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150628035822",
+      "uri": "http://web.archive.org/web/20150628035822/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150702054856",
+      "uri": "http://web.archive.org/web/20150702054856/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150710125731",
+      "uri": "http://web.archive.org/web/20150710125731/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150713010006",
+      "uri": "http://web.archive.org/web/20150713010006/http://www.megadeth.com/?"
+    },
+    {
+      "datetime": "20150720035450",
+      "uri": "http://web.archive.org/web/20150720035450/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150722180337",
+      "uri": "http://web.archive.org/web/20150722180337/http://megadeth.com/"
+    },
+    {
+      "datetime": "20150727225011",
+      "uri": "http://web.archive.org/web/20150727225011/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150729021041",
+      "uri": "http://web.archive.org/web/20150729021041/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150801060959",
+      "uri": "http://web.archive.org/web/20150801060959/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150801233338",
+      "uri": "http://web.archive.org/web/20150801233338/http://megadeth.com/"
+    },
+    {
+      "datetime": "20150808054613",
+      "uri": "http://web.archive.org/web/20150808054613/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150814114809",
+      "uri": "http://web.archive.org/web/20150814114809/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150815094012",
+      "uri": "http://web.archive.org/web/20150815094012/http://www.megadeth.com/?"
+    },
+    {
+      "datetime": "20150817042235",
+      "uri": "http://web.archive.org/web/20150817042235/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150825000603",
+      "uri": "http://web.archive.org/web/20150825000603/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150901092223",
+      "uri": "http://web.archive.org/web/20150901092223/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150901135138",
+      "uri": "http://web.archive.org/web/20150901135138/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150905052321",
+      "uri": "http://web.archive.org/web/20150905052321/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150908185240",
+      "uri": "http://web.archive.org/web/20150908185240/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150910214817",
+      "uri": "http://web.archive.org/web/20150910214817/http://megadeth.com/"
+    },
+    {
+      "datetime": "20150915043931",
+      "uri": "http://web.archive.org/web/20150915043931/http://www.megadeth.com/?"
+    },
+    {
+      "datetime": "20150916090203",
+      "uri": "http://web.archive.org/web/20150916090203/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20150924041642",
+      "uri": "http://web.archive.org/web/20150924041642/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151002013706",
+      "uri": "http://web.archive.org/web/20151002013706/http://megadeth.com"
+    },
+    {
+      "datetime": "20151002013706",
+      "uri": "http://web.archive.org/web/20151002013706/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151004040251",
+      "uri": "http://web.archive.org/web/20151004040251/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151016145930",
+      "uri": "http://web.archive.org/web/20151016145930/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151023001559",
+      "uri": "http://web.archive.org/web/20151023001559/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151029064007",
+      "uri": "http://web.archive.org/web/20151029064007/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151030202138",
+      "uri": "http://web.archive.org/web/20151030202138/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151102190336",
+      "uri": "http://web.archive.org/web/20151102190336/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151103130204",
+      "uri": "http://web.archive.org/web/20151103130204/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151104120606",
+      "uri": "http://web.archive.org/web/20151104120606/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151104232848",
+      "uri": "http://web.archive.org/web/20151104232848/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151105052429",
+      "uri": "http://web.archive.org/web/20151105052429/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151106135611",
+      "uri": "http://web.archive.org/web/20151106135611/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151106140424",
+      "uri": "http://web.archive.org/web/20151106140424/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151106140427",
+      "uri": "http://web.archive.org/web/20151106140427/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151106154515",
+      "uri": "http://web.archive.org/web/20151106154515/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151106164319",
+      "uri": "http://web.archive.org/web/20151106164319/http://megadeth.com/"
+    },
+    {
+      "datetime": "20151106164319",
+      "uri": "http://web.archive.org/web/20151106164319/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151106164320",
+      "uri": "http://web.archive.org/web/20151106164320/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151107045721",
+      "uri": "http://web.archive.org/web/20151107045721/http://megadeth.com/"
+    },
+    {
+      "datetime": "20151107045721",
+      "uri": "http://web.archive.org/web/20151107045721/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151107045721",
+      "uri": "http://web.archive.org/web/20151107045721/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151107082454",
+      "uri": "http://web.archive.org/web/20151107082454/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151107092223",
+      "uri": "http://web.archive.org/web/20151107092223/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151113100303",
+      "uri": "http://web.archive.org/web/20151113100303/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151120092051",
+      "uri": "http://web.archive.org/web/20151120092051/http://www.megadeth.com/?"
+    },
+    {
+      "datetime": "20151201120109",
+      "uri": "http://web.archive.org/web/20151201120109/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151208013814",
+      "uri": "http://web.archive.org/web/20151208013814/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151222150552",
+      "uri": "http://web.archive.org/web/20151222150552/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20151229024820",
+      "uri": "http://web.archive.org/web/20151229024820/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160108132020",
+      "uri": "http://web.archive.org/web/20160108132020/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160109134250",
+      "uri": "http://web.archive.org/web/20160109134250/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160111170114",
+      "uri": "http://web.archive.org/web/20160111170114/http://megadeth.com/"
+    },
+    {
+      "datetime": "20160117011625",
+      "uri": "http://web.archive.org/web/20160117011625/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160119002724",
+      "uri": "http://web.archive.org/web/20160119002724/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160123120601",
+      "uri": "http://web.archive.org/web/20160123120601/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160124070213",
+      "uri": "http://web.archive.org/web/20160124070213/http://www.megadeth.com"
+    },
+    {
+      "datetime": "20160126184930",
+      "uri": "http://web.archive.org/web/20160126184930/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160128161304",
+      "uri": "http://web.archive.org/web/20160128161304/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160201083615",
+      "uri": "http://web.archive.org/web/20160201083615/http://www.megadeth.com"
+    },
+    {
+      "datetime": "20160201091845",
+      "uri": "http://web.archive.org/web/20160201091845/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160202003336",
+      "uri": "http://web.archive.org/web/20160202003336/http://www.megadeth.com"
+    },
+    {
+      "datetime": "20160202151114",
+      "uri": "http://web.archive.org/web/20160202151114/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160202174702",
+      "uri": "http://web.archive.org/web/20160202174702/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160206214035",
+      "uri": "http://web.archive.org/web/20160206214035/http://megadeth.com/"
+    },
+    {
+      "datetime": "20160207045205",
+      "uri": "http://web.archive.org/web/20160207045205/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160208134433",
+      "uri": "http://web.archive.org/web/20160208134433/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160208172746",
+      "uri": "http://web.archive.org/web/20160208172746/http://megadeth.com/"
+    },
+    {
+      "datetime": "20160208172746",
+      "uri": "http://web.archive.org/web/20160208172746/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160214092748",
+      "uri": "http://web.archive.org/web/20160214092748/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160221052152",
+      "uri": "http://web.archive.org/web/20160221052152/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160221141912",
+      "uri": "http://web.archive.org/web/20160221141912/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160222104219",
+      "uri": "http://web.archive.org/web/20160222104219/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160223022041",
+      "uri": "http://web.archive.org/web/20160223022041/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160229132633",
+      "uri": "http://web.archive.org/web/20160229132633/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160303180543",
+      "uri": "http://web.archive.org/web/20160303180543/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160303182946",
+      "uri": "http://web.archive.org/web/20160303182946/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160303235035",
+      "uri": "http://web.archive.org/web/20160303235035/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160304043506",
+      "uri": "http://web.archive.org/web/20160304043506/http://megadeth.com/"
+    },
+    {
+      "datetime": "20160304112842",
+      "uri": "http://web.archive.org/web/20160304112842/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160305173442",
+      "uri": "http://web.archive.org/web/20160305173442/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160306024024",
+      "uri": "http://web.archive.org/web/20160306024024/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160307060502",
+      "uri": "http://web.archive.org/web/20160307060502/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160307120910",
+      "uri": "http://web.archive.org/web/20160307120910/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160314022826",
+      "uri": "http://web.archive.org/web/20160314022826/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160314075033",
+      "uri": "http://web.archive.org/web/20160314075033/http://megadeth.com/"
+    },
+    {
+      "datetime": "20160314233855",
+      "uri": "http://web.archive.org/web/20160314233855/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160315102355",
+      "uri": "http://web.archive.org/web/20160315102355/http://megadeth.com/"
+    },
+    {
+      "datetime": "20160317140236",
+      "uri": "http://web.archive.org/web/20160317140236/http://www.megadeth.com/?"
+    },
+    {
+      "datetime": "20160318212921",
+      "uri": "http://web.archive.org/web/20160318212921/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160320181045",
+      "uri": "http://web.archive.org/web/20160320181045/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160324212046",
+      "uri": "http://web.archive.org/web/20160324212046/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160326080626",
+      "uri": "http://web.archive.org/web/20160326080626/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160401054540",
+      "uri": "http://web.archive.org/web/20160401054540/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160402111732",
+      "uri": "http://web.archive.org/web/20160402111732/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160402112254",
+      "uri": "http://web.archive.org/web/20160402112254/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160408015410",
+      "uri": "http://web.archive.org/web/20160408015410/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160410130859",
+      "uri": "http://web.archive.org/web/20160410130859/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160410153256",
+      "uri": "http://web.archive.org/web/20160410153256/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160411103527",
+      "uri": "http://web.archive.org/web/20160411103527/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160411110207",
+      "uri": "http://web.archive.org/web/20160411110207/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160419092320",
+      "uri": "http://web.archive.org/web/20160419092320/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160421054922",
+      "uri": "http://web.archive.org/web/20160421054922/http://www.megadeth.com/?"
+    },
+    {
+      "datetime": "20160422092234",
+      "uri": "http://web.archive.org/web/20160422092234/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160526034849",
+      "uri": "http://web.archive.org/web/20160526034849/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160527062704",
+      "uri": "http://web.archive.org/web/20160527062704/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160602085216",
+      "uri": "http://web.archive.org/web/20160602085216/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160609113129",
+      "uri": "http://web.archive.org/web/20160609113129/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160612063336",
+      "uri": "http://web.archive.org/web/20160612063336/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160714082354",
+      "uri": "http://web.archive.org/web/20160714082354/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160725045745",
+      "uri": "http://web.archive.org/web/20160725045745/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160726142641",
+      "uri": "http://web.archive.org/web/20160726142641/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160803034415",
+      "uri": "http://web.archive.org/web/20160803034415/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160804015259",
+      "uri": "http://web.archive.org/web/20160804015259/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160810130341",
+      "uri": "http://web.archive.org/web/20160810130341/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160914090214",
+      "uri": "http://web.archive.org/web/20160914090214/http://megadeth.com/"
+    },
+    {
+      "datetime": "20160915182739",
+      "uri": "http://web.archive.org/web/20160915182739/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160915221019",
+      "uri": "http://web.archive.org/web/20160915221019/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160917043741",
+      "uri": "http://web.archive.org/web/20160917043741/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160917110951",
+      "uri": "http://web.archive.org/web/20160917110951/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160921080847",
+      "uri": "http://web.archive.org/web/20160921080847/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160924045932",
+      "uri": "http://web.archive.org/web/20160924045932/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160925053202",
+      "uri": "http://web.archive.org/web/20160925053202/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20160926192925",
+      "uri": "http://web.archive.org/web/20160926192925/http://www.megadeth.com/"
+    },
+    {
+      "datetime": "20161007210742",
+      "uri": "http://web.archive.org/web/20161007210742/http://megadeth.com/"
+    },
+    {
+      "datetime": "20161010225653",
+      "uri": "http://web.archive.org/web/20161010225653/http://megadeth.com/"
+    },
+    {
+      "datetime": "20161015003010",
+      "uri": "http://web.archive.org/web/20161015003010/http://www.megadeth.com/"
+    }
+  ],
+  "first": "Fri, 12 Dec 1997 08:46:55 GMT",
+  "timegate": "http://web.archive.org/web/http://www.megadeth.com/",
+  "member_points": [
+    {
+      "t": "19700819050800",
+      "member": "Young, JeffJeff Young",
+      "plays": [
+        "guitar"
+      ],
+      "f": "19870101000100"
+    },
+    {
+      "t": "19700822020800",
+      "member": "Broderick, ChrisChris Broderick",
+      "plays": [
+        "guitar",
+        "backingvocals"
+      ],
+      "f": "20080101000100"
+    },
+    {
+      "t": "19700820170800",
+      "member": "DeGrasso, JimmyJimmy DeGrasso",
+      "plays": [
+        "drums",
+        "percussion",
+        "backingvocals"
+      ],
+      "f": "19980101000100"
+    },
+    {
+      "t": "19700822080800",
+      "member": "Chris Adler",
+      "plays": [
+        "drums"
+      ],
+      "f": "20150101000100"
+    },
+    {
+      "t": "19700818150800",
+      "member": "Kerry King",
+      "plays": [
+        "guitar"
+      ],
+      "f": "19840101000100"
+    },
+    {
+      "t": "19700820060800",
+      "member": "Nick Menza",
+      "plays": [
+        "drums",
+        "percussion",
+        "backing vocals"
+      ],
+      "f": "19890101000100"
+    },
+    {
+      "t": "19700820230800",
+      "member": "Nick Menza",
+      "plays": [
+        "drums",
+        "percussion",
+        "backing vocals"
+      ],
+      "f": "20040101000100"
+    },
+    {
+      "t": "19700822020800",
+      "member": "Nick Menza",
+      "plays": [
+        "drums",
+        "percussion",
+        "backing vocals"
+      ],
+      "f": "20140101000100"
+    },
+    {
+      "t": "19700822020800",
+      "member": "Drover, ShawnShawn Drover",
+      "plays": [
+        "drums",
+        "percussion"
+      ],
+      "f": "20040101000100"
+    },
+    {
+      "t": "19700820230800",
+      "member": "Chris Poland",
+      "plays": [
+        "guitar"
+      ],
+      "f": "19840101000100"
+    },
+    {
+      "t": "19700818120800",
+      "member": "Matt Kisselstein",
+      "plays": [
+        "bass"
+      ],
+      "f": "19830101000100"
+    },
+    {
+      "t": "19700821100800",
+      "member": "Drover, GlenGlen Drover",
+      "plays": [
+        "guitar",
+        "backingvocals"
+      ],
+      "f": "20040101000100"
+    },
+    {
+      "t": "19700821040800",
+      "member": "James MacDonough",
+      "plays": [
+        "bass"
+      ],
+      "f": "20040101000100"
+    },
+    {
+      "t": "19700818150800",
+      "member": "Lee Rausch",
+      "plays": [
+        "drums",
+        "percussion"
+      ],
+      "f": "19840101000100"
+    },
+    {
+      "t": "19700820230800",
+      "member": "Jimmy Sloas",
+      "plays": [
+        "bass"
+      ],
+      "f": "20040101000100"
+    },
+    {
+      "t": "19700819050800",
+      "member": "Chuck Behler",
+      "plays": [
+        "drums",
+        "percussion"
+      ],
+      "f": "19870101000100"
+    },
+    {
+      "t": "19700818230800",
+      "member": "Gar Samuelson",
+      "plays": [
+        "drums",
+        "percussion"
+      ],
+      "f": "19840101000100"
+    },
+    {
+      "t": "19700818120800",
+      "member": "Greg Handevidt",
+      "plays": [
+        "guitar"
+      ],
+      "f": "19830101000100"
+    },
+    {
+      "t": "19700821150800",
+      "member": "James LoMenzo",
+      "plays": [
+        "bass",
+        "backing vocals"
+      ],
+      "f": "20060101000100"
+    },
+    {
+      "t": "19700820170800",
+      "member": "Al Pitrelli",
+      "plays": [
+        "guitar",
+        "backing vocals"
+      ],
+      "f": "20000101000100"
+    },
+    {
+      "t": "19700818120800",
+      "member": "Dijon Carruthers",
+      "plays": [
+        "drums",
+        "percussion"
+      ],
+      "f": "19830101000100"
+    },
+    {
+      "t": "19700820170800",
+      "member": "Dave Mustaine",
+      "plays": [
+        "leadvocals",
+        "guitar"
+      ],
+      "f": "19830101000100"
+    },
+    {
+      "t": "20161025051042",
+      "member": "Dave Mustaine",
+      "plays": [
+        "leadvocals",
+        "guitar"
+      ],
+      "f": "20040101000100"
+    },
+    {
+      "t": "19700820110800",
+      "member": "Marty Friedman",
+      "plays": [
+        "guitar",
+        "backing vocals"
+      ],
+      "f": "19900101000100"
+    },
+    {
+      "t": "20161025051042",
+      "member": "Kiko Loureiro",
+      "plays": [
+        "guitar",
+        "backing vocals"
+      ],
+      "f": "20150101000100"
+    },
+    {
+      "t": "19700820230800",
+      "member": "Vinnie Colaiuta",
+      "plays": [
+        "drums",
+        "percussion"
+      ],
+      "f": "20040101000100"
+    },
+    {
+      "t": "19700820170800",
+      "member": "David Ellefson",
+      "plays": [
+        "bass",
+        "backing vocals"
+      ],
+      "f": "19830101000100"
+    },
+    {
+      "t": "20161025051042",
+      "member": "David Ellefson",
+      "plays": [
+        "bass",
+        "backing vocals"
+      ],
+      "f": "20100101000100"
+    },
+    {
+      "t": "19700818120800",
+      "member": "Lawrence Kane",
+      "plays": [
+        "lead vocals"
+      ],
+      "f": "19830101000100"
+    },
+    {
+      "t": "20161025051042",
+      "member": "Dirk Verbeuren",
+      "plays": [
+        "drums",
+        "percussion"
+      ],
+      "f": "20160101000100"
+    }
+  ],
+  "original": "http://www.megadeth.com/",
+  "timemap": "http://web.archive.org/web/timemap/link/http://www.megadeth.com/",
+  "last": "Fri, 21 Oct 2016 18:34:27 GMT"
+}
