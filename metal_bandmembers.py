@@ -78,7 +78,7 @@ def dl_pages():
     bandpages = OSFS(base)
     c = 0
     with requests.session() as session:
-        with open('bandpages_original.csv', 'r') as bndin:
+        with open('data_files/bandpages_original.csv', 'r') as bndin:
             for row in DictReader(bndin):
                 band = row['band']
                 wlink = row['wlink']
@@ -450,11 +450,11 @@ def find_members_span(wsoup, bands, band):
 
 
 def populate_skip(skip, skip2=False):
-    with open('skip.txt', 'r') as rin:
+    with open('data_files/skip.txt', 'r') as rin:
         for b in rin:
             skip.add(b.rstrip())
     if skip2:
-        with open('skip2.txt', 'r') as rin:
+        with open('data_files/skip2.txt', 'r') as rin:
             for b in rin:
                 skip.add(b.rstrip())
 
@@ -557,20 +557,20 @@ def extract_members_bmemberpages():
         if v == {}:
             print(k)
     print(len(list(bands.keys())))
-    # with open('skip.txt', 'w+') as out:
-    #     for b in bandl:
-    #         out.write('%s\n' % b)
-    #
-    # with open('band_timeline_b.json', 'w+') as out:
-    #     nbands = {}
-    #     for band, bdict in bands.items():
-    #         nbands[band] = []
-    #         print(band)
-    #         for member, infor in bdict.items():
-    #             print(infor)
-    #             nbands[band].append(
-    #                 {'member': member, 'plays': infor.get('plays', []), 'active': infor.get('active', [])})
-    #     json.dump(nbands, out, indent=2)
+    with open('skip.txt', 'w+') as out:
+        for b in bandl:
+            out.write('%s\n' % b)
+
+    with open('band_timeline_b.json', 'w+') as out:
+        nbands = {}
+        for band, bdict in bands.items():
+            nbands[band] = []
+            print(band)
+            for member, infor in bdict.items():
+                print(infor)
+                nbands[band].append(
+                    {'member': member, 'plays': infor.get('plays', []), 'active': infor.get('active', [])})
+        json.dump(nbands, out, indent=2)
 
 def rest_wiki():
     skip = set()
@@ -629,5 +629,7 @@ def combine():
 
 if __name__ == '__main__':
     combine()
+    # dl_pages()
+    # extract_dl_bmember_pages()
     # extract_members_bmemberpages()
     # rest_wiki()

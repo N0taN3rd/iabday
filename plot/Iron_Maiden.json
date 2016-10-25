@@ -1,4 +1,6 @@
 {
+  "timemap": "http://web.archive.org/web/timemap/link/http://ironmaiden.com/",
+  "timegate": "http://web.archive.org/web/http://ironmaiden.com/",
   "mementos": [
     {
       "datetime": "19980110083252",
@@ -7229,6 +7231,10 @@
       "uri": "http://web.archive.org/web/20160423072950/http://ironmaiden.com/"
     },
     {
+      "datetime": "20160423180414",
+      "uri": "http://web.archive.org/web/20160423180414/http://ironmaiden.com/"
+    },
+    {
       "datetime": "20160430190535",
       "uri": "http://web.archive.org/web/20160430190535/http://ironmaiden.com/"
     },
@@ -7551,230 +7557,241 @@
     {
       "datetime": "20161021194012",
       "uri": "http://web.archive.org/web/20161021194012/http://www.ironmaiden.com/"
-    }
-  ],
-  "first": "Sat, 10 Jan 1998 08:32:52 GMT",
-  "timegate": "http://web.archive.org/web/http://ironmaiden.com/",
-  "member_points": [
-    {
-      "t": "19700817200800",
-      "member": "Ron Matthews",
-      "plays": [
-        "drums"
-      ],
-      "f": "19750101000100"
     },
     {
-      "t": "20161025051074",
+      "datetime": "20161021194013",
+      "uri": "http://web.archive.org/web/20161021194013/http://ironmaiden.com/"
+    }
+  ],
+  "original": "http://ironmaiden.com/",
+  "member_points": [
+    {
+      "f": "1977-01-01 00:00:00-00:00",
+      "t": "1970-08-18 01:33:51-00:00",
+      "member": "Doug Sampson",
+      "plays": [
+        "drums"
+      ]
+    },
+    {
+      "f": "1975-01-01 00:00:00-00:00",
+      "t": "1970-08-17 17:13:51-00:00",
+      "member": "Paul Day",
+      "plays": [
+        "vocals"
+      ]
+    },
+    {
+      "f": "1979-01-01 00:00:00-00:00",
+      "t": "1970-08-18 09:53:51-00:00",
+      "member": "Clive Burr",
+      "plays": [
+        "drums"
+      ]
+    },
+    {
+      "f": "1994-01-01 00:00:00-00:00",
+      "t": "1970-08-20 09:07:11-00:00",
+      "member": "Blaze Bayley",
+      "plays": [
+        "vocals"
+      ]
+    },
+    {
+      "f": "1988-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
+      "member": "Michael Kenney",
+      "plays": [
+        "keyboards"
+      ]
+    },
+    {
+      "f": "1982-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
       "member": "Nicko McBrain",
       "plays": [
         "drums",
         "percussion"
-      ],
-      "f": "19820101000100"
+      ]
     },
     {
-      "t": "19700818010800",
-      "member": "Paul Cairns (AKA \"Mad Mac\")",
+      "f": "1975-01-01 00:00:00-00:00",
+      "t": "1970-08-17 20:00:31-00:00",
+      "member": "Ron Matthews",
       "plays": [
-        "guitars"
-      ],
-      "f": "19780101000100"
+        "drums"
+      ]
     },
     {
-      "t": "19700817170800",
+      "f": "1975-01-01 00:00:00-00:00",
+      "t": "1970-08-17 17:13:51-00:00",
       "member": "Terry Rance",
       "plays": [
         "guitars"
-      ],
-      "f": "19750101000100"
+      ]
     },
     {
-      "t": "19700820090800",
-      "member": "Blaze Bayley",
-      "plays": [
-        "vocals"
-      ],
-      "f": "19940101000100"
-    },
-    {
-      "t": "19700817200800",
-      "member": "Tony Moore",
-      "plays": [
-        "keyboards"
-      ],
-      "f": "19770101000100"
-    },
-    {
-      "t": "19700819160800",
-      "member": "Bruce Dickinson",
-      "plays": [
-        "lead vocals",
-        "piano"
-      ],
-      "f": "19810101000100"
-    },
-    {
-      "t": "20161025051074",
-      "member": "Bruce Dickinson",
-      "plays": [
-        "lead vocals",
-        "piano"
-      ],
-      "f": "19990101000100"
-    },
-    {
-      "t": "19700817220800",
+      "f": "1976-01-01 00:00:00-00:00",
+      "t": "1970-08-17 22:47:11-00:00",
       "member": "Dennis Wilcock",
       "plays": [
         "vocals"
-      ],
-      "f": "19760101000100"
+      ]
     },
     {
-      "t": "19700818010800",
-      "member": "Paul Todd",
+      "f": "1979-01-01 00:00:00-00:00",
+      "t": "1970-08-18 04:20:31-00:00",
+      "member": "Dennis Stratton",
+      "plays": [
+        "guitars and backing vocals"
+      ]
+    },
+    {
+      "f": "1980-01-01 00:00:00-00:00",
+      "t": "1970-08-19 08:07:11-00:00",
+      "member": "Adrian Smith",
+      "plays": [
+        "lead and rhythm guitars",
+        "backing vocals",
+        "studio keyboards (1988)"
+      ]
+    },
+    {
+      "f": "1999-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
+      "member": "Adrian Smith",
+      "plays": [
+        "lead and rhythm guitars",
+        "backing vocals",
+        "studio keyboards (1988)"
+      ]
+    },
+    {
+      "f": "1978-01-01 00:00:00-00:00",
+      "t": "1970-08-18 07:07:11-00:00",
+      "member": "Paul Di'Anno",
+      "plays": [
+        "vocals"
+      ]
+    },
+    {
+      "f": "1981-01-01 00:00:00-00:00",
+      "t": "1970-08-19 16:27:11-00:00",
+      "member": "Bruce Dickinson",
+      "plays": [
+        "lead vocals",
+        "piano (2015)"
+      ]
+    },
+    {
+      "f": "1999-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
+      "member": "Bruce Dickinson",
+      "plays": [
+        "lead vocals",
+        "piano (2015)"
+      ]
+    },
+    {
+      "f": "1990-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
+      "member": "Janick Gers",
+      "plays": [
+        "lead and rhythm guitars"
+      ]
+    },
+    {
+      "f": "1975-01-01 00:00:00-00:00",
+      "t": "1970-08-17 17:13:51-00:00",
+      "member": "Dave Sullivan",
       "plays": [
         "guitars"
-      ],
-      "f": "19790101000100"
+      ]
     },
     {
-      "t": "20161025051074",
+      "f": "1977-01-01 00:00:00-00:00",
+      "t": "1970-08-17 20:00:31-00:00",
+      "member": "Tony Moore",
+      "plays": [
+        "keyboards"
+      ]
+    },
+    {
+      "f": "1977-01-01 00:00:00-00:00",
+      "t": "1970-08-17 20:00:31-00:00",
+      "member": "Bob Sawyer (later Rob Angelo)",
+      "plays": [
+        "guitars"
+      ]
+    },
+    {
+      "f": "1975-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
       "member": "Steve Harris",
       "plays": [
         "bass",
         "backing vocals",
-        "studio keyboards"
-      ],
-      "f": "19750101000100"
+        "studio keyboards (1988",
+        "1998\u2013present)"
+      ]
     },
     {
-      "t": "19700817220800",
-      "member": "Terry Wapram",
-      "plays": [
-        "guitars"
-      ],
-      "f": "19770101000100"
-    },
-    {
-      "t": "19700817170800",
-      "member": "Dave Sullivan",
-      "plays": [
-        "guitars"
-      ],
-      "f": "19750101000100"
-    },
-    {
-      "t": "20161025051074",
-      "member": "Janick Gers",
-      "plays": [
-        "lead and rhythm guitars"
-      ],
-      "f": "19900101000100"
-    },
-    {
-      "t": "19700818040800",
-      "member": "Dennis Stratton",
-      "plays": [
-        "guitars and backing vocals"
-      ],
-      "f": "19790101000100"
-    },
-    {
-      "t": "19700818010800",
-      "member": "Doug Sampson",
-      "plays": [
-        "drums"
-      ],
-      "f": "19770101000100"
-    },
-    {
-      "t": "20161025051074",
-      "member": "Dave Murray",
-      "plays": [
-        "lead and rhythm guitars"
-      ],
-      "f": "19760101000100"
-    },
-    {
-      "t": "20161025051074",
-      "member": "Michael Kenney",
-      "plays": [
-        "keyboards"
-      ],
-      "f": "19880101000100"
-    },
-    {
-      "t": "19700818090800",
-      "member": "Clive Burr",
-      "plays": [
-        "drums"
-      ],
-      "f": "19790101000100"
-    },
-    {
-      "t": "19700818010800",
-      "member": "Tony Parsons",
-      "plays": [
-        "guitars"
-      ],
-      "f": "19790101000100"
-    },
-    {
-      "t": "19700819080800",
-      "member": "Adrian Smith",
-      "plays": [
-        "lead and rhythm guitars",
-        "backing vocals",
-        "studio keyboards "
-      ],
-      "f": "19800101000100"
-    },
-    {
-      "t": "20161025051074",
-      "member": "Adrian Smith",
-      "plays": [
-        "lead and rhythm guitars",
-        "backing vocals",
-        "studio keyboards "
-      ],
-      "f": "19990101000100"
-    },
-    {
-      "t": "19700817200800",
-      "member": "Bob Sawyer (later Rob Angelo)",
-      "plays": [
-        "guitars"
-      ],
-      "f": "19770101000100"
-    },
-    {
-      "t": "19700817170800",
-      "member": "Paul Day",
-      "plays": [
-        "vocals"
-      ],
-      "f": "19750101000100"
-    },
-    {
-      "t": "19700818070800",
-      "member": "Paul Di'Anno",
-      "plays": [
-        "vocals"
-      ],
-      "f": "19780101000100"
-    },
-    {
-      "t": "19700817200800",
+      "f": "1977-01-01 00:00:00-00:00",
+      "t": "1970-08-17 20:00:31-00:00",
       "member": "Thunderstick (Barry Purkis)",
       "plays": [
         "drums"
-      ],
-      "f": "19770101000100"
+      ]
+    },
+    {
+      "f": "1979-01-01 00:00:00-00:00",
+      "t": "1970-08-18 01:33:51-00:00",
+      "member": "Paul Todd",
+      "plays": [
+        "guitars"
+      ]
+    },
+    {
+      "f": "1977-01-01 00:00:00-00:00",
+      "t": "1970-08-17 22:47:11-00:00",
+      "member": "Terry Wapram",
+      "plays": [
+        "guitars"
+      ]
+    },
+    {
+      "f": "1979-01-01 00:00:00-00:00",
+      "t": "1970-08-18 01:33:51-00:00",
+      "member": "Tony Parsons",
+      "plays": [
+        "guitars"
+      ]
+    },
+    {
+      "f": "1978-01-01 00:00:00-00:00",
+      "t": "1970-08-18 01:33:51-00:00",
+      "member": "Paul Cairns (AKA \"Mad Mac\")",
+      "plays": [
+        "guitars"
+      ]
+    },
+    {
+      "f": "1976-01-01 00:00:00-00:00",
+      "t": "1970-08-17 20:00:31-00:00",
+      "member": "Dave Murray",
+      "plays": [
+        "lead and rhythm guitars"
+      ]
+    },
+    {
+      "f": "1978-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
+      "member": "Dave Murray",
+      "plays": [
+        "lead and rhythm guitars"
+      ]
     }
   ],
-  "original": "http://ironmaiden.com/",
-  "timemap": "http://web.archive.org/web/timemap/link/http://ironmaiden.com/",
-  "last": "Fri, 21 Oct 2016 19:40:13 GMT"
+  "first": "Sat, 10 Jan 1998 08:32:52 GMT",
+  "last": "Sun, 23 Oct 2016 01:33:11 GMT"
 }

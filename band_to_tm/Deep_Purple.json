@@ -1,0 +1,3891 @@
+{
+  "info": [
+    {
+      "active": [
+        {
+          "from": "1968",
+          "to": "1976"
+        },
+        {
+          "from": "1984",
+          "to": "2002"
+        }
+      ],
+      "member": "Jon Lord",
+      "plays": [
+        "keyboards",
+        "backing vocals"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1973",
+          "to": "1976"
+        }
+      ],
+      "member": "Glenn Hughes",
+      "plays": [
+        "bass",
+        "vocals"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1973",
+          "to": "1976"
+        }
+      ],
+      "member": "David Coverdale",
+      "plays": [
+        "vocals"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1994",
+          "to": "present"
+        }
+      ],
+      "member": "Steve Morse",
+      "plays": [
+        "guitar"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1968",
+          "to": "1976"
+        },
+        {
+          "from": "1984",
+          "to": "present"
+        }
+      ],
+      "member": "Ian Paice",
+      "plays": [
+        "drums",
+        "percussion"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1968",
+          "to": "1969"
+        }
+      ],
+      "member": "Rod Evans",
+      "plays": [
+        "vocals"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1968",
+          "to": "1975"
+        },
+        {
+          "from": "1984",
+          "to": "1993"
+        }
+      ],
+      "member": "Ritchie Blackmore",
+      "plays": [
+        "guitar"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1969",
+          "to": "1973"
+        },
+        {
+          "from": "1984",
+          "to": "1989"
+        },
+        {
+          "from": "1992",
+          "to": "present"
+        }
+      ],
+      "member": "Ian Gillan",
+      "plays": [
+        "vocals",
+        "harmonica"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2002",
+          "to": "present"
+        }
+      ],
+      "member": "Don Airey",
+      "plays": [
+        "keyboards"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1968",
+          "to": "1969"
+        }
+      ],
+      "member": "Nick Simper",
+      "plays": [
+        "bass",
+        "backing vocals"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1993",
+          "to": "1994"
+        }
+      ],
+      "member": "Joe Satriani",
+      "plays": [
+        "guitar"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1989",
+          "to": "1992"
+        }
+      ],
+      "member": "Joe Lynn Turner",
+      "plays": [
+        "vocals"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1969",
+          "to": "1973"
+        },
+        {
+          "from": "1984",
+          "to": "present"
+        }
+      ],
+      "member": "Roger Glover",
+      "plays": [
+        "1984\u2013present"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1975",
+          "to": "1976"
+        }
+      ],
+      "member": "Tommy Bolin",
+      "plays": [
+        "guitar",
+        "vocals"
+      ]
+    }
+  ],
+  "tm": {
+    "first": "Sat, 02 Nov 1996 05:55:33 GMT",
+    "self": "http://web.archive.org/web/timemap/link/http://deep-purple.com/",
+    "mementos": [
+      {
+        "datetime": "19961102055533",
+        "uri": "http://web.archive.org/web/19961102055533/http://deep-purple.com/"
+      },
+      {
+        "datetime": "19970509073153",
+        "uri": "http://web.archive.org/web/19970509073153/http://deep-purple.com/"
+      },
+      {
+        "datetime": "19980213125346",
+        "uri": "http://web.archive.org/web/19980213125346/http://deep-purple.com/"
+      },
+      {
+        "datetime": "19980224071642",
+        "uri": "http://web.archive.org/web/19980224071642/http://deep-purple.com/"
+      },
+      {
+        "datetime": "19980506121249",
+        "uri": "http://web.archive.org/web/19980506121249/http://deep-purple.com/"
+      },
+      {
+        "datetime": "19980612160629",
+        "uri": "http://web.archive.org/web/19980612160629/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "19980612233314",
+        "uri": "http://web.archive.org/web/19980612233314/http://www.deep-purple.com/members/.."
+      },
+      {
+        "datetime": "19981212024304",
+        "uri": "http://web.archive.org/web/19981212024304/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "19990208012618",
+        "uri": "http://web.archive.org/web/19990208012618/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "19990209000923",
+        "uri": "http://web.archive.org/web/19990209000923/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "19990224154942",
+        "uri": "http://web.archive.org/web/19990224154942/http://deep-purple.com/"
+      },
+      {
+        "datetime": "19990417133727",
+        "uri": "http://web.archive.org/web/19990417133727/http://deep-purple.com/"
+      },
+      {
+        "datetime": "19990420025026",
+        "uri": "http://web.archive.org/web/19990420025026/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "19990428032142",
+        "uri": "http://web.archive.org/web/19990428032142/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "19990428045423",
+        "uri": "http://web.archive.org/web/19990428045423/http://deep-purple.com/"
+      },
+      {
+        "datetime": "19991002005151",
+        "uri": "http://web.archive.org/web/19991002005151/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "19991006215609",
+        "uri": "http://web.archive.org/web/19991006215609/http://deep-purple.com/"
+      },
+      {
+        "datetime": "19991012192813",
+        "uri": "http://web.archive.org/web/19991012192813/http://deep-purple.com/"
+      },
+      {
+        "datetime": "19991108200608",
+        "uri": "http://web.archive.org/web/19991108200608/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "19991115145342",
+        "uri": "http://web.archive.org/web/19991115145342/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20000302155014",
+        "uri": "http://web.archive.org/web/20000302155014/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20000303135611",
+        "uri": "http://web.archive.org/web/20000303135611/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20000303145759",
+        "uri": "http://web.archive.org/web/20000303145759/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20000303165638",
+        "uri": "http://web.archive.org/web/20000303165638/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20000304032444",
+        "uri": "http://web.archive.org/web/20000304032444/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20000306191315",
+        "uri": "http://web.archive.org/web/20000306191315/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20000510005622",
+        "uri": "http://web.archive.org/web/20000510005622/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20000510020011",
+        "uri": "http://web.archive.org/web/20000510020011/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20000510141320",
+        "uri": "http://web.archive.org/web/20000510141320/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20000511140309",
+        "uri": "http://web.archive.org/web/20000511140309/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20000519225901",
+        "uri": "http://web.archive.org/web/20000519225901/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20000520064525",
+        "uri": "http://web.archive.org/web/20000520064525/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20000603215916",
+        "uri": "http://web.archive.org/web/20000603215916/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20000616012553",
+        "uri": "http://web.archive.org/web/20000616012553/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20000619022217",
+        "uri": "http://web.archive.org/web/20000619022217/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20000619193553",
+        "uri": "http://web.archive.org/web/20000619193553/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20000620053940",
+        "uri": "http://web.archive.org/web/20000620053940/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20000622091609",
+        "uri": "http://web.archive.org/web/20000622091609/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20000816070905",
+        "uri": "http://web.archive.org/web/20000816070905/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20000821125633",
+        "uri": "http://web.archive.org/web/20000821125633/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20001005012311",
+        "uri": "http://web.archive.org/web/20001005012311/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20001017143246",
+        "uri": "http://web.archive.org/web/20001017143246/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20001018072123",
+        "uri": "http://web.archive.org/web/20001018072123/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20001119225500",
+        "uri": "http://web.archive.org/web/20001119225500/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20001206115900",
+        "uri": "http://web.archive.org/web/20001206115900/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010118210000",
+        "uri": "http://web.archive.org/web/20010118210000/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010224145313",
+        "uri": "http://web.archive.org/web/20010224145313/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010226180428",
+        "uri": "http://web.archive.org/web/20010226180428/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010301085311",
+        "uri": "http://web.archive.org/web/20010301085311/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010301195041",
+        "uri": "http://web.archive.org/web/20010301195041/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010301223923",
+        "uri": "http://web.archive.org/web/20010301223923/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010301232912",
+        "uri": "http://web.archive.org/web/20010301232912/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010302052529",
+        "uri": "http://web.archive.org/web/20010302052529/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010302081621",
+        "uri": "http://web.archive.org/web/20010302081621/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010302112658",
+        "uri": "http://web.archive.org/web/20010302112658/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010404002200",
+        "uri": "http://web.archive.org/web/20010404002200/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010405132557",
+        "uri": "http://web.archive.org/web/20010405132557/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010418184208",
+        "uri": "http://web.archive.org/web/20010418184208/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010422100639",
+        "uri": "http://web.archive.org/web/20010422100639/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010509094223",
+        "uri": "http://web.archive.org/web/20010509094223/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010512091230",
+        "uri": "http://web.archive.org/web/20010512091230/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010516014707",
+        "uri": "http://web.archive.org/web/20010516014707/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010521015207",
+        "uri": "http://web.archive.org/web/20010521015207/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010619045120",
+        "uri": "http://web.archive.org/web/20010619045120/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010620034342",
+        "uri": "http://web.archive.org/web/20010620034342/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20010711034450",
+        "uri": "http://web.archive.org/web/20010711034450/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20020123010937",
+        "uri": "http://web.archive.org/web/20020123010937/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20020523003552",
+        "uri": "http://web.archive.org/web/20020523003552/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20020525180128",
+        "uri": "http://web.archive.org/web/20020525180128/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20020526140202",
+        "uri": "http://web.archive.org/web/20020526140202/http://www2.deep-purple.com/"
+      },
+      {
+        "datetime": "20020527121004",
+        "uri": "http://web.archive.org/web/20020527121004/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20020528113001",
+        "uri": "http://web.archive.org/web/20020528113001/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20020530083808",
+        "uri": "http://web.archive.org/web/20020530083808/http://www2.deep-purple.com/"
+      },
+      {
+        "datetime": "20020601025216",
+        "uri": "http://web.archive.org/web/20020601025216/http://www1.deep-purple.com/"
+      },
+      {
+        "datetime": "20020603011824",
+        "uri": "http://web.archive.org/web/20020603011824/http://www1.deep-purple.com/"
+      },
+      {
+        "datetime": "20020605012324",
+        "uri": "http://web.archive.org/web/20020605012324/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20020726150837",
+        "uri": "http://web.archive.org/web/20020726150837/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20020921205503",
+        "uri": "http://web.archive.org/web/20020921205503/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20020924134645",
+        "uri": "http://web.archive.org/web/20020924134645/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20020926092018",
+        "uri": "http://web.archive.org/web/20020926092018/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20020927003409",
+        "uri": "http://web.archive.org/web/20020927003409/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20020928195329",
+        "uri": "http://web.archive.org/web/20020928195329/http://www2.deep-purple.com/"
+      },
+      {
+        "datetime": "20020930153133",
+        "uri": "http://web.archive.org/web/20020930153133/http://www2.deep-purple.com/"
+      },
+      {
+        "datetime": "20021105051956",
+        "uri": "http://web.archive.org/web/20021105051956/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20021120112619",
+        "uri": "http://web.archive.org/web/20021120112619/http://www2.deep-purple.com/"
+      },
+      {
+        "datetime": "20021126025317",
+        "uri": "http://web.archive.org/web/20021126025317/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20021128203906",
+        "uri": "http://web.archive.org/web/20021128203906/http://www2.deep-purple.com/"
+      },
+      {
+        "datetime": "20021129044339",
+        "uri": "http://web.archive.org/web/20021129044339/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20030128032250",
+        "uri": "http://web.archive.org/web/20030128032250/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20030202003549",
+        "uri": "http://web.archive.org/web/20030202003549/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20030216035949",
+        "uri": "http://web.archive.org/web/20030216035949/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20030218072227",
+        "uri": "http://web.archive.org/web/20030218072227/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20030320050429",
+        "uri": "http://web.archive.org/web/20030320050429/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20030321005907",
+        "uri": "http://web.archive.org/web/20030321005907/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20030329124519",
+        "uri": "http://web.archive.org/web/20030329124519/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20030401021625",
+        "uri": "http://web.archive.org/web/20030401021625/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20030406153919",
+        "uri": "http://web.archive.org/web/20030406153919/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20030523143551",
+        "uri": "http://web.archive.org/web/20030523143551/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20030606071859",
+        "uri": "http://web.archive.org/web/20030606071859/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20030611124240",
+        "uri": "http://web.archive.org/web/20030611124240/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20030618144746",
+        "uri": "http://web.archive.org/web/20030618144746/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20030619231231",
+        "uri": "http://web.archive.org/web/20030619231231/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20030728223844",
+        "uri": "http://web.archive.org/web/20030728223844/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20030801194151",
+        "uri": "http://web.archive.org/web/20030801194151/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20030807144245",
+        "uri": "http://web.archive.org/web/20030807144245/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20030925125434",
+        "uri": "http://web.archive.org/web/20030925125434/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20030928170053",
+        "uri": "http://web.archive.org/web/20030928170053/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20031012164727",
+        "uri": "http://web.archive.org/web/20031012164727/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20031029021301",
+        "uri": "http://web.archive.org/web/20031029021301/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20031123002111",
+        "uri": "http://web.archive.org/web/20031123002111/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20031203104748",
+        "uri": "http://web.archive.org/web/20031203104748/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20031217124932",
+        "uri": "http://web.archive.org/web/20031217124932/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20031225055640",
+        "uri": "http://web.archive.org/web/20031225055640/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040329130509",
+        "uri": "http://web.archive.org/web/20040329130509/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040410121544",
+        "uri": "http://web.archive.org/web/20040410121544/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20040603221652",
+        "uri": "http://web.archive.org/web/20040603221652/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040608110423",
+        "uri": "http://web.archive.org/web/20040608110423/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040608185807",
+        "uri": "http://web.archive.org/web/20040608185807/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20040611094244",
+        "uri": "http://web.archive.org/web/20040611094244/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040611205002",
+        "uri": "http://web.archive.org/web/20040611205002/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040612023409",
+        "uri": "http://web.archive.org/web/20040612023409/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040612051407",
+        "uri": "http://web.archive.org/web/20040612051407/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040612083034",
+        "uri": "http://web.archive.org/web/20040612083034/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040614112740",
+        "uri": "http://web.archive.org/web/20040614112740/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20040615020132",
+        "uri": "http://web.archive.org/web/20040615020132/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040616024123",
+        "uri": "http://web.archive.org/web/20040616024123/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040618165148",
+        "uri": "http://web.archive.org/web/20040618165148/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040622070936",
+        "uri": "http://web.archive.org/web/20040622070936/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040622185839",
+        "uri": "http://web.archive.org/web/20040622185839/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20040623125823",
+        "uri": "http://web.archive.org/web/20040623125823/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040627082514",
+        "uri": "http://web.archive.org/web/20040627082514/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040628021353",
+        "uri": "http://web.archive.org/web/20040628021353/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040630192844",
+        "uri": "http://web.archive.org/web/20040630192844/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040701073752",
+        "uri": "http://web.archive.org/web/20040701073752/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040704020037",
+        "uri": "http://web.archive.org/web/20040704020037/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040704085253",
+        "uri": "http://web.archive.org/web/20040704085253/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040706075203",
+        "uri": "http://web.archive.org/web/20040706075203/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040707083929",
+        "uri": "http://web.archive.org/web/20040707083929/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040708065925",
+        "uri": "http://web.archive.org/web/20040708065925/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040710133301",
+        "uri": "http://web.archive.org/web/20040710133301/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040711005129",
+        "uri": "http://web.archive.org/web/20040711005129/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040711080757",
+        "uri": "http://web.archive.org/web/20040711080757/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040712075348",
+        "uri": "http://web.archive.org/web/20040712075348/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040715073117",
+        "uri": "http://web.archive.org/web/20040715073117/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040716025651",
+        "uri": "http://web.archive.org/web/20040716025651/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040717022508",
+        "uri": "http://web.archive.org/web/20040717022508/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040724041109",
+        "uri": "http://web.archive.org/web/20040724041109/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040725090321",
+        "uri": "http://web.archive.org/web/20040725090321/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040726003543",
+        "uri": "http://web.archive.org/web/20040726003543/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040727074519",
+        "uri": "http://web.archive.org/web/20040727074519/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040804053000",
+        "uri": "http://web.archive.org/web/20040804053000/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040805065343",
+        "uri": "http://web.archive.org/web/20040805065343/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040806040120",
+        "uri": "http://web.archive.org/web/20040806040120/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040809001456",
+        "uri": "http://web.archive.org/web/20040809001456/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040810004142",
+        "uri": "http://web.archive.org/web/20040810004142/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040810033858",
+        "uri": "http://web.archive.org/web/20040810033858/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040811014108",
+        "uri": "http://web.archive.org/web/20040811014108/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040813010941",
+        "uri": "http://web.archive.org/web/20040813010941/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040815001919",
+        "uri": "http://web.archive.org/web/20040815001919/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040815084330",
+        "uri": "http://web.archive.org/web/20040815084330/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040819084912",
+        "uri": "http://web.archive.org/web/20040819084912/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040821001354",
+        "uri": "http://web.archive.org/web/20040821001354/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040821080315",
+        "uri": "http://web.archive.org/web/20040821080315/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040822045216",
+        "uri": "http://web.archive.org/web/20040822045216/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040825030939",
+        "uri": "http://web.archive.org/web/20040825030939/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040828051914",
+        "uri": "http://web.archive.org/web/20040828051914/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20040831135627",
+        "uri": "http://web.archive.org/web/20040831135627/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20040901022905",
+        "uri": "http://web.archive.org/web/20040901022905/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040901090819",
+        "uri": "http://web.archive.org/web/20040901090819/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040902014022",
+        "uri": "http://web.archive.org/web/20040902014022/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040902082306",
+        "uri": "http://web.archive.org/web/20040902082306/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040904032359",
+        "uri": "http://web.archive.org/web/20040904032359/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040905080500",
+        "uri": "http://web.archive.org/web/20040905080500/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040906004915",
+        "uri": "http://web.archive.org/web/20040906004915/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040906022056",
+        "uri": "http://web.archive.org/web/20040906022056/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040909091447",
+        "uri": "http://web.archive.org/web/20040909091447/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040913234234",
+        "uri": "http://web.archive.org/web/20040913234234/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040915014929",
+        "uri": "http://web.archive.org/web/20040915014929/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040916005231",
+        "uri": "http://web.archive.org/web/20040916005231/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040917002412",
+        "uri": "http://web.archive.org/web/20040917002412/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040921212450",
+        "uri": "http://web.archive.org/web/20040921212450/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040923083258",
+        "uri": "http://web.archive.org/web/20040923083258/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040925031516",
+        "uri": "http://web.archive.org/web/20040925031516/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20040926023742",
+        "uri": "http://web.archive.org/web/20040926023742/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040926232827",
+        "uri": "http://web.archive.org/web/20040926232827/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20040929083039",
+        "uri": "http://web.archive.org/web/20040929083039/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041012045458",
+        "uri": "http://web.archive.org/web/20041012045458/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041022075632",
+        "uri": "http://web.archive.org/web/20041022075632/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041023083716",
+        "uri": "http://web.archive.org/web/20041023083716/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041024021742",
+        "uri": "http://web.archive.org/web/20041024021742/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041025075851",
+        "uri": "http://web.archive.org/web/20041025075851/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041029085753",
+        "uri": "http://web.archive.org/web/20041029085753/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041030012540",
+        "uri": "http://web.archive.org/web/20041030012540/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041031081702",
+        "uri": "http://web.archive.org/web/20041031081702/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041101041538",
+        "uri": "http://web.archive.org/web/20041101041538/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041102085441",
+        "uri": "http://web.archive.org/web/20041102085441/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041105100015",
+        "uri": "http://web.archive.org/web/20041105100015/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041109020108",
+        "uri": "http://web.archive.org/web/20041109020108/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041112071209",
+        "uri": "http://web.archive.org/web/20041112071209/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041114085029",
+        "uri": "http://web.archive.org/web/20041114085029/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041121003745",
+        "uri": "http://web.archive.org/web/20041121003745/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041122092016",
+        "uri": "http://web.archive.org/web/20041122092016/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041123005527",
+        "uri": "http://web.archive.org/web/20041123005527/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041125015120",
+        "uri": "http://web.archive.org/web/20041125015120/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041125091448",
+        "uri": "http://web.archive.org/web/20041125091448/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041126030209",
+        "uri": "http://web.archive.org/web/20041126030209/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041128092633",
+        "uri": "http://web.archive.org/web/20041128092633/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041203023704",
+        "uri": "http://web.archive.org/web/20041203023704/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041206093441",
+        "uri": "http://web.archive.org/web/20041206093441/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041213225448",
+        "uri": "http://web.archive.org/web/20041213225448/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20041216022740",
+        "uri": "http://web.archive.org/web/20041216022740/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041217092427",
+        "uri": "http://web.archive.org/web/20041217092427/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041228230215",
+        "uri": "http://web.archive.org/web/20041228230215/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20041230122813",
+        "uri": "http://web.archive.org/web/20041230122813/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050105094322",
+        "uri": "http://web.archive.org/web/20050105094322/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050109004657",
+        "uri": "http://web.archive.org/web/20050109004657/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050109094450",
+        "uri": "http://web.archive.org/web/20050109094450/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050110083723",
+        "uri": "http://web.archive.org/web/20050110083723/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050112095826",
+        "uri": "http://web.archive.org/web/20050112095826/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050113070556",
+        "uri": "http://web.archive.org/web/20050113070556/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050114053704",
+        "uri": "http://web.archive.org/web/20050114053704/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050115055245",
+        "uri": "http://web.archive.org/web/20050115055245/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050116091519",
+        "uri": "http://web.archive.org/web/20050116091519/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050117090320",
+        "uri": "http://web.archive.org/web/20050117090320/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050118084637",
+        "uri": "http://web.archive.org/web/20050118084637/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050122055412",
+        "uri": "http://web.archive.org/web/20050122055412/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050122092704",
+        "uri": "http://web.archive.org/web/20050122092704/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050124092631",
+        "uri": "http://web.archive.org/web/20050124092631/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050126225103",
+        "uri": "http://web.archive.org/web/20050126225103/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20050130040902",
+        "uri": "http://web.archive.org/web/20050130040902/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050205044855",
+        "uri": "http://web.archive.org/web/20050205044855/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050205092230",
+        "uri": "http://web.archive.org/web/20050205092230/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050206001101",
+        "uri": "http://web.archive.org/web/20050206001101/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050206093845",
+        "uri": "http://web.archive.org/web/20050206093845/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050209142902",
+        "uri": "http://web.archive.org/web/20050209142902/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050213100516",
+        "uri": "http://web.archive.org/web/20050213100516/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050215091404",
+        "uri": "http://web.archive.org/web/20050215091404/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050217013657",
+        "uri": "http://web.archive.org/web/20050217013657/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050217093054",
+        "uri": "http://web.archive.org/web/20050217093054/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050220084737",
+        "uri": "http://web.archive.org/web/20050220084737/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050301022503",
+        "uri": "http://web.archive.org/web/20050301022503/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050303000104",
+        "uri": "http://web.archive.org/web/20050303000104/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050304083433",
+        "uri": "http://web.archive.org/web/20050304083433/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050322031136",
+        "uri": "http://web.archive.org/web/20050322031136/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050322093745",
+        "uri": "http://web.archive.org/web/20050322093745/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050323034919",
+        "uri": "http://web.archive.org/web/20050323034919/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050328025928",
+        "uri": "http://web.archive.org/web/20050328025928/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050331085920",
+        "uri": "http://web.archive.org/web/20050331085920/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050403013507",
+        "uri": "http://web.archive.org/web/20050403013507/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050403100917",
+        "uri": "http://web.archive.org/web/20050403100917/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050404033227",
+        "uri": "http://web.archive.org/web/20050404033227/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050406061428",
+        "uri": "http://web.archive.org/web/20050406061428/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050406171139",
+        "uri": "http://web.archive.org/web/20050406171139/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050409233926",
+        "uri": "http://web.archive.org/web/20050409233926/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050410233346",
+        "uri": "http://web.archive.org/web/20050410233346/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050418013441",
+        "uri": "http://web.archive.org/web/20050418013441/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050425075911",
+        "uri": "http://web.archive.org/web/20050425075911/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050507063034",
+        "uri": "http://web.archive.org/web/20050507063034/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050509234113",
+        "uri": "http://web.archive.org/web/20050509234113/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050512032216",
+        "uri": "http://web.archive.org/web/20050512032216/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050512084704",
+        "uri": "http://web.archive.org/web/20050512084704/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050513211426",
+        "uri": "http://web.archive.org/web/20050513211426/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050514024114",
+        "uri": "http://web.archive.org/web/20050514024114/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050514082218",
+        "uri": "http://web.archive.org/web/20050514082218/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050516015619",
+        "uri": "http://web.archive.org/web/20050516015619/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050521075622",
+        "uri": "http://web.archive.org/web/20050521075622/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050522012018",
+        "uri": "http://web.archive.org/web/20050522012018/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050522233911",
+        "uri": "http://web.archive.org/web/20050522233911/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050524013437",
+        "uri": "http://web.archive.org/web/20050524013437/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050526013947",
+        "uri": "http://web.archive.org/web/20050526013947/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050529084854",
+        "uri": "http://web.archive.org/web/20050529084854/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050531002544",
+        "uri": "http://web.archive.org/web/20050531002544/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050603010301",
+        "uri": "http://web.archive.org/web/20050603010301/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050603084638",
+        "uri": "http://web.archive.org/web/20050603084638/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050603234742",
+        "uri": "http://web.archive.org/web/20050603234742/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050605030405",
+        "uri": "http://web.archive.org/web/20050605030405/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050606005532",
+        "uri": "http://web.archive.org/web/20050606005532/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050608002622",
+        "uri": "http://web.archive.org/web/20050608002622/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050611002613",
+        "uri": "http://web.archive.org/web/20050611002613/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050612083632",
+        "uri": "http://web.archive.org/web/20050612083632/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050612233201",
+        "uri": "http://web.archive.org/web/20050612233201/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050613235102",
+        "uri": "http://web.archive.org/web/20050613235102/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050615020928",
+        "uri": "http://web.archive.org/web/20050615020928/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050615082221",
+        "uri": "http://web.archive.org/web/20050615082221/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050618075955",
+        "uri": "http://web.archive.org/web/20050618075955/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050620233151",
+        "uri": "http://web.archive.org/web/20050620233151/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050622020200",
+        "uri": "http://web.archive.org/web/20050622020200/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050623014053",
+        "uri": "http://web.archive.org/web/20050623014053/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050624000329",
+        "uri": "http://web.archive.org/web/20050624000329/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050627234041",
+        "uri": "http://web.archive.org/web/20050627234041/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050629013918",
+        "uri": "http://web.archive.org/web/20050629013918/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050629081855",
+        "uri": "http://web.archive.org/web/20050629081855/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050701021023",
+        "uri": "http://web.archive.org/web/20050701021023/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050702083352",
+        "uri": "http://web.archive.org/web/20050702083352/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050702235856",
+        "uri": "http://web.archive.org/web/20050702235856/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050706014616",
+        "uri": "http://web.archive.org/web/20050706014616/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050706023615",
+        "uri": "http://web.archive.org/web/20050706023615/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050708024648",
+        "uri": "http://web.archive.org/web/20050708024648/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050716025535",
+        "uri": "http://web.archive.org/web/20050716025535/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050717074157",
+        "uri": "http://web.archive.org/web/20050717074157/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050717234232",
+        "uri": "http://web.archive.org/web/20050717234232/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050718081412",
+        "uri": "http://web.archive.org/web/20050718081412/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050719010925",
+        "uri": "http://web.archive.org/web/20050719010925/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050720081818",
+        "uri": "http://web.archive.org/web/20050720081818/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050721032740",
+        "uri": "http://web.archive.org/web/20050721032740/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050723014026",
+        "uri": "http://web.archive.org/web/20050723014026/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050730000901",
+        "uri": "http://web.archive.org/web/20050730000901/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050803012027",
+        "uri": "http://web.archive.org/web/20050803012027/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050804233704",
+        "uri": "http://web.archive.org/web/20050804233704/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050806080700",
+        "uri": "http://web.archive.org/web/20050806080700/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050811031437",
+        "uri": "http://web.archive.org/web/20050811031437/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050812001509",
+        "uri": "http://web.archive.org/web/20050812001509/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050813235412",
+        "uri": "http://web.archive.org/web/20050813235412/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050818015038",
+        "uri": "http://web.archive.org/web/20050818015038/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050818021629",
+        "uri": "http://web.archive.org/web/20050818021629/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050820013916",
+        "uri": "http://web.archive.org/web/20050820013916/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050822133044",
+        "uri": "http://web.archive.org/web/20050822133044/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050823044719",
+        "uri": "http://web.archive.org/web/20050823044719/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050823113845",
+        "uri": "http://web.archive.org/web/20050823113845/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050825223859",
+        "uri": "http://web.archive.org/web/20050825223859/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050826093944",
+        "uri": "http://web.archive.org/web/20050826093944/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050826174359",
+        "uri": "http://web.archive.org/web/20050826174359/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050827052055",
+        "uri": "http://web.archive.org/web/20050827052055/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050827143852",
+        "uri": "http://web.archive.org/web/20050827143852/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050828203331",
+        "uri": "http://web.archive.org/web/20050828203331/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050829053909",
+        "uri": "http://web.archive.org/web/20050829053909/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050829132854",
+        "uri": "http://web.archive.org/web/20050829132854/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050829140013",
+        "uri": "http://web.archive.org/web/20050829140013/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050829164149",
+        "uri": "http://web.archive.org/web/20050829164149/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050830014953",
+        "uri": "http://web.archive.org/web/20050830014953/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050830044553",
+        "uri": "http://web.archive.org/web/20050830044553/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050831112758",
+        "uri": "http://web.archive.org/web/20050831112758/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050831144854",
+        "uri": "http://web.archive.org/web/20050831144854/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050903121512",
+        "uri": "http://web.archive.org/web/20050903121512/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050908180407",
+        "uri": "http://web.archive.org/web/20050908180407/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050923104400",
+        "uri": "http://web.archive.org/web/20050923104400/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20050924082512",
+        "uri": "http://web.archive.org/web/20050924082512/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050924083841",
+        "uri": "http://web.archive.org/web/20050924083841/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050924084445",
+        "uri": "http://web.archive.org/web/20050924084445/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050924084518",
+        "uri": "http://web.archive.org/web/20050924084518/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050924084923",
+        "uri": "http://web.archive.org/web/20050924084923/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050924084958",
+        "uri": "http://web.archive.org/web/20050924084958/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050924085612",
+        "uri": "http://web.archive.org/web/20050924085612/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050924090434",
+        "uri": "http://web.archive.org/web/20050924090434/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050924164659",
+        "uri": "http://web.archive.org/web/20050924164659/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050924164722",
+        "uri": "http://web.archive.org/web/20050924164722/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050924165419",
+        "uri": "http://web.archive.org/web/20050924165419/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20050924170210",
+        "uri": "http://web.archive.org/web/20050924170210/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050924183601",
+        "uri": "http://web.archive.org/web/20050924183601/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050927044756",
+        "uri": "http://web.archive.org/web/20050927044756/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20050930232645",
+        "uri": "http://web.archive.org/web/20050930232645/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051001074156",
+        "uri": "http://web.archive.org/web/20051001074156/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051013072501",
+        "uri": "http://web.archive.org/web/20051013072501/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051015235211",
+        "uri": "http://web.archive.org/web/20051015235211/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051022054543",
+        "uri": "http://web.archive.org/web/20051022054543/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051024013427",
+        "uri": "http://web.archive.org/web/20051024013427/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051025130619",
+        "uri": "http://web.archive.org/web/20051025130619/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051025165122",
+        "uri": "http://web.archive.org/web/20051025165122/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051027010428",
+        "uri": "http://web.archive.org/web/20051027010428/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051029093554",
+        "uri": "http://web.archive.org/web/20051029093554/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051031031828",
+        "uri": "http://web.archive.org/web/20051031031828/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051103015337",
+        "uri": "http://web.archive.org/web/20051103015337/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051105014406",
+        "uri": "http://web.archive.org/web/20051105014406/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051107005821",
+        "uri": "http://web.archive.org/web/20051107005821/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051107210500",
+        "uri": "http://web.archive.org/web/20051107210500/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051124023024",
+        "uri": "http://web.archive.org/web/20051124023024/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051124043525",
+        "uri": "http://web.archive.org/web/20051124043525/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051124055801",
+        "uri": "http://web.archive.org/web/20051124055801/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051124235043",
+        "uri": "http://web.archive.org/web/20051124235043/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051125023106",
+        "uri": "http://web.archive.org/web/20051125023106/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051125042411",
+        "uri": "http://web.archive.org/web/20051125042411/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051125093021",
+        "uri": "http://web.archive.org/web/20051125093021/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051125105237",
+        "uri": "http://web.archive.org/web/20051125105237/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051128022929",
+        "uri": "http://web.archive.org/web/20051128022929/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051128100140",
+        "uri": "http://web.archive.org/web/20051128100140/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051128103750",
+        "uri": "http://web.archive.org/web/20051128103750/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051202021637",
+        "uri": "http://web.archive.org/web/20051202021637/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051203012536",
+        "uri": "http://web.archive.org/web/20051203012536/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051205021051",
+        "uri": "http://web.archive.org/web/20051205021051/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20051206020544",
+        "uri": "http://web.archive.org/web/20051206020544/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051208000913",
+        "uri": "http://web.archive.org/web/20051208000913/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051208013154",
+        "uri": "http://web.archive.org/web/20051208013154/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051210052708",
+        "uri": "http://web.archive.org/web/20051210052708/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051210101322",
+        "uri": "http://web.archive.org/web/20051210101322/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051213015425",
+        "uri": "http://web.archive.org/web/20051213015425/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051214034911",
+        "uri": "http://web.archive.org/web/20051214034911/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051217110707",
+        "uri": "http://web.archive.org/web/20051217110707/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051218020224",
+        "uri": "http://web.archive.org/web/20051218020224/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051220123002",
+        "uri": "http://web.archive.org/web/20051220123002/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051221043515",
+        "uri": "http://web.archive.org/web/20051221043515/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051224032953",
+        "uri": "http://web.archive.org/web/20051224032953/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051225225804",
+        "uri": "http://web.archive.org/web/20051225225804/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051227095724",
+        "uri": "http://web.archive.org/web/20051227095724/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051228115310",
+        "uri": "http://web.archive.org/web/20051228115310/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051228134137",
+        "uri": "http://web.archive.org/web/20051228134137/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051230003949",
+        "uri": "http://web.archive.org/web/20051230003949/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051230093901",
+        "uri": "http://web.archive.org/web/20051230093901/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051230095728",
+        "uri": "http://web.archive.org/web/20051230095728/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051230100636",
+        "uri": "http://web.archive.org/web/20051230100636/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051230101847",
+        "uri": "http://web.archive.org/web/20051230101847/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051230102833",
+        "uri": "http://web.archive.org/web/20051230102833/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051231054004",
+        "uri": "http://web.archive.org/web/20051231054004/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20051231223623",
+        "uri": "http://web.archive.org/web/20051231223623/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060101040028",
+        "uri": "http://web.archive.org/web/20060101040028/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060101044432",
+        "uri": "http://web.archive.org/web/20060101044432/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060101094614",
+        "uri": "http://web.archive.org/web/20060101094614/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060101171757",
+        "uri": "http://web.archive.org/web/20060101171757/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060101201618",
+        "uri": "http://web.archive.org/web/20060101201618/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060101235459",
+        "uri": "http://web.archive.org/web/20060101235459/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060102053027",
+        "uri": "http://web.archive.org/web/20060102053027/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060102101234",
+        "uri": "http://web.archive.org/web/20060102101234/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060102125131",
+        "uri": "http://web.archive.org/web/20060102125131/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060102165552",
+        "uri": "http://web.archive.org/web/20060102165552/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060104050321",
+        "uri": "http://web.archive.org/web/20060104050321/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060105062419",
+        "uri": "http://web.archive.org/web/20060105062419/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060105103418",
+        "uri": "http://web.archive.org/web/20060105103418/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060105140527",
+        "uri": "http://web.archive.org/web/20060105140527/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060105182048",
+        "uri": "http://web.archive.org/web/20060105182048/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060105222953",
+        "uri": "http://web.archive.org/web/20060105222953/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060106015356",
+        "uri": "http://web.archive.org/web/20060106015356/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060106054324",
+        "uri": "http://web.archive.org/web/20060106054324/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060106075405",
+        "uri": "http://web.archive.org/web/20060106075405/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060106113332",
+        "uri": "http://web.archive.org/web/20060106113332/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060106185937",
+        "uri": "http://web.archive.org/web/20060106185937/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060112030158",
+        "uri": "http://web.archive.org/web/20060112030158/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060116055039",
+        "uri": "http://web.archive.org/web/20060116055039/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060118065100",
+        "uri": "http://web.archive.org/web/20060118065100/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060125041835",
+        "uri": "http://web.archive.org/web/20060125041835/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060202051915",
+        "uri": "http://web.archive.org/web/20060202051915/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20060204104633",
+        "uri": "http://web.archive.org/web/20060204104633/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060205092804",
+        "uri": "http://web.archive.org/web/20060205092804/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060206090403",
+        "uri": "http://web.archive.org/web/20060206090403/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060206215442",
+        "uri": "http://web.archive.org/web/20060206215442/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060206230746",
+        "uri": "http://web.archive.org/web/20060206230746/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060206230818",
+        "uri": "http://web.archive.org/web/20060206230818/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060209031014",
+        "uri": "http://web.archive.org/web/20060209031014/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060210184118",
+        "uri": "http://web.archive.org/web/20060210184118/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060216021311",
+        "uri": "http://web.archive.org/web/20060216021311/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060216111708",
+        "uri": "http://web.archive.org/web/20060216111708/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060217212707",
+        "uri": "http://web.archive.org/web/20060217212707/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060220110733",
+        "uri": "http://web.archive.org/web/20060220110733/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060223015651",
+        "uri": "http://web.archive.org/web/20060223015651/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060303225544",
+        "uri": "http://web.archive.org/web/20060303225544/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060303225605",
+        "uri": "http://web.archive.org/web/20060303225605/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060303225629",
+        "uri": "http://web.archive.org/web/20060303225629/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060323211353",
+        "uri": "http://web.archive.org/web/20060323211353/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060324063411",
+        "uri": "http://web.archive.org/web/20060324063411/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060325105624",
+        "uri": "http://web.archive.org/web/20060325105624/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060327074747",
+        "uri": "http://web.archive.org/web/20060327074747/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060327074843",
+        "uri": "http://web.archive.org/web/20060327074843/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060328045705",
+        "uri": "http://web.archive.org/web/20060328045705/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060329083254",
+        "uri": "http://web.archive.org/web/20060329083254/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060331032452",
+        "uri": "http://web.archive.org/web/20060331032452/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060401030000",
+        "uri": "http://web.archive.org/web/20060401030000/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060402185552",
+        "uri": "http://web.archive.org/web/20060402185552/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20060404101330",
+        "uri": "http://web.archive.org/web/20060404101330/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060404182509",
+        "uri": "http://web.archive.org/web/20060404182509/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060406110438",
+        "uri": "http://web.archive.org/web/20060406110438/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060408075405",
+        "uri": "http://web.archive.org/web/20060408075405/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060408112245",
+        "uri": "http://web.archive.org/web/20060408112245/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060409104250",
+        "uri": "http://web.archive.org/web/20060409104250/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060410074610",
+        "uri": "http://web.archive.org/web/20060410074610/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060410105201",
+        "uri": "http://web.archive.org/web/20060410105201/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060412075647",
+        "uri": "http://web.archive.org/web/20060412075647/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060413105806",
+        "uri": "http://web.archive.org/web/20060413105806/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060413183603",
+        "uri": "http://web.archive.org/web/20060413183603/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060417080159",
+        "uri": "http://web.archive.org/web/20060417080159/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060417103712",
+        "uri": "http://web.archive.org/web/20060417103712/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060424042801",
+        "uri": "http://web.archive.org/web/20060424042801/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060427040854",
+        "uri": "http://web.archive.org/web/20060427040854/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060428054041",
+        "uri": "http://web.archive.org/web/20060428054041/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060506000235",
+        "uri": "http://web.archive.org/web/20060506000235/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20060507042928",
+        "uri": "http://web.archive.org/web/20060507042928/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060507220507",
+        "uri": "http://web.archive.org/web/20060507220507/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060510042456",
+        "uri": "http://web.archive.org/web/20060510042456/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20060510141146",
+        "uri": "http://web.archive.org/web/20060510141146/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060510235413",
+        "uri": "http://web.archive.org/web/20060510235413/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060518200249",
+        "uri": "http://web.archive.org/web/20060518200249/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20060524092048",
+        "uri": "http://web.archive.org/web/20060524092048/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060524092100",
+        "uri": "http://web.archive.org/web/20060524092100/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060524092112",
+        "uri": "http://web.archive.org/web/20060524092112/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060525000450",
+        "uri": "http://web.archive.org/web/20060525000450/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060527020255",
+        "uri": "http://web.archive.org/web/20060527020255/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060528200619",
+        "uri": "http://web.archive.org/web/20060528200619/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060601033300",
+        "uri": "http://web.archive.org/web/20060601033300/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060610151231",
+        "uri": "http://web.archive.org/web/20060610151231/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20060610221641",
+        "uri": "http://web.archive.org/web/20060610221641/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20060613030001",
+        "uri": "http://web.archive.org/web/20060613030001/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060613084924",
+        "uri": "http://web.archive.org/web/20060613084924/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060615194740",
+        "uri": "http://web.archive.org/web/20060615194740/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060616035924",
+        "uri": "http://web.archive.org/web/20060616035924/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060619063352",
+        "uri": "http://web.archive.org/web/20060619063352/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060619063416",
+        "uri": "http://web.archive.org/web/20060619063416/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060623050328",
+        "uri": "http://web.archive.org/web/20060623050328/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060626060019",
+        "uri": "http://web.archive.org/web/20060626060019/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060628051505",
+        "uri": "http://web.archive.org/web/20060628051505/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060705235211",
+        "uri": "http://web.archive.org/web/20060705235211/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060715075946",
+        "uri": "http://web.archive.org/web/20060715075946/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060718070639",
+        "uri": "http://web.archive.org/web/20060718070639/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060718081125",
+        "uri": "http://web.archive.org/web/20060718081125/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060718085648",
+        "uri": "http://web.archive.org/web/20060718085648/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060718085816",
+        "uri": "http://web.archive.org/web/20060718085816/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060718113006",
+        "uri": "http://web.archive.org/web/20060718113006/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060718115300",
+        "uri": "http://web.archive.org/web/20060718115300/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060719043107",
+        "uri": "http://web.archive.org/web/20060719043107/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060719050258",
+        "uri": "http://web.archive.org/web/20060719050258/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060719224139",
+        "uri": "http://web.archive.org/web/20060719224139/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060720014035",
+        "uri": "http://web.archive.org/web/20060720014035/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060721002542",
+        "uri": "http://web.archive.org/web/20060721002542/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060803123448",
+        "uri": "http://web.archive.org/web/20060803123448/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20060808183406",
+        "uri": "http://web.archive.org/web/20060808183406/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060810060559",
+        "uri": "http://web.archive.org/web/20060810060559/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060810061254",
+        "uri": "http://web.archive.org/web/20060810061254/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060812184454",
+        "uri": "http://web.archive.org/web/20060812184454/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060819022231",
+        "uri": "http://web.archive.org/web/20060819022231/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060820151450",
+        "uri": "http://web.archive.org/web/20060820151450/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060821015258",
+        "uri": "http://web.archive.org/web/20060821015258/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060821025951",
+        "uri": "http://web.archive.org/web/20060821025951/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060823060232",
+        "uri": "http://web.archive.org/web/20060823060232/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060823065156",
+        "uri": "http://web.archive.org/web/20060823065156/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060823065339",
+        "uri": "http://web.archive.org/web/20060823065339/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060823065401",
+        "uri": "http://web.archive.org/web/20060823065401/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060823065412",
+        "uri": "http://web.archive.org/web/20060823065412/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060823070559",
+        "uri": "http://web.archive.org/web/20060823070559/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060823070619",
+        "uri": "http://web.archive.org/web/20060823070619/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060829231410",
+        "uri": "http://web.archive.org/web/20060829231410/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20060831013443",
+        "uri": "http://web.archive.org/web/20060831013443/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20061023170327",
+        "uri": "http://web.archive.org/web/20061023170327/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20061024042448",
+        "uri": "http://web.archive.org/web/20061024042448/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20061026174639",
+        "uri": "http://web.archive.org/web/20061026174639/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20061030152720",
+        "uri": "http://web.archive.org/web/20061030152720/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20061107174115",
+        "uri": "http://web.archive.org/web/20061107174115/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20061115003645",
+        "uri": "http://web.archive.org/web/20061115003645/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20061125043738",
+        "uri": "http://web.archive.org/web/20061125043738/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20061125190743",
+        "uri": "http://web.archive.org/web/20061125190743/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20061130025326",
+        "uri": "http://web.archive.org/web/20061130025326/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20061205103442",
+        "uri": "http://web.archive.org/web/20061205103442/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20061210111018",
+        "uri": "http://web.archive.org/web/20061210111018/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20061215070102",
+        "uri": "http://web.archive.org/web/20061215070102/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20061224194514",
+        "uri": "http://web.archive.org/web/20061224194514/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070101211006",
+        "uri": "http://web.archive.org/web/20070101211006/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070106215153",
+        "uri": "http://web.archive.org/web/20070106215153/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070111150851",
+        "uri": "http://web.archive.org/web/20070111150851/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070116123055",
+        "uri": "http://web.archive.org/web/20070116123055/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070122025420",
+        "uri": "http://web.archive.org/web/20070122025420/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070128012627",
+        "uri": "http://web.archive.org/web/20070128012627/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070202022823",
+        "uri": "http://web.archive.org/web/20070202022823/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070208160549",
+        "uri": "http://web.archive.org/web/20070208160549/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070209204749",
+        "uri": "http://web.archive.org/web/20070209204749/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070217134102",
+        "uri": "http://web.archive.org/web/20070217134102/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070225141621",
+        "uri": "http://web.archive.org/web/20070225141621/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070305231422",
+        "uri": "http://web.archive.org/web/20070305231422/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070314013303",
+        "uri": "http://web.archive.org/web/20070314013303/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070322233108",
+        "uri": "http://web.archive.org/web/20070322233108/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070408024740",
+        "uri": "http://web.archive.org/web/20070408024740/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070513120405",
+        "uri": "http://web.archive.org/web/20070513120405/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070530005447",
+        "uri": "http://web.archive.org/web/20070530005447/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070613223024",
+        "uri": "http://web.archive.org/web/20070613223024/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070703033326",
+        "uri": "http://web.archive.org/web/20070703033326/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070716073857",
+        "uri": "http://web.archive.org/web/20070716073857/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070816055919",
+        "uri": "http://web.archive.org/web/20070816055919/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070913010124",
+        "uri": "http://web.archive.org/web/20070913010124/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070916225207",
+        "uri": "http://web.archive.org/web/20070916225207/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20070928110417",
+        "uri": "http://web.archive.org/web/20070928110417/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071003055852",
+        "uri": "http://web.archive.org/web/20071003055852/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071005203446",
+        "uri": "http://web.archive.org/web/20071005203446/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071007002621",
+        "uri": "http://web.archive.org/web/20071007002621/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071008074202",
+        "uri": "http://web.archive.org/web/20071008074202/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071010100359",
+        "uri": "http://web.archive.org/web/20071010100359/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071011000418",
+        "uri": "http://web.archive.org/web/20071011000418/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071016064106",
+        "uri": "http://web.archive.org/web/20071016064106/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071020230436",
+        "uri": "http://web.archive.org/web/20071020230436/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071026153313",
+        "uri": "http://web.archive.org/web/20071026153313/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071031003557",
+        "uri": "http://web.archive.org/web/20071031003557/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071101041620",
+        "uri": "http://web.archive.org/web/20071101041620/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071104025015",
+        "uri": "http://web.archive.org/web/20071104025015/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071112155654",
+        "uri": "http://web.archive.org/web/20071112155654/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071116181917",
+        "uri": "http://web.archive.org/web/20071116181917/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071121061818",
+        "uri": "http://web.archive.org/web/20071121061818/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071125164257",
+        "uri": "http://web.archive.org/web/20071125164257/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071130123002",
+        "uri": "http://web.archive.org/web/20071130123002/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071205014105",
+        "uri": "http://web.archive.org/web/20071205014105/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071209073420",
+        "uri": "http://web.archive.org/web/20071209073420/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071214044306",
+        "uri": "http://web.archive.org/web/20071214044306/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071219005435",
+        "uri": "http://web.archive.org/web/20071219005435/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071224033436",
+        "uri": "http://web.archive.org/web/20071224033436/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20071230033657",
+        "uri": "http://web.archive.org/web/20071230033657/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080105054643",
+        "uri": "http://web.archive.org/web/20080105054643/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080113203753",
+        "uri": "http://web.archive.org/web/20080113203753/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080126235206",
+        "uri": "http://web.archive.org/web/20080126235206/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080131115505",
+        "uri": "http://web.archive.org/web/20080131115505/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20080204065814",
+        "uri": "http://web.archive.org/web/20080204065814/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080208080405",
+        "uri": "http://web.archive.org/web/20080208080405/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080212045349",
+        "uri": "http://web.archive.org/web/20080212045349/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080215223711",
+        "uri": "http://web.archive.org/web/20080215223711/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080220102300",
+        "uri": "http://web.archive.org/web/20080220102300/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080228181804",
+        "uri": "http://web.archive.org/web/20080228181804/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080304024706",
+        "uri": "http://web.archive.org/web/20080304024706/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080308062209",
+        "uri": "http://web.archive.org/web/20080308062209/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080312024312",
+        "uri": "http://web.archive.org/web/20080312024312/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080316032827",
+        "uri": "http://web.archive.org/web/20080316032827/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080320044058",
+        "uri": "http://web.archive.org/web/20080320044058/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080324123308",
+        "uri": "http://web.archive.org/web/20080324123308/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080330210037",
+        "uri": "http://web.archive.org/web/20080330210037/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080404164926",
+        "uri": "http://web.archive.org/web/20080404164926/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080409142507",
+        "uri": "http://web.archive.org/web/20080409142507/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080415155114",
+        "uri": "http://web.archive.org/web/20080415155114/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080421135636",
+        "uri": "http://web.archive.org/web/20080421135636/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080430123424",
+        "uri": "http://web.archive.org/web/20080430123424/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080430191307",
+        "uri": "http://web.archive.org/web/20080430191307/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080509123318",
+        "uri": "http://web.archive.org/web/20080509123318/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080512044755",
+        "uri": "http://web.archive.org/web/20080512044755/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080517022706",
+        "uri": "http://web.archive.org/web/20080517022706/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20080524074007",
+        "uri": "http://web.archive.org/web/20080524074007/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080531142703",
+        "uri": "http://web.archive.org/web/20080531142703/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080606183304",
+        "uri": "http://web.archive.org/web/20080606183304/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080612022443",
+        "uri": "http://web.archive.org/web/20080612022443/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080617200139",
+        "uri": "http://web.archive.org/web/20080617200139/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080623044432",
+        "uri": "http://web.archive.org/web/20080623044432/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080628233949",
+        "uri": "http://web.archive.org/web/20080628233949/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080702073252",
+        "uri": "http://web.archive.org/web/20080702073252/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080703105959",
+        "uri": "http://web.archive.org/web/20080703105959/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080704132534",
+        "uri": "http://web.archive.org/web/20080704132534/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080705160236",
+        "uri": "http://web.archive.org/web/20080705160236/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080706161713",
+        "uri": "http://web.archive.org/web/20080706161713/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080707192000",
+        "uri": "http://web.archive.org/web/20080707192000/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080708225229",
+        "uri": "http://web.archive.org/web/20080708225229/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080710020757",
+        "uri": "http://web.archive.org/web/20080710020757/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080711051052",
+        "uri": "http://web.archive.org/web/20080711051052/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080712084618",
+        "uri": "http://web.archive.org/web/20080712084618/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080713085449",
+        "uri": "http://web.archive.org/web/20080713085449/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080714120906",
+        "uri": "http://web.archive.org/web/20080714120906/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080715153920",
+        "uri": "http://web.archive.org/web/20080715153920/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080716170744",
+        "uri": "http://web.archive.org/web/20080716170744/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080717215634",
+        "uri": "http://web.archive.org/web/20080717215634/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080719002801",
+        "uri": "http://web.archive.org/web/20080719002801/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080720034252",
+        "uri": "http://web.archive.org/web/20080720034252/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080721075137",
+        "uri": "http://web.archive.org/web/20080721075137/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080722081659",
+        "uri": "http://web.archive.org/web/20080722081659/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080723105900",
+        "uri": "http://web.archive.org/web/20080723105900/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080724130508",
+        "uri": "http://web.archive.org/web/20080724130508/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080726141517",
+        "uri": "http://web.archive.org/web/20080726141517/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080727143412",
+        "uri": "http://web.archive.org/web/20080727143412/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080728151107",
+        "uri": "http://web.archive.org/web/20080728151107/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080729182319",
+        "uri": "http://web.archive.org/web/20080729182319/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080730184111",
+        "uri": "http://web.archive.org/web/20080730184111/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080804233747",
+        "uri": "http://web.archive.org/web/20080804233747/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080806024921",
+        "uri": "http://web.archive.org/web/20080806024921/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080807052603",
+        "uri": "http://web.archive.org/web/20080807052603/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080808093410",
+        "uri": "http://web.archive.org/web/20080808093410/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080809113353",
+        "uri": "http://web.archive.org/web/20080809113353/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20080810130816",
+        "uri": "http://web.archive.org/web/20080810130816/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080811142741",
+        "uri": "http://web.archive.org/web/20080811142741/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080812155920",
+        "uri": "http://web.archive.org/web/20080812155920/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080813174927",
+        "uri": "http://web.archive.org/web/20080813174927/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080814201637",
+        "uri": "http://web.archive.org/web/20080814201637/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080815203036",
+        "uri": "http://web.archive.org/web/20080815203036/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080816210045",
+        "uri": "http://web.archive.org/web/20080816210045/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080817212208",
+        "uri": "http://web.archive.org/web/20080817212208/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080818234447",
+        "uri": "http://web.archive.org/web/20080818234447/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080820013426",
+        "uri": "http://web.archive.org/web/20080820013426/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080821025140",
+        "uri": "http://web.archive.org/web/20080821025140/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080822042339",
+        "uri": "http://web.archive.org/web/20080822042339/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080823052808",
+        "uri": "http://web.archive.org/web/20080823052808/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20080824065039",
+        "uri": "http://web.archive.org/web/20080824065039/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080825082310",
+        "uri": "http://web.archive.org/web/20080825082310/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080826093751",
+        "uri": "http://web.archive.org/web/20080826093751/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080827101946",
+        "uri": "http://web.archive.org/web/20080827101946/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080829140830",
+        "uri": "http://web.archive.org/web/20080829140830/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080830172314",
+        "uri": "http://web.archive.org/web/20080830172314/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20080831195234",
+        "uri": "http://web.archive.org/web/20080831195234/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080901200234",
+        "uri": "http://web.archive.org/web/20080901200234/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080902211241",
+        "uri": "http://web.archive.org/web/20080902211241/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080903230358",
+        "uri": "http://web.archive.org/web/20080903230358/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080905012943",
+        "uri": "http://web.archive.org/web/20080905012943/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080906015206",
+        "uri": "http://web.archive.org/web/20080906015206/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080907052600",
+        "uri": "http://web.archive.org/web/20080907052600/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080908075200",
+        "uri": "http://web.archive.org/web/20080908075200/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080909100056",
+        "uri": "http://web.archive.org/web/20080909100056/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080910110736",
+        "uri": "http://web.archive.org/web/20080910110736/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080911141206",
+        "uri": "http://web.archive.org/web/20080911141206/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080912170535",
+        "uri": "http://web.archive.org/web/20080912170535/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080918081022",
+        "uri": "http://web.archive.org/web/20080918081022/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20080924040339",
+        "uri": "http://web.archive.org/web/20080924040339/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20081002215854",
+        "uri": "http://web.archive.org/web/20081002215854/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20081010194519",
+        "uri": "http://web.archive.org/web/20081010194519/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20081018213425",
+        "uri": "http://web.archive.org/web/20081018213425/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20081028003953",
+        "uri": "http://web.archive.org/web/20081028003953/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20081104153152",
+        "uri": "http://web.archive.org/web/20081104153152/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20081108014127",
+        "uri": "http://web.archive.org/web/20081108014127/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20081204091641",
+        "uri": "http://web.archive.org/web/20081204091641/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20081207003127",
+        "uri": "http://web.archive.org/web/20081207003127/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20081211020915",
+        "uri": "http://web.archive.org/web/20081211020915/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20081216013843",
+        "uri": "http://web.archive.org/web/20081216013843/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20081217011510",
+        "uri": "http://web.archive.org/web/20081217011510/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20081228190224",
+        "uri": "http://web.archive.org/web/20081228190224/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20081230220204",
+        "uri": "http://web.archive.org/web/20081230220204/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090107063847",
+        "uri": "http://web.archive.org/web/20090107063847/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090115212026",
+        "uri": "http://web.archive.org/web/20090115212026/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090206234443",
+        "uri": "http://web.archive.org/web/20090206234443/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20090214030342",
+        "uri": "http://web.archive.org/web/20090214030342/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20090221122123",
+        "uri": "http://web.archive.org/web/20090221122123/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090228144721",
+        "uri": "http://web.archive.org/web/20090228144721/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090308124929",
+        "uri": "http://web.archive.org/web/20090308124929/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090316045841",
+        "uri": "http://web.archive.org/web/20090316045841/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090401082315",
+        "uri": "http://web.archive.org/web/20090401082315/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090503013831",
+        "uri": "http://web.archive.org/web/20090503013831/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090707084628",
+        "uri": "http://web.archive.org/web/20090707084628/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090717072335",
+        "uri": "http://web.archive.org/web/20090717072335/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090725225819",
+        "uri": "http://web.archive.org/web/20090725225819/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090727052300",
+        "uri": "http://web.archive.org/web/20090727052300/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090806023909",
+        "uri": "http://web.archive.org/web/20090806023909/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090815000517",
+        "uri": "http://web.archive.org/web/20090815000517/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090817152624",
+        "uri": "http://web.archive.org/web/20090817152624/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090828093715",
+        "uri": "http://web.archive.org/web/20090828093715/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090828101133",
+        "uri": "http://web.archive.org/web/20090828101133/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090830130615",
+        "uri": "http://web.archive.org/web/20090830130615/http://www.deep-purple.com/?"
+      },
+      {
+        "datetime": "20090907081855",
+        "uri": "http://web.archive.org/web/20090907081855/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20090918164227",
+        "uri": "http://web.archive.org/web/20090918164227/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20091001051856",
+        "uri": "http://web.archive.org/web/20091001051856/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20091019053405",
+        "uri": "http://web.archive.org/web/20091019053405/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20091027204837",
+        "uri": "http://web.archive.org/web/20091027204837/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20091130164027",
+        "uri": "http://web.archive.org/web/20091130164027/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20091207060352",
+        "uri": "http://web.archive.org/web/20091207060352/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20091212183836",
+        "uri": "http://web.archive.org/web/20091212183836/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20091219072200",
+        "uri": "http://web.archive.org/web/20091219072200/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20091224100852",
+        "uri": "http://web.archive.org/web/20091224100852/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20100105021051",
+        "uri": "http://web.archive.org/web/20100105021051/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20100110004048",
+        "uri": "http://web.archive.org/web/20100110004048/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20100123103102",
+        "uri": "http://web.archive.org/web/20100123103102/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20100206161938",
+        "uri": "http://web.archive.org/web/20100206161938/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20100219110400",
+        "uri": "http://web.archive.org/web/20100219110400/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20100309065511",
+        "uri": "http://web.archive.org/web/20100309065511/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20100327213614",
+        "uri": "http://web.archive.org/web/20100327213614/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20100328220244",
+        "uri": "http://web.archive.org/web/20100328220244/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20100413055924",
+        "uri": "http://web.archive.org/web/20100413055924/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20100530040609",
+        "uri": "http://web.archive.org/web/20100530040609/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20100620080006",
+        "uri": "http://web.archive.org/web/20100620080006/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20100805234631",
+        "uri": "http://web.archive.org/web/20100805234631/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20100922201957",
+        "uri": "http://web.archive.org/web/20100922201957/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20101027083725",
+        "uri": "http://web.archive.org/web/20101027083725/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20101122045620",
+        "uri": "http://web.archive.org/web/20101122045620/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20101207041232",
+        "uri": "http://web.archive.org/web/20101207041232/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20101215032133",
+        "uri": "http://web.archive.org/web/20101215032133/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20101228104819",
+        "uri": "http://web.archive.org/web/20101228104819/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20110123080539",
+        "uri": "http://web.archive.org/web/20110123080539/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20110202153334",
+        "uri": "http://web.archive.org/web/20110202153334/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20110223153752",
+        "uri": "http://web.archive.org/web/20110223153752/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20110304020412",
+        "uri": "http://web.archive.org/web/20110304020412/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20110411133206",
+        "uri": "http://web.archive.org/web/20110411133206/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20110427013153",
+        "uri": "http://web.archive.org/web/20110427013153/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20110430131950",
+        "uri": "http://web.archive.org/web/20110430131950/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20110519034654",
+        "uri": "http://web.archive.org/web/20110519034654/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20110523100557",
+        "uri": "http://web.archive.org/web/20110523100557/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20110524102829",
+        "uri": "http://web.archive.org/web/20110524102829/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20110602091120",
+        "uri": "http://web.archive.org/web/20110602091120/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20110605020935",
+        "uri": "http://web.archive.org/web/20110605020935/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20110621194919",
+        "uri": "http://web.archive.org/web/20110621194919/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20110629154619",
+        "uri": "http://web.archive.org/web/20110629154619/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20110702003036",
+        "uri": "http://web.archive.org/web/20110702003036/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20110704041856",
+        "uri": "http://web.archive.org/web/20110704041856/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20110709213514",
+        "uri": "http://web.archive.org/web/20110709213514/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20110716002850",
+        "uri": "http://web.archive.org/web/20110716002850/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20110717081756",
+        "uri": "http://web.archive.org/web/20110717081756/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20110808074454",
+        "uri": "http://web.archive.org/web/20110808074454/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20110811015346",
+        "uri": "http://web.archive.org/web/20110811015346/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20110811134314",
+        "uri": "http://web.archive.org/web/20110811134314/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20110902024624",
+        "uri": "http://web.archive.org/web/20110902024624/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20110907031124",
+        "uri": "http://web.archive.org/web/20110907031124/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20110924023838",
+        "uri": "http://web.archive.org/web/20110924023838/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20110927161451",
+        "uri": "http://web.archive.org/web/20110927161451/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20111005012105",
+        "uri": "http://web.archive.org/web/20111005012105/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20111007144557",
+        "uri": "http://web.archive.org/web/20111007144557/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20111013163640",
+        "uri": "http://web.archive.org/web/20111013163640/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20111015053736",
+        "uri": "http://web.archive.org/web/20111015053736/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20111101053441",
+        "uri": "http://web.archive.org/web/20111101053441/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20111113210336",
+        "uri": "http://web.archive.org/web/20111113210336/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20111115034156",
+        "uri": "http://web.archive.org/web/20111115034156/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20111122002513",
+        "uri": "http://web.archive.org/web/20111122002513/http://www.deep-purple.com/?"
+      },
+      {
+        "datetime": "20111128011329",
+        "uri": "http://web.archive.org/web/20111128011329/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20111214060336",
+        "uri": "http://web.archive.org/web/20111214060336/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20111222174756",
+        "uri": "http://web.archive.org/web/20111222174756/http://www.deep-purple.com/?"
+      },
+      {
+        "datetime": "20120104123938",
+        "uri": "http://web.archive.org/web/20120104123938/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120113093859",
+        "uri": "http://web.archive.org/web/20120113093859/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120113114800",
+        "uri": "http://web.archive.org/web/20120113114800/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120113171315",
+        "uri": "http://web.archive.org/web/20120113171315/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120119045835",
+        "uri": "http://web.archive.org/web/20120119045835/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120119064156",
+        "uri": "http://web.archive.org/web/20120119064156/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120120043743",
+        "uri": "http://web.archive.org/web/20120120043743/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120122052556",
+        "uri": "http://web.archive.org/web/20120122052556/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120124061512",
+        "uri": "http://web.archive.org/web/20120124061512/http://www.deep-purple.com/?"
+      },
+      {
+        "datetime": "20120204092832",
+        "uri": "http://web.archive.org/web/20120204092832/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120214020151",
+        "uri": "http://web.archive.org/web/20120214020151/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120310124431",
+        "uri": "http://web.archive.org/web/20120310124431/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120403192008",
+        "uri": "http://web.archive.org/web/20120403192008/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120415030553",
+        "uri": "http://web.archive.org/web/20120415030553/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120503234115",
+        "uri": "http://web.archive.org/web/20120503234115/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120505023209",
+        "uri": "http://web.archive.org/web/20120505023209/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120606083243",
+        "uri": "http://web.archive.org/web/20120606083243/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120702045530",
+        "uri": "http://web.archive.org/web/20120702045530/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120717054811",
+        "uri": "http://web.archive.org/web/20120717054811/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120815125212",
+        "uri": "http://web.archive.org/web/20120815125212/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120913174302",
+        "uri": "http://web.archive.org/web/20120913174302/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20120925072440",
+        "uri": "http://web.archive.org/web/20120925072440/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20121010205639",
+        "uri": "http://web.archive.org/web/20121010205639/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20121023162323",
+        "uri": "http://web.archive.org/web/20121023162323/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20121029051223",
+        "uri": "http://web.archive.org/web/20121029051223/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20121125115153",
+        "uri": "http://web.archive.org/web/20121125115153/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20130113052630",
+        "uri": "http://web.archive.org/web/20130113052630/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20130117082802",
+        "uri": "http://web.archive.org/web/20130117082802/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20130310022032",
+        "uri": "http://web.archive.org/web/20130310022032/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20130327165827",
+        "uri": "http://web.archive.org/web/20130327165827/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20130328150535",
+        "uri": "http://web.archive.org/web/20130328150535/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20130423180827",
+        "uri": "http://web.archive.org/web/20130423180827/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20130523074328",
+        "uri": "http://web.archive.org/web/20130523074328/http://www.deep-purple.com//"
+      },
+      {
+        "datetime": "20130526083059",
+        "uri": "http://web.archive.org/web/20130526083059/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20130531080843",
+        "uri": "http://web.archive.org/web/20130531080843/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20130531175638",
+        "uri": "http://web.archive.org/web/20130531175638/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20130723045012",
+        "uri": "http://web.archive.org/web/20130723045012/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20131022175326",
+        "uri": "http://web.archive.org/web/20131022175326/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20131024091319",
+        "uri": "http://web.archive.org/web/20131024091319/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20131107075156",
+        "uri": "http://web.archive.org/web/20131107075156/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20131124163636",
+        "uri": "http://web.archive.org/web/20131124163636/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20131220224656",
+        "uri": "http://web.archive.org/web/20131220224656/http://www.deep-purple.com/?"
+      },
+      {
+        "datetime": "20131230160639",
+        "uri": "http://web.archive.org/web/20131230160639/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20140105214938",
+        "uri": "http://web.archive.org/web/20140105214938/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20140209084338",
+        "uri": "http://web.archive.org/web/20140209084338/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20140210114152",
+        "uri": "http://web.archive.org/web/20140210114152/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20140218131725",
+        "uri": "http://web.archive.org/web/20140218131725/http://www.deep-purple.com/?"
+      },
+      {
+        "datetime": "20140429184921",
+        "uri": "http://web.archive.org/web/20140429184921/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20140508161022",
+        "uri": "http://web.archive.org/web/20140508161022/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20140517072359",
+        "uri": "http://web.archive.org/web/20140517072359/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20140625025921",
+        "uri": "http://web.archive.org/web/20140625025921/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20140626164044",
+        "uri": "http://web.archive.org/web/20140626164044/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20140725145057",
+        "uri": "http://web.archive.org/web/20140725145057/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20140730202259",
+        "uri": "http://web.archive.org/web/20140730202259/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20140907054402",
+        "uri": "http://web.archive.org/web/20140907054402/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20140908134038",
+        "uri": "http://web.archive.org/web/20140908134038/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20141004092525",
+        "uri": "http://web.archive.org/web/20141004092525/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20141008082050",
+        "uri": "http://web.archive.org/web/20141008082050/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20141015212817",
+        "uri": "http://web.archive.org/web/20141015212817/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20141028182220",
+        "uri": "http://web.archive.org/web/20141028182220/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20141101074236",
+        "uri": "http://web.archive.org/web/20141101074236/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20141113040235",
+        "uri": "http://web.archive.org/web/20141113040235/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20141118221959",
+        "uri": "http://web.archive.org/web/20141118221959/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20141217032613",
+        "uri": "http://web.archive.org/web/20141217032613/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20141218125530",
+        "uri": "http://web.archive.org/web/20141218125530/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20141224142248",
+        "uri": "http://web.archive.org/web/20141224142248/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150110065718",
+        "uri": "http://web.archive.org/web/20150110065718/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150201140415",
+        "uri": "http://web.archive.org/web/20150201140415/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150204113442",
+        "uri": "http://web.archive.org/web/20150204113442/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150204121019",
+        "uri": "http://web.archive.org/web/20150204121019/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150207085400",
+        "uri": "http://web.archive.org/web/20150207085400/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150219211932",
+        "uri": "http://web.archive.org/web/20150219211932/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150302064359",
+        "uri": "http://web.archive.org/web/20150302064359/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150311214247",
+        "uri": "http://web.archive.org/web/20150311214247/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150314220314",
+        "uri": "http://web.archive.org/web/20150314220314/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20150315023743",
+        "uri": "http://web.archive.org/web/20150315023743/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150324223319",
+        "uri": "http://web.archive.org/web/20150324223319/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20150327060545",
+        "uri": "http://web.archive.org/web/20150327060545/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150408134439",
+        "uri": "http://web.archive.org/web/20150408134439/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150409075344",
+        "uri": "http://web.archive.org/web/20150409075344/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150429112702",
+        "uri": "http://web.archive.org/web/20150429112702/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150508015551",
+        "uri": "http://web.archive.org/web/20150508015551/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150509193233",
+        "uri": "http://web.archive.org/web/20150509193233/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150513000624",
+        "uri": "http://web.archive.org/web/20150513000624/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150630030144",
+        "uri": "http://web.archive.org/web/20150630030144/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150705095947",
+        "uri": "http://web.archive.org/web/20150705095947/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150706170956",
+        "uri": "http://web.archive.org/web/20150706170956/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150711031809",
+        "uri": "http://web.archive.org/web/20150711031809/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150730215114",
+        "uri": "http://web.archive.org/web/20150730215114/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150801105802",
+        "uri": "http://web.archive.org/web/20150801105802/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20150809234626",
+        "uri": "http://web.archive.org/web/20150809234626/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150810103221",
+        "uri": "http://web.archive.org/web/20150810103221/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150814102019",
+        "uri": "http://web.archive.org/web/20150814102019/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150817202838",
+        "uri": "http://web.archive.org/web/20150817202838/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150819053753",
+        "uri": "http://web.archive.org/web/20150819053753/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150828161023",
+        "uri": "http://web.archive.org/web/20150828161023/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150910052057",
+        "uri": "http://web.archive.org/web/20150910052057/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20150915034456",
+        "uri": "http://web.archive.org/web/20150915034456/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20150921060131",
+        "uri": "http://web.archive.org/web/20150921060131/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20151003110142",
+        "uri": "http://web.archive.org/web/20151003110142/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20151015045911",
+        "uri": "http://web.archive.org/web/20151015045911/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20151029062031",
+        "uri": "http://web.archive.org/web/20151029062031/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20151109155034",
+        "uri": "http://web.archive.org/web/20151109155034/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20151110034421",
+        "uri": "http://web.archive.org/web/20151110034421/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20151113094519",
+        "uri": "http://web.archive.org/web/20151113094519/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20151121115136",
+        "uri": "http://web.archive.org/web/20151121115136/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20151205234140",
+        "uri": "http://web.archive.org/web/20151205234140/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20151218204831",
+        "uri": "http://web.archive.org/web/20151218204831/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160101220058",
+        "uri": "http://web.archive.org/web/20160101220058/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160109025927",
+        "uri": "http://web.archive.org/web/20160109025927/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160111102210",
+        "uri": "http://web.archive.org/web/20160111102210/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20160115021447",
+        "uri": "http://web.archive.org/web/20160115021447/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160119021340",
+        "uri": "http://web.archive.org/web/20160119021340/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160119185316",
+        "uri": "http://web.archive.org/web/20160119185316/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160124130523",
+        "uri": "http://web.archive.org/web/20160124130523/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160129004529",
+        "uri": "http://web.archive.org/web/20160129004529/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160220091115",
+        "uri": "http://web.archive.org/web/20160220091115/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160220225951",
+        "uri": "http://web.archive.org/web/20160220225951/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160303060817",
+        "uri": "http://web.archive.org/web/20160303060817/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160303191052",
+        "uri": "http://web.archive.org/web/20160303191052/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160303195326",
+        "uri": "http://web.archive.org/web/20160303195326/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160305201752",
+        "uri": "http://web.archive.org/web/20160305201752/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20160314052421",
+        "uri": "http://web.archive.org/web/20160314052421/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20160316203647",
+        "uri": "http://web.archive.org/web/20160316203647/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160322074259",
+        "uri": "http://web.archive.org/web/20160322074259/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160323020909",
+        "uri": "http://web.archive.org/web/20160323020909/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160406074429",
+        "uri": "http://web.archive.org/web/20160406074429/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160412230238",
+        "uri": "http://web.archive.org/web/20160412230238/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160414231901",
+        "uri": "http://web.archive.org/web/20160414231901/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160422080410",
+        "uri": "http://web.archive.org/web/20160422080410/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160423080809",
+        "uri": "http://web.archive.org/web/20160423080809/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160505023031",
+        "uri": "http://web.archive.org/web/20160505023031/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160526042915",
+        "uri": "http://web.archive.org/web/20160526042915/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160527052058",
+        "uri": "http://web.archive.org/web/20160527052058/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160915182536",
+        "uri": "http://web.archive.org/web/20160915182536/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20160917111909",
+        "uri": "http://web.archive.org/web/20160917111909/http://www.deep-purple.com/"
+      },
+      {
+        "datetime": "20161005022532",
+        "uri": "http://web.archive.org/web/20161005022532/http://deep-purple.com/"
+      },
+      {
+        "datetime": "20161011092015",
+        "uri": "http://web.archive.org/web/20161011092015/http://www.deep-purple.com/"
+      }
+    ],
+    "timegate": "http://web.archive.org/web/http://deep-purple.com/",
+    "original": "http://deep-purple.com/",
+    "last": "Wed, 12 Oct 2016 17:58:10 GMT"
+  }
+}

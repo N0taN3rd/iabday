@@ -1,4 +1,6 @@
 {
+  "timemap": "http://web.archive.org/web/timemap/link/http://www.convergecult.com/",
+  "timegate": "http://web.archive.org/web/http://www.convergecult.com/",
   "mementos": [
     {
       "datetime": "20010918220313",
@@ -1685,97 +1687,95 @@
       "uri": "http://web.archive.org/web/20161002083203/http://convergecult.com/"
     }
   ],
-  "first": "Tue, 18 Sep 2001 22:03:13 GMT",
-  "timegate": "http://web.archive.org/web/http://www.convergecult.com/",
+  "original": "http://www.convergecult.com/",
   "member_points": [
     {
-      "t": "20161025051049",
+      "f": "1991-01-01 00:00:00-00:00",
+      "t": "1970-08-20 09:07:11-00:00",
+      "member": "Damon Bellorado",
+      "plays": [
+        "drums ("
+      ]
+    },
+    {
+      "f": "1993-01-01 00:00:00-00:00",
+      "t": "1970-08-19 16:27:11-00:00",
+      "member": "Erik Ralston",
+      "plays": [
+        "bass guitar ("
+      ]
+    },
+    {
+      "f": "1991-01-01 00:00:00-00:00",
+      "t": "1970-08-20 03:33:51-00:00",
+      "member": "Jeff Feinburg",
+      "plays": [
+        " guitar (",
+        "bass guitar"
+      ]
+    },
+    {
+      "f": "1999-01-01 00:00:00-00:00",
+      "t": "1970-08-20 09:07:11-00:00",
+      "member": "John DiGiorgio",
+      "plays": [
+        "drums ("
+      ]
+    },
+    {
+      "f": "1994-01-01 00:00:00-00:00",
+      "t": "1970-08-20 14:40:31-00:00",
+      "member": "Aaron Dalbec",
+      "plays": [
+        "guitar ("
+      ]
+    },
+    {
+      "f": "1990-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
+      "member": "Kurt Ballou",
+      "plays": [
+        "additional instruments",
+        " vocals",
+        "guitar"
+      ]
+    },
+    {
+      "f": "1999-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
+      "member": "Nate Newton",
+      "plays": [
+        "vocals",
+        "bass guitar"
+      ]
+    },
+    {
+      "f": "1990-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
       "member": "Jacob Bannon",
       "plays": [
         "lead vocals",
         " lyrics",
         "visuals"
-      ],
-      "f": "19900101000100"
+      ]
     },
     {
-      "t": "20161025051049",
-      "member": "Nate Newton",
-      "plays": [
-        "vocals",
-        "bass guitar"
-      ],
-      "f": "19990101000100"
-    },
-    {
-      "t": "19700820060800",
-      "member": "Stephen Brodsky",
-      "plays": [
-        "bass guitar"
-      ],
-      "f": "19970101000100"
-    },
-    {
-      "t": "20161025051049",
-      "member": "Kurt Ballou",
-      "plays": [
-        "guitar",
-        " vocals",
-        "additional instruments"
-      ],
-      "f": "19900101000100"
-    },
-    {
-      "t": "19700820090800",
-      "member": "Damon Bellorado",
-      "plays": [
-        "drums"
-      ],
-      "f": "19910101000100"
-    },
-    {
-      "t": "19700820090800",
-      "member": "John DiGiorgio",
-      "plays": [
-        "drums"
-      ],
-      "f": "19990101000100"
-    },
-    {
-      "t": "19700819160800",
-      "member": "Erik Ralston",
-      "plays": [
-        "bass guitar"
-      ],
-      "f": "19930101000100"
-    },
-    {
-      "t": "19700820030800",
-      "member": "Jeff Feinburg",
-      "plays": [
-        " guitar",
-        "bass guitar"
-      ],
-      "f": "19910101000100"
-    },
-    {
-      "t": "20161025051050",
+      "f": "1999-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
       "member": "Ben Koller",
       "plays": [
         "drums "
-      ],
-      "f": "19990101000100"
+      ]
     },
     {
-      "t": "19700820140800",
-      "member": "Aaron Dalbec",
+      "f": "1997-01-01 00:00:00-00:00",
+      "t": "1970-08-20 06:20:31-00:00",
+      "member": "Stephen Brodsky",
       "plays": [
-        "guitar"
-      ],
-      "f": "19940101000100"
+        "bass guitar ("
+      ]
     }
   ],
-  "original": "http://www.convergecult.com/",
-  "timemap": "http://web.archive.org/web/timemap/link/http://www.convergecult.com/",
+  "first": "Tue, 18 Sep 2001 22:03:13 GMT",
   "last": "Tue, 18 Oct 2016 09:58:59 GMT"
 }

@@ -1,4 +1,6 @@
 {
+  "timemap": "http://web.archive.org/web/timemap/link/http://www.celticfrost.com/",
+  "timegate": "http://web.archive.org/web/http://www.celticfrost.com/",
   "mementos": [
     {
       "datetime": "19990125094054",
@@ -2261,162 +2263,174 @@
       "uri": "http://web.archive.org/web/20160804163339/http://www.celticfrost.com/"
     }
   ],
-  "first": "Mon, 25 Jan 1999 09:40:54 GMT",
-  "timegate": "http://web.archive.org/web/http://www.celticfrost.com/",
+  "original": "http://www.celticfrost.com/",
   "member_points": [
     {
-      "t": "19700819020800",
-      "member": ". Mark",
-      "plays": [
-        "drums"
-      ],
-      "f": "19850101000100"
-    },
-    {
-      "t": "19700819160800",
-      "member": ". Mark",
-      "plays": [
-        "drums"
-      ],
-      "f": "19920101000100"
-    },
-    {
-      "t": "19700819020800",
-      "member": "Martin Eric Ain",
-      "plays": [
-        "vocals",
-        "bass guitar"
-      ],
-      "f": "19840101000100"
-    },
-    {
-      "t": "19700819160800",
-      "member": "Martin Eric Ain",
-      "plays": [
-        "vocals",
-        "bass guitar"
-      ],
-      "f": "19900101000100"
-    },
-    {
-      "t": "19700821100800",
-      "member": "Martin Eric Ain",
-      "plays": [
-        "vocals",
-        "bass guitar"
-      ],
-      "f": "20010101000100"
-    },
-    {
-      "t": "19700818180800",
-      "member": "Stephen Priestly",
-      "plays": [
-        "drums"
-      ],
-      "f": "19840101000100"
-    },
-    {
-      "t": "19700819130800",
-      "member": "Stephen Priestly",
-      "plays": [
-        "drums"
-      ],
-      "f": "19880101000100"
-    },
-    {
-      "t": "19700819080800",
-      "member": "Ron Marks",
-      "plays": [
-        "guitar"
-      ],
-      "f": "19860101000100"
-    },
-    {
-      "t": "19700819050800",
+      "f": "1988-01-01 00:00:00-00:00",
+      "t": "1970-08-19 05:20:31-00:00",
       "member": "Oliver Amberg",
       "plays": [
-        "guitar",
-        "backing vocals"
-      ],
-      "f": "19880101000100"
-    },
-    {
-      "t": "19700821100800",
-      "member": "Franco Sesa",
-      "plays": [
-        "drums"
-      ],
-      "f": "20020101000100"
-    },
-    {
-      "t": "19700819160800",
-      "member": "Thomas Gabriel Fischer",
-      "plays": [
-        "lead vocals",
+        " backing vocals (",
         "guitar"
-      ],
-      "f": "19840101000100"
+      ]
     },
     {
-      "t": "19700821100800",
-      "member": "Thomas Gabriel Fischer",
+      "f": "1984-01-01 00:00:00-00:00",
+      "t": "1970-01-10 20:27:11-00:00",
+      "member": "Martin Eric Ain",
       "plays": [
-        "lead vocals",
-        "guitar"
-      ],
-      "f": "20010101000100"
-    },
-    {
-      "t": "19700821040800",
-      "member": "Erol Unala",
-      "plays": [
-        "rhythm guitar"
-      ],
-      "f": "20010101000100"
-    },
-    {
-      "t": "19700821100800",
-      "member": "V Santura",
-      "plays": [
-        "guitar"
-      ],
-      "f": "20070101000100"
-    },
-    {
-      "t": "19700818180800",
-      "member": "Dominic Steiner",
-      "plays": [
-        "bass"
-      ],
-      "f": "19850101000100"
-    },
-    {
-      "t": "19700818150800",
-      "member": "Isaac Darso",
-      "plays": [
-        "drums"
-      ],
-      "f": "19840101000100"
-    },
-    {
-      "t": "19700819080800",
-      "member": "r Bryant",
-      "plays": [
-        "backing vocals",
+        "vocals",
         "bass guitar"
-      ],
-      "f": "19880101000100"
+      ]
     },
     {
-      "t": "19700821070800",
+      "f": "1985-01-01 00:00:00-00:00",
+      "t": "1970-08-19 02:33:51-00:00",
+      "member": "Martin Eric Ain",
+      "plays": [
+        "vocals",
+        "bass guitar"
+      ]
+    },
+    {
+      "f": "1990-01-01 00:00:00-00:00",
+      "t": "1970-08-19 16:27:11-00:00",
+      "member": "Martin Eric Ain",
+      "plays": [
+        "vocals",
+        "bass guitar"
+      ]
+    },
+    {
+      "f": "2001-01-01 00:00:00-00:00",
+      "t": "1970-08-21 10:07:11-00:00",
+      "member": "Martin Eric Ain",
+      "plays": [
+        "vocals",
+        "bass guitar"
+      ]
+    },
+    {
+      "f": "2006-01-01 00:00:00-00:00",
+      "t": "1970-08-21 07:20:31-00:00",
       "member": "Anders Odden",
       "plays": [
-        "guitar"
-      ],
-      "f": "20060101000100"
+        "guitar ("
+      ]
+    },
+    {
+      "f": "1985-01-01 00:00:00-00:00",
+      "t": "1970-08-19 02:33:51-00:00",
+      "member": ". Mark",
+      "plays": [
+        "drums",
+        " percussion ("
+      ]
+    },
+    {
+      "f": "1992-01-01 00:00:00-00:00",
+      "t": "1970-08-19 16:27:11-00:00",
+      "member": ". Mark",
+      "plays": [
+        "drums",
+        " percussion ("
+      ]
+    },
+    {
+      "f": "1985-01-01 00:00:00-00:00",
+      "t": "1970-08-18 18:13:51-00:00",
+      "member": "Dominic Steiner",
+      "plays": [
+        "bass ("
+      ]
+    },
+    {
+      "f": "2007-01-01 00:00:00-00:00",
+      "t": "1970-08-21 10:07:11-00:00",
+      "member": "V Santura",
+      "plays": [
+        "guitar ("
+      ]
+    },
+    {
+      "f": "1986-01-01 00:00:00-00:00",
+      "t": "1970-08-19 08:07:11-00:00",
+      "member": "Ron Marks",
+      "plays": [
+        "guitar ("
+      ]
+    },
+    {
+      "f": "1984-01-01 00:00:00-00:00",
+      "t": "1970-08-18 15:27:11-00:00",
+      "member": "Isaac Darso",
+      "plays": [
+        "drums ("
+      ]
+    },
+    {
+      "f": "1984-01-01 00:00:00-00:00",
+      "t": "1970-08-18 18:13:51-00:00",
+      "member": "Stephen Priestly[21] \u2013 drums,",
+      "plays": [
+        "percussion "
+      ]
+    },
+    {
+      "f": "1988-01-01 00:00:00-00:00",
+      "t": "1970-08-19 13:40:31-00:00",
+      "member": "Stephen Priestly[21] \u2013 drums,",
+      "plays": [
+        "percussion "
+      ]
+    },
+    {
+      "f": "2001-01-01 00:00:00-00:00",
+      "t": "1970-08-21 04:33:51-00:00",
+      "member": "Erol Unala",
+      "plays": [
+        "rhythm guitar ("
+      ]
+    },
+    {
+      "f": "1984-01-01 00:00:00-00:00",
+      "t": "1970-08-19 16:27:11-00:00",
+      "member": "Thomas Gabriel Fischer",
+      "plays": [
+        " guitar",
+        "lead vocals",
+        "programming"
+      ]
+    },
+    {
+      "f": "2001-01-01 00:00:00-00:00",
+      "t": "1970-08-21 10:07:11-00:00",
+      "member": "Thomas Gabriel Fischer",
+      "plays": [
+        " guitar",
+        "lead vocals",
+        "programming"
+      ]
+    },
+    {
+      "f": "1988-01-01 00:00:00-00:00",
+      "t": "1970-08-19 08:07:11-00:00",
+      "member": "r Bryant",
+      "plays": [
+        " backing vocals (",
+        "bass guitar"
+      ]
+    },
+    {
+      "f": "2002-01-01 00:00:00-00:00",
+      "t": "1970-08-21 10:07:11-00:00",
+      "member": "Franco Sesa",
+      "plays": [
+        "drums",
+        "percussion"
+      ]
     }
   ],
-  "original": "http://www.celticfrost.com/",
-  "timemap": "http://web.archive.org/web/timemap/link/http://www.celticfrost.com/",
+  "first": "Mon, 25 Jan 1999 09:40:54 GMT",
   "last": "Sat, 01 Oct 2016 18:39:58 GMT"
 }

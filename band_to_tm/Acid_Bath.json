@@ -1,0 +1,669 @@
+{
+  "info": [
+    {
+      "active": [],
+      "member": "Tommy Viator",
+      "plays": [
+        "drums",
+        " keyboard."
+      ]
+    },
+    {
+      "active": [],
+      "member": "Mike Sanchez",
+      "plays": [
+        " backing vocals",
+        "guitar"
+      ]
+    },
+    {
+      "active": [],
+      "member": "Jimmy Kyle",
+      "plays": [
+        "drums"
+      ]
+    },
+    {
+      "active": [],
+      "member": "Sammy \"Pierre\" Duet",
+      "plays": [
+        " backing vocals",
+        "guitar"
+      ]
+    },
+    {
+      "active": [],
+      "member": "Jerry Businelli",
+      "plays": [
+        "lead guitar"
+      ]
+    },
+    {
+      "active": [],
+      "member": "Joseph Fontenot",
+      "plays": [
+        "bass guitar"
+      ]
+    },
+    {
+      "active": [],
+      "member": "Dax Riggs",
+      "plays": [
+        "lead vocals"
+      ]
+    },
+    {
+      "active": [],
+      "member": "Chad Pierce",
+      "plays": [
+        "bass guitar"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1991",
+          "to": "1997"
+        }
+      ],
+      "member": "Audie Pitre",
+      "plays": [
+        "backing vocals",
+        "bass guitar"
+      ]
+    }
+  ],
+  "tm": {
+    "first": "Tue, 23 Dec 2003 03:13:10 GMT",
+    "self": "http://web.archive.org/web/timemap/link/http://www.acid-bath.com/",
+    "mementos": [
+      {
+        "datetime": "20031223031310",
+        "uri": "http://web.archive.org/web/20031223031310/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20040127061308",
+        "uri": "http://web.archive.org/web/20040127061308/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20040331175939",
+        "uri": "http://web.archive.org/web/20040331175939/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20040414130635",
+        "uri": "http://web.archive.org/web/20040414130635/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20040518181811",
+        "uri": "http://web.archive.org/web/20040518181811/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20040519233850",
+        "uri": "http://web.archive.org/web/20040519233850/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20040727080021",
+        "uri": "http://web.archive.org/web/20040727080021/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20040824142621",
+        "uri": "http://web.archive.org/web/20040824142621/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20040826151937",
+        "uri": "http://web.archive.org/web/20040826151937/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20040829171533",
+        "uri": "http://web.archive.org/web/20040829171533/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20040901233537",
+        "uri": "http://web.archive.org/web/20040901233537/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20040922231753",
+        "uri": "http://web.archive.org/web/20040922231753/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20040924142117",
+        "uri": "http://web.archive.org/web/20040924142117/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20041129114118",
+        "uri": "http://web.archive.org/web/20041129114118/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20041203200206",
+        "uri": "http://web.archive.org/web/20041203200206/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20050125021652",
+        "uri": "http://web.archive.org/web/20050125021652/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20050204000918",
+        "uri": "http://web.archive.org/web/20050204000918/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20050310035115",
+        "uri": "http://web.archive.org/web/20050310035115/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20050408165916",
+        "uri": "http://web.archive.org/web/20050408165916/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20050513233751",
+        "uri": "http://web.archive.org/web/20050513233751/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20050515231858",
+        "uri": "http://web.archive.org/web/20050515231858/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20050518030655",
+        "uri": "http://web.archive.org/web/20050518030655/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20050524013950",
+        "uri": "http://web.archive.org/web/20050524013950/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20050530013234",
+        "uri": "http://web.archive.org/web/20050530013234/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20050708003452",
+        "uri": "http://web.archive.org/web/20050708003452/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20050709022909",
+        "uri": "http://web.archive.org/web/20050709022909/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20050728122455",
+        "uri": "http://web.archive.org/web/20050728122455/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20050730010037",
+        "uri": "http://web.archive.org/web/20050730010037/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20050823050506",
+        "uri": "http://web.archive.org/web/20050823050506/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20050922122905",
+        "uri": "http://web.archive.org/web/20050922122905/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20050923102451",
+        "uri": "http://web.archive.org/web/20050923102451/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20051109124157",
+        "uri": "http://web.archive.org/web/20051109124157/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20051210025553",
+        "uri": "http://web.archive.org/web/20051210025553/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20051224105116",
+        "uri": "http://web.archive.org/web/20051224105116/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20060202035516",
+        "uri": "http://web.archive.org/web/20060202035516/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20060205123420",
+        "uri": "http://web.archive.org/web/20060205123420/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20060309162627",
+        "uri": "http://web.archive.org/web/20060309162627/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20060402194455",
+        "uri": "http://web.archive.org/web/20060402194455/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20060422161440",
+        "uri": "http://web.archive.org/web/20060422161440/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20060610081259",
+        "uri": "http://web.archive.org/web/20060610081259/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20060625111125",
+        "uri": "http://web.archive.org/web/20060625111125/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20060703204603",
+        "uri": "http://web.archive.org/web/20060703204603/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20060803063138",
+        "uri": "http://web.archive.org/web/20060803063138/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20060808015839",
+        "uri": "http://web.archive.org/web/20060808015839/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20060808072431",
+        "uri": "http://web.archive.org/web/20060808072431/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20060823143318",
+        "uri": "http://web.archive.org/web/20060823143318/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20060824013935",
+        "uri": "http://web.archive.org/web/20060824013935/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20060826172337",
+        "uri": "http://web.archive.org/web/20060826172337/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20060902224529",
+        "uri": "http://web.archive.org/web/20060902224529/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20061004022405",
+        "uri": "http://web.archive.org/web/20061004022405/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20061205030956",
+        "uri": "http://web.archive.org/web/20061205030956/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20070103101815",
+        "uri": "http://web.archive.org/web/20070103101815/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20070118174010",
+        "uri": "http://web.archive.org/web/20070118174010/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20070124223553",
+        "uri": "http://web.archive.org/web/20070124223553/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20070212104953",
+        "uri": "http://web.archive.org/web/20070212104953/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20070312094111",
+        "uri": "http://web.archive.org/web/20070312094111/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20070314142920",
+        "uri": "http://web.archive.org/web/20070314142920/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20070401204046",
+        "uri": "http://web.archive.org/web/20070401204046/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20070403100732",
+        "uri": "http://web.archive.org/web/20070403100732/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20070403183718",
+        "uri": "http://web.archive.org/web/20070403183718/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20070505010518",
+        "uri": "http://web.archive.org/web/20070505010518/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20070605000051",
+        "uri": "http://web.archive.org/web/20070605000051/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20070703183154",
+        "uri": "http://web.archive.org/web/20070703183154/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20070903110149",
+        "uri": "http://web.archive.org/web/20070903110149/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20071009112245",
+        "uri": "http://web.archive.org/web/20071009112245/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20071012120250",
+        "uri": "http://web.archive.org/web/20071012120250/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20071027053500",
+        "uri": "http://web.archive.org/web/20071027053500/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20071121152235",
+        "uri": "http://web.archive.org/web/20071121152235/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20071219221243",
+        "uri": "http://web.archive.org/web/20071219221243/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080118094805",
+        "uri": "http://web.archive.org/web/20080118094805/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080218033751",
+        "uri": "http://web.archive.org/web/20080218033751/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080321005540",
+        "uri": "http://web.archive.org/web/20080321005540/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080511171201",
+        "uri": "http://web.archive.org/web/20080511171201/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080512013634",
+        "uri": "http://web.archive.org/web/20080512013634/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080613144333",
+        "uri": "http://web.archive.org/web/20080613144333/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080710042415",
+        "uri": "http://web.archive.org/web/20080710042415/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080711042700",
+        "uri": "http://web.archive.org/web/20080711042700/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080712063122",
+        "uri": "http://web.archive.org/web/20080712063122/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080715033120",
+        "uri": "http://web.archive.org/web/20080715033120/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080716050018",
+        "uri": "http://web.archive.org/web/20080716050018/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080717075753",
+        "uri": "http://web.archive.org/web/20080717075753/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080727032945",
+        "uri": "http://web.archive.org/web/20080727032945/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080805085401",
+        "uri": "http://web.archive.org/web/20080805085401/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080806120028",
+        "uri": "http://web.archive.org/web/20080806120028/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080807201828",
+        "uri": "http://web.archive.org/web/20080807201828/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080808222640",
+        "uri": "http://web.archive.org/web/20080808222640/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080822233304",
+        "uri": "http://web.archive.org/web/20080822233304/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080827023626",
+        "uri": "http://web.archive.org/web/20080827023626/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080828034403",
+        "uri": "http://web.archive.org/web/20080828034403/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080829052625",
+        "uri": "http://web.archive.org/web/20080829052625/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080907230940",
+        "uri": "http://web.archive.org/web/20080907230940/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080908232514",
+        "uri": "http://web.archive.org/web/20080908232514/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080917103507",
+        "uri": "http://web.archive.org/web/20080917103507/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20080929033857",
+        "uri": "http://web.archive.org/web/20080929033857/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20081029193343",
+        "uri": "http://web.archive.org/web/20081029193343/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20090204210453",
+        "uri": "http://web.archive.org/web/20090204210453/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20090309114342",
+        "uri": "http://web.archive.org/web/20090309114342/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20090418155719",
+        "uri": "http://web.archive.org/web/20090418155719/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20100822083313",
+        "uri": "http://web.archive.org/web/20100822083313/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20110202100720",
+        "uri": "http://web.archive.org/web/20110202100720/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20110208103846",
+        "uri": "http://web.archive.org/web/20110208103846/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20110511094403",
+        "uri": "http://web.archive.org/web/20110511094403/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20110707080424",
+        "uri": "http://web.archive.org/web/20110707080424/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20110724232000",
+        "uri": "http://web.archive.org/web/20110724232000/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20110724232054",
+        "uri": "http://web.archive.org/web/20110724232054/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20110903054628",
+        "uri": "http://web.archive.org/web/20110903054628/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20110928023053",
+        "uri": "http://web.archive.org/web/20110928023053/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20111001041311",
+        "uri": "http://web.archive.org/web/20111001041311/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20120207054348",
+        "uri": "http://web.archive.org/web/20120207054348/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20120509113932",
+        "uri": "http://web.archive.org/web/20120509113932/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20120825045035",
+        "uri": "http://web.archive.org/web/20120825045035/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20121028121422",
+        "uri": "http://web.archive.org/web/20121028121422/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20121104001407",
+        "uri": "http://web.archive.org/web/20121104001407/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20130219035503",
+        "uri": "http://web.archive.org/web/20130219035503/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20130425071519",
+        "uri": "http://web.archive.org/web/20130425071519/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20130514154052",
+        "uri": "http://web.archive.org/web/20130514154052/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20130519030655",
+        "uri": "http://web.archive.org/web/20130519030655/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20130906030759",
+        "uri": "http://web.archive.org/web/20130906030759/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20131005144425",
+        "uri": "http://web.archive.org/web/20131005144425/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20131007084719",
+        "uri": "http://web.archive.org/web/20131007084719/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20131007102756",
+        "uri": "http://web.archive.org/web/20131007102756/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20131012145235",
+        "uri": "http://web.archive.org/web/20131012145235/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20140228052252",
+        "uri": "http://web.archive.org/web/20140228052252/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20140819192349",
+        "uri": "http://web.archive.org/web/20140819192349/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20141216184938",
+        "uri": "http://web.archive.org/web/20141216184938/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20141218212006",
+        "uri": "http://web.archive.org/web/20141218212006/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20150215090628",
+        "uri": "http://web.archive.org/web/20150215090628/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20150321070901",
+        "uri": "http://web.archive.org/web/20150321070901/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20150503115905",
+        "uri": "http://web.archive.org/web/20150503115905/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20150801011351",
+        "uri": "http://web.archive.org/web/20150801011351/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20150921154920",
+        "uri": "http://web.archive.org/web/20150921154920/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20160109120448",
+        "uri": "http://web.archive.org/web/20160109120448/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20160109141539",
+        "uri": "http://web.archive.org/web/20160109141539/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20160116085552",
+        "uri": "http://web.archive.org/web/20160116085552/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20160131092608",
+        "uri": "http://web.archive.org/web/20160131092608/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20160301082811",
+        "uri": "http://web.archive.org/web/20160301082811/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20160303201224",
+        "uri": "http://web.archive.org/web/20160303201224/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20160305043517",
+        "uri": "http://web.archive.org/web/20160305043517/http://acid-bath.com/"
+      },
+      {
+        "datetime": "20160308222421",
+        "uri": "http://web.archive.org/web/20160308222421/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20160316211651",
+        "uri": "http://web.archive.org/web/20160316211651/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20160331221112",
+        "uri": "http://web.archive.org/web/20160331221112/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20160402135157",
+        "uri": "http://web.archive.org/web/20160402135157/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20160417150035",
+        "uri": "http://web.archive.org/web/20160417150035/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20160501045841",
+        "uri": "http://web.archive.org/web/20160501045841/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20160807175301",
+        "uri": "http://web.archive.org/web/20160807175301/http://www.acid-bath.com/"
+      },
+      {
+        "datetime": "20161002023952",
+        "uri": "http://web.archive.org/web/20161002023952/http://acid-bath.com/"
+      }
+    ],
+    "timegate": "http://web.archive.org/web/http://www.acid-bath.com/",
+    "original": "http://www.acid-bath.com/",
+    "last": "Thu, 20 Oct 2016 20:43:16 GMT"
+  }
+}

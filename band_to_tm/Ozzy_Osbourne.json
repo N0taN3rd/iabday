@@ -1,0 +1,5179 @@
+{
+  "info": [
+    {
+      "active": [
+        {
+          "from": "1982",
+          "to": "1982"
+        }
+      ],
+      "member": "Bernie Torm\u00e9",
+      "plays": [
+        "guitar"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2003",
+          "to": "present"
+        }
+      ],
+      "member": "Adam Wakeman",
+      "plays": [
+        "keyboards/rhythm guitar"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1983",
+          "to": "1987"
+        }
+      ],
+      "member": "Jake E. Lee",
+      "plays": [
+        "guitar"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1987",
+          "to": "1992"
+        },
+        {
+          "from": "1995",
+          "to": "1995"
+        },
+        {
+          "from": "1998",
+          "to": "1998"
+        },
+        {
+          "from": "2001",
+          "to": "2004"
+        },
+        {
+          "from": "2006",
+          "to": "2009"
+        }
+      ],
+      "member": "Zakk Wylde",
+      "plays": [
+        "guitar",
+        "keyboards",
+        "washtubbass",
+        "backingvocals"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1991",
+          "to": "1992"
+        }
+      ],
+      "member": "Kevin Jones",
+      "plays": [
+        "keyboards"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2010",
+          "to": "present"
+        }
+      ],
+      "member": "Tommy Clufetos",
+      "plays": [
+        "drums"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1979",
+          "to": "1982"
+        }
+      ],
+      "member": "Randy Rhoads",
+      "plays": [
+        "guitar"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1995",
+          "to": "1998"
+        },
+        {
+          "from": "1999",
+          "to": "2001"
+        }
+      ],
+      "member": "Joe Holmes",
+      "plays": [
+        "guitar"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1981",
+          "to": "1985"
+        }
+      ],
+      "member": "Tommy Aldridge",
+      "plays": [
+        "drums"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1982",
+          "to": "1983"
+        }
+      ],
+      "member": "Pete Way",
+      "plays": [
+        "bass"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2003",
+          "to": "2003"
+        }
+      ],
+      "member": "Jason Newsted",
+      "plays": [
+        "bass"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1995",
+          "to": "1996"
+        }
+      ],
+      "member": "Robert Mason",
+      "plays": []
+    },
+    {
+      "active": [
+        {
+          "from": "1983",
+          "to": "1983"
+        }
+      ],
+      "member": "Don Costa",
+      "plays": [
+        "bass"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1983",
+          "to": "1983"
+        }
+      ],
+      "member": "Carmine Appice",
+      "plays": [
+        "drums"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1981",
+          "to": "1982"
+        }
+      ],
+      "member": "Rudy Sarzo",
+      "plays": [
+        "bass"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "Bob Daisley[9]",
+          "to": "Bob Daisley[9]"
+        }
+      ],
+      "member": "Bob Daisley[9]",
+      "plays": [
+        "bass",
+        "lyrics",
+        "backingvocals"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1989",
+          "to": "1995"
+        },
+        {
+          "from": "1996",
+          "to": "1996"
+        },
+        {
+          "from": "1998",
+          "to": "1998"
+        }
+      ],
+      "member": "Mike Inez",
+      "plays": [
+        "bass",
+        "musicalinspirationdirection"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2009",
+          "to": "present"
+        }
+      ],
+      "member": "Gus G",
+      "plays": [
+        "lead guitar"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1979",
+          "to": "present"
+        }
+      ],
+      "member": "Ozzy Osbourne",
+      "plays": [
+        "lead vocals"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1996",
+          "to": "2010"
+        }
+      ],
+      "member": "Mike Bordin",
+      "plays": [
+        "drums"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1985",
+          "to": "1987"
+        }
+      ],
+      "member": "Phil Soussan",
+      "plays": [
+        "bass",
+        "backingvocals"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1994",
+          "to": "1994"
+        }
+      ],
+      "member": "James LoMenzo",
+      "plays": [
+        "bass"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1979",
+          "to": "1981"
+        }
+      ],
+      "member": "Lee Kerslake",
+      "plays": [
+        "drums"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1995",
+          "to": "1995"
+        }
+      ],
+      "member": "Alex Skolnick",
+      "plays": [
+        "guitar"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1982",
+          "to": "1983"
+        }
+      ],
+      "member": "Brad Gillis",
+      "plays": [
+        "guitar"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1985",
+          "to": "1986"
+        }
+      ],
+      "member": "Mike Moran",
+      "plays": [
+        "keyboards"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1988",
+          "to": "89"
+        },
+        {
+          "from": "1995",
+          "to": "1995"
+        }
+      ],
+      "member": "Geezer Butler",
+      "plays": [
+        "bass"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2001",
+          "to": "2001"
+        }
+      ],
+      "member": "Michael Railo",
+      "plays": [
+        "keyboards"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1995",
+          "to": "1995"
+        }
+      ],
+      "member": "Michael Beinhorn",
+      "plays": [
+        "keyboards",
+        "production"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1980",
+          "to": "1981"
+        },
+        {
+          "from": "1983",
+          "to": "1983"
+        }
+      ],
+      "member": "Lindsay Bridgewater",
+      "plays": [
+        "keyboards"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1995",
+          "to": "1995"
+        }
+      ],
+      "member": "Rick Wakeman",
+      "plays": [
+        "keyboards"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2003",
+          "to": "2003"
+        },
+        {
+          "from": "2006",
+          "to": "present"
+        }
+      ],
+      "member": "Rob Nicholson",
+      "plays": [
+        "bass"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1996",
+          "to": "2003"
+        }
+      ],
+      "member": "Robert Trujillo",
+      "plays": [
+        "bass"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1994",
+          "to": "1995"
+        }
+      ],
+      "member": "Deen Castronovo",
+      "plays": [
+        "drums"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2000",
+          "to": "2000"
+        }
+      ],
+      "member": "Roy Mayorga",
+      "plays": [
+        "drums"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2004",
+          "to": "2005"
+        }
+      ],
+      "member": "Chris Wyse",
+      "plays": [
+        "bass"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1985",
+          "to": "1994"
+        },
+        {
+          "from": "1995",
+          "to": "1995"
+        },
+        {
+          "from": "1996",
+          "to": "1996"
+        },
+        {
+          "from": "1998",
+          "to": "1998"
+        }
+      ],
+      "member": "Randy Castillo",
+      "plays": [
+        "drums"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "Ozzfest 2000",
+          "to": "Ozzfest 2000"
+        }
+      ],
+      "member": "Brian Tichy",
+      "plays": [
+        "drums"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2001",
+          "to": "2001"
+        }
+      ],
+      "member": "Tommy Lee",
+      "plays": [
+        "drums"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2004",
+          "to": "2006"
+        }
+      ],
+      "member": "Jerry Cantrell",
+      "plays": [
+        "guitar"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1986",
+          "to": "2003"
+        }
+      ],
+      "member": "John Sinclair",
+      "plays": [
+        "keyboards"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1980",
+          "to": "1980"
+        },
+        {
+          "from": "1981",
+          "to": "1983"
+        },
+        {
+          "from": "1983",
+          "to": "1985"
+        }
+      ],
+      "member": "Don Airey",
+      "plays": [
+        "keyboards"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1981",
+          "to": "1981"
+        }
+      ],
+      "member": "Johnny Cook",
+      "plays": [
+        "keyboards"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1985",
+          "to": "1985"
+        }
+      ],
+      "member": "Jimmy DeGrasso",
+      "plays": [
+        "drums"
+      ]
+    }
+  ],
+  "tm": {
+    "first": "Sun, 11 Jan 1998 06:35:47 GMT",
+    "self": "http://web.archive.org/web/timemap/link/http://www.ozzy.com/",
+    "mementos": [
+      {
+        "datetime": "19980111063547",
+        "uri": "http://web.archive.org/web/19980111063547/http://ozzy.com/"
+      },
+      {
+        "datetime": "19980211152940",
+        "uri": "http://web.archive.org/web/19980211152940/http://ozzy.com/"
+      },
+      {
+        "datetime": "19980423173042",
+        "uri": "http://web.archive.org/web/19980423173042/http://ozzy.com/"
+      },
+      {
+        "datetime": "19981201213300",
+        "uri": "http://web.archive.org/web/19981201213300/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "19981212020234",
+        "uri": "http://web.archive.org/web/19981212020234/http://ozzy.com/"
+      },
+      {
+        "datetime": "19981212031700",
+        "uri": "http://web.archive.org/web/19981212031700/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "19990125101918",
+        "uri": "http://web.archive.org/web/19990125101918/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "19990129075853",
+        "uri": "http://web.archive.org/web/19990129075853/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "19990208015422",
+        "uri": "http://web.archive.org/web/19990208015422/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "19990302095519",
+        "uri": "http://web.archive.org/web/19990302095519/http://ozzy.com/"
+      },
+      {
+        "datetime": "19990417135247",
+        "uri": "http://web.archive.org/web/19990417135247/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "19990420021753",
+        "uri": "http://web.archive.org/web/19990420021753/http://ozzy.com/"
+      },
+      {
+        "datetime": "19990427073030",
+        "uri": "http://web.archive.org/web/19990427073030/http://ozzy.com/"
+      },
+      {
+        "datetime": "19990430051711",
+        "uri": "http://web.archive.org/web/19990430051711/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "19991012090829",
+        "uri": "http://web.archive.org/web/19991012090829/http://ozzy.com/"
+      },
+      {
+        "datetime": "19991012153201",
+        "uri": "http://web.archive.org/web/19991012153201/http://ozzy.com/"
+      },
+      {
+        "datetime": "20000229111742",
+        "uri": "http://web.archive.org/web/20000229111742/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20000229201422",
+        "uri": "http://web.archive.org/web/20000229201422/http://ozzy.com/"
+      },
+      {
+        "datetime": "20000304150646",
+        "uri": "http://web.archive.org/web/20000304150646/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20000304193544",
+        "uri": "http://web.archive.org/web/20000304193544/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20000407214441",
+        "uri": "http://web.archive.org/web/20000407214441/http://ozzy.com/"
+      },
+      {
+        "datetime": "20000407223050",
+        "uri": "http://web.archive.org/web/20000407223050/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20000510180057",
+        "uri": "http://web.archive.org/web/20000510180057/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20000511060711",
+        "uri": "http://web.archive.org/web/20000511060711/http://ozzy.com/"
+      },
+      {
+        "datetime": "20000512001123",
+        "uri": "http://web.archive.org/web/20000512001123/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20000520071833",
+        "uri": "http://web.archive.org/web/20000520071833/http://ozzy.com/"
+      },
+      {
+        "datetime": "20000520103343",
+        "uri": "http://web.archive.org/web/20000520103343/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20000610141937",
+        "uri": "http://web.archive.org/web/20000610141937/http://ozzy.com/"
+      },
+      {
+        "datetime": "20000619011834",
+        "uri": "http://web.archive.org/web/20000619011834/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20000619190858",
+        "uri": "http://web.archive.org/web/20000619190858/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20000619212949",
+        "uri": "http://web.archive.org/web/20000619212949/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20000620050935",
+        "uri": "http://web.archive.org/web/20000620050935/http://ozzy.com/"
+      },
+      {
+        "datetime": "20000707014143",
+        "uri": "http://web.archive.org/web/20000707014143/http://ozzy.com/"
+      },
+      {
+        "datetime": "20000815074726",
+        "uri": "http://web.archive.org/web/20000815074726/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20000901041214",
+        "uri": "http://web.archive.org/web/20000901041214/http://ozzy.com/"
+      },
+      {
+        "datetime": "20000930142656",
+        "uri": "http://web.archive.org/web/20000930142656/http://ozzy.com/"
+      },
+      {
+        "datetime": "20001018074326",
+        "uri": "http://web.archive.org/web/20001018074326/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20001018085206",
+        "uri": "http://web.archive.org/web/20001018085206/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20001018171914",
+        "uri": "http://web.archive.org/web/20001018171914/http://ozzy.com/"
+      },
+      {
+        "datetime": "20001204154700",
+        "uri": "http://web.archive.org/web/20001204154700/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20001210142400",
+        "uri": "http://web.archive.org/web/20001210142400/http://ozzy.com/"
+      },
+      {
+        "datetime": "20010201082600",
+        "uri": "http://web.archive.org/web/20010201082600/http://ozzy.com/"
+      },
+      {
+        "datetime": "20010202214000",
+        "uri": "http://web.archive.org/web/20010202214000/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20010208150157",
+        "uri": "http://web.archive.org/web/20010208150157/http://ozzy.com/"
+      },
+      {
+        "datetime": "20010302032153",
+        "uri": "http://web.archive.org/web/20010302032153/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20010401123118",
+        "uri": "http://web.archive.org/web/20010401123118/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20010402043027",
+        "uri": "http://web.archive.org/web/20010402043027/http://ozzy.com/"
+      },
+      {
+        "datetime": "20010405043516",
+        "uri": "http://web.archive.org/web/20010405043516/http://ozzy.com/"
+      },
+      {
+        "datetime": "20010506032001",
+        "uri": "http://web.archive.org/web/20010506032001/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20010515135242",
+        "uri": "http://web.archive.org/web/20010515135242/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20010515205149",
+        "uri": "http://web.archive.org/web/20010515205149/http://ozzy.com/"
+      },
+      {
+        "datetime": "20010520192621",
+        "uri": "http://web.archive.org/web/20010520192621/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20010528061839",
+        "uri": "http://web.archive.org/web/20010528061839/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20010619185552",
+        "uri": "http://web.archive.org/web/20010619185552/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20010628051843",
+        "uri": "http://web.archive.org/web/20010628051843/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20010710003323",
+        "uri": "http://web.archive.org/web/20010710003323/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20010711185106",
+        "uri": "http://web.archive.org/web/20010711185106/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20010926103955",
+        "uri": "http://web.archive.org/web/20010926103955/http://ozzy.com/"
+      },
+      {
+        "datetime": "20020125002937",
+        "uri": "http://web.archive.org/web/20020125002937/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20020402040215",
+        "uri": "http://web.archive.org/web/20020402040215/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20020526091613",
+        "uri": "http://web.archive.org/web/20020526091613/http://ozzy.com/"
+      },
+      {
+        "datetime": "20020603070608",
+        "uri": "http://web.archive.org/web/20020603070608/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20020802104801",
+        "uri": "http://web.archive.org/web/20020802104801/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20020914074233",
+        "uri": "http://web.archive.org/web/20020914074233/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20020925130326",
+        "uri": "http://web.archive.org/web/20020925130326/http://ozzy.com/"
+      },
+      {
+        "datetime": "20020928060520",
+        "uri": "http://web.archive.org/web/20020928060520/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20020929212006",
+        "uri": "http://web.archive.org/web/20020929212006/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20021013070634",
+        "uri": "http://web.archive.org/web/20021013070634/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20021108132223",
+        "uri": "http://web.archive.org/web/20021108132223/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20021111123451",
+        "uri": "http://web.archive.org/web/20021111123451/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20021119135134",
+        "uri": "http://web.archive.org/web/20021119135134/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20021123132020",
+        "uri": "http://web.archive.org/web/20021123132020/http://ozzy.com/"
+      },
+      {
+        "datetime": "20021127080834",
+        "uri": "http://web.archive.org/web/20021127080834/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20021128124744",
+        "uri": "http://web.archive.org/web/20021128124744/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20021129001344",
+        "uri": "http://web.archive.org/web/20021129001344/http://ozzy.com/"
+      },
+      {
+        "datetime": "20030124222530",
+        "uri": "http://web.archive.org/web/20030124222530/http://ozzy.com/"
+      },
+      {
+        "datetime": "20030205040121",
+        "uri": "http://web.archive.org/web/20030205040121/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20030217153101",
+        "uri": "http://web.archive.org/web/20030217153101/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20030320030017",
+        "uri": "http://web.archive.org/web/20030320030017/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20030324233631",
+        "uri": "http://web.archive.org/web/20030324233631/http://ozzy.com/"
+      },
+      {
+        "datetime": "20030331214203",
+        "uri": "http://web.archive.org/web/20030331214203/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20030424191853",
+        "uri": "http://web.archive.org/web/20030424191853/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20030529081152",
+        "uri": "http://web.archive.org/web/20030529081152/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20030530084622",
+        "uri": "http://web.archive.org/web/20030530084622/http://ozzy.com/"
+      },
+      {
+        "datetime": "20030619093420",
+        "uri": "http://web.archive.org/web/20030619093420/http://ozzy.com/"
+      },
+      {
+        "datetime": "20030621152241",
+        "uri": "http://web.archive.org/web/20030621152241/http://ozzy.com/"
+      },
+      {
+        "datetime": "20030717193830",
+        "uri": "http://web.archive.org/web/20030717193830/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20030806024611",
+        "uri": "http://web.archive.org/web/20030806024611/http://ozzy.com/"
+      },
+      {
+        "datetime": "20030808103522",
+        "uri": "http://web.archive.org/web/20030808103522/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20030928031124",
+        "uri": "http://web.archive.org/web/20030928031124/http://ozzy.com/"
+      },
+      {
+        "datetime": "20030930204644",
+        "uri": "http://web.archive.org/web/20030930204644/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20031016134307",
+        "uri": "http://web.archive.org/web/20031016134307/http://ozzy.com/"
+      },
+      {
+        "datetime": "20031028013613",
+        "uri": "http://web.archive.org/web/20031028013613/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20031122135855",
+        "uri": "http://web.archive.org/web/20031122135855/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20031213013253",
+        "uri": "http://web.archive.org/web/20031213013253/http://ozzy.com/"
+      },
+      {
+        "datetime": "20031214130219",
+        "uri": "http://web.archive.org/web/20031214130219/http://ozzy.com/"
+      },
+      {
+        "datetime": "20031222071734",
+        "uri": "http://web.archive.org/web/20031222071734/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040407001433",
+        "uri": "http://web.archive.org/web/20040407001433/http://ozzy.com/"
+      },
+      {
+        "datetime": "20040411182947",
+        "uri": "http://web.archive.org/web/20040411182947/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040420034656",
+        "uri": "http://web.archive.org/web/20040420034656/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040514154204",
+        "uri": "http://web.archive.org/web/20040514154204/http://ozzy.com/"
+      },
+      {
+        "datetime": "20040521085720",
+        "uri": "http://web.archive.org/web/20040521085720/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040522133506",
+        "uri": "http://web.archive.org/web/20040522133506/http://ozzy.com/"
+      },
+      {
+        "datetime": "20040525072509",
+        "uri": "http://web.archive.org/web/20040525072509/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040526144144",
+        "uri": "http://web.archive.org/web/20040526144144/http://ozzy.com/"
+      },
+      {
+        "datetime": "20040611171316",
+        "uri": "http://web.archive.org/web/20040611171316/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040612203702",
+        "uri": "http://web.archive.org/web/20040612203702/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040614054413",
+        "uri": "http://web.archive.org/web/20040614054413/http://ozzy.com/"
+      },
+      {
+        "datetime": "20040615063401",
+        "uri": "http://web.archive.org/web/20040615063401/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040615223104",
+        "uri": "http://web.archive.org/web/20040615223104/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040616214727",
+        "uri": "http://web.archive.org/web/20040616214727/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040618142051",
+        "uri": "http://web.archive.org/web/20040618142051/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040619132821",
+        "uri": "http://web.archive.org/web/20040619132821/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040622234818",
+        "uri": "http://web.archive.org/web/20040622234818/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040623095217",
+        "uri": "http://web.archive.org/web/20040623095217/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040625194651",
+        "uri": "http://web.archive.org/web/20040625194651/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040626081401",
+        "uri": "http://web.archive.org/web/20040626081401/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040626120046",
+        "uri": "http://web.archive.org/web/20040626120046/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040627023549",
+        "uri": "http://web.archive.org/web/20040627023549/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040629224803",
+        "uri": "http://web.archive.org/web/20040629224803/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040701133915",
+        "uri": "http://web.archive.org/web/20040701133915/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040702212904",
+        "uri": "http://web.archive.org/web/20040702212904/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040703021702",
+        "uri": "http://web.archive.org/web/20040703021702/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040706040022",
+        "uri": "http://web.archive.org/web/20040706040022/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040707005643",
+        "uri": "http://web.archive.org/web/20040707005643/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040708041756",
+        "uri": "http://web.archive.org/web/20040708041756/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040710041113",
+        "uri": "http://web.archive.org/web/20040710041113/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040710111041",
+        "uri": "http://web.archive.org/web/20040710111041/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040710175905",
+        "uri": "http://web.archive.org/web/20040710175905/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040717034805",
+        "uri": "http://web.archive.org/web/20040717034805/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040717081408",
+        "uri": "http://web.archive.org/web/20040717081408/http://ozzy.com/"
+      },
+      {
+        "datetime": "20040718050843",
+        "uri": "http://web.archive.org/web/20040718050843/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040718084259",
+        "uri": "http://web.archive.org/web/20040718084259/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040723032415",
+        "uri": "http://web.archive.org/web/20040723032415/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040724055229",
+        "uri": "http://web.archive.org/web/20040724055229/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040804032744",
+        "uri": "http://web.archive.org/web/20040804032744/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040805065053",
+        "uri": "http://web.archive.org/web/20040805065053/http://ozzy.com/"
+      },
+      {
+        "datetime": "20040806031236",
+        "uri": "http://web.archive.org/web/20040806031236/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040808051631",
+        "uri": "http://web.archive.org/web/20040808051631/http://ozzy.com/"
+      },
+      {
+        "datetime": "20040812075120",
+        "uri": "http://web.archive.org/web/20040812075120/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040813051412",
+        "uri": "http://web.archive.org/web/20040813051412/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040814015548",
+        "uri": "http://web.archive.org/web/20040814015548/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040814050901",
+        "uri": "http://web.archive.org/web/20040814050901/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040818065039",
+        "uri": "http://web.archive.org/web/20040818065039/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040819062526",
+        "uri": "http://web.archive.org/web/20040819062526/http://ozzy.com/"
+      },
+      {
+        "datetime": "20040821070200",
+        "uri": "http://web.archive.org/web/20040821070200/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040823043700",
+        "uri": "http://web.archive.org/web/20040823043700/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040823074003",
+        "uri": "http://web.archive.org/web/20040823074003/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040829091739",
+        "uri": "http://web.archive.org/web/20040829091739/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040831223017",
+        "uri": "http://web.archive.org/web/20040831223017/http://ozzy.com/"
+      },
+      {
+        "datetime": "20040902085514",
+        "uri": "http://web.archive.org/web/20040902085514/http://ozzy.com/"
+      },
+      {
+        "datetime": "20040902134735",
+        "uri": "http://web.archive.org/web/20040902134735/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040903020831",
+        "uri": "http://web.archive.org/web/20040903020831/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040906033649",
+        "uri": "http://web.archive.org/web/20040906033649/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040917053045",
+        "uri": "http://web.archive.org/web/20040917053045/http://ozzy.com/"
+      },
+      {
+        "datetime": "20040917234130",
+        "uri": "http://web.archive.org/web/20040917234130/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040923120923",
+        "uri": "http://web.archive.org/web/20040923120923/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20040924072426",
+        "uri": "http://web.archive.org/web/20040924072426/http://ozzy.com/"
+      },
+      {
+        "datetime": "20041001073754",
+        "uri": "http://web.archive.org/web/20041001073754/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20041014084509",
+        "uri": "http://web.archive.org/web/20041014084509/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20041114084001",
+        "uri": "http://web.archive.org/web/20041114084001/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20041128093659",
+        "uri": "http://web.archive.org/web/20041128093659/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20041130093453",
+        "uri": "http://web.archive.org/web/20041130093453/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20041204093941",
+        "uri": "http://web.archive.org/web/20041204093941/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20041211114909",
+        "uri": "http://web.archive.org/web/20041211114909/http://ozzy.com/"
+      },
+      {
+        "datetime": "20041212085148",
+        "uri": "http://web.archive.org/web/20041212085148/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20041212093552",
+        "uri": "http://web.archive.org/web/20041212093552/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20041217094402",
+        "uri": "http://web.archive.org/web/20041217094402/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050107090837",
+        "uri": "http://web.archive.org/web/20050107090837/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050115091532",
+        "uri": "http://web.archive.org/web/20050115091532/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050116090650",
+        "uri": "http://web.archive.org/web/20050116090650/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050117090145",
+        "uri": "http://web.archive.org/web/20050117090145/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050119091815",
+        "uri": "http://web.archive.org/web/20050119091815/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050120090443",
+        "uri": "http://web.archive.org/web/20050120090443/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050121013904",
+        "uri": "http://web.archive.org/web/20050121013904/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050121084941",
+        "uri": "http://web.archive.org/web/20050121084941/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050127094125",
+        "uri": "http://web.archive.org/web/20050127094125/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050131090354",
+        "uri": "http://web.archive.org/web/20050131090354/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050201003137",
+        "uri": "http://web.archive.org/web/20050201003137/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050205112623",
+        "uri": "http://web.archive.org/web/20050205112623/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050206092850",
+        "uri": "http://web.archive.org/web/20050206092850/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050207091041",
+        "uri": "http://web.archive.org/web/20050207091041/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050208100816",
+        "uri": "http://web.archive.org/web/20050208100816/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050208232724",
+        "uri": "http://web.archive.org/web/20050208232724/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050209125006",
+        "uri": "http://web.archive.org/web/20050209125006/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050211030622",
+        "uri": "http://web.archive.org/web/20050211030622/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050214023236",
+        "uri": "http://web.archive.org/web/20050214023236/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050217094133",
+        "uri": "http://web.archive.org/web/20050217094133/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050218092029",
+        "uri": "http://web.archive.org/web/20050218092029/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050221102616",
+        "uri": "http://web.archive.org/web/20050221102616/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050222005903",
+        "uri": "http://web.archive.org/web/20050222005903/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050222100338",
+        "uri": "http://web.archive.org/web/20050222100338/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050228221234",
+        "uri": "http://web.archive.org/web/20050228221234/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050302084820",
+        "uri": "http://web.archive.org/web/20050302084820/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050303171702",
+        "uri": "http://web.archive.org/web/20050303171702/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050315024253",
+        "uri": "http://web.archive.org/web/20050315024253/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050317035707",
+        "uri": "http://web.archive.org/web/20050317035707/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050317090332",
+        "uri": "http://web.archive.org/web/20050317090332/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050319033546",
+        "uri": "http://web.archive.org/web/20050319033546/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050324001236",
+        "uri": "http://web.archive.org/web/20050324001236/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050324033942",
+        "uri": "http://web.archive.org/web/20050324033942/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050328031200",
+        "uri": "http://web.archive.org/web/20050328031200/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050401092703",
+        "uri": "http://web.archive.org/web/20050401092703/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050410084051",
+        "uri": "http://web.archive.org/web/20050410084051/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050411082252",
+        "uri": "http://web.archive.org/web/20050411082252/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050418020958",
+        "uri": "http://web.archive.org/web/20050418020958/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050427073953",
+        "uri": "http://web.archive.org/web/20050427073953/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050428012917",
+        "uri": "http://web.archive.org/web/20050428012917/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050428081758",
+        "uri": "http://web.archive.org/web/20050428081758/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050429034223",
+        "uri": "http://web.archive.org/web/20050429034223/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050508002633",
+        "uri": "http://web.archive.org/web/20050508002633/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050510014036",
+        "uri": "http://web.archive.org/web/20050510014036/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050511074737",
+        "uri": "http://web.archive.org/web/20050511074737/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050511233458",
+        "uri": "http://web.archive.org/web/20050511233458/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050514013444",
+        "uri": "http://web.archive.org/web/20050514013444/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050515031136",
+        "uri": "http://web.archive.org/web/20050515031136/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050515235009",
+        "uri": "http://web.archive.org/web/20050515235009/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050517003358",
+        "uri": "http://web.archive.org/web/20050517003358/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050517082301",
+        "uri": "http://web.archive.org/web/20050517082301/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050518005451",
+        "uri": "http://web.archive.org/web/20050518005451/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050519021113",
+        "uri": "http://web.archive.org/web/20050519021113/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050521021852",
+        "uri": "http://web.archive.org/web/20050521021852/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050522021403",
+        "uri": "http://web.archive.org/web/20050522021403/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050522083646",
+        "uri": "http://web.archive.org/web/20050522083646/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050522232531",
+        "uri": "http://web.archive.org/web/20050522232531/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050524001311",
+        "uri": "http://web.archive.org/web/20050524001311/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050525010920",
+        "uri": "http://web.archive.org/web/20050525010920/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050525235703",
+        "uri": "http://web.archive.org/web/20050525235703/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050526234712",
+        "uri": "http://web.archive.org/web/20050526234712/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050529001855",
+        "uri": "http://web.archive.org/web/20050529001855/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050530005944",
+        "uri": "http://web.archive.org/web/20050530005944/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050601002547",
+        "uri": "http://web.archive.org/web/20050601002547/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050601023504",
+        "uri": "http://web.archive.org/web/20050601023504/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050603233224",
+        "uri": "http://web.archive.org/web/20050603233224/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050604235526",
+        "uri": "http://web.archive.org/web/20050604235526/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050605234543",
+        "uri": "http://web.archive.org/web/20050605234543/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050607082805",
+        "uri": "http://web.archive.org/web/20050607082805/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050608003756",
+        "uri": "http://web.archive.org/web/20050608003756/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050608085308",
+        "uri": "http://web.archive.org/web/20050608085308/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050609090426",
+        "uri": "http://web.archive.org/web/20050609090426/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050610014601",
+        "uri": "http://web.archive.org/web/20050610014601/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050611003412",
+        "uri": "http://web.archive.org/web/20050611003412/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050612025942",
+        "uri": "http://web.archive.org/web/20050612025942/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050613011333",
+        "uri": "http://web.archive.org/web/20050613011333/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050616010958",
+        "uri": "http://web.archive.org/web/20050616010958/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050617085411",
+        "uri": "http://web.archive.org/web/20050617085411/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050617235325",
+        "uri": "http://web.archive.org/web/20050617235325/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050619005323",
+        "uri": "http://web.archive.org/web/20050619005323/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050619232612",
+        "uri": "http://web.archive.org/web/20050619232612/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050620232318",
+        "uri": "http://web.archive.org/web/20050620232318/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050622013025",
+        "uri": "http://web.archive.org/web/20050622013025/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050623023134",
+        "uri": "http://web.archive.org/web/20050623023134/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050625234259",
+        "uri": "http://web.archive.org/web/20050625234259/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050626232937",
+        "uri": "http://web.archive.org/web/20050626232937/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050701005033",
+        "uri": "http://web.archive.org/web/20050701005033/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050702024046",
+        "uri": "http://web.archive.org/web/20050702024046/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050703010749",
+        "uri": "http://web.archive.org/web/20050703010749/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050706034823",
+        "uri": "http://web.archive.org/web/20050706034823/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050706111121",
+        "uri": "http://web.archive.org/web/20050706111121/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050707004313",
+        "uri": "http://web.archive.org/web/20050707004313/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050712075858",
+        "uri": "http://web.archive.org/web/20050712075858/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050712233707",
+        "uri": "http://web.archive.org/web/20050712233707/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050715005654",
+        "uri": "http://web.archive.org/web/20050715005654/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050715073430",
+        "uri": "http://web.archive.org/web/20050715073430/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050718013939",
+        "uri": "http://web.archive.org/web/20050718013939/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050719012056",
+        "uri": "http://web.archive.org/web/20050719012056/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050720004914",
+        "uri": "http://web.archive.org/web/20050720004914/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050723031048",
+        "uri": "http://web.archive.org/web/20050723031048/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050723081158",
+        "uri": "http://web.archive.org/web/20050723081158/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050727004351",
+        "uri": "http://web.archive.org/web/20050727004351/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050729002904",
+        "uri": "http://web.archive.org/web/20050729002904/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050731003358",
+        "uri": "http://web.archive.org/web/20050731003358/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050731233102",
+        "uri": "http://web.archive.org/web/20050731233102/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050802013408",
+        "uri": "http://web.archive.org/web/20050802013408/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050803015042",
+        "uri": "http://web.archive.org/web/20050803015042/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050804020659",
+        "uri": "http://web.archive.org/web/20050804020659/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050804235725",
+        "uri": "http://web.archive.org/web/20050804235725/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050806001047",
+        "uri": "http://web.archive.org/web/20050806001047/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050807010810",
+        "uri": "http://web.archive.org/web/20050807010810/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050807233942",
+        "uri": "http://web.archive.org/web/20050807233942/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050808233406",
+        "uri": "http://web.archive.org/web/20050808233406/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050810031559",
+        "uri": "http://web.archive.org/web/20050810031559/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050815012438",
+        "uri": "http://web.archive.org/web/20050815012438/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050816083011",
+        "uri": "http://web.archive.org/web/20050816083011/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050816083027",
+        "uri": "http://web.archive.org/web/20050816083027/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050816144900",
+        "uri": "http://web.archive.org/web/20050816144900/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050820144106",
+        "uri": "http://web.archive.org/web/20050820144106/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050822231522",
+        "uri": "http://web.archive.org/web/20050822231522/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050823015450",
+        "uri": "http://web.archive.org/web/20050823015450/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050823015801",
+        "uri": "http://web.archive.org/web/20050823015801/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050824200453",
+        "uri": "http://web.archive.org/web/20050824200453/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050825002646",
+        "uri": "http://web.archive.org/web/20050825002646/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050825143220",
+        "uri": "http://web.archive.org/web/20050825143220/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050825191011",
+        "uri": "http://web.archive.org/web/20050825191011/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050825203017",
+        "uri": "http://web.archive.org/web/20050825203017/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050825205633",
+        "uri": "http://web.archive.org/web/20050825205633/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050826002031",
+        "uri": "http://web.archive.org/web/20050826002031/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050826010800",
+        "uri": "http://web.archive.org/web/20050826010800/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050826062032",
+        "uri": "http://web.archive.org/web/20050826062032/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050827130706",
+        "uri": "http://web.archive.org/web/20050827130706/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050827163646",
+        "uri": "http://web.archive.org/web/20050827163646/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050828092856",
+        "uri": "http://web.archive.org/web/20050828092856/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050828102447",
+        "uri": "http://web.archive.org/web/20050828102447/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050828113841",
+        "uri": "http://web.archive.org/web/20050828113841/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050828201309",
+        "uri": "http://web.archive.org/web/20050828201309/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050828205945",
+        "uri": "http://web.archive.org/web/20050828205945/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050828212932",
+        "uri": "http://web.archive.org/web/20050828212932/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050828223318",
+        "uri": "http://web.archive.org/web/20050828223318/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050829060909",
+        "uri": "http://web.archive.org/web/20050829060909/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050829111209",
+        "uri": "http://web.archive.org/web/20050829111209/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050829130042",
+        "uri": "http://web.archive.org/web/20050829130042/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050829202239",
+        "uri": "http://web.archive.org/web/20050829202239/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050829234046",
+        "uri": "http://web.archive.org/web/20050829234046/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050830054617",
+        "uri": "http://web.archive.org/web/20050830054617/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050830062225",
+        "uri": "http://web.archive.org/web/20050830062225/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050830081303",
+        "uri": "http://web.archive.org/web/20050830081303/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050830081744",
+        "uri": "http://web.archive.org/web/20050830081744/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050830123146",
+        "uri": "http://web.archive.org/web/20050830123146/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050830153700",
+        "uri": "http://web.archive.org/web/20050830153700/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050830212709",
+        "uri": "http://web.archive.org/web/20050830212709/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050901150236",
+        "uri": "http://web.archive.org/web/20050901150236/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050901162503",
+        "uri": "http://web.archive.org/web/20050901162503/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050903041110",
+        "uri": "http://web.archive.org/web/20050903041110/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050907143755",
+        "uri": "http://web.archive.org/web/20050907143755/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050910230807",
+        "uri": "http://web.archive.org/web/20050910230807/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050913030053",
+        "uri": "http://web.archive.org/web/20050913030053/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050914055010",
+        "uri": "http://web.archive.org/web/20050914055010/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050914142641",
+        "uri": "http://web.archive.org/web/20050914142641/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20050924142629",
+        "uri": "http://web.archive.org/web/20050924142629/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050924151609",
+        "uri": "http://web.archive.org/web/20050924151609/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050924152702",
+        "uri": "http://web.archive.org/web/20050924152702/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050924205702",
+        "uri": "http://web.archive.org/web/20050924205702/http://ozzy.com/"
+      },
+      {
+        "datetime": "20050930225424",
+        "uri": "http://web.archive.org/web/20050930225424/http://ozzy.com/"
+      },
+      {
+        "datetime": "20051003215607",
+        "uri": "http://web.archive.org/web/20051003215607/http://ozzy.com/"
+      },
+      {
+        "datetime": "20051018032438",
+        "uri": "http://web.archive.org/web/20051018032438/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051023010705",
+        "uri": "http://web.archive.org/web/20051023010705/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051023234803",
+        "uri": "http://web.archive.org/web/20051023234803/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051027024205",
+        "uri": "http://web.archive.org/web/20051027024205/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051031042838",
+        "uri": "http://web.archive.org/web/20051031042838/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051105015806",
+        "uri": "http://web.archive.org/web/20051105015806/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051105041053",
+        "uri": "http://web.archive.org/web/20051105041053/http://ozzy.com/"
+      },
+      {
+        "datetime": "20051106052338",
+        "uri": "http://web.archive.org/web/20051106052338/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051108005317",
+        "uri": "http://web.archive.org/web/20051108005317/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051124111706",
+        "uri": "http://web.archive.org/web/20051124111706/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051125090213",
+        "uri": "http://web.archive.org/web/20051125090213/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051125125507",
+        "uri": "http://web.archive.org/web/20051125125507/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051125131749",
+        "uri": "http://web.archive.org/web/20051125131749/http://ozzy.com/"
+      },
+      {
+        "datetime": "20051125161742",
+        "uri": "http://web.archive.org/web/20051125161742/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051126145253",
+        "uri": "http://web.archive.org/web/20051126145253/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051126165955",
+        "uri": "http://web.archive.org/web/20051126165955/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051126221133",
+        "uri": "http://web.archive.org/web/20051126221133/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051127092202",
+        "uri": "http://web.archive.org/web/20051127092202/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051128021325",
+        "uri": "http://web.archive.org/web/20051128021325/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051128090559",
+        "uri": "http://web.archive.org/web/20051128090559/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051129030423",
+        "uri": "http://web.archive.org/web/20051129030423/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051130033515",
+        "uri": "http://web.archive.org/web/20051130033515/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051130222406",
+        "uri": "http://web.archive.org/web/20051130222406/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051202111545",
+        "uri": "http://web.archive.org/web/20051202111545/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051203053152",
+        "uri": "http://web.archive.org/web/20051203053152/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051211071328",
+        "uri": "http://web.archive.org/web/20051211071328/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051212072546",
+        "uri": "http://web.archive.org/web/20051212072546/http://www.ozzy.com/?"
+      },
+      {
+        "datetime": "20051212080135",
+        "uri": "http://web.archive.org/web/20051212080135/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051213085028",
+        "uri": "http://web.archive.org/web/20051213085028/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051214185017",
+        "uri": "http://web.archive.org/web/20051214185017/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051215044623",
+        "uri": "http://web.archive.org/web/20051215044623/http://www.ozzy.com/?"
+      },
+      {
+        "datetime": "20051218145511",
+        "uri": "http://web.archive.org/web/20051218145511/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051218203048",
+        "uri": "http://web.archive.org/web/20051218203048/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051220154242",
+        "uri": "http://web.archive.org/web/20051220154242/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051223140054",
+        "uri": "http://web.archive.org/web/20051223140054/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051224210913",
+        "uri": "http://web.archive.org/web/20051224210913/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051224234744",
+        "uri": "http://web.archive.org/web/20051224234744/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051225070126",
+        "uri": "http://web.archive.org/web/20051225070126/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051231081343",
+        "uri": "http://web.archive.org/web/20051231081343/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051231124012",
+        "uri": "http://web.archive.org/web/20051231124012/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051231155626",
+        "uri": "http://web.archive.org/web/20051231155626/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051231175543",
+        "uri": "http://web.archive.org/web/20051231175543/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20051231232008",
+        "uri": "http://web.archive.org/web/20051231232008/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060101060944",
+        "uri": "http://web.archive.org/web/20060101060944/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060101082653",
+        "uri": "http://web.archive.org/web/20060101082653/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060101115036",
+        "uri": "http://web.archive.org/web/20060101115036/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060101153729",
+        "uri": "http://web.archive.org/web/20060101153729/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060101191925",
+        "uri": "http://web.archive.org/web/20060101191925/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060102003928",
+        "uri": "http://web.archive.org/web/20060102003928/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060102043855",
+        "uri": "http://web.archive.org/web/20060102043855/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060102081034",
+        "uri": "http://web.archive.org/web/20060102081034/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060102122210",
+        "uri": "http://web.archive.org/web/20060102122210/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060102172950",
+        "uri": "http://web.archive.org/web/20060102172950/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060102214639",
+        "uri": "http://web.archive.org/web/20060102214639/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060103083816",
+        "uri": "http://web.archive.org/web/20060103083816/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060104061048",
+        "uri": "http://web.archive.org/web/20060104061048/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060104074552",
+        "uri": "http://web.archive.org/web/20060104074552/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060105055118",
+        "uri": "http://web.archive.org/web/20060105055118/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060106012042",
+        "uri": "http://web.archive.org/web/20060106012042/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060106142106",
+        "uri": "http://web.archive.org/web/20060106142106/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060106195026",
+        "uri": "http://web.archive.org/web/20060106195026/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060107021602",
+        "uri": "http://web.archive.org/web/20060107021602/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060107070220",
+        "uri": "http://web.archive.org/web/20060107070220/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060107103508",
+        "uri": "http://web.archive.org/web/20060107103508/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060107153820",
+        "uri": "http://web.archive.org/web/20060107153820/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060107200028",
+        "uri": "http://web.archive.org/web/20060107200028/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060108003936",
+        "uri": "http://web.archive.org/web/20060108003936/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060108173528",
+        "uri": "http://web.archive.org/web/20060108173528/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060110043511",
+        "uri": "http://web.archive.org/web/20060110043511/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060110192344",
+        "uri": "http://web.archive.org/web/20060110192344/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060111051252",
+        "uri": "http://web.archive.org/web/20060111051252/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060112112106",
+        "uri": "http://web.archive.org/web/20060112112106/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060113043000",
+        "uri": "http://web.archive.org/web/20060113043000/http://ozzy.com/"
+      },
+      {
+        "datetime": "20060115054024",
+        "uri": "http://web.archive.org/web/20060115054024/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060117052936",
+        "uri": "http://web.archive.org/web/20060117052936/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060117063206",
+        "uri": "http://web.archive.org/web/20060117063206/http://ozzy.com/"
+      },
+      {
+        "datetime": "20060127003923",
+        "uri": "http://web.archive.org/web/20060127003923/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060127005736",
+        "uri": "http://web.archive.org/web/20060127005736/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060127011116",
+        "uri": "http://web.archive.org/web/20060127011116/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060128033512",
+        "uri": "http://web.archive.org/web/20060128033512/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060201234046",
+        "uri": "http://web.archive.org/web/20060201234046/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060202062552",
+        "uri": "http://web.archive.org/web/20060202062552/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060203154903",
+        "uri": "http://web.archive.org/web/20060203154903/http://ozzy.com/"
+      },
+      {
+        "datetime": "20060204091233",
+        "uri": "http://web.archive.org/web/20060204091233/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060317120015",
+        "uri": "http://web.archive.org/web/20060317120015/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060402231219",
+        "uri": "http://web.archive.org/web/20060402231219/http://ozzy.com/"
+      },
+      {
+        "datetime": "20060404020856",
+        "uri": "http://web.archive.org/web/20060404020856/http://ozzy.com/"
+      },
+      {
+        "datetime": "20060408063534",
+        "uri": "http://web.archive.org/web/20060408063534/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060408063656",
+        "uri": "http://web.archive.org/web/20060408063656/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060408063700",
+        "uri": "http://web.archive.org/web/20060408063700/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060409080538",
+        "uri": "http://web.archive.org/web/20060409080538/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060410153619",
+        "uri": "http://web.archive.org/web/20060410153619/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060411050050",
+        "uri": "http://web.archive.org/web/20060411050050/http://ozzy.com/"
+      },
+      {
+        "datetime": "20060411050234",
+        "uri": "http://web.archive.org/web/20060411050234/http://ozzy.com/?"
+      },
+      {
+        "datetime": "20060411195427",
+        "uri": "http://web.archive.org/web/20060411195427/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060412081101",
+        "uri": "http://web.archive.org/web/20060412081101/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060413083424",
+        "uri": "http://web.archive.org/web/20060413083424/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060415083727",
+        "uri": "http://web.archive.org/web/20060415083727/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060416082518",
+        "uri": "http://web.archive.org/web/20060416082518/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060421190201",
+        "uri": "http://web.archive.org/web/20060421190201/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060421190251",
+        "uri": "http://web.archive.org/web/20060421190251/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060423155003",
+        "uri": "http://web.archive.org/web/20060423155003/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060423161013",
+        "uri": "http://web.archive.org/web/20060423161013/http://ozzy.com/"
+      },
+      {
+        "datetime": "20060425202603",
+        "uri": "http://web.archive.org/web/20060425202603/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060612200049",
+        "uri": "http://web.archive.org/web/20060612200049/http://ozzy.com/"
+      },
+      {
+        "datetime": "20060613071853",
+        "uri": "http://web.archive.org/web/20060613071853/http://ozzy.com/"
+      },
+      {
+        "datetime": "20060615213519",
+        "uri": "http://web.archive.org/web/20060615213519/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060702000916",
+        "uri": "http://web.archive.org/web/20060702000916/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060703014633",
+        "uri": "http://web.archive.org/web/20060703014633/http://ozzy.com/"
+      },
+      {
+        "datetime": "20060703014639",
+        "uri": "http://web.archive.org/web/20060703014639/http://ozzy.com/"
+      },
+      {
+        "datetime": "20060705041747",
+        "uri": "http://web.archive.org/web/20060705041747/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060706024901",
+        "uri": "http://web.archive.org/web/20060706024901/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060716111722",
+        "uri": "http://web.archive.org/web/20060716111722/http://ozzy.com/"
+      },
+      {
+        "datetime": "20060719070829",
+        "uri": "http://web.archive.org/web/20060719070829/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060719093126",
+        "uri": "http://web.archive.org/web/20060719093126/http://ozzy.com/"
+      },
+      {
+        "datetime": "20060719104228",
+        "uri": "http://web.archive.org/web/20060719104228/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060719104240",
+        "uri": "http://web.archive.org/web/20060719104240/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060719104252",
+        "uri": "http://web.archive.org/web/20060719104252/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060719195007",
+        "uri": "http://web.archive.org/web/20060719195007/http://ozzy.com/"
+      },
+      {
+        "datetime": "20060720081906",
+        "uri": "http://web.archive.org/web/20060720081906/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060720100539",
+        "uri": "http://web.archive.org/web/20060720100539/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060720100609",
+        "uri": "http://web.archive.org/web/20060720100609/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060720100716",
+        "uri": "http://web.archive.org/web/20060720100716/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060720111436",
+        "uri": "http://web.archive.org/web/20060720111436/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060720111502",
+        "uri": "http://web.archive.org/web/20060720111502/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060721022717",
+        "uri": "http://web.archive.org/web/20060721022717/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060811234354",
+        "uri": "http://web.archive.org/web/20060811234354/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060815152241",
+        "uri": "http://web.archive.org/web/20060815152241/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060819081359",
+        "uri": "http://web.archive.org/web/20060819081359/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060830053006",
+        "uri": "http://web.archive.org/web/20060830053006/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20060903170935",
+        "uri": "http://web.archive.org/web/20060903170935/http://ozzy.com/"
+      },
+      {
+        "datetime": "20061004005938",
+        "uri": "http://web.archive.org/web/20061004005938/http://ozzy.com/"
+      },
+      {
+        "datetime": "20061021021432",
+        "uri": "http://web.archive.org/web/20061021021432/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20061026174245",
+        "uri": "http://web.archive.org/web/20061026174245/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20061109213908",
+        "uri": "http://web.archive.org/web/20061109213908/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20061116200532",
+        "uri": "http://web.archive.org/web/20061116200532/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20061205032427",
+        "uri": "http://web.archive.org/web/20061205032427/http://ozzy.com/"
+      },
+      {
+        "datetime": "20061205114728",
+        "uri": "http://web.archive.org/web/20061205114728/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20061210014430",
+        "uri": "http://web.archive.org/web/20061210014430/http://ozzy.com/"
+      },
+      {
+        "datetime": "20061214200129",
+        "uri": "http://web.archive.org/web/20061214200129/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20061231211722",
+        "uri": "http://web.archive.org/web/20061231211722/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070105130811",
+        "uri": "http://web.archive.org/web/20070105130811/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070110061842",
+        "uri": "http://web.archive.org/web/20070110061842/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070115064424",
+        "uri": "http://web.archive.org/web/20070115064424/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070115092649",
+        "uri": "http://web.archive.org/web/20070115092649/http://ozzy.com/"
+      },
+      {
+        "datetime": "20070120043449",
+        "uri": "http://web.archive.org/web/20070120043449/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070125083908",
+        "uri": "http://web.archive.org/web/20070125083908/http://ozzy.com/"
+      },
+      {
+        "datetime": "20070202024330",
+        "uri": "http://web.archive.org/web/20070202024330/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070205062713",
+        "uri": "http://web.archive.org/web/20070205062713/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070210024344",
+        "uri": "http://web.archive.org/web/20070210024344/http://ozzy.com/"
+      },
+      {
+        "datetime": "20070217180151",
+        "uri": "http://web.archive.org/web/20070217180151/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070225145648",
+        "uri": "http://web.archive.org/web/20070225145648/http://ozzy.com/"
+      },
+      {
+        "datetime": "20070306022608",
+        "uri": "http://web.archive.org/web/20070306022608/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070314030753",
+        "uri": "http://web.archive.org/web/20070314030753/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070322225353",
+        "uri": "http://web.archive.org/web/20070322225353/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070405195720",
+        "uri": "http://web.archive.org/web/20070405195720/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070421212542",
+        "uri": "http://web.archive.org/web/20070421212542/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070423110138",
+        "uri": "http://web.archive.org/web/20070423110138/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070503145402",
+        "uri": "http://web.archive.org/web/20070503145402/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070513023544",
+        "uri": "http://web.archive.org/web/20070513023544/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070519194656",
+        "uri": "http://web.archive.org/web/20070519194656/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070525235005",
+        "uri": "http://web.archive.org/web/20070525235005/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070601063252",
+        "uri": "http://web.archive.org/web/20070601063252/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070607023124",
+        "uri": "http://web.archive.org/web/20070607023124/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070610070907",
+        "uri": "http://web.archive.org/web/20070610070907/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070612183357",
+        "uri": "http://web.archive.org/web/20070612183357/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070622212859",
+        "uri": "http://web.archive.org/web/20070622212859/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070703042514",
+        "uri": "http://web.archive.org/web/20070703042514/http://www.ozzy.com/?"
+      },
+      {
+        "datetime": "20070703045448",
+        "uri": "http://web.archive.org/web/20070703045448/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070706223508",
+        "uri": "http://web.archive.org/web/20070706223508/http://ozzy.com/"
+      },
+      {
+        "datetime": "20070715075411",
+        "uri": "http://web.archive.org/web/20070715075411/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070727093210",
+        "uri": "http://web.archive.org/web/20070727093210/http://ozzy.com/"
+      },
+      {
+        "datetime": "20070810223746",
+        "uri": "http://web.archive.org/web/20070810223746/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070814064431",
+        "uri": "http://web.archive.org/web/20070814064431/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070814205324",
+        "uri": "http://web.archive.org/web/20070814205324/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070816003906",
+        "uri": "http://web.archive.org/web/20070816003906/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070818050336",
+        "uri": "http://web.archive.org/web/20070818050336/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070819122113",
+        "uri": "http://web.archive.org/web/20070819122113/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070820192456",
+        "uri": "http://web.archive.org/web/20070820192456/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070821233315",
+        "uri": "http://web.archive.org/web/20070821233315/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070822234129",
+        "uri": "http://web.archive.org/web/20070822234129/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070824005213",
+        "uri": "http://web.archive.org/web/20070824005213/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070825014835",
+        "uri": "http://web.archive.org/web/20070825014835/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070826024530",
+        "uri": "http://web.archive.org/web/20070826024530/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070827032355",
+        "uri": "http://web.archive.org/web/20070827032355/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070828050920",
+        "uri": "http://web.archive.org/web/20070828050920/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070829062946",
+        "uri": "http://web.archive.org/web/20070829062946/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070830093524",
+        "uri": "http://web.archive.org/web/20070830093524/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070831103706",
+        "uri": "http://web.archive.org/web/20070831103706/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070901115304",
+        "uri": "http://web.archive.org/web/20070901115304/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070902125706",
+        "uri": "http://web.archive.org/web/20070902125706/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070903205837",
+        "uri": "http://web.archive.org/web/20070903205837/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070904221450",
+        "uri": "http://web.archive.org/web/20070904221450/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070906060450",
+        "uri": "http://web.archive.org/web/20070906060450/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070907064438",
+        "uri": "http://web.archive.org/web/20070907064438/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070908071241",
+        "uri": "http://web.archive.org/web/20070908071241/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070909074333",
+        "uri": "http://web.archive.org/web/20070909074333/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070910153125",
+        "uri": "http://web.archive.org/web/20070910153125/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070911000525",
+        "uri": "http://web.archive.org/web/20070911000525/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070912003901",
+        "uri": "http://web.archive.org/web/20070912003901/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070913013242",
+        "uri": "http://web.archive.org/web/20070913013242/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070914024149",
+        "uri": "http://web.archive.org/web/20070914024149/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070915031612",
+        "uri": "http://web.archive.org/web/20070915031612/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070916045502",
+        "uri": "http://web.archive.org/web/20070916045502/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070917060306",
+        "uri": "http://web.archive.org/web/20070917060306/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070918070315",
+        "uri": "http://web.archive.org/web/20070918070315/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070918232958",
+        "uri": "http://web.archive.org/web/20070918232958/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070922071316",
+        "uri": "http://web.archive.org/web/20070922071316/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070925161026",
+        "uri": "http://web.archive.org/web/20070925161026/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070928120124",
+        "uri": "http://web.archive.org/web/20070928120124/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070928202600",
+        "uri": "http://web.archive.org/web/20070928202600/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070929180454",
+        "uri": "http://web.archive.org/web/20070929180454/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20070930131102",
+        "uri": "http://web.archive.org/web/20070930131102/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071001102136",
+        "uri": "http://web.archive.org/web/20071001102136/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071001183853",
+        "uri": "http://web.archive.org/web/20071001183853/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071002152227",
+        "uri": "http://web.archive.org/web/20071002152227/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071002235253",
+        "uri": "http://web.archive.org/web/20071002235253/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071004044857",
+        "uri": "http://web.archive.org/web/20071004044857/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071004202226",
+        "uri": "http://web.archive.org/web/20071004202226/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071005081417",
+        "uri": "http://web.archive.org/web/20071005081417/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071006052229",
+        "uri": "http://web.archive.org/web/20071006052229/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071006134105",
+        "uri": "http://web.archive.org/web/20071006134105/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071006224718",
+        "uri": "http://web.archive.org/web/20071006224718/http://ozzy.com/"
+      },
+      {
+        "datetime": "20071006224812",
+        "uri": "http://web.archive.org/web/20071006224812/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071007085734",
+        "uri": "http://web.archive.org/web/20071007085734/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071007185324",
+        "uri": "http://web.archive.org/web/20071007185324/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071008150813",
+        "uri": "http://web.archive.org/web/20071008150813/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071009003456",
+        "uri": "http://web.archive.org/web/20071009003456/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071010010741",
+        "uri": "http://web.archive.org/web/20071010010741/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071010053530",
+        "uri": "http://web.archive.org/web/20071010053530/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071011001417",
+        "uri": "http://web.archive.org/web/20071011001417/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071011141112",
+        "uri": "http://web.archive.org/web/20071011141112/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071011154318",
+        "uri": "http://web.archive.org/web/20071011154318/http://ozzy.com/"
+      },
+      {
+        "datetime": "20071015030256",
+        "uri": "http://web.archive.org/web/20071015030256/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071017224905",
+        "uri": "http://web.archive.org/web/20071017224905/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071022031554",
+        "uri": "http://web.archive.org/web/20071022031554/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071022113201",
+        "uri": "http://web.archive.org/web/20071022113201/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071026050025",
+        "uri": "http://web.archive.org/web/20071026050025/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071029155215",
+        "uri": "http://web.archive.org/web/20071029155215/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071102001942",
+        "uri": "http://web.archive.org/web/20071102001942/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071105181441",
+        "uri": "http://web.archive.org/web/20071105181441/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071109065919",
+        "uri": "http://web.archive.org/web/20071109065919/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071112132028",
+        "uri": "http://web.archive.org/web/20071112132028/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071116053452",
+        "uri": "http://web.archive.org/web/20071116053452/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071119124740",
+        "uri": "http://web.archive.org/web/20071119124740/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071122213020",
+        "uri": "http://web.archive.org/web/20071122213020/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071126074132",
+        "uri": "http://web.archive.org/web/20071126074132/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071129212406",
+        "uri": "http://web.archive.org/web/20071129212406/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071203064937",
+        "uri": "http://web.archive.org/web/20071203064937/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071206131018",
+        "uri": "http://web.archive.org/web/20071206131018/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071209234908",
+        "uri": "http://web.archive.org/web/20071209234908/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071213160241",
+        "uri": "http://web.archive.org/web/20071213160241/http://ozzy.com/"
+      },
+      {
+        "datetime": "20071213160241",
+        "uri": "http://web.archive.org/web/20071213160241/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071217031338",
+        "uri": "http://web.archive.org/web/20071217031338/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071220162514",
+        "uri": "http://web.archive.org/web/20071220162514/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071224190044",
+        "uri": "http://web.archive.org/web/20071224190044/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071228055134",
+        "uri": "http://web.archive.org/web/20071228055134/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20071231152124",
+        "uri": "http://web.archive.org/web/20071231152124/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080104035426",
+        "uri": "http://web.archive.org/web/20080104035426/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080107125549",
+        "uri": "http://web.archive.org/web/20080107125549/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080111015031",
+        "uri": "http://web.archive.org/web/20080111015031/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080114232159",
+        "uri": "http://web.archive.org/web/20080114232159/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080118075453",
+        "uri": "http://web.archive.org/web/20080118075453/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080124131351",
+        "uri": "http://web.archive.org/web/20080124131351/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080127180815",
+        "uri": "http://web.archive.org/web/20080127180815/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080131071208",
+        "uri": "http://web.archive.org/web/20080131071208/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080203114832",
+        "uri": "http://web.archive.org/web/20080203114832/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080206142752",
+        "uri": "http://web.archive.org/web/20080206142752/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080211231201",
+        "uri": "http://web.archive.org/web/20080211231201/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080215212136",
+        "uri": "http://web.archive.org/web/20080215212136/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080220005531",
+        "uri": "http://web.archive.org/web/20080220005531/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080228050340",
+        "uri": "http://web.archive.org/web/20080228050340/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080302035034",
+        "uri": "http://web.archive.org/web/20080302035034/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080304153337",
+        "uri": "http://web.archive.org/web/20080304153337/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080308024521",
+        "uri": "http://web.archive.org/web/20080308024521/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080310170058",
+        "uri": "http://web.archive.org/web/20080310170058/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080314145521",
+        "uri": "http://web.archive.org/web/20080314145521/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080318145122",
+        "uri": "http://web.archive.org/web/20080318145122/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080322063637",
+        "uri": "http://web.archive.org/web/20080322063637/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080324222030",
+        "uri": "http://web.archive.org/web/20080324222030/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080328012504",
+        "uri": "http://web.archive.org/web/20080328012504/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080402072019",
+        "uri": "http://web.archive.org/web/20080402072019/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080405055921",
+        "uri": "http://web.archive.org/web/20080405055921/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080408025037",
+        "uri": "http://web.archive.org/web/20080408025037/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080410173355",
+        "uri": "http://web.archive.org/web/20080410173355/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080419031420",
+        "uri": "http://web.archive.org/web/20080419031420/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080514210820",
+        "uri": "http://web.archive.org/web/20080514210820/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080913095507",
+        "uri": "http://web.archive.org/web/20080913095507/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080917073823",
+        "uri": "http://web.archive.org/web/20080917073823/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080921083507",
+        "uri": "http://web.archive.org/web/20080921083507/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080925030724",
+        "uri": "http://web.archive.org/web/20080925030724/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20080926131350",
+        "uri": "http://web.archive.org/web/20080926131350/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20081001135142",
+        "uri": "http://web.archive.org/web/20081001135142/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20081005190522",
+        "uri": "http://web.archive.org/web/20081005190522/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20081010054931",
+        "uri": "http://web.archive.org/web/20081010054931/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20081013005251",
+        "uri": "http://web.archive.org/web/20081013005251/http://ozzy.com/"
+      },
+      {
+        "datetime": "20081014151904",
+        "uri": "http://web.archive.org/web/20081014151904/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20081019014159",
+        "uri": "http://web.archive.org/web/20081019014159/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20081023073754",
+        "uri": "http://web.archive.org/web/20081023073754/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20081027200902",
+        "uri": "http://web.archive.org/web/20081027200902/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20081101075619",
+        "uri": "http://web.archive.org/web/20081101075619/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20081105191120",
+        "uri": "http://web.archive.org/web/20081105191120/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20081108005946",
+        "uri": "http://web.archive.org/web/20081108005946/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20081110180207",
+        "uri": "http://web.archive.org/web/20081110180207/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20081203152347",
+        "uri": "http://web.archive.org/web/20081203152347/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20081208111710",
+        "uri": "http://web.archive.org/web/20081208111710/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20081217003224",
+        "uri": "http://web.archive.org/web/20081217003224/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20081218111006",
+        "uri": "http://web.archive.org/web/20081218111006/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20081224193818",
+        "uri": "http://web.archive.org/web/20081224193818/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090101125246",
+        "uri": "http://web.archive.org/web/20090101125246/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090113083323",
+        "uri": "http://web.archive.org/web/20090113083323/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090122071846",
+        "uri": "http://web.archive.org/web/20090122071846/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090129161159",
+        "uri": "http://web.archive.org/web/20090129161159/http://ozzy.com/"
+      },
+      {
+        "datetime": "20090129161159",
+        "uri": "http://web.archive.org/web/20090129161159/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090206044855",
+        "uri": "http://web.archive.org/web/20090206044855/http://ozzy.com/"
+      },
+      {
+        "datetime": "20090206044855",
+        "uri": "http://web.archive.org/web/20090206044855/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090213133153",
+        "uri": "http://web.archive.org/web/20090213133153/http://ozzy.com/"
+      },
+      {
+        "datetime": "20090213133153",
+        "uri": "http://web.archive.org/web/20090213133153/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090217033252",
+        "uri": "http://web.archive.org/web/20090217033252/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090218050716",
+        "uri": "http://web.archive.org/web/20090218050716/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090220121548",
+        "uri": "http://web.archive.org/web/20090220121548/http://ozzy.com/"
+      },
+      {
+        "datetime": "20090220121548",
+        "uri": "http://web.archive.org/web/20090220121548/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090227115732",
+        "uri": "http://web.archive.org/web/20090227115732/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090307151241",
+        "uri": "http://web.archive.org/web/20090307151241/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090313110357",
+        "uri": "http://web.archive.org/web/20090313110357/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090319032626",
+        "uri": "http://web.archive.org/web/20090319032626/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090331113855",
+        "uri": "http://web.archive.org/web/20090331113855/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090406022547",
+        "uri": "http://web.archive.org/web/20090406022547/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090412073656",
+        "uri": "http://web.archive.org/web/20090412073656/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090417211640",
+        "uri": "http://web.archive.org/web/20090417211640/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090423161722",
+        "uri": "http://web.archive.org/web/20090423161722/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090430090401",
+        "uri": "http://web.archive.org/web/20090430090401/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090503031401",
+        "uri": "http://web.archive.org/web/20090503031401/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090506123147",
+        "uri": "http://web.archive.org/web/20090506123147/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090517001229",
+        "uri": "http://web.archive.org/web/20090517001229/http://www.ozzy.com/?"
+      },
+      {
+        "datetime": "20090618141008",
+        "uri": "http://web.archive.org/web/20090618141008/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090626002948",
+        "uri": "http://web.archive.org/web/20090626002948/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090803141952",
+        "uri": "http://web.archive.org/web/20090803141952/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090821114252",
+        "uri": "http://web.archive.org/web/20090821114252/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090828100807",
+        "uri": "http://web.archive.org/web/20090828100807/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20090901221006",
+        "uri": "http://web.archive.org/web/20090901221006/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20091021032716",
+        "uri": "http://web.archive.org/web/20091021032716/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20091025093841",
+        "uri": "http://web.archive.org/web/20091025093841/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20091031151737",
+        "uri": "http://web.archive.org/web/20091031151737/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20091221062959",
+        "uri": "http://web.archive.org/web/20091221062959/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20091224133127",
+        "uri": "http://web.archive.org/web/20091224133127/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20091231021018",
+        "uri": "http://web.archive.org/web/20091231021018/http://ozzy.com/"
+      },
+      {
+        "datetime": "20100105021019",
+        "uri": "http://web.archive.org/web/20100105021019/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100209052812",
+        "uri": "http://web.archive.org/web/20100209052812/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100218020048",
+        "uri": "http://web.archive.org/web/20100218020048/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100220231452",
+        "uri": "http://web.archive.org/web/20100220231452/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100228024419",
+        "uri": "http://web.archive.org/web/20100228024419/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100305202924",
+        "uri": "http://web.archive.org/web/20100305202924/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100312025510",
+        "uri": "http://web.archive.org/web/20100312025510/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100323170400",
+        "uri": "http://web.archive.org/web/20100323170400/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100329211714",
+        "uri": "http://web.archive.org/web/20100329211714/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100405045414",
+        "uri": "http://web.archive.org/web/20100405045414/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100412113013",
+        "uri": "http://web.archive.org/web/20100412113013/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100418070315",
+        "uri": "http://web.archive.org/web/20100418070315/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100420220014",
+        "uri": "http://web.archive.org/web/20100420220014/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100424124316",
+        "uri": "http://web.archive.org/web/20100424124316/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100429185256",
+        "uri": "http://web.archive.org/web/20100429185256/http://www.ozzy.com/?"
+      },
+      {
+        "datetime": "20100501085750",
+        "uri": "http://web.archive.org/web/20100501085750/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100507072015",
+        "uri": "http://web.archive.org/web/20100507072015/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100513060757",
+        "uri": "http://web.archive.org/web/20100513060757/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100519090825",
+        "uri": "http://web.archive.org/web/20100519090825/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100525135851",
+        "uri": "http://web.archive.org/web/20100525135851/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100530040032",
+        "uri": "http://web.archive.org/web/20100530040032/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100530215921",
+        "uri": "http://web.archive.org/web/20100530215921/http://www.ozzy.com/?"
+      },
+      {
+        "datetime": "20100530222247",
+        "uri": "http://web.archive.org/web/20100530222247/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100605083408",
+        "uri": "http://web.archive.org/web/20100605083408/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100610080620",
+        "uri": "http://web.archive.org/web/20100610080620/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100616023658",
+        "uri": "http://web.archive.org/web/20100616023658/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100623072725",
+        "uri": "http://web.archive.org/web/20100623072725/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100628164338",
+        "uri": "http://web.archive.org/web/20100628164338/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100701011849",
+        "uri": "http://web.archive.org/web/20100701011849/http://www.ozzy.com/?"
+      },
+      {
+        "datetime": "20100704100020",
+        "uri": "http://web.archive.org/web/20100704100020/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100710134814",
+        "uri": "http://web.archive.org/web/20100710134814/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100717024857",
+        "uri": "http://web.archive.org/web/20100717024857/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100724003442",
+        "uri": "http://web.archive.org/web/20100724003442/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100801103013",
+        "uri": "http://web.archive.org/web/20100801103013/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100805230532",
+        "uri": "http://web.archive.org/web/20100805230532/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100810002113",
+        "uri": "http://web.archive.org/web/20100810002113/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100819064758",
+        "uri": "http://web.archive.org/web/20100819064758/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100820100207",
+        "uri": "http://web.archive.org/web/20100820100207/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100903054059",
+        "uri": "http://web.archive.org/web/20100903054059/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20100922130907",
+        "uri": "http://web.archive.org/web/20100922130907/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20101028120542",
+        "uri": "http://web.archive.org/web/20101028120542/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20101104055501",
+        "uri": "http://web.archive.org/web/20101104055501/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20101115151227",
+        "uri": "http://web.archive.org/web/20101115151227/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20101127231058",
+        "uri": "http://web.archive.org/web/20101127231058/http://ozzy.com/"
+      },
+      {
+        "datetime": "20101201225830",
+        "uri": "http://web.archive.org/web/20101201225830/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20101206224509",
+        "uri": "http://web.archive.org/web/20101206224509/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20101208160048",
+        "uri": "http://web.archive.org/web/20101208160048/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20101219012425",
+        "uri": "http://web.archive.org/web/20101219012425/http://ozzy.com/"
+      },
+      {
+        "datetime": "20101229101028",
+        "uri": "http://web.archive.org/web/20101229101028/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20101229132029",
+        "uri": "http://web.archive.org/web/20101229132029/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110108111836",
+        "uri": "http://web.archive.org/web/20110108111836/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110112191024",
+        "uri": "http://web.archive.org/web/20110112191024/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110203032501",
+        "uri": "http://web.archive.org/web/20110203032501/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110208081835",
+        "uri": "http://web.archive.org/web/20110208081835/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110208161547",
+        "uri": "http://web.archive.org/web/20110208161547/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110209051020",
+        "uri": "http://web.archive.org/web/20110209051020/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110220142640",
+        "uri": "http://web.archive.org/web/20110220142640/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110226011035",
+        "uri": "http://web.archive.org/web/20110226011035/http://ozzy.com/"
+      },
+      {
+        "datetime": "20110310124258",
+        "uri": "http://web.archive.org/web/20110310124258/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110313033527",
+        "uri": "http://web.archive.org/web/20110313033527/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110324165550",
+        "uri": "http://web.archive.org/web/20110324165550/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110327185149",
+        "uri": "http://web.archive.org/web/20110327185149/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110409195259",
+        "uri": "http://web.archive.org/web/20110409195259/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110413013110",
+        "uri": "http://web.archive.org/web/20110413013110/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110424102135",
+        "uri": "http://web.archive.org/web/20110424102135/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110429190849",
+        "uri": "http://web.archive.org/web/20110429190849/http://ozzy.com/"
+      },
+      {
+        "datetime": "20110501010950",
+        "uri": "http://web.archive.org/web/20110501010950/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110501030733",
+        "uri": "http://web.archive.org/web/20110501030733/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110522082750",
+        "uri": "http://web.archive.org/web/20110522082750/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110531174402",
+        "uri": "http://web.archive.org/web/20110531174402/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110626131245",
+        "uri": "http://web.archive.org/web/20110626131245/http://ozzy.com/"
+      },
+      {
+        "datetime": "20110702213700",
+        "uri": "http://web.archive.org/web/20110702213700/http://ozzy.com/"
+      },
+      {
+        "datetime": "20110705083325",
+        "uri": "http://web.archive.org/web/20110705083325/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110706150417",
+        "uri": "http://web.archive.org/web/20110706150417/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110709172004",
+        "uri": "http://web.archive.org/web/20110709172004/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110715031655",
+        "uri": "http://web.archive.org/web/20110715031655/http://ozzy.com/"
+      },
+      {
+        "datetime": "20110715031814",
+        "uri": "http://web.archive.org/web/20110715031814/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110727184504",
+        "uri": "http://web.archive.org/web/20110727184504/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110727185238",
+        "uri": "http://web.archive.org/web/20110727185238/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110727185249",
+        "uri": "http://web.archive.org/web/20110727185249/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110806213743",
+        "uri": "http://web.archive.org/web/20110806213743/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110807192725",
+        "uri": "http://web.archive.org/web/20110807192725/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110807214845",
+        "uri": "http://web.archive.org/web/20110807214845/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110810110008",
+        "uri": "http://web.archive.org/web/20110810110008/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110810164733",
+        "uri": "http://web.archive.org/web/20110810164733/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110810170238",
+        "uri": "http://web.archive.org/web/20110810170238/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110814145506",
+        "uri": "http://web.archive.org/web/20110814145506/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110819070817",
+        "uri": "http://web.archive.org/web/20110819070817/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110819072755",
+        "uri": "http://web.archive.org/web/20110819072755/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110819081420",
+        "uri": "http://web.archive.org/web/20110819081420/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110823225213",
+        "uri": "http://web.archive.org/web/20110823225213/http://ozzy.com/"
+      },
+      {
+        "datetime": "20110902014812",
+        "uri": "http://web.archive.org/web/20110902014812/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110919062709",
+        "uri": "http://web.archive.org/web/20110919062709/http://ozzy.com/"
+      },
+      {
+        "datetime": "20110929021303",
+        "uri": "http://web.archive.org/web/20110929021303/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20110929021656",
+        "uri": "http://web.archive.org/web/20110929021656/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20111004233349",
+        "uri": "http://web.archive.org/web/20111004233349/http://ozzy.com/"
+      },
+      {
+        "datetime": "20111008043439",
+        "uri": "http://web.archive.org/web/20111008043439/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20111015051335",
+        "uri": "http://web.archive.org/web/20111015051335/http://ozzy.com/"
+      },
+      {
+        "datetime": "20111221201815",
+        "uri": "http://web.archive.org/web/20111221201815/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120102080544",
+        "uri": "http://web.archive.org/web/20120102080544/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120104151341",
+        "uri": "http://web.archive.org/web/20120104151341/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120105124953",
+        "uri": "http://web.archive.org/web/20120105124953/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120111145341",
+        "uri": "http://web.archive.org/web/20120111145341/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120111221604",
+        "uri": "http://web.archive.org/web/20120111221604/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120112024823",
+        "uri": "http://web.archive.org/web/20120112024823/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120112084928",
+        "uri": "http://web.archive.org/web/20120112084928/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120112101409",
+        "uri": "http://web.archive.org/web/20120112101409/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120112145910",
+        "uri": "http://web.archive.org/web/20120112145910/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120112153235",
+        "uri": "http://web.archive.org/web/20120112153235/http://ozzy.com/"
+      },
+      {
+        "datetime": "20120117143946",
+        "uri": "http://web.archive.org/web/20120117143946/http://ozzy.com/"
+      },
+      {
+        "datetime": "20120118112943",
+        "uri": "http://web.archive.org/web/20120118112943/http://ozzy.com/"
+      },
+      {
+        "datetime": "20120119014201",
+        "uri": "http://web.archive.org/web/20120119014201/http://ozzy.com/"
+      },
+      {
+        "datetime": "20120120002847",
+        "uri": "http://web.archive.org/web/20120120002847/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120204220558",
+        "uri": "http://web.archive.org/web/20120204220558/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120204220656",
+        "uri": "http://web.archive.org/web/20120204220656/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120315150140",
+        "uri": "http://web.archive.org/web/20120315150140/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120316122240",
+        "uri": "http://web.archive.org/web/20120316122240/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120320153927",
+        "uri": "http://web.archive.org/web/20120320153927/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120415123615",
+        "uri": "http://web.archive.org/web/20120415123615/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120415123925",
+        "uri": "http://web.archive.org/web/20120415123925/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120425051114",
+        "uri": "http://web.archive.org/web/20120425051114/http://ozzy.com/"
+      },
+      {
+        "datetime": "20120429211750",
+        "uri": "http://web.archive.org/web/20120429211750/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120503200824",
+        "uri": "http://web.archive.org/web/20120503200824/http://ozzy.com/"
+      },
+      {
+        "datetime": "20120504035352",
+        "uri": "http://web.archive.org/web/20120504035352/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120512235352",
+        "uri": "http://web.archive.org/web/20120512235352/http://ozzy.com/"
+      },
+      {
+        "datetime": "20120513022436",
+        "uri": "http://web.archive.org/web/20120513022436/http://ozzy.com/"
+      },
+      {
+        "datetime": "20120524062223",
+        "uri": "http://web.archive.org/web/20120524062223/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120606081620",
+        "uri": "http://web.archive.org/web/20120606081620/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120712233853",
+        "uri": "http://web.archive.org/web/20120712233853/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120722042041",
+        "uri": "http://web.archive.org/web/20120722042041/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120722042347",
+        "uri": "http://web.archive.org/web/20120722042347/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120729162052",
+        "uri": "http://web.archive.org/web/20120729162052/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120807005312",
+        "uri": "http://web.archive.org/web/20120807005312/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120815054454",
+        "uri": "http://web.archive.org/web/20120815054454/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120816235640",
+        "uri": "http://web.archive.org/web/20120816235640/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120817184759",
+        "uri": "http://web.archive.org/web/20120817184759/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120825002642",
+        "uri": "http://web.archive.org/web/20120825002642/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120828010407",
+        "uri": "http://web.archive.org/web/20120828010407/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120828113409",
+        "uri": "http://web.archive.org/web/20120828113409/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20120919082202",
+        "uri": "http://web.archive.org/web/20120919082202/http://ozzy.com/"
+      },
+      {
+        "datetime": "20120920015327",
+        "uri": "http://web.archive.org/web/20120920015327/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20121106172628",
+        "uri": "http://web.archive.org/web/20121106172628/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20121108223145",
+        "uri": "http://web.archive.org/web/20121108223145/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20121109235259",
+        "uri": "http://web.archive.org/web/20121109235259/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20121110145402",
+        "uri": "http://web.archive.org/web/20121110145402/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20121111013129",
+        "uri": "http://web.archive.org/web/20121111013129/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20121112160812",
+        "uri": "http://web.archive.org/web/20121112160812/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20121119161415",
+        "uri": "http://web.archive.org/web/20121119161415/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20121124140203",
+        "uri": "http://web.archive.org/web/20121124140203/http://ozzy.com/"
+      },
+      {
+        "datetime": "20121126095807",
+        "uri": "http://web.archive.org/web/20121126095807/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20121126200118",
+        "uri": "http://web.archive.org/web/20121126200118/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20121203172921",
+        "uri": "http://web.archive.org/web/20121203172921/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20121203212020",
+        "uri": "http://web.archive.org/web/20121203212020/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20121207013818",
+        "uri": "http://web.archive.org/web/20121207013818/http://ozzy.com/"
+      },
+      {
+        "datetime": "20121208135230",
+        "uri": "http://web.archive.org/web/20121208135230/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20121210202701",
+        "uri": "http://web.archive.org/web/20121210202701/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20121212015652",
+        "uri": "http://web.archive.org/web/20121212015652/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20121215101113",
+        "uri": "http://web.archive.org/web/20121215101113/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20121218082757",
+        "uri": "http://web.archive.org/web/20121218082757/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20121220214856",
+        "uri": "http://web.archive.org/web/20121220214856/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20121222153626",
+        "uri": "http://web.archive.org/web/20121222153626/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130101060719",
+        "uri": "http://web.archive.org/web/20130101060719/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130108062218",
+        "uri": "http://web.archive.org/web/20130108062218/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130113052604",
+        "uri": "http://web.archive.org/web/20130113052604/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130114232834",
+        "uri": "http://web.archive.org/web/20130114232834/http://ozzy.com/"
+      },
+      {
+        "datetime": "20130115011207",
+        "uri": "http://web.archive.org/web/20130115011207/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130115045303",
+        "uri": "http://web.archive.org/web/20130115045303/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130117053837",
+        "uri": "http://web.archive.org/web/20130117053837/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130128232950",
+        "uri": "http://web.archive.org/web/20130128232950/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130130093831",
+        "uri": "http://web.archive.org/web/20130130093831/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130201053724",
+        "uri": "http://web.archive.org/web/20130201053724/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130201194443",
+        "uri": "http://web.archive.org/web/20130201194443/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130205122310",
+        "uri": "http://web.archive.org/web/20130205122310/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130210073529",
+        "uri": "http://web.archive.org/web/20130210073529/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130211102559",
+        "uri": "http://web.archive.org/web/20130211102559/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130212184442",
+        "uri": "http://web.archive.org/web/20130212184442/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130223091528",
+        "uri": "http://web.archive.org/web/20130223091528/http://ozzy.com/"
+      },
+      {
+        "datetime": "20130302031542",
+        "uri": "http://web.archive.org/web/20130302031542/http://ozzy.com/"
+      },
+      {
+        "datetime": "20130323052158",
+        "uri": "http://web.archive.org/web/20130323052158/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130325163758",
+        "uri": "http://web.archive.org/web/20130325163758/http://ozzy.com/"
+      },
+      {
+        "datetime": "20130331143941",
+        "uri": "http://web.archive.org/web/20130331143941/http://ozzy.com/"
+      },
+      {
+        "datetime": "20130402060932",
+        "uri": "http://web.archive.org/web/20130402060932/http://ozzy.com/"
+      },
+      {
+        "datetime": "20130423072723",
+        "uri": "http://web.archive.org/web/20130423072723/http://ozzy.com/"
+      },
+      {
+        "datetime": "20130423123750",
+        "uri": "http://web.archive.org/web/20130423123750/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130424002727",
+        "uri": "http://web.archive.org/web/20130424002727/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130427032729",
+        "uri": "http://web.archive.org/web/20130427032729/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130429000941",
+        "uri": "http://web.archive.org/web/20130429000941/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130430042903",
+        "uri": "http://web.archive.org/web/20130430042903/http://ozzy.com/"
+      },
+      {
+        "datetime": "20130522063928",
+        "uri": "http://web.archive.org/web/20130522063928/http://ozzy.com/"
+      },
+      {
+        "datetime": "20130604064947",
+        "uri": "http://web.archive.org/web/20130604064947/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130606085141",
+        "uri": "http://web.archive.org/web/20130606085141/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130615003512",
+        "uri": "http://web.archive.org/web/20130615003512/http://ozzy.com/"
+      },
+      {
+        "datetime": "20130627165916",
+        "uri": "http://web.archive.org/web/20130627165916/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130714005253",
+        "uri": "http://web.archive.org/web/20130714005253/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130715180509",
+        "uri": "http://web.archive.org/web/20130715180509/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130723190128",
+        "uri": "http://web.archive.org/web/20130723190128/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130728034932",
+        "uri": "http://web.archive.org/web/20130728034932/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130728122200",
+        "uri": "http://web.archive.org/web/20130728122200/http://ozzy.com/"
+      },
+      {
+        "datetime": "20130805065336",
+        "uri": "http://web.archive.org/web/20130805065336/http://ozzy.com/"
+      },
+      {
+        "datetime": "20130805161656",
+        "uri": "http://web.archive.org/web/20130805161656/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130826160103",
+        "uri": "http://web.archive.org/web/20130826160103/http://ozzy.com/"
+      },
+      {
+        "datetime": "20130826160103",
+        "uri": "http://web.archive.org/web/20130826160103/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20130831165056",
+        "uri": "http://web.archive.org/web/20130831165056/http://ozzy.com/"
+      },
+      {
+        "datetime": "20130914225447",
+        "uri": "http://web.archive.org/web/20130914225447/http://ozzy.com/"
+      },
+      {
+        "datetime": "20130914233139",
+        "uri": "http://web.archive.org/web/20130914233139/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131003041719",
+        "uri": "http://web.archive.org/web/20131003041719/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131107074051",
+        "uri": "http://web.archive.org/web/20131107074051/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131111015829",
+        "uri": "http://web.archive.org/web/20131111015829/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131114022826",
+        "uri": "http://web.archive.org/web/20131114022826/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131115073851",
+        "uri": "http://web.archive.org/web/20131115073851/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131116073817",
+        "uri": "http://web.archive.org/web/20131116073817/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131122002832",
+        "uri": "http://web.archive.org/web/20131122002832/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131122013621",
+        "uri": "http://web.archive.org/web/20131122013621/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131126013628",
+        "uri": "http://web.archive.org/web/20131126013628/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131126031143",
+        "uri": "http://web.archive.org/web/20131126031143/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131127015326",
+        "uri": "http://web.archive.org/web/20131127015326/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131127033845",
+        "uri": "http://web.archive.org/web/20131127033845/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131128033459",
+        "uri": "http://web.archive.org/web/20131128033459/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131128050328",
+        "uri": "http://web.archive.org/web/20131128050328/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131129034918",
+        "uri": "http://web.archive.org/web/20131129034918/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131129050946",
+        "uri": "http://web.archive.org/web/20131129050946/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131130065306",
+        "uri": "http://web.archive.org/web/20131130065306/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131130080255",
+        "uri": "http://web.archive.org/web/20131130080255/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131201071601",
+        "uri": "http://web.archive.org/web/20131201071601/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131201082453",
+        "uri": "http://web.archive.org/web/20131201082453/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131201190558",
+        "uri": "http://web.archive.org/web/20131201190558/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131202083228",
+        "uri": "http://web.archive.org/web/20131202083228/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131202103104",
+        "uri": "http://web.archive.org/web/20131202103104/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131202114953",
+        "uri": "http://web.archive.org/web/20131202114953/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131203093426",
+        "uri": "http://web.archive.org/web/20131203093426/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131203115107",
+        "uri": "http://web.archive.org/web/20131203115107/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131203122309",
+        "uri": "http://web.archive.org/web/20131203122309/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131204073846",
+        "uri": "http://web.archive.org/web/20131204073846/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131204095116",
+        "uri": "http://web.archive.org/web/20131204095116/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131205100818",
+        "uri": "http://web.archive.org/web/20131205100818/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131205113456",
+        "uri": "http://web.archive.org/web/20131205113456/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131205124649",
+        "uri": "http://web.archive.org/web/20131205124649/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131206120203",
+        "uri": "http://web.archive.org/web/20131206120203/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131206140547",
+        "uri": "http://web.archive.org/web/20131206140547/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131206141210",
+        "uri": "http://web.archive.org/web/20131206141210/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131207123850",
+        "uri": "http://web.archive.org/web/20131207123850/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131207142146",
+        "uri": "http://web.archive.org/web/20131207142146/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131208110658",
+        "uri": "http://web.archive.org/web/20131208110658/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131208120406",
+        "uri": "http://web.archive.org/web/20131208120406/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131209131502",
+        "uri": "http://web.archive.org/web/20131209131502/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131209151933",
+        "uri": "http://web.archive.org/web/20131209151933/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131210160928",
+        "uri": "http://web.archive.org/web/20131210160928/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131210185718",
+        "uri": "http://web.archive.org/web/20131210185718/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131211135348",
+        "uri": "http://web.archive.org/web/20131211135348/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131211163455",
+        "uri": "http://web.archive.org/web/20131211163455/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131213090520",
+        "uri": "http://web.archive.org/web/20131213090520/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131213112723",
+        "uri": "http://web.archive.org/web/20131213112723/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131214102616",
+        "uri": "http://web.archive.org/web/20131214102616/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131214123727",
+        "uri": "http://web.archive.org/web/20131214123727/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131215125453",
+        "uri": "http://web.archive.org/web/20131215125453/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131215150718",
+        "uri": "http://web.archive.org/web/20131215150718/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131216164600",
+        "uri": "http://web.archive.org/web/20131216164600/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131216181914",
+        "uri": "http://web.archive.org/web/20131216181914/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131217184148",
+        "uri": "http://web.archive.org/web/20131217184148/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131217201849",
+        "uri": "http://web.archive.org/web/20131217201849/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131218190841",
+        "uri": "http://web.archive.org/web/20131218190841/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131218204452",
+        "uri": "http://web.archive.org/web/20131218204452/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131219200719",
+        "uri": "http://web.archive.org/web/20131219200719/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131219210103",
+        "uri": "http://web.archive.org/web/20131219210103/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131220232040",
+        "uri": "http://web.archive.org/web/20131220232040/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131221003441",
+        "uri": "http://web.archive.org/web/20131221003441/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131222000506",
+        "uri": "http://web.archive.org/web/20131222000506/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131222011939",
+        "uri": "http://web.archive.org/web/20131222011939/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131223000804",
+        "uri": "http://web.archive.org/web/20131223000804/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131223010924",
+        "uri": "http://web.archive.org/web/20131223010924/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131224010358",
+        "uri": "http://web.archive.org/web/20131224010358/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131224021705",
+        "uri": "http://web.archive.org/web/20131224021705/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131225014318",
+        "uri": "http://web.archive.org/web/20131225014318/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131225025405",
+        "uri": "http://web.archive.org/web/20131225025405/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131226023654",
+        "uri": "http://web.archive.org/web/20131226023654/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131226040523",
+        "uri": "http://web.archive.org/web/20131226040523/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131227024835",
+        "uri": "http://web.archive.org/web/20131227024835/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131227040001",
+        "uri": "http://web.archive.org/web/20131227040001/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131228025930",
+        "uri": "http://web.archive.org/web/20131228025930/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131228041136",
+        "uri": "http://web.archive.org/web/20131228041136/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131229032915",
+        "uri": "http://web.archive.org/web/20131229032915/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131229042850",
+        "uri": "http://web.archive.org/web/20131229042850/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131230041310",
+        "uri": "http://web.archive.org/web/20131230041310/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131230051358",
+        "uri": "http://web.archive.org/web/20131230051358/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20131231051749",
+        "uri": "http://web.archive.org/web/20131231051749/http://ozzy.com/"
+      },
+      {
+        "datetime": "20131231062029",
+        "uri": "http://web.archive.org/web/20131231062029/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20140101001412",
+        "uri": "http://web.archive.org/web/20140101001412/http://ozzy.com/"
+      },
+      {
+        "datetime": "20140101012250",
+        "uri": "http://web.archive.org/web/20140101012250/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20140110223342",
+        "uri": "http://web.archive.org/web/20140110223342/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20140110224419",
+        "uri": "http://web.archive.org/web/20140110224419/http://ozzy.com/"
+      },
+      {
+        "datetime": "20140114151645",
+        "uri": "http://web.archive.org/web/20140114151645/http://ozzy.com/"
+      },
+      {
+        "datetime": "20140114165636",
+        "uri": "http://web.archive.org/web/20140114165636/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20140115153541",
+        "uri": "http://web.archive.org/web/20140115153541/http://ozzy.com/"
+      },
+      {
+        "datetime": "20140115165713",
+        "uri": "http://web.archive.org/web/20140115165713/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20140116214718",
+        "uri": "http://web.archive.org/web/20140116214718/http://ozzy.com/"
+      },
+      {
+        "datetime": "20140116231216",
+        "uri": "http://web.archive.org/web/20140116231216/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20140117231208",
+        "uri": "http://web.archive.org/web/20140117231208/http://ozzy.com/"
+      },
+      {
+        "datetime": "20140118001835",
+        "uri": "http://web.archive.org/web/20140118001835/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20140118225329",
+        "uri": "http://web.archive.org/web/20140118225329/http://ozzy.com/"
+      },
+      {
+        "datetime": "20140118235121",
+        "uri": "http://web.archive.org/web/20140118235121/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20140207142739",
+        "uri": "http://web.archive.org/web/20140207142739/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20140207233155",
+        "uri": "http://web.archive.org/web/20140207233155/http://ozzy.com/"
+      },
+      {
+        "datetime": "20140208025432",
+        "uri": "http://web.archive.org/web/20140208025432/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20140209190803",
+        "uri": "http://web.archive.org/web/20140209190803/http://ozzy.com/"
+      },
+      {
+        "datetime": "20140214035028",
+        "uri": "http://web.archive.org/web/20140214035028/http://ozzy.com/"
+      },
+      {
+        "datetime": "20140214040253",
+        "uri": "http://web.archive.org/web/20140214040253/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20140625035815",
+        "uri": "http://web.archive.org/web/20140625035815/http://ozzy.com/"
+      },
+      {
+        "datetime": "20140625055359",
+        "uri": "http://web.archive.org/web/20140625055359/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20140713052747",
+        "uri": "http://web.archive.org/web/20140713052747/http://ozzy.com/"
+      },
+      {
+        "datetime": "20140903004638",
+        "uri": "http://web.archive.org/web/20140903004638/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20140907054924",
+        "uri": "http://web.archive.org/web/20140907054924/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20141006172801",
+        "uri": "http://web.archive.org/web/20141006172801/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20141007115249",
+        "uri": "http://web.archive.org/web/20141007115249/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20141018221815",
+        "uri": "http://web.archive.org/web/20141018221815/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20141022064619",
+        "uri": "http://web.archive.org/web/20141022064619/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20141108194039",
+        "uri": "http://web.archive.org/web/20141108194039/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20141112084047",
+        "uri": "http://web.archive.org/web/20141112084047/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20141112171102",
+        "uri": "http://web.archive.org/web/20141112171102/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20141115233933",
+        "uri": "http://web.archive.org/web/20141115233933/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20141119145054",
+        "uri": "http://web.archive.org/web/20141119145054/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20141130030557",
+        "uri": "http://web.archive.org/web/20141130030557/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20141207025423",
+        "uri": "http://web.archive.org/web/20141207025423/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20141214120020",
+        "uri": "http://web.archive.org/web/20141214120020/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20141218040027",
+        "uri": "http://web.archive.org/web/20141218040027/http://ozzy.com/"
+      },
+      {
+        "datetime": "20141221125838",
+        "uri": "http://web.archive.org/web/20141221125838/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20141222015322",
+        "uri": "http://web.archive.org/web/20141222015322/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20141228183807",
+        "uri": "http://web.archive.org/web/20141228183807/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150103224231",
+        "uri": "http://web.archive.org/web/20150103224231/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150106003544",
+        "uri": "http://web.archive.org/web/20150106003544/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150112182223",
+        "uri": "http://web.archive.org/web/20150112182223/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150124043431",
+        "uri": "http://web.archive.org/web/20150124043431/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150131180445",
+        "uri": "http://web.archive.org/web/20150131180445/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150201212843",
+        "uri": "http://web.archive.org/web/20150201212843/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150205221028",
+        "uri": "http://web.archive.org/web/20150205221028/http://ozzy.com/"
+      },
+      {
+        "datetime": "20150205221028",
+        "uri": "http://web.archive.org/web/20150205221028/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150206234334",
+        "uri": "http://web.archive.org/web/20150206234334/http://ozzy.com/"
+      },
+      {
+        "datetime": "20150206234334",
+        "uri": "http://web.archive.org/web/20150206234334/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150221025615",
+        "uri": "http://web.archive.org/web/20150221025615/http://ozzy.com/"
+      },
+      {
+        "datetime": "20150221025615",
+        "uri": "http://web.archive.org/web/20150221025615/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150314191825",
+        "uri": "http://web.archive.org/web/20150314191825/http://ozzy.com/"
+      },
+      {
+        "datetime": "20150314232303",
+        "uri": "http://web.archive.org/web/20150314232303/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150318052959",
+        "uri": "http://web.archive.org/web/20150318052959/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150321103618",
+        "uri": "http://web.archive.org/web/20150321103618/http://ozzy.com/"
+      },
+      {
+        "datetime": "20150321103618",
+        "uri": "http://web.archive.org/web/20150321103618/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150322072146",
+        "uri": "http://web.archive.org/web/20150322072146/http://ozzy.com/"
+      },
+      {
+        "datetime": "20150409075646",
+        "uri": "http://web.archive.org/web/20150409075646/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150423045424",
+        "uri": "http://web.archive.org/web/20150423045424/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150524010142",
+        "uri": "http://web.archive.org/web/20150524010142/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150602072754",
+        "uri": "http://web.archive.org/web/20150602072754/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150610100510",
+        "uri": "http://web.archive.org/web/20150610100510/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150617112101",
+        "uri": "http://web.archive.org/web/20150617112101/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150624161102",
+        "uri": "http://web.archive.org/web/20150624161102/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150627061751",
+        "uri": "http://web.archive.org/web/20150627061751/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150703205921",
+        "uri": "http://web.archive.org/web/20150703205921/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150710211158",
+        "uri": "http://web.archive.org/web/20150710211158/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150712031342",
+        "uri": "http://web.archive.org/web/20150712031342/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150713212557",
+        "uri": "http://web.archive.org/web/20150713212557/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150717213441",
+        "uri": "http://web.archive.org/web/20150717213441/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150723061349",
+        "uri": "http://web.archive.org/web/20150723061349/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150725003656",
+        "uri": "http://web.archive.org/web/20150725003656/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150730233543",
+        "uri": "http://web.archive.org/web/20150730233543/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150801000106",
+        "uri": "http://web.archive.org/web/20150801000106/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150808064808",
+        "uri": "http://web.archive.org/web/20150808064808/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150810045844",
+        "uri": "http://web.archive.org/web/20150810045844/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150810051756",
+        "uri": "http://web.archive.org/web/20150810051756/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150814024715",
+        "uri": "http://web.archive.org/web/20150814024715/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150817102803",
+        "uri": "http://web.archive.org/web/20150817102803/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150819205601",
+        "uri": "http://web.archive.org/web/20150819205601/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150822174458",
+        "uri": "http://web.archive.org/web/20150822174458/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150829142524",
+        "uri": "http://web.archive.org/web/20150829142524/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150905052324",
+        "uri": "http://web.archive.org/web/20150905052324/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150905232826",
+        "uri": "http://web.archive.org/web/20150905232826/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150912133806",
+        "uri": "http://web.archive.org/web/20150912133806/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150915132612",
+        "uri": "http://web.archive.org/web/20150915132612/http://ozzy.com/"
+      },
+      {
+        "datetime": "20150919162041",
+        "uri": "http://web.archive.org/web/20150919162041/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20150926234010",
+        "uri": "http://web.archive.org/web/20150926234010/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151003210721",
+        "uri": "http://web.archive.org/web/20151003210721/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151010211311",
+        "uri": "http://web.archive.org/web/20151010211311/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151016135453",
+        "uri": "http://web.archive.org/web/20151016135453/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151017222412",
+        "uri": "http://web.archive.org/web/20151017222412/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151025045838",
+        "uri": "http://web.archive.org/web/20151025045838/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151101032821",
+        "uri": "http://web.archive.org/web/20151101032821/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151103084742",
+        "uri": "http://web.archive.org/web/20151103084742/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151105185403",
+        "uri": "http://web.archive.org/web/20151105185403/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151106132107",
+        "uri": "http://web.archive.org/web/20151106132107/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151106133004",
+        "uri": "http://web.archive.org/web/20151106133004/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151107050521",
+        "uri": "http://web.archive.org/web/20151107050521/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151107051509",
+        "uri": "http://web.archive.org/web/20151107051509/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151107063316",
+        "uri": "http://web.archive.org/web/20151107063316/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151108051204",
+        "uri": "http://web.archive.org/web/20151108051204/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151110141700",
+        "uri": "http://web.archive.org/web/20151110141700/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151114214140",
+        "uri": "http://web.archive.org/web/20151114214140/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151125141731",
+        "uri": "http://web.archive.org/web/20151125141731/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151203051755",
+        "uri": "http://web.archive.org/web/20151203051755/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151224055926",
+        "uri": "http://web.archive.org/web/20151224055926/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20151231015512",
+        "uri": "http://web.archive.org/web/20151231015512/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160102161059",
+        "uri": "http://web.archive.org/web/20160102161059/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160107190840",
+        "uri": "http://web.archive.org/web/20160107190840/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160109015451",
+        "uri": "http://web.archive.org/web/20160109015451/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160111031538",
+        "uri": "http://web.archive.org/web/20160111031538/http://ozzy.com/"
+      },
+      {
+        "datetime": "20160112062149",
+        "uri": "http://web.archive.org/web/20160112062149/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160114025719",
+        "uri": "http://web.archive.org/web/20160114025719/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160115073056",
+        "uri": "http://web.archive.org/web/20160115073056/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160115165400",
+        "uri": "http://web.archive.org/web/20160115165400/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160117001039",
+        "uri": "http://web.archive.org/web/20160117001039/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160128201035",
+        "uri": "http://web.archive.org/web/20160128201035/http://ozzy.com/"
+      },
+      {
+        "datetime": "20160128205010",
+        "uri": "http://web.archive.org/web/20160128205010/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160303200547",
+        "uri": "http://web.archive.org/web/20160303200547/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160303202543",
+        "uri": "http://web.archive.org/web/20160303202543/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160304034200",
+        "uri": "http://web.archive.org/web/20160304034200/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160304114641",
+        "uri": "http://web.archive.org/web/20160304114641/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160304124815",
+        "uri": "http://web.archive.org/web/20160304124815/http://ozzy.com/"
+      },
+      {
+        "datetime": "20160309041018",
+        "uri": "http://web.archive.org/web/20160309041018/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160309093052",
+        "uri": "http://web.archive.org/web/20160309093052/http://ozzy.com/"
+      },
+      {
+        "datetime": "20160313050212",
+        "uri": "http://web.archive.org/web/20160313050212/http://ozzy.com/"
+      },
+      {
+        "datetime": "20160313225027",
+        "uri": "http://web.archive.org/web/20160313225027/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160315175422",
+        "uri": "http://web.archive.org/web/20160315175422/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160317053438",
+        "uri": "http://web.archive.org/web/20160317053438/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160319120617",
+        "uri": "http://web.archive.org/web/20160319120617/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160324050626",
+        "uri": "http://web.archive.org/web/20160324050626/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160325105711",
+        "uri": "http://web.archive.org/web/20160325105711/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160326220958",
+        "uri": "http://web.archive.org/web/20160326220958/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160331080158",
+        "uri": "http://web.archive.org/web/20160331080158/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160407152013",
+        "uri": "http://web.archive.org/web/20160407152013/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160410060651",
+        "uri": "http://web.archive.org/web/20160410060651/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160411103317",
+        "uri": "http://web.archive.org/web/20160411103317/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160412093202",
+        "uri": "http://web.archive.org/web/20160412093202/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160412184550",
+        "uri": "http://web.archive.org/web/20160412184550/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160415043021",
+        "uri": "http://web.archive.org/web/20160415043021/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160424162134",
+        "uri": "http://web.archive.org/web/20160424162134/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160424175339",
+        "uri": "http://web.archive.org/web/20160424175339/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160519042600",
+        "uri": "http://web.archive.org/web/20160519042600/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160529000343",
+        "uri": "http://web.archive.org/web/20160529000343/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160602042303",
+        "uri": "http://web.archive.org/web/20160602042303/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160611033419",
+        "uri": "http://web.archive.org/web/20160611033419/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160723043117",
+        "uri": "http://web.archive.org/web/20160723043117/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160730010906",
+        "uri": "http://web.archive.org/web/20160730010906/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160730011006",
+        "uri": "http://web.archive.org/web/20160730011006/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160730011014",
+        "uri": "http://web.archive.org/web/20160730011014/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160730011023",
+        "uri": "http://web.archive.org/web/20160730011023/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160730011032",
+        "uri": "http://web.archive.org/web/20160730011032/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160730011043",
+        "uri": "http://web.archive.org/web/20160730011043/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160730011054",
+        "uri": "http://web.archive.org/web/20160730011054/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160730011107",
+        "uri": "http://web.archive.org/web/20160730011107/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160730011117",
+        "uri": "http://web.archive.org/web/20160730011117/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160730011126",
+        "uri": "http://web.archive.org/web/20160730011126/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160730011137",
+        "uri": "http://web.archive.org/web/20160730011137/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160730011145",
+        "uri": "http://web.archive.org/web/20160730011145/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160730011157",
+        "uri": "http://web.archive.org/web/20160730011157/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160730011206",
+        "uri": "http://web.archive.org/web/20160730011206/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160730011219",
+        "uri": "http://web.archive.org/web/20160730011219/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160730011229",
+        "uri": "http://web.archive.org/web/20160730011229/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160730011238",
+        "uri": "http://web.archive.org/web/20160730011238/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160730011245",
+        "uri": "http://web.archive.org/web/20160730011245/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160801134721",
+        "uri": "http://web.archive.org/web/20160801134721/https://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160802051236",
+        "uri": "http://web.archive.org/web/20160802051236/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160806231941",
+        "uri": "http://web.archive.org/web/20160806231941/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20160923074449",
+        "uri": "http://web.archive.org/web/20160923074449/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20161006115002",
+        "uri": "http://web.archive.org/web/20161006115002/http://ozzy.com/"
+      },
+      {
+        "datetime": "20161011001010",
+        "uri": "http://web.archive.org/web/20161011001010/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20161011081239",
+        "uri": "http://web.archive.org/web/20161011081239/http://www.ozzy.com/"
+      },
+      {
+        "datetime": "20161011092052",
+        "uri": "http://web.archive.org/web/20161011092052/http://www.ozzy.com/"
+      }
+    ],
+    "timegate": "http://web.archive.org/web/http://www.ozzy.com/",
+    "original": "http://www.ozzy.com/",
+    "last": "Thu, 20 Oct 2016 12:35:01 GMT"
+  }
+}

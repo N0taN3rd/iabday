@@ -1,4 +1,6 @@
 {
+  "timemap": "http://web.archive.org/web/timemap/link/http://www.badreligion.com/",
+  "timegate": "http://web.archive.org/web/http://www.badreligion.com/",
   "mementos": [
     {
       "datetime": "19981205220659",
@@ -3961,179 +3963,177 @@
       "uri": "http://web.archive.org/web/20161017145259/http://www.badreligion.com/"
     }
   ],
-  "first": "Sat, 05 Dec 1998 22:06:59 GMT",
-  "timegate": "http://web.archive.org/web/http://www.badreligion.com/",
+  "original": "http://www.badreligion.com/",
   "member_points": [
     {
-      "t": "20161025051071",
-      "member": "Mike Dimkich",
+      "f": "1986-01-01 00:00:00-00:00",
+      "t": "1970-08-18 21:00:31-00:00",
+      "member": "Lucky Lehrer",
       "plays": [
-        "guitar"
-      ],
-      "f": "20130101000100"
+        "drums"
+      ]
     },
     {
-      "t": "20161025051071",
+      "f": "1980-01-01 00:00:00-00:00",
+      "t": "1970-08-18 09:53:51-00:00",
+      "member": "Jay Bentley",
+      "plays": [
+        "bass",
+        "vocals"
+      ]
+    },
+    {
+      "f": "1986-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
+      "member": "Jay Bentley",
+      "plays": [
+        "bass",
+        "vocals"
+      ]
+    },
+    {
+      "f": "1980-01-01 00:00:00-00:00",
+      "t": "1970-08-18 15:27:11-00:00",
+      "member": "Brett Gurewitz",
+      "plays": [
+        "guitar",
+        "vocals"
+      ]
+    },
+    {
+      "f": "1986-01-01 00:00:00-00:00",
+      "t": "1970-08-19 19:13:51-00:00",
+      "member": "Brett Gurewitz",
+      "plays": [
+        "guitar",
+        "vocals"
+      ]
+    },
+    {
+      "f": "2001-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
+      "member": "Brett Gurewitz",
+      "plays": [
+        "guitar",
+        "vocals"
+      ]
+    },
+    {
+      "f": "1980-01-01 00:00:00-00:00",
+      "t": "1970-08-18 07:07:11-00:00",
+      "member": "Jay Ziskrout",
+      "plays": [
+        "drums"
+      ]
+    },
+    {
+      "f": "1991-01-01 00:00:00-00:00",
+      "t": "1970-08-20 14:40:31-00:00",
+      "member": "Bobby Schayer",
+      "plays": [
+        "drums"
+      ]
+    },
+    {
+      "f": "1980-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
+      "member": "Greg Graffin",
+      "plays": [
+        "lead vocals"
+      ]
+    },
+    {
+      "f": "1982-01-01 00:00:00-00:00",
+      "t": "1970-08-18 15:27:11-00:00",
+      "member": "Davy Goldman",
+      "plays": [
+        "drums"
+      ]
+    },
+    {
+      "f": "1994-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
       "member": "Brian Baker",
       "plays": [
         "guitar",
         "vocals"
-      ],
-      "f": "19940101000100"
+      ]
     },
     {
-      "t": "19700818070800",
-      "member": "Jay Ziskrout",
+      "f": "1981-01-01 00:00:00-00:00",
+      "t": "1970-08-18 09:53:51-00:00",
+      "member": "Pete Finestone",
       "plays": [
         "drums"
-      ],
-      "f": "19800101000100"
+      ]
     },
     {
-      "t": "19700818210800",
-      "member": "Lucky Lehrer",
+      "f": "1984-01-01 00:00:00-00:00",
+      "t": "1970-08-18 21:00:31-00:00",
+      "member": "Pete Finestone",
       "plays": [
         "drums"
-      ],
-      "f": "19860101000100"
+      ]
     },
     {
-      "t": "19700818180800",
-      "member": "Tim Gallegos",
-      "plays": [
-        "bass"
-      ],
-      "f": "19840101000100"
-    },
-    {
-      "t": "19700820140800",
-      "member": "Bobby Schayer",
+      "f": "2003-01-01 00:00:00-00:00",
+      "t": "1970-08-20 20:13:51-00:00",
+      "member": "Pete Finestone",
       "plays": [
         "drums"
-      ],
-      "f": "19910101000100"
+      ]
     },
     {
-      "t": "19700822050800",
+      "f": "2001-01-01 00:00:00-00:00",
+      "t": "1970-08-22 05:33:51-00:00",
       "member": "Brooks Wackerman",
       "plays": [
         "drums",
         "percussion"
-      ],
-      "f": "20010101000100"
+      ]
     },
     {
-      "t": "19700818180800",
-      "member": "John Albert",
+      "f": "2013-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
+      "member": "Mike Dimkich",
       "plays": [
-        "drums"
-      ],
-      "f": "19850101000100"
+        "guitar"
+      ]
     },
     {
-      "t": "19700818150800",
-      "member": "Paul Dedona",
-      "plays": [
-        "bass"
-      ],
-      "f": "19820101000100"
-    },
-    {
-      "t": "19700818090800",
-      "member": "Jay Bentley",
-      "plays": [
-        "bass",
-        "vocals"
-      ],
-      "f": "19800101000100"
-    },
-    {
-      "t": "20161025051071",
-      "member": "Jay Bentley",
-      "plays": [
-        "bass",
-        "vocals"
-      ],
-      "f": "19860101000100"
-    },
-    {
-      "t": "19700822000800",
+      "f": "1984-01-01 00:00:00-00:00",
+      "t": "1970-08-22 00:00:31-00:00",
       "member": "Greg Hetson",
       "plays": [
         "guitar",
         "vocals"
-      ],
-      "f": "19840101000100"
+      ]
     },
     {
-      "t": "20161025051071",
-      "member": "Greg Graffin",
-      "plays": [
-        "lead vocals"
-      ],
-      "f": "19800101000100"
-    },
-    {
-      "t": "19700818150800",
-      "member": "Davy Goldman",
+      "f": "1985-01-01 00:00:00-00:00",
+      "t": "1970-08-18 18:13:51-00:00",
+      "member": "John Albert",
       "plays": [
         "drums"
-      ],
-      "f": "19820101000100"
+      ]
     },
     {
-      "t": "19700818090800",
-      "member": "Pete Finestone",
+      "f": "1984-01-01 00:00:00-00:00",
+      "t": "1970-08-18 18:13:51-00:00",
+      "member": "Tim Gallegos",
       "plays": [
-        "drums"
-      ],
-      "f": "19810101000100"
+        "bass"
+      ]
     },
     {
-      "t": "19700819100800",
-      "member": "Pete Finestone",
+      "f": "1982-01-01 00:00:00-00:00",
+      "t": "1970-08-18 15:27:11-00:00",
+      "member": "Paul Dedona",
       "plays": [
-        "drums"
-      ],
-      "f": "19840101000100"
-    },
-    {
-      "t": "19700820200800",
-      "member": "Pete Finestone",
-      "plays": [
-        "drums"
-      ],
-      "f": "20030101000100"
-    },
-    {
-      "t": "19700818150800",
-      "member": "Brett Gurewitz",
-      "plays": [
-        "guitar",
-        "vocals"
-      ],
-      "f": "19800101000100"
-    },
-    {
-      "t": "19700819190800",
-      "member": "Brett Gurewitz",
-      "plays": [
-        "guitar",
-        "vocals"
-      ],
-      "f": "19860101000100"
-    },
-    {
-      "t": "20161025051071",
-      "member": "Brett Gurewitz",
-      "plays": [
-        "guitar",
-        "vocals"
-      ],
-      "f": "20010101000100"
+        "bass"
+      ]
     }
   ],
-  "original": "http://www.badreligion.com/",
-  "timemap": "http://web.archive.org/web/timemap/link/http://www.badreligion.com/",
+  "first": "Sat, 05 Dec 1998 22:06:59 GMT",
   "last": "Fri, 21 Oct 2016 19:11:38 GMT"
 }

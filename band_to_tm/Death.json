@@ -1,0 +1,281 @@
+{
+  "info": [
+    {
+      "active": [
+        {
+          "from": "1994",
+          "to": "1994"
+        }
+      ],
+      "member": "Ralph Santolla",
+      "plays": [
+        "guitar "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1995",
+          "to": "1995"
+        }
+      ],
+      "member": "Brian Benson",
+      "plays": [
+        "bass "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1996",
+          "to": "2001"
+        }
+      ],
+      "member": "Scott Clendenin",
+      "plays": [
+        "bass "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1991",
+          "to": "1992"
+        }
+      ],
+      "member": "Skott Carino",
+      "plays": [
+        "bass "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1993",
+          "to": "1993"
+        }
+      ],
+      "member": "Craig Locicero",
+      "plays": [
+        "guitar "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1996",
+          "to": "2001"
+        }
+      ],
+      "member": "Shannon Hamm",
+      "plays": [
+        "guitar "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1983",
+          "to": "2001"
+        },
+        {
+          "from": "1984",
+          "to": "2001"
+        },
+        {
+          "from": "1987",
+          "to": "1988"
+        }
+      ],
+      "member": "Chuck Schuldiner",
+      "plays": [
+        "guitar "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1996",
+          "to": "2001"
+        }
+      ],
+      "member": "Richard Christy",
+      "plays": [
+        "drums "
+      ]
+    }
+  ],
+  "tm": {
+    "first": "Sat, 08 Jan 2011 19:56:00 GMT",
+    "self": "http://web.archive.org/web/timemap/link/http://metalcrusade.org/",
+    "mementos": [
+      {
+        "datetime": "20110108195600",
+        "uri": "http://web.archive.org/web/20110108195600/http://www.metalcrusade.org/"
+      },
+      {
+        "datetime": "20110304001813",
+        "uri": "http://web.archive.org/web/20110304001813/http://www.metalcrusade.org/"
+      },
+      {
+        "datetime": "20110818194939",
+        "uri": "http://web.archive.org/web/20110818194939/http://www.metalcrusade.org/"
+      },
+      {
+        "datetime": "20110918042555",
+        "uri": "http://web.archive.org/web/20110918042555/http://www.metalcrusade.org/"
+      },
+      {
+        "datetime": "20111221040940",
+        "uri": "http://web.archive.org/web/20111221040940/http://www.metalcrusade.org/"
+      },
+      {
+        "datetime": "20120211075823",
+        "uri": "http://web.archive.org/web/20120211075823/http://www.metalcrusade.org/"
+      },
+      {
+        "datetime": "20130613222440",
+        "uri": "http://web.archive.org/web/20130613222440/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20131118214621",
+        "uri": "http://web.archive.org/web/20131118214621/http://www.metalcrusade.org/"
+      },
+      {
+        "datetime": "20140102180109",
+        "uri": "http://web.archive.org/web/20140102180109/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20140518004112",
+        "uri": "http://web.archive.org/web/20140518004112/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20140926014948",
+        "uri": "http://web.archive.org/web/20140926014948/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20140926014948",
+        "uri": "http://web.archive.org/web/20140926014948/http://www.metalcrusade.org/"
+      },
+      {
+        "datetime": "20140927063003",
+        "uri": "http://web.archive.org/web/20140927063003/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20141029061222",
+        "uri": "http://web.archive.org/web/20141029061222/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20141217153256",
+        "uri": "http://web.archive.org/web/20141217153256/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20141223033315",
+        "uri": "http://web.archive.org/web/20141223033315/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20150108185759",
+        "uri": "http://web.archive.org/web/20150108185759/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20150215193138",
+        "uri": "http://web.archive.org/web/20150215193138/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20150322062905",
+        "uri": "http://web.archive.org/web/20150322062905/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20150503121312",
+        "uri": "http://web.archive.org/web/20150503121312/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20150610195810",
+        "uri": "http://web.archive.org/web/20150610195810/http://www.metalcrusade.org/"
+      },
+      {
+        "datetime": "20150611091320",
+        "uri": "http://web.archive.org/web/20150611091320/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20150801211936",
+        "uri": "http://web.archive.org/web/20150801211936/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20150927104029",
+        "uri": "http://web.archive.org/web/20150927104029/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20151104061930",
+        "uri": "http://web.archive.org/web/20151104061930/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20151205001752",
+        "uri": "http://web.archive.org/web/20151205001752/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20160106150038",
+        "uri": "http://web.archive.org/web/20160106150038/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20160111014453",
+        "uri": "http://web.archive.org/web/20160111014453/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20160128211746",
+        "uri": "http://web.archive.org/web/20160128211746/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20160212205431",
+        "uri": "http://web.archive.org/web/20160212205431/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20160304063545",
+        "uri": "http://web.archive.org/web/20160304063545/http://www.metalcrusade.org/"
+      },
+      {
+        "datetime": "20160305151541",
+        "uri": "http://web.archive.org/web/20160305151541/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20160306123643",
+        "uri": "http://web.archive.org/web/20160306123643/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20160306125840",
+        "uri": "http://web.archive.org/web/20160306125840/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20160316181846",
+        "uri": "http://web.archive.org/web/20160316181846/http://www.metalcrusade.org/"
+      },
+      {
+        "datetime": "20160326040530",
+        "uri": "http://web.archive.org/web/20160326040530/http://www.metalcrusade.org/"
+      },
+      {
+        "datetime": "20160406131706",
+        "uri": "http://web.archive.org/web/20160406131706/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20160422024732",
+        "uri": "http://web.archive.org/web/20160422024732/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20160502220145",
+        "uri": "http://web.archive.org/web/20160502220145/http://metalcrusade.org/"
+      },
+      {
+        "datetime": "20160504022403",
+        "uri": "http://web.archive.org/web/20160504022403/http://www.metalcrusade.org/"
+      },
+      {
+        "datetime": "20160504162341",
+        "uri": "http://web.archive.org/web/20160504162341/http://metalcrusade.org/"
+      }
+    ],
+    "timegate": "http://web.archive.org/web/http://metalcrusade.org/",
+    "original": "http://metalcrusade.org/",
+    "last": "Wed, 12 Oct 2016 23:51:29 GMT"
+  }
+}

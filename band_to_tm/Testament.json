@@ -1,0 +1,2821 @@
+{
+  "info": [
+    {
+      "active": [
+        {
+          "from": "1983",
+          "to": "1983"
+        }
+      ],
+      "member": "Mike \"The Rottweiler\" Ronchette",
+      "plays": [
+        "drums "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2000",
+          "to": "2004"
+        }
+      ],
+      "member": "Steve Smyth",
+      "plays": [
+        "guitars "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2015",
+          "to": "2015"
+        }
+      ],
+      "member": "Tilen Hudrap",
+      "plays": [
+        "bass "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1994",
+          "to": "1995"
+        },
+        {
+          "from": "1997",
+          "to": "1998"
+        },
+        {
+          "from": "1999",
+          "to": "1999"
+        }
+      ],
+      "member": "Jon Dette",
+      "plays": [
+        "drums "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1995",
+          "to": "1996"
+        }
+      ],
+      "member": "Chris Kontos",
+      "plays": [
+        "drums "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1983",
+          "to": "1992"
+        },
+        {
+          "from": "2001",
+          "to": "2001"
+        },
+        {
+          "from": "2005",
+          "to": "present"
+        }
+      ],
+      "member": "Alex Skolnick",
+      "plays": [
+        "lead guitar",
+        " rhythm guitar",
+        "backing vocals"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1983",
+          "to": "1986"
+        }
+      ],
+      "member": "Steve Souza",
+      "plays": [
+        "vocals "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1986",
+          "to": "present"
+        }
+      ],
+      "member": "Chuck Billy",
+      "plays": [
+        "vocals "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2008",
+          "to": "2008"
+        },
+        {
+          "from": "2010",
+          "to": "2010"
+        }
+      ],
+      "member": "Glen Drover",
+      "plays": [
+        "guitar "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2006",
+          "to": "2007"
+        }
+      ],
+      "member": "Nick Barker",
+      "plays": [
+        "drums "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2002",
+          "to": "2002"
+        },
+        {
+          "from": "2004",
+          "to": "2005"
+        }
+      ],
+      "member": "Mike Chlasciak",
+      "plays": [
+        "guitars "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1998",
+          "to": "2004"
+        },
+        {
+          "from": "2014",
+          "to": "present"
+        }
+      ],
+      "member": "Steve DiGiorgio",
+      "plays": [
+        "bass "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2003",
+          "to": "2003"
+        }
+      ],
+      "member": "Asgeir Mickelson",
+      "plays": [
+        "drums "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1983",
+          "to": "1996"
+        },
+        {
+          "from": "2004",
+          "to": "2014"
+        }
+      ],
+      "member": "Greg Christian",
+      "plays": [
+        "bass "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1992",
+          "to": "1993"
+        },
+        {
+          "from": "1997",
+          "to": "1998"
+        }
+      ],
+      "member": "Glen Alvelais",
+      "plays": [
+        "guitars "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2012",
+          "to": "2012"
+        }
+      ],
+      "member": "Mark Hernandez",
+      "plays": [
+        "drums "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2015",
+          "to": "2015"
+        }
+      ],
+      "member": "Alex Bent",
+      "plays": [
+        "drums "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1994",
+          "to": "1996"
+        },
+        {
+          "from": "1998",
+          "to": "2000"
+        }
+      ],
+      "member": "James Murphy",
+      "plays": [
+        "guitars "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1997",
+          "to": "1997"
+        },
+        {
+          "from": "2011",
+          "to": "present"
+        }
+      ],
+      "member": "Gene Hoglan",
+      "plays": [
+        "drums "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1983",
+          "to": "1983"
+        },
+        {
+          "from": "1997",
+          "to": "1997"
+        }
+      ],
+      "member": "Derrick Ramirez",
+      "plays": [
+        "vocals "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1993",
+          "to": "1994"
+        },
+        {
+          "from": "2001",
+          "to": "2001"
+        },
+        {
+          "from": "2005",
+          "to": "2005"
+        },
+        {
+          "from": "2011",
+          "to": "2011"
+        }
+      ],
+      "member": "John Tempesta",
+      "plays": [
+        "drums "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1983",
+          "to": "1992"
+        },
+        {
+          "from": "2005",
+          "to": "2005"
+        }
+      ],
+      "member": "Louie Clemente",
+      "plays": [
+        "drums "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1992",
+          "to": "1993"
+        },
+        {
+          "from": "2004",
+          "to": "2004"
+        },
+        {
+          "from": "2007",
+          "to": "2011"
+        }
+      ],
+      "member": "Paul Bostaph",
+      "plays": [
+        "drums "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1999",
+          "to": "2003"
+        },
+        {
+          "from": "2007",
+          "to": "2007"
+        },
+        {
+          "from": "2011",
+          "to": "2011"
+        }
+      ],
+      "member": "Jon Allen",
+      "plays": [
+        "drums "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1983",
+          "to": "present"
+        }
+      ],
+      "member": "Eric Peterson",
+      "plays": [
+        " lead guitar",
+        "rhythm guitar",
+        "backing vocals"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1998",
+          "to": "1999"
+        }
+      ],
+      "member": "Dave Lombardo",
+      "plays": [
+        "drums "
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1997",
+          "to": "1997"
+        },
+        {
+          "from": "1999",
+          "to": "1999"
+        }
+      ],
+      "member": "Steve Jacobs",
+      "plays": [
+        "drums "
+      ]
+    }
+  ],
+  "tm": {
+    "first": "Mon, 25 Jan 1999 10:38:09 GMT",
+    "self": "http://web.archive.org/web/timemap/link/http://www.testamentlegions.com/",
+    "mementos": [
+      {
+        "datetime": "19990125103809",
+        "uri": "http://web.archive.org/web/19990125103809/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "19990428193627",
+        "uri": "http://web.archive.org/web/19990428193627/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20000229162303",
+        "uri": "http://web.archive.org/web/20000229162303/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20000229181557",
+        "uri": "http://web.archive.org/web/20000229181557/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20000510105118",
+        "uri": "http://web.archive.org/web/20000510105118/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20000511055802",
+        "uri": "http://web.archive.org/web/20000511055802/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20000511120636",
+        "uri": "http://web.archive.org/web/20000511120636/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20000520020253",
+        "uri": "http://web.archive.org/web/20000520020253/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20000607143226",
+        "uri": "http://web.archive.org/web/20000607143226/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20000620033640",
+        "uri": "http://web.archive.org/web/20000620033640/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20000711032008",
+        "uri": "http://web.archive.org/web/20000711032008/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20000817090434",
+        "uri": "http://web.archive.org/web/20000817090434/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20001012002409",
+        "uri": "http://web.archive.org/web/20001012002409/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20001109184200",
+        "uri": "http://web.archive.org/web/20001109184200/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20001117111900",
+        "uri": "http://web.archive.org/web/20001117111900/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20001207064200",
+        "uri": "http://web.archive.org/web/20001207064200/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20010118223900",
+        "uri": "http://web.archive.org/web/20010118223900/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20010201151600",
+        "uri": "http://web.archive.org/web/20010201151600/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20010206180325",
+        "uri": "http://web.archive.org/web/20010206180325/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20010207212157",
+        "uri": "http://web.archive.org/web/20010207212157/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20010224174746",
+        "uri": "http://web.archive.org/web/20010224174746/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20010302004008",
+        "uri": "http://web.archive.org/web/20010302004008/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20010302061531",
+        "uri": "http://web.archive.org/web/20010302061531/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20010330052923",
+        "uri": "http://web.archive.org/web/20010330052923/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20010405023733",
+        "uri": "http://web.archive.org/web/20010405023733/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20010419082316",
+        "uri": "http://web.archive.org/web/20010419082316/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20010509224444",
+        "uri": "http://web.archive.org/web/20010509224444/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20010516024448",
+        "uri": "http://web.archive.org/web/20010516024448/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20010709224416",
+        "uri": "http://web.archive.org/web/20010709224416/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20011202205728",
+        "uri": "http://web.archive.org/web/20011202205728/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20020120153407",
+        "uri": "http://web.archive.org/web/20020120153407/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20020529060024",
+        "uri": "http://web.archive.org/web/20020529060024/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20020601132418",
+        "uri": "http://web.archive.org/web/20020601132418/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20020802140858",
+        "uri": "http://web.archive.org/web/20020802140858/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20020923160346",
+        "uri": "http://web.archive.org/web/20020923160346/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20020925185252",
+        "uri": "http://web.archive.org/web/20020925185252/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20020928135004",
+        "uri": "http://web.archive.org/web/20020928135004/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20020930070950",
+        "uri": "http://web.archive.org/web/20020930070950/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20021128204021",
+        "uri": "http://web.archive.org/web/20021128204021/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20030205205349",
+        "uri": "http://web.archive.org/web/20030205205349/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20030212093852",
+        "uri": "http://web.archive.org/web/20030212093852/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20030219105030",
+        "uri": "http://web.archive.org/web/20030219105030/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20030322124525",
+        "uri": "http://web.archive.org/web/20030322124525/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20030331174118",
+        "uri": "http://web.archive.org/web/20030331174118/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20030408195524",
+        "uri": "http://web.archive.org/web/20030408195524/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20030424234217",
+        "uri": "http://web.archive.org/web/20030424234217/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20030525095810",
+        "uri": "http://web.archive.org/web/20030525095810/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20030611033034",
+        "uri": "http://web.archive.org/web/20030611033034/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20030621223051",
+        "uri": "http://web.archive.org/web/20030621223051/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20030718215504",
+        "uri": "http://web.archive.org/web/20030718215504/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20030726072709",
+        "uri": "http://web.archive.org/web/20030726072709/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20030804070148",
+        "uri": "http://web.archive.org/web/20030804070148/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20030807122307",
+        "uri": "http://web.archive.org/web/20030807122307/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20030920133356",
+        "uri": "http://web.archive.org/web/20030920133356/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20030921212917",
+        "uri": "http://web.archive.org/web/20030921212917/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20031021154734",
+        "uri": "http://web.archive.org/web/20031021154734/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20031123193704",
+        "uri": "http://web.archive.org/web/20031123193704/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20031129193831",
+        "uri": "http://web.archive.org/web/20031129193831/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20031208091109",
+        "uri": "http://web.archive.org/web/20031208091109/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20031214104822",
+        "uri": "http://web.archive.org/web/20031214104822/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20031216020333",
+        "uri": "http://web.archive.org/web/20031216020333/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040316231739",
+        "uri": "http://web.archive.org/web/20040316231739/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20040403235306",
+        "uri": "http://web.archive.org/web/20040403235306/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040509151743",
+        "uri": "http://web.archive.org/web/20040509151743/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040513044204",
+        "uri": "http://web.archive.org/web/20040513044204/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20040520114650",
+        "uri": "http://web.archive.org/web/20040520114650/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20040607024154",
+        "uri": "http://web.archive.org/web/20040607024154/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040611215903",
+        "uri": "http://web.archive.org/web/20040611215903/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040612003354",
+        "uri": "http://web.archive.org/web/20040612003354/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040612202711",
+        "uri": "http://web.archive.org/web/20040612202711/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040612233732",
+        "uri": "http://web.archive.org/web/20040612233732/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20040616034309",
+        "uri": "http://web.archive.org/web/20040616034309/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040618224813",
+        "uri": "http://web.archive.org/web/20040618224813/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040619214127",
+        "uri": "http://web.archive.org/web/20040619214127/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040621211349",
+        "uri": "http://web.archive.org/web/20040621211349/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040623043357",
+        "uri": "http://web.archive.org/web/20040623043357/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040623082345",
+        "uri": "http://web.archive.org/web/20040623082345/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040624155518",
+        "uri": "http://web.archive.org/web/20040624155518/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040625231633",
+        "uri": "http://web.archive.org/web/20040625231633/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040626125407",
+        "uri": "http://web.archive.org/web/20040626125407/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040630041605",
+        "uri": "http://web.archive.org/web/20040630041605/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040701223024",
+        "uri": "http://web.archive.org/web/20040701223024/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040707075957",
+        "uri": "http://web.archive.org/web/20040707075957/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040718075520",
+        "uri": "http://web.archive.org/web/20040718075520/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040719081353",
+        "uri": "http://web.archive.org/web/20040719081353/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040725234809",
+        "uri": "http://web.archive.org/web/20040725234809/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040728171615",
+        "uri": "http://web.archive.org/web/20040728171615/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20040729195208",
+        "uri": "http://web.archive.org/web/20040729195208/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040806011733",
+        "uri": "http://web.archive.org/web/20040806011733/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040809004717",
+        "uri": "http://web.archive.org/web/20040809004717/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040809230626",
+        "uri": "http://web.archive.org/web/20040809230626/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040819020823",
+        "uri": "http://web.archive.org/web/20040819020823/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040904181110",
+        "uri": "http://web.archive.org/web/20040904181110/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20040906005814",
+        "uri": "http://web.archive.org/web/20040906005814/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20040919070859",
+        "uri": "http://web.archive.org/web/20040919070859/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20041019074808",
+        "uri": "http://web.archive.org/web/20041019074808/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20041031084720",
+        "uri": "http://web.archive.org/web/20041031084720/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20041116085732",
+        "uri": "http://web.archive.org/web/20041116085732/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20041128040920",
+        "uri": "http://web.archive.org/web/20041128040920/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20041206000148",
+        "uri": "http://web.archive.org/web/20041206000148/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050125122017",
+        "uri": "http://web.archive.org/web/20050125122017/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20050205152724",
+        "uri": "http://web.archive.org/web/20050205152724/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050212033157",
+        "uri": "http://web.archive.org/web/20050212033157/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050215094158",
+        "uri": "http://web.archive.org/web/20050215094158/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050306175330",
+        "uri": "http://web.archive.org/web/20050306175330/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050309022015",
+        "uri": "http://web.archive.org/web/20050309022015/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050327075015",
+        "uri": "http://web.archive.org/web/20050327075015/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050405221716",
+        "uri": "http://web.archive.org/web/20050405221716/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20050508004517",
+        "uri": "http://web.archive.org/web/20050508004517/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050511003734",
+        "uri": "http://web.archive.org/web/20050511003734/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050512010914",
+        "uri": "http://web.archive.org/web/20050512010914/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050513225302",
+        "uri": "http://web.archive.org/web/20050513225302/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050519005750",
+        "uri": "http://web.archive.org/web/20050519005750/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050522002832",
+        "uri": "http://web.archive.org/web/20050522002832/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050525004650",
+        "uri": "http://web.archive.org/web/20050525004650/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050527024808",
+        "uri": "http://web.archive.org/web/20050527024808/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050531210747",
+        "uri": "http://web.archive.org/web/20050531210747/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050601000147",
+        "uri": "http://web.archive.org/web/20050601000147/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050602014812",
+        "uri": "http://web.archive.org/web/20050602014812/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050603002019",
+        "uri": "http://web.archive.org/web/20050603002019/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050604015645",
+        "uri": "http://web.archive.org/web/20050604015645/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050609004751",
+        "uri": "http://web.archive.org/web/20050609004751/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050614003315",
+        "uri": "http://web.archive.org/web/20050614003315/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050616004314",
+        "uri": "http://web.archive.org/web/20050616004314/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050622000203",
+        "uri": "http://web.archive.org/web/20050622000203/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050623021311",
+        "uri": "http://web.archive.org/web/20050623021311/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050625025304",
+        "uri": "http://web.archive.org/web/20050625025304/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050626075521",
+        "uri": "http://web.archive.org/web/20050626075521/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050701084858",
+        "uri": "http://web.archive.org/web/20050701084858/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050706070150",
+        "uri": "http://web.archive.org/web/20050706070150/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050707014952",
+        "uri": "http://web.archive.org/web/20050707014952/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050712002719",
+        "uri": "http://web.archive.org/web/20050712002719/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050715015915",
+        "uri": "http://web.archive.org/web/20050715015915/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050715073804",
+        "uri": "http://web.archive.org/web/20050715073804/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050727003304",
+        "uri": "http://web.archive.org/web/20050727003304/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050728021712",
+        "uri": "http://web.archive.org/web/20050728021712/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050807232448",
+        "uri": "http://web.archive.org/web/20050807232448/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050817014323",
+        "uri": "http://web.archive.org/web/20050817014323/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050817060251",
+        "uri": "http://web.archive.org/web/20050817060251/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050818173756",
+        "uri": "http://web.archive.org/web/20050818173756/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050822153849",
+        "uri": "http://web.archive.org/web/20050822153849/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050823064215",
+        "uri": "http://web.archive.org/web/20050823064215/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050826023918",
+        "uri": "http://web.archive.org/web/20050826023918/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050826172703",
+        "uri": "http://web.archive.org/web/20050826172703/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050827100541",
+        "uri": "http://web.archive.org/web/20050827100541/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050827155018",
+        "uri": "http://web.archive.org/web/20050827155018/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050828035216",
+        "uri": "http://web.archive.org/web/20050828035216/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050828181043",
+        "uri": "http://web.archive.org/web/20050828181043/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050828234556",
+        "uri": "http://web.archive.org/web/20050828234556/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050829051651",
+        "uri": "http://web.archive.org/web/20050829051651/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050829120301",
+        "uri": "http://web.archive.org/web/20050829120301/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050829182849",
+        "uri": "http://web.archive.org/web/20050829182849/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050829205407",
+        "uri": "http://web.archive.org/web/20050829205407/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050829225829",
+        "uri": "http://web.archive.org/web/20050829225829/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050830015549",
+        "uri": "http://web.archive.org/web/20050830015549/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050830082125",
+        "uri": "http://web.archive.org/web/20050830082125/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20050831000511",
+        "uri": "http://web.archive.org/web/20050831000511/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050831050340",
+        "uri": "http://web.archive.org/web/20050831050340/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050901000900",
+        "uri": "http://web.archive.org/web/20050901000900/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20050901073008",
+        "uri": "http://web.archive.org/web/20050901073008/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20051004055040",
+        "uri": "http://web.archive.org/web/20051004055040/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20051004055457",
+        "uri": "http://web.archive.org/web/20051004055457/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20051013074331",
+        "uri": "http://web.archive.org/web/20051013074331/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20051026025714",
+        "uri": "http://web.archive.org/web/20051026025714/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20051108193706",
+        "uri": "http://web.archive.org/web/20051108193706/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20051124224909",
+        "uri": "http://web.archive.org/web/20051124224909/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20051124232134",
+        "uri": "http://web.archive.org/web/20051124232134/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20051125005851",
+        "uri": "http://web.archive.org/web/20051125005851/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20051203013832",
+        "uri": "http://web.archive.org/web/20051203013832/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20051206095058",
+        "uri": "http://web.archive.org/web/20051206095058/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20051211065814",
+        "uri": "http://web.archive.org/web/20051211065814/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20051212130721",
+        "uri": "http://web.archive.org/web/20051212130721/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20051225091041",
+        "uri": "http://web.archive.org/web/20051225091041/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20051231070647",
+        "uri": "http://web.archive.org/web/20051231070647/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060111061951",
+        "uri": "http://web.archive.org/web/20060111061951/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060111151433",
+        "uri": "http://web.archive.org/web/20060111151433/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060112114949",
+        "uri": "http://web.archive.org/web/20060112114949/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060202203813",
+        "uri": "http://web.archive.org/web/20060202203813/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060203075040",
+        "uri": "http://web.archive.org/web/20060203075040/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060207005552",
+        "uri": "http://web.archive.org/web/20060207005552/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20060405042207",
+        "uri": "http://web.archive.org/web/20060405042207/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060409203538",
+        "uri": "http://web.archive.org/web/20060409203538/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060409203556",
+        "uri": "http://web.archive.org/web/20060409203556/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060409203728",
+        "uri": "http://web.archive.org/web/20060409203728/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060414231325",
+        "uri": "http://web.archive.org/web/20060414231325/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060423022649",
+        "uri": "http://web.archive.org/web/20060423022649/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060424160933",
+        "uri": "http://web.archive.org/web/20060424160933/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20060428024429",
+        "uri": "http://web.archive.org/web/20060428024429/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060517122821",
+        "uri": "http://web.archive.org/web/20060517122821/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060519142121",
+        "uri": "http://web.archive.org/web/20060519142121/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20060519142133",
+        "uri": "http://web.archive.org/web/20060519142133/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20060612225254",
+        "uri": "http://web.archive.org/web/20060612225254/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060613053122",
+        "uri": "http://web.archive.org/web/20060613053122/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20060615215601",
+        "uri": "http://web.archive.org/web/20060615215601/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060703093737",
+        "uri": "http://web.archive.org/web/20060703093737/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060703093801",
+        "uri": "http://web.archive.org/web/20060703093801/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060703093825",
+        "uri": "http://web.archive.org/web/20060703093825/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060703093942",
+        "uri": "http://web.archive.org/web/20060703093942/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060703093955",
+        "uri": "http://web.archive.org/web/20060703093955/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060704001635",
+        "uri": "http://web.archive.org/web/20060704001635/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060705004524",
+        "uri": "http://web.archive.org/web/20060705004524/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20060705051113",
+        "uri": "http://web.archive.org/web/20060705051113/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060705233444",
+        "uri": "http://web.archive.org/web/20060705233444/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20060706024529",
+        "uri": "http://web.archive.org/web/20060706024529/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060707004212",
+        "uri": "http://web.archive.org/web/20060707004212/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20060716021108",
+        "uri": "http://web.archive.org/web/20060716021108/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20060717173015",
+        "uri": "http://web.archive.org/web/20060717173015/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20060718115458",
+        "uri": "http://web.archive.org/web/20060718115458/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060718132818",
+        "uri": "http://web.archive.org/web/20060718132818/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060719062150",
+        "uri": "http://web.archive.org/web/20060719062150/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060719113236",
+        "uri": "http://web.archive.org/web/20060719113236/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060720061118",
+        "uri": "http://web.archive.org/web/20060720061118/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060721012259",
+        "uri": "http://web.archive.org/web/20060721012259/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060804155657",
+        "uri": "http://web.archive.org/web/20060804155657/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20060820131755",
+        "uri": "http://web.archive.org/web/20060820131755/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060820235555",
+        "uri": "http://web.archive.org/web/20060820235555/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060821103702",
+        "uri": "http://web.archive.org/web/20060821103702/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060830211441",
+        "uri": "http://web.archive.org/web/20060830211441/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060901203129",
+        "uri": "http://web.archive.org/web/20060901203129/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20060908201719",
+        "uri": "http://web.archive.org/web/20060908201719/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20061004211122",
+        "uri": "http://web.archive.org/web/20061004211122/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20061108110959",
+        "uri": "http://web.archive.org/web/20061108110959/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20061115040943",
+        "uri": "http://web.archive.org/web/20061115040943/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20061116010957",
+        "uri": "http://web.archive.org/web/20061116010957/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20061119125444",
+        "uri": "http://web.archive.org/web/20061119125444/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20061119231327",
+        "uri": "http://web.archive.org/web/20061119231327/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20061201061024",
+        "uri": "http://web.archive.org/web/20061201061024/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20061205062907",
+        "uri": "http://web.archive.org/web/20061205062907/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20061210115656",
+        "uri": "http://web.archive.org/web/20061210115656/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20061220175303",
+        "uri": "http://web.archive.org/web/20061220175303/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20061228111258",
+        "uri": "http://web.archive.org/web/20061228111258/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070102015427",
+        "uri": "http://web.archive.org/web/20070102015427/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070106154712",
+        "uri": "http://web.archive.org/web/20070106154712/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070111112855",
+        "uri": "http://web.archive.org/web/20070111112855/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070116140631",
+        "uri": "http://web.archive.org/web/20070116140631/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070121135216",
+        "uri": "http://web.archive.org/web/20070121135216/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070127031215",
+        "uri": "http://web.archive.org/web/20070127031215/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070202024331",
+        "uri": "http://web.archive.org/web/20070202024331/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070202160936",
+        "uri": "http://web.archive.org/web/20070202160936/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070209184158",
+        "uri": "http://web.archive.org/web/20070209184158/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070217084127",
+        "uri": "http://web.archive.org/web/20070217084127/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070224211405",
+        "uri": "http://web.archive.org/web/20070224211405/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070304120209",
+        "uri": "http://web.archive.org/web/20070304120209/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070312170745",
+        "uri": "http://web.archive.org/web/20070312170745/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070321031904",
+        "uri": "http://web.archive.org/web/20070321031904/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070329061126",
+        "uri": "http://web.archive.org/web/20070329061126/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070423204426",
+        "uri": "http://web.archive.org/web/20070423204426/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070501113538",
+        "uri": "http://web.archive.org/web/20070501113538/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070521070025",
+        "uri": "http://web.archive.org/web/20070521070025/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070614050424",
+        "uri": "http://web.archive.org/web/20070614050424/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070623042126",
+        "uri": "http://web.archive.org/web/20070623042126/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070702222055",
+        "uri": "http://web.archive.org/web/20070702222055/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070703100913",
+        "uri": "http://web.archive.org/web/20070703100913/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070705034852",
+        "uri": "http://web.archive.org/web/20070705034852/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070708054346",
+        "uri": "http://web.archive.org/web/20070708054346/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20070806112208",
+        "uri": "http://web.archive.org/web/20070806112208/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070807154903",
+        "uri": "http://web.archive.org/web/20070807154903/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070816201704",
+        "uri": "http://web.archive.org/web/20070816201704/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070906074140",
+        "uri": "http://web.archive.org/web/20070906074140/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070925120118",
+        "uri": "http://web.archive.org/web/20070925120118/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070927174445",
+        "uri": "http://web.archive.org/web/20070927174445/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070928190023",
+        "uri": "http://web.archive.org/web/20070928190023/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070929201806",
+        "uri": "http://web.archive.org/web/20070929201806/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20070930231655",
+        "uri": "http://web.archive.org/web/20070930231655/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071002030332",
+        "uri": "http://web.archive.org/web/20071002030332/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071003042122",
+        "uri": "http://web.archive.org/web/20071003042122/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071004103308",
+        "uri": "http://web.archive.org/web/20071004103308/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071005133244",
+        "uri": "http://web.archive.org/web/20071005133244/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071006154005",
+        "uri": "http://web.archive.org/web/20071006154005/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071007085231",
+        "uri": "http://web.archive.org/web/20071007085231/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071007164926",
+        "uri": "http://web.archive.org/web/20071007164926/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071008224440",
+        "uri": "http://web.archive.org/web/20071008224440/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071010045446",
+        "uri": "http://web.archive.org/web/20071010045446/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071011200340",
+        "uri": "http://web.archive.org/web/20071011200340/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20071012113229",
+        "uri": "http://web.archive.org/web/20071012113229/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071018031716",
+        "uri": "http://web.archive.org/web/20071018031716/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071023134534",
+        "uri": "http://web.archive.org/web/20071023134534/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071029033958",
+        "uri": "http://web.archive.org/web/20071029033958/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071105150444",
+        "uri": "http://web.archive.org/web/20071105150444/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20071112224340",
+        "uri": "http://web.archive.org/web/20071112224340/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071126063319",
+        "uri": "http://web.archive.org/web/20071126063319/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071205084116",
+        "uri": "http://web.archive.org/web/20071205084116/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071210191129",
+        "uri": "http://web.archive.org/web/20071210191129/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071221002420",
+        "uri": "http://web.archive.org/web/20071221002420/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071226040539",
+        "uri": "http://web.archive.org/web/20071226040539/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20071231155121",
+        "uri": "http://web.archive.org/web/20071231155121/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080108091636",
+        "uri": "http://web.archive.org/web/20080108091636/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080114124249",
+        "uri": "http://web.archive.org/web/20080114124249/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080124020519",
+        "uri": "http://web.archive.org/web/20080124020519/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080130065901",
+        "uri": "http://web.archive.org/web/20080130065901/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080204142806",
+        "uri": "http://web.archive.org/web/20080204142806/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080215120915",
+        "uri": "http://web.archive.org/web/20080215120915/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080221055906",
+        "uri": "http://web.archive.org/web/20080221055906/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080321093613",
+        "uri": "http://web.archive.org/web/20080321093613/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080331104814",
+        "uri": "http://web.archive.org/web/20080331104814/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080509023619",
+        "uri": "http://web.archive.org/web/20080509023619/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080509062247",
+        "uri": "http://web.archive.org/web/20080509062247/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20080509164934",
+        "uri": "http://web.archive.org/web/20080509164934/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080517132359",
+        "uri": "http://web.archive.org/web/20080517132359/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080521014945",
+        "uri": "http://web.archive.org/web/20080521014945/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080604040901",
+        "uri": "http://web.archive.org/web/20080604040901/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080607215515",
+        "uri": "http://web.archive.org/web/20080607215515/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080611112213",
+        "uri": "http://web.archive.org/web/20080611112213/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080615133324",
+        "uri": "http://web.archive.org/web/20080615133324/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080619133006",
+        "uri": "http://web.archive.org/web/20080619133006/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080913093250",
+        "uri": "http://web.archive.org/web/20080913093250/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080920184824",
+        "uri": "http://web.archive.org/web/20080920184824/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20080928054858",
+        "uri": "http://web.archive.org/web/20080928054858/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20081005011134",
+        "uri": "http://web.archive.org/web/20081005011134/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20081012223138",
+        "uri": "http://web.archive.org/web/20081012223138/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20081021044937",
+        "uri": "http://web.archive.org/web/20081021044937/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20081029041246",
+        "uri": "http://web.archive.org/web/20081029041246/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20081107040528",
+        "uri": "http://web.archive.org/web/20081107040528/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20081108024455",
+        "uri": "http://web.archive.org/web/20081108024455/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20081210012211",
+        "uri": "http://web.archive.org/web/20081210012211/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20081216145950",
+        "uri": "http://web.archive.org/web/20081216145950/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20081218082944",
+        "uri": "http://web.archive.org/web/20081218082944/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090107051309",
+        "uri": "http://web.archive.org/web/20090107051309/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20090122020730",
+        "uri": "http://web.archive.org/web/20090122020730/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090129225009",
+        "uri": "http://web.archive.org/web/20090129225009/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20090208053150",
+        "uri": "http://web.archive.org/web/20090208053150/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20090217085857",
+        "uri": "http://web.archive.org/web/20090217085857/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20090226194832",
+        "uri": "http://web.archive.org/web/20090226194832/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090307183731",
+        "uri": "http://web.archive.org/web/20090307183731/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090316053727",
+        "uri": "http://web.archive.org/web/20090316053727/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090324154528",
+        "uri": "http://web.archive.org/web/20090324154528/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090402091849",
+        "uri": "http://web.archive.org/web/20090402091849/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090411210421",
+        "uri": "http://web.archive.org/web/20090411210421/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090421185642",
+        "uri": "http://web.archive.org/web/20090421185642/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090501154627",
+        "uri": "http://web.archive.org/web/20090501154627/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090512014433",
+        "uri": "http://web.archive.org/web/20090512014433/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090522004727",
+        "uri": "http://web.archive.org/web/20090522004727/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090531000926",
+        "uri": "http://web.archive.org/web/20090531000926/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090608103153",
+        "uri": "http://web.archive.org/web/20090608103153/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090618010042",
+        "uri": "http://web.archive.org/web/20090618010042/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090626142314",
+        "uri": "http://web.archive.org/web/20090626142314/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090706001013",
+        "uri": "http://web.archive.org/web/20090706001013/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090715125722",
+        "uri": "http://web.archive.org/web/20090715125722/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090723015125",
+        "uri": "http://web.archive.org/web/20090723015125/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090731171302",
+        "uri": "http://web.archive.org/web/20090731171302/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090808161202",
+        "uri": "http://web.archive.org/web/20090808161202/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090817031727",
+        "uri": "http://web.archive.org/web/20090817031727/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090827040435",
+        "uri": "http://web.archive.org/web/20090827040435/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090906002230",
+        "uri": "http://web.archive.org/web/20090906002230/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090915232852",
+        "uri": "http://web.archive.org/web/20090915232852/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20090925211101",
+        "uri": "http://web.archive.org/web/20090925211101/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20091005205103",
+        "uri": "http://web.archive.org/web/20091005205103/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20091016000258",
+        "uri": "http://web.archive.org/web/20091016000258/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20091027011134",
+        "uri": "http://web.archive.org/web/20091027011134/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20091108181753",
+        "uri": "http://web.archive.org/web/20091108181753/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20091121195005",
+        "uri": "http://web.archive.org/web/20091121195005/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20091204184332",
+        "uri": "http://web.archive.org/web/20091204184332/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20091213105444",
+        "uri": "http://web.archive.org/web/20091213105444/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20091221041227",
+        "uri": "http://web.archive.org/web/20091221041227/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20091224132749",
+        "uri": "http://web.archive.org/web/20091224132749/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20091229190353",
+        "uri": "http://web.archive.org/web/20091229190353/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100104044211",
+        "uri": "http://web.archive.org/web/20100104044211/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20100108052219",
+        "uri": "http://web.archive.org/web/20100108052219/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100119000056",
+        "uri": "http://web.archive.org/web/20100119000056/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100130174846",
+        "uri": "http://web.archive.org/web/20100130174846/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100208115847",
+        "uri": "http://web.archive.org/web/20100208115847/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20100210053700",
+        "uri": "http://web.archive.org/web/20100210053700/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100211170239",
+        "uri": "http://web.archive.org/web/20100211170239/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100225025644",
+        "uri": "http://web.archive.org/web/20100225025644/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100309202726",
+        "uri": "http://web.archive.org/web/20100309202726/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100323131657",
+        "uri": "http://web.archive.org/web/20100323131657/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100407093556",
+        "uri": "http://web.archive.org/web/20100407093556/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100419160117",
+        "uri": "http://web.archive.org/web/20100419160117/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100504005552",
+        "uri": "http://web.archive.org/web/20100504005552/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100522071922",
+        "uri": "http://web.archive.org/web/20100522071922/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20100530032305",
+        "uri": "http://web.archive.org/web/20100530032305/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100607091619",
+        "uri": "http://web.archive.org/web/20100607091619/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100628220956",
+        "uri": "http://web.archive.org/web/20100628220956/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100713214315",
+        "uri": "http://web.archive.org/web/20100713214315/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100722064340",
+        "uri": "http://web.archive.org/web/20100722064340/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100722095136",
+        "uri": "http://web.archive.org/web/20100722095136/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100812202431",
+        "uri": "http://web.archive.org/web/20100812202431/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100901190554",
+        "uri": "http://web.archive.org/web/20100901190554/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20100917120636",
+        "uri": "http://web.archive.org/web/20100917120636/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20101009051230",
+        "uri": "http://web.archive.org/web/20101009051230/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20101024032109",
+        "uri": "http://web.archive.org/web/20101024032109/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20101024052953",
+        "uri": "http://web.archive.org/web/20101024052953/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20101030055342",
+        "uri": "http://web.archive.org/web/20101030055342/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20101110170647",
+        "uri": "http://web.archive.org/web/20101110170647/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20101203050412",
+        "uri": "http://web.archive.org/web/20101203050412/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20101219060220",
+        "uri": "http://web.archive.org/web/20101219060220/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110107105620",
+        "uri": "http://web.archive.org/web/20110107105620/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110108012825",
+        "uri": "http://web.archive.org/web/20110108012825/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20110127145308",
+        "uri": "http://web.archive.org/web/20110127145308/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110202084456",
+        "uri": "http://web.archive.org/web/20110202084456/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20110217235023",
+        "uri": "http://web.archive.org/web/20110217235023/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110320122241",
+        "uri": "http://web.archive.org/web/20110320122241/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110410104455",
+        "uri": "http://web.archive.org/web/20110410104455/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110415113911",
+        "uri": "http://web.archive.org/web/20110415113911/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110423144843",
+        "uri": "http://web.archive.org/web/20110423144843/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20110504060331",
+        "uri": "http://web.archive.org/web/20110504060331/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110508001036",
+        "uri": "http://web.archive.org/web/20110508001036/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110513054757",
+        "uri": "http://web.archive.org/web/20110513054757/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110603131111",
+        "uri": "http://web.archive.org/web/20110603131111/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110618140802",
+        "uri": "http://web.archive.org/web/20110618140802/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110628141102",
+        "uri": "http://web.archive.org/web/20110628141102/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20110702132209",
+        "uri": "http://web.archive.org/web/20110702132209/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110716212136",
+        "uri": "http://web.archive.org/web/20110716212136/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110716212529",
+        "uri": "http://web.archive.org/web/20110716212529/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110722153951",
+        "uri": "http://web.archive.org/web/20110722153951/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110725045844",
+        "uri": "http://web.archive.org/web/20110725045844/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110725045905",
+        "uri": "http://web.archive.org/web/20110725045905/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110807235041",
+        "uri": "http://web.archive.org/web/20110807235041/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110822063026",
+        "uri": "http://web.archive.org/web/20110822063026/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110830170439",
+        "uri": "http://web.archive.org/web/20110830170439/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20110901201627",
+        "uri": "http://web.archive.org/web/20110901201627/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110910190602",
+        "uri": "http://web.archive.org/web/20110910190602/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110919182952",
+        "uri": "http://web.archive.org/web/20110919182952/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20110923185053",
+        "uri": "http://web.archive.org/web/20110923185053/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20111001053628",
+        "uri": "http://web.archive.org/web/20111001053628/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20111006153047",
+        "uri": "http://web.archive.org/web/20111006153047/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20111006175756",
+        "uri": "http://web.archive.org/web/20111006175756/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20111008122758",
+        "uri": "http://web.archive.org/web/20111008122758/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20111013033957",
+        "uri": "http://web.archive.org/web/20111013033957/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20111028181924",
+        "uri": "http://web.archive.org/web/20111028181924/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20111108014041",
+        "uri": "http://web.archive.org/web/20111108014041/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20111112092220",
+        "uri": "http://web.archive.org/web/20111112092220/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20111203225010",
+        "uri": "http://web.archive.org/web/20111203225010/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20111223004749",
+        "uri": "http://web.archive.org/web/20111223004749/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120103074126",
+        "uri": "http://web.archive.org/web/20120103074126/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120103090412",
+        "uri": "http://web.archive.org/web/20120103090412/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20120106201134",
+        "uri": "http://web.archive.org/web/20120106201134/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120107184943",
+        "uri": "http://web.archive.org/web/20120107184943/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120108125122",
+        "uri": "http://web.archive.org/web/20120108125122/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120109201958",
+        "uri": "http://web.archive.org/web/20120109201958/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120110121225",
+        "uri": "http://web.archive.org/web/20120110121225/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120113090614",
+        "uri": "http://web.archive.org/web/20120113090614/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120113111826",
+        "uri": "http://web.archive.org/web/20120113111826/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120124124613",
+        "uri": "http://web.archive.org/web/20120124124613/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120125075027",
+        "uri": "http://web.archive.org/web/20120125075027/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120207062528",
+        "uri": "http://web.archive.org/web/20120207062528/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120208021535",
+        "uri": "http://web.archive.org/web/20120208021535/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120219014159",
+        "uri": "http://web.archive.org/web/20120219014159/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120220021428",
+        "uri": "http://web.archive.org/web/20120220021428/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20120312051846",
+        "uri": "http://web.archive.org/web/20120312051846/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120404055036",
+        "uri": "http://web.archive.org/web/20120404055036/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120504221901",
+        "uri": "http://web.archive.org/web/20120504221901/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120509161702",
+        "uri": "http://web.archive.org/web/20120509161702/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120510164107",
+        "uri": "http://web.archive.org/web/20120510164107/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20120510192809",
+        "uri": "http://web.archive.org/web/20120510192809/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120511035545",
+        "uri": "http://web.archive.org/web/20120511035545/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20120511060234",
+        "uri": "http://web.archive.org/web/20120511060234/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120530044641",
+        "uri": "http://web.archive.org/web/20120530044641/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20120621172828",
+        "uri": "http://web.archive.org/web/20120621172828/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20120717042629",
+        "uri": "http://web.archive.org/web/20120717042629/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20120802203610",
+        "uri": "http://web.archive.org/web/20120802203610/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20120804023417",
+        "uri": "http://web.archive.org/web/20120804023417/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20120809045527",
+        "uri": "http://web.archive.org/web/20120809045527/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120820005150",
+        "uri": "http://web.archive.org/web/20120820005150/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120910000031",
+        "uri": "http://web.archive.org/web/20120910000031/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120919065527",
+        "uri": "http://web.archive.org/web/20120919065527/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20120923151958",
+        "uri": "http://web.archive.org/web/20120923151958/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120926152823",
+        "uri": "http://web.archive.org/web/20120926152823/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120930022218",
+        "uri": "http://web.archive.org/web/20120930022218/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20120930215912",
+        "uri": "http://web.archive.org/web/20120930215912/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20121002212758",
+        "uri": "http://web.archive.org/web/20121002212758/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20121004175445",
+        "uri": "http://web.archive.org/web/20121004175445/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20121005132618",
+        "uri": "http://web.archive.org/web/20121005132618/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20121008054425",
+        "uri": "http://web.archive.org/web/20121008054425/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20121012160610",
+        "uri": "http://web.archive.org/web/20121012160610/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20121014185246",
+        "uri": "http://web.archive.org/web/20121014185246/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20121014194211",
+        "uri": "http://web.archive.org/web/20121014194211/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20121017105042",
+        "uri": "http://web.archive.org/web/20121017105042/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20121105071253",
+        "uri": "http://web.archive.org/web/20121105071253/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20121108065251",
+        "uri": "http://web.archive.org/web/20121108065251/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20121129084624",
+        "uri": "http://web.archive.org/web/20121129084624/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20121207024132",
+        "uri": "http://web.archive.org/web/20121207024132/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20130102001436",
+        "uri": "http://web.archive.org/web/20130102001436/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20130118061816",
+        "uri": "http://web.archive.org/web/20130118061816/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130118161421",
+        "uri": "http://web.archive.org/web/20130118161421/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130131084125",
+        "uri": "http://web.archive.org/web/20130131084125/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20130204043313",
+        "uri": "http://web.archive.org/web/20130204043313/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130209191416",
+        "uri": "http://web.archive.org/web/20130209191416/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130212233035",
+        "uri": "http://web.archive.org/web/20130212233035/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130222085116",
+        "uri": "http://web.archive.org/web/20130222085116/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130302223843",
+        "uri": "http://web.archive.org/web/20130302223843/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20130312063728",
+        "uri": "http://web.archive.org/web/20130312063728/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20130329045058",
+        "uri": "http://web.archive.org/web/20130329045058/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130402050316",
+        "uri": "http://web.archive.org/web/20130402050316/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130404230054",
+        "uri": "http://web.archive.org/web/20130404230054/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130410105051",
+        "uri": "http://web.archive.org/web/20130410105051/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130426121101",
+        "uri": "http://web.archive.org/web/20130426121101/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130507034816",
+        "uri": "http://web.archive.org/web/20130507034816/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130510165325",
+        "uri": "http://web.archive.org/web/20130510165325/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130523162128",
+        "uri": "http://web.archive.org/web/20130523162128/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20130527010649",
+        "uri": "http://web.archive.org/web/20130527010649/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130605142955",
+        "uri": "http://web.archive.org/web/20130605142955/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130625094237",
+        "uri": "http://web.archive.org/web/20130625094237/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20130626002825",
+        "uri": "http://web.archive.org/web/20130626002825/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130721140334",
+        "uri": "http://web.archive.org/web/20130721140334/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130724233944",
+        "uri": "http://web.archive.org/web/20130724233944/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130811002624",
+        "uri": "http://web.archive.org/web/20130811002624/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130819164440",
+        "uri": "http://web.archive.org/web/20130819164440/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130821071119",
+        "uri": "http://web.archive.org/web/20130821071119/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20130921075033",
+        "uri": "http://web.archive.org/web/20130921075033/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20131005014235",
+        "uri": "http://web.archive.org/web/20131005014235/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20131020150040",
+        "uri": "http://web.archive.org/web/20131020150040/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20131022051800",
+        "uri": "http://web.archive.org/web/20131022051800/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20131028105741",
+        "uri": "http://web.archive.org/web/20131028105741/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20131102124700",
+        "uri": "http://web.archive.org/web/20131102124700/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20131107075525",
+        "uri": "http://web.archive.org/web/20131107075525/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20131110234527",
+        "uri": "http://web.archive.org/web/20131110234527/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20131113152453",
+        "uri": "http://web.archive.org/web/20131113152453/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20131214053150",
+        "uri": "http://web.archive.org/web/20131214053150/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20140105171020",
+        "uri": "http://web.archive.org/web/20140105171020/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20140114103333",
+        "uri": "http://web.archive.org/web/20140114103333/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20140209100330",
+        "uri": "http://web.archive.org/web/20140209100330/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20140211004002",
+        "uri": "http://web.archive.org/web/20140211004002/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20140213194919",
+        "uri": "http://web.archive.org/web/20140213194919/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20140312130252",
+        "uri": "http://web.archive.org/web/20140312130252/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20140412025624",
+        "uri": "http://web.archive.org/web/20140412025624/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20140512071653",
+        "uri": "http://web.archive.org/web/20140512071653/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20140512191050",
+        "uri": "http://web.archive.org/web/20140512191050/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20140528023050",
+        "uri": "http://web.archive.org/web/20140528023050/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20140612042750",
+        "uri": "http://web.archive.org/web/20140612042750/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20140629131703",
+        "uri": "http://web.archive.org/web/20140629131703/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20140705184823",
+        "uri": "http://web.archive.org/web/20140705184823/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20140713185424",
+        "uri": "http://web.archive.org/web/20140713185424/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20140726020930",
+        "uri": "http://web.archive.org/web/20140726020930/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20140808054830",
+        "uri": "http://web.archive.org/web/20140808054830/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20140812232228",
+        "uri": "http://web.archive.org/web/20140812232228/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20140813111508",
+        "uri": "http://web.archive.org/web/20140813111508/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20140906161155",
+        "uri": "http://web.archive.org/web/20140906161155/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20140913103253",
+        "uri": "http://web.archive.org/web/20140913103253/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20141010202621",
+        "uri": "http://web.archive.org/web/20141010202621/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20141014181813",
+        "uri": "http://web.archive.org/web/20141014181813/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20141018003205",
+        "uri": "http://web.archive.org/web/20141018003205/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20141114223853",
+        "uri": "http://web.archive.org/web/20141114223853/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20141217112514",
+        "uri": "http://web.archive.org/web/20141217112514/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20141218094120",
+        "uri": "http://web.archive.org/web/20141218094120/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20150117005735",
+        "uri": "http://web.archive.org/web/20150117005735/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150128232843",
+        "uri": "http://web.archive.org/web/20150128232843/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150130170752",
+        "uri": "http://web.archive.org/web/20150130170752/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150206120237",
+        "uri": "http://web.archive.org/web/20150206120237/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150207032138",
+        "uri": "http://web.archive.org/web/20150207032138/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150208130622",
+        "uri": "http://web.archive.org/web/20150208130622/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150223122339",
+        "uri": "http://web.archive.org/web/20150223122339/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150308210257",
+        "uri": "http://web.archive.org/web/20150308210257/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150314204659",
+        "uri": "http://web.archive.org/web/20150314204659/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20150317122702",
+        "uri": "http://web.archive.org/web/20150317122702/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150324213014",
+        "uri": "http://web.archive.org/web/20150324213014/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150326054037",
+        "uri": "http://web.archive.org/web/20150326054037/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20150408021538",
+        "uri": "http://web.archive.org/web/20150408021538/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150409074631",
+        "uri": "http://web.archive.org/web/20150409074631/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150420010815",
+        "uri": "http://web.archive.org/web/20150420010815/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150505223330",
+        "uri": "http://web.archive.org/web/20150505223330/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150525234844",
+        "uri": "http://web.archive.org/web/20150525234844/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150617014429",
+        "uri": "http://web.archive.org/web/20150617014429/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150717155421",
+        "uri": "http://web.archive.org/web/20150717155421/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150721121210",
+        "uri": "http://web.archive.org/web/20150721121210/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150731094805",
+        "uri": "http://web.archive.org/web/20150731094805/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150811105015",
+        "uri": "http://web.archive.org/web/20150811105015/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150814121331",
+        "uri": "http://web.archive.org/web/20150814121331/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150817045754",
+        "uri": "http://web.archive.org/web/20150817045754/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20150905052349",
+        "uri": "http://web.archive.org/web/20150905052349/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20150905055337",
+        "uri": "http://web.archive.org/web/20150905055337/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20150916234250",
+        "uri": "http://web.archive.org/web/20150916234250/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20151013050850",
+        "uri": "http://web.archive.org/web/20151013050850/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20151104115222",
+        "uri": "http://web.archive.org/web/20151104115222/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20151104213752",
+        "uri": "http://web.archive.org/web/20151104213752/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20151105184140",
+        "uri": "http://web.archive.org/web/20151105184140/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20151106151412",
+        "uri": "http://web.archive.org/web/20151106151412/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20151107050436",
+        "uri": "http://web.archive.org/web/20151107050436/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20151113013028",
+        "uri": "http://web.archive.org/web/20151113013028/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20151113101924",
+        "uri": "http://web.archive.org/web/20151113101924/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20151207120304",
+        "uri": "http://web.archive.org/web/20151207120304/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20151213090155",
+        "uri": "http://web.archive.org/web/20151213090155/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20151222161504",
+        "uri": "http://web.archive.org/web/20151222161504/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160101115112",
+        "uri": "http://web.archive.org/web/20160101115112/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160109031357",
+        "uri": "http://web.archive.org/web/20160109031357/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160112044015",
+        "uri": "http://web.archive.org/web/20160112044015/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160113005616",
+        "uri": "http://web.archive.org/web/20160113005616/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160113162000",
+        "uri": "http://web.archive.org/web/20160113162000/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160117052940",
+        "uri": "http://web.archive.org/web/20160117052940/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160130162205",
+        "uri": "http://web.archive.org/web/20160130162205/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160202003336",
+        "uri": "http://web.archive.org/web/20160202003336/http://www.testamentlegions.com"
+      },
+      {
+        "datetime": "20160205061025",
+        "uri": "http://web.archive.org/web/20160205061025/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160207170605",
+        "uri": "http://web.archive.org/web/20160207170605/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160215072949",
+        "uri": "http://web.archive.org/web/20160215072949/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160303222728",
+        "uri": "http://web.archive.org/web/20160303222728/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160303222745",
+        "uri": "http://web.archive.org/web/20160303222745/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160306041237",
+        "uri": "http://web.archive.org/web/20160306041237/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160311062558",
+        "uri": "http://web.archive.org/web/20160311062558/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20160311171029",
+        "uri": "http://web.archive.org/web/20160311171029/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160323202751",
+        "uri": "http://web.archive.org/web/20160323202751/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160329034505",
+        "uri": "http://web.archive.org/web/20160329034505/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160331105449",
+        "uri": "http://web.archive.org/web/20160331105449/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160419232638",
+        "uri": "http://web.archive.org/web/20160419232638/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160504090552",
+        "uri": "http://web.archive.org/web/20160504090552/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160603110108",
+        "uri": "http://web.archive.org/web/20160603110108/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160726153628",
+        "uri": "http://web.archive.org/web/20160726153628/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160731053258",
+        "uri": "http://web.archive.org/web/20160731053258/http://www.testamentlegions.com/"
+      },
+      {
+        "datetime": "20160802154211",
+        "uri": "http://web.archive.org/web/20160802154211/http://testamentlegions.com/"
+      },
+      {
+        "datetime": "20160803002426",
+        "uri": "http://web.archive.org/web/20160803002426/http://www.testamentlegions.com/"
+      }
+    ],
+    "timegate": "http://web.archive.org/web/http://www.testamentlegions.com/",
+    "original": "http://www.testamentlegions.com/",
+    "last": "Sat, 08 Oct 2016 12:03:35 GMT"
+  }
+}

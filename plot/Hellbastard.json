@@ -1,4 +1,6 @@
 {
+  "timemap": "http://web.archive.org/web/timemap/link/http://www.hellbastard.co.uk/",
+  "timegate": "http://web.archive.org/web/http://www.hellbastard.co.uk/",
   "mementos": [
     {
       "datetime": "20081225064614",
@@ -145,53 +147,8 @@
       "uri": "http://web.archive.org/web/20161001195050/http://hellbastard.co.uk/"
     }
   ],
-  "first": "Thu, 25 Dec 2008 06:46:14 GMT",
-  "timegate": "http://web.archive.org/web/http://www.hellbastard.co.uk/",
-  "member_points": [
-    {
-      "t": "19700819130800",
-      "member": "M.S. \"Scruff\" Lewty",
-      "plays": [
-        "vocals",
-        "guitar"
-      ],
-      "f": "19840101000100"
-    },
-    {
-      "t": "20161025051093",
-      "member": "M.S. \"Scruff\" Lewty",
-      "plays": [
-        "vocals",
-        "guitar"
-      ],
-      "f": "20070101000100"
-    },
-    {
-      "t": "20161025051093",
-      "member": "Dave Ingram",
-      "plays": [
-        "bass"
-      ],
-      "f": "20160101000100"
-    },
-    {
-      "t": "20161025051093",
-      "member": "Attila Csihar",
-      "plays": [
-        "Drums"
-      ],
-      "f": "20160101000100"
-    },
-    {
-      "t": "20161025051093",
-      "member": "Danny Adams",
-      "plays": [
-        "guitars"
-      ],
-      "f": "20160101000100"
-    }
-  ],
   "original": "http://www.hellbastard.co.uk/",
-  "timemap": "http://web.archive.org/web/timemap/link/http://www.hellbastard.co.uk/",
+  "member_points": [],
+  "first": "Thu, 25 Dec 2008 06:46:14 GMT",
   "last": "Wed, 12 Oct 2016 08:16:41 GMT"
 }

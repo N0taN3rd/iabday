@@ -1,4 +1,6 @@
 {
+  "timemap": "http://web.archive.org/web/timemap/link/http://www.hatebreed.com/",
+  "timegate": "http://web.archive.org/web/http://www.hatebreed.com/",
   "mementos": [
     {
       "datetime": "19991012153446",
@@ -1985,123 +1987,121 @@
       "uri": "http://web.archive.org/web/20161011144942/http://www.hatebreed.com/"
     }
   ],
-  "first": "Tue, 12 Oct 1999 15:34:46 GMT",
-  "timegate": "http://web.archive.org/web/http://www.hatebreed.com/",
+  "original": "http://www.hatebreed.com/",
   "member_points": [
     {
-      "t": "19700820000800",
-      "member": "Dave Russo",
+      "f": "1994-01-01 00:00:00-00:00",
+      "t": "1970-08-20 00:47:11-00:00",
+      "member": "Wayne Lozinak",
       "plays": [
-        "drums"
-      ],
-      "f": "19940101000100"
+        "guitar "
+      ]
     },
     {
-      "t": "20161025051073",
-      "member": "Jamey Jasta",
+      "f": "2009-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
+      "member": "Wayne Lozinak",
       "plays": [
-        "vocals "
-      ],
-      "f": "19940101000100"
+        "guitar "
+      ]
     },
     {
-      "t": "20161025051073",
-      "member": "Matt Byrne",
-      "plays": [
-        "drums "
-      ],
-      "f": "20010101000100"
-    },
-    {
-      "t": "19700820090800",
-      "member": "Matt McIntosh",
-      "plays": [
-        "guitar"
-      ],
-      "f": "19960101000100"
-    },
-    {
-      "t": "19700820170800",
-      "member": "Lou Richards",
-      "plays": [
-        "guitar"
-      ],
-      "f": "19960101000100"
-    },
-    {
-      "t": "19700820090800",
-      "member": "Jamie \"Pushbutton\" Muckinhaupt \u2013",
-      "plays": [
-        "drums "
-      ],
-      "f": "19970101000100"
-    },
-    {
-      "t": "20161025051073",
-      "member": "Chris Beattie",
-      "plays": [
-        "bass guitar "
-      ],
-      "f": "19940101000100"
-    },
-    {
-      "t": "19700820030800",
+      "f": "1996-01-01 00:00:00-00:00",
+      "t": "1970-08-20 03:33:51-00:00",
       "member": "Nick \"Nickel P\" Papantoniou \u2013",
       "plays": [
         "drums "
-      ],
-      "f": "19960101000100"
+      ]
     },
     {
-      "t": "19700820000800",
-      "member": "Wayne Lozinak",
+      "f": "1996-01-01 00:00:00-00:00",
+      "t": "1970-08-20 09:07:11-00:00",
+      "member": "Matt McIntosh",
       "plays": [
-        "guitar "
-      ],
-      "f": "19940101000100"
+        "guitar ("
+      ]
     },
     {
-      "t": "20161025051073",
-      "member": "Wayne Lozinak",
+      "f": "2001-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
+      "member": "Matt Byrne",
       "plays": [
-        "guitar "
-      ],
-      "f": "20090101000100"
+        "drums "
+      ]
     },
     {
-      "t": "19700820000800",
-      "member": "Larry Dwyer, Jr. \u2013",
+      "f": "1994-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
+      "member": "Jamey Jasta",
       "plays": [
-        "guitar "
-      ],
-      "f": "19940101000100"
+        "vocals "
+      ]
     },
     {
-      "t": "19700821120800",
+      "f": "1999-01-01 00:00:00-00:00",
+      "t": "1970-08-21 12:53:51-00:00",
       "member": "Sean Martin",
       "plays": [
-        "guitar"
-      ],
-      "f": "19990101000100"
+        "guitar ("
+      ]
     },
     {
-      "t": "20161025051073",
+      "f": "1994-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
+      "member": "Chris Beattie",
+      "plays": [
+        "bass guitar "
+      ]
+    },
+    {
+      "f": "1996-01-01 00:00:00-00:00",
+      "t": "1970-08-20 17:27:11-00:00",
+      "member": "Lou Richards",
+      "plays": [
+        "guitar ("
+      ]
+    },
+    {
+      "f": "1997-01-01 00:00:00-00:00",
+      "t": "1970-08-20 09:07:11-00:00",
+      "member": "Jamie \"Pushbutton\" Muckinhaupt \u2013",
+      "plays": [
+        "drums "
+      ]
+    },
+    {
+      "f": "1994-01-01 00:00:00-00:00",
+      "t": "1970-08-20 00:47:11-00:00",
+      "member": "Dave Russo",
+      "plays": [
+        "drums ("
+      ]
+    },
+    {
+      "f": "2006-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
       "member": "Frank Novinec",
       "plays": [
         "guitar "
-      ],
-      "f": "20060101000100"
+      ]
     },
     {
-      "t": "19700820140800",
+      "f": "1994-01-01 00:00:00-00:00",
+      "t": "1970-08-20 00:47:11-00:00",
+      "member": "Larry Dwyer, Jr. \u2013",
+      "plays": [
+        "guitar "
+      ]
+    },
+    {
+      "f": "1999-01-01 00:00:00-00:00",
+      "t": "1970-08-20 14:40:31-00:00",
       "member": "Rigg Ross",
       "plays": [
-        "drums"
-      ],
-      "f": "19990101000100"
+        "drums ("
+      ]
     }
   ],
-  "original": "http://www.hatebreed.com/",
-  "timemap": "http://web.archive.org/web/timemap/link/http://www.hatebreed.com/",
+  "first": "Tue, 12 Oct 1999 15:34:46 GMT",
   "last": "Mon, 17 Oct 2016 00:14:46 GMT"
 }

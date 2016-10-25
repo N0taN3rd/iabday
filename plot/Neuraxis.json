@@ -1,4 +1,6 @@
 {
+  "timemap": "http://web.archive.org/web/timemap/link/http://www.neuraxis.org/",
+  "timegate": "http://web.archive.org/web/http://www.neuraxis.org/",
   "mementos": [
     {
       "datetime": "20010331234945",
@@ -945,99 +947,57 @@
       "uri": "http://web.archive.org/web/20160419190338/http://www.neuraxis.org/"
     }
   ],
-  "first": "Sat, 31 Mar 2001 23:49:45 GMT",
-  "timegate": "http://web.archive.org/web/http://www.neuraxis.org/",
+  "original": "http://www.neuraxis.org/",
   "member_points": [
     {
-      "t": "19700820090800",
-      "member": "Martin Auger",
-      "plays": [
-        "drums"
-      ],
-      "f": "19990101000100"
-    },
-    {
-      "t": "19700820030800",
-      "member": "Alesis",
-      "plays": [
-        "drums"
-      ],
-      "f": "19940101000100"
-    },
-    {
-      "t": "19700820030800",
-      "member": "Michel Brisebois",
-      "plays": [
-        "vocals"
-      ],
-      "f": "19940101000100"
-    },
-    {
-      "t": "19700820030800",
-      "member": "Yan Thiel",
-      "plays": [
-        "bass"
-      ],
-      "f": "19940101000100"
-    },
-    {
-      "t": "20161025051083",
-      "member": "Oli Beaudoin",
-      "plays": [
-        "drums "
-      ],
-      "f": "20090101000100"
-    },
-    {
-      "t": "19700820030800",
-      "member": "Felipe A. Quinzanos",
-      "plays": [
-        "guitar"
-      ],
-      "f": "19940101000100"
-    },
-    {
-      "t": "19700820060800",
-      "member": "Steven Henry",
-      "plays": [
-        "guitar"
-      ],
-      "f": "19970101000100"
-    },
-    {
-      "t": "19700820230800",
-      "member": "Etienne Gallo",
-      "plays": [
-        "drums"
-      ],
-      "f": "20030101000100"
-    },
-    {
-      "t": "20161025051083",
-      "member": "Olivier Pinard",
-      "plays": [
-        "bass "
-      ],
-      "f": "20090101000100"
-    },
-    {
-      "t": "20161025051083",
+      "f": "2007-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
       "member": "Alex Leblanc",
       "plays": [
         "vocals "
-      ],
-      "f": "20070101000100"
+      ]
     },
     {
-      "t": "20161025051083",
+      "f": "1999-01-01 00:00:00-00:00",
+      "t": "1970-08-20 09:07:11-00:00",
+      "member": "Martin Auger",
+      "plays": [
+        "drums ("
+      ]
+    },
+    {
+      "f": "2003-01-01 00:00:00-00:00",
+      "t": "1970-08-20 23:00:31-00:00",
+      "member": "Etienne Gallo (Augury, Negativa) \u2013",
+      "plays": [
+        "drums "
+      ]
+    },
+    {
+      "f": "2009-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
+      "member": "Olivier Pinard",
+      "plays": [
+        "bass "
+      ]
+    },
+    {
+      "f": "1996-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
       "member": "Rob Milley",
       "plays": [
         "guitar "
-      ],
-      "f": "19960101000100"
+      ]
+    },
+    {
+      "f": "2009-01-01 00:00:00-00:00",
+      "t": "2016-10-25 22:04:50-00:00",
+      "member": "Oli Beaudoin",
+      "plays": [
+        "drums "
+      ]
     }
   ],
-  "original": "http://www.neuraxis.org/",
-  "timemap": "http://web.archive.org/web/timemap/link/http://www.neuraxis.org/",
+  "first": "Sat, 31 Mar 2001 23:49:45 GMT",
   "last": "Tue, 04 Oct 2016 03:34:22 GMT"
 }

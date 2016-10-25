@@ -1,0 +1,210 @@
+{
+  "info": [
+    {
+      "active": [
+        {
+          "from": "1984",
+          "to": "1995"
+        }
+      ],
+      "member": "Keith Clark",
+      "plays": [
+        "drums",
+        "percussion",
+        "backing vocals"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1979",
+          "to": "1983"
+        }
+      ],
+      "member": "Lucky Lehrer",
+      "plays": [
+        "drums",
+        "percussion"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1983",
+          "to": "1984"
+        }
+      ],
+      "member": "Chuck Biscuits",
+      "plays": [
+        "drums",
+        "percussion"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1979",
+          "to": "2010"
+        }
+      ],
+      "member": "Greg Hetson",
+      "plays": [
+        "lead guitar",
+        "backing vocals"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2001",
+          "to": "2010"
+        }
+      ],
+      "member": "Kevin Fitzgerald",
+      "plays": [
+        "drums",
+        "percussion"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1979",
+          "to": "1983"
+        }
+      ],
+      "member": "Roger Rogerson",
+      "plays": [
+        "bass",
+        "backing vocals"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1979",
+          "to": "2010"
+        }
+      ],
+      "member": "Keith Morris",
+      "plays": [
+        "lead vocals"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1984",
+          "to": "2010"
+        }
+      ],
+      "member": "Zander Schloss",
+      "plays": [
+        "bass",
+        "backing vocals"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1983",
+          "to": "1984"
+        }
+      ],
+      "member": "Earl Liberty",
+      "plays": [
+        "bass",
+        "backing vocals"
+      ]
+    }
+  ],
+  "tm": {
+    "first": "Mon, 30 Apr 2012 20:22:06 GMT",
+    "self": "http://web.archive.org/web/timemap/link/http://www.circlejerks.net/",
+    "mementos": [
+      {
+        "datetime": "20120430202206",
+        "uri": "http://web.archive.org/web/20120430202206/http://www.circlejerks.net/"
+      },
+      {
+        "datetime": "20120601063138",
+        "uri": "http://web.archive.org/web/20120601063138/http://www.circlejerks.net/"
+      },
+      {
+        "datetime": "20120702033455",
+        "uri": "http://web.archive.org/web/20120702033455/http://www.circlejerks.net/"
+      },
+      {
+        "datetime": "20130530224111",
+        "uri": "http://web.archive.org/web/20130530224111/http://circlejerks.net/"
+      },
+      {
+        "datetime": "20140311095105",
+        "uri": "http://web.archive.org/web/20140311095105/http://www.circlejerks.net/"
+      },
+      {
+        "datetime": "20141217012503",
+        "uri": "http://web.archive.org/web/20141217012503/http://circlejerks.net/"
+      },
+      {
+        "datetime": "20150216231520",
+        "uri": "http://web.archive.org/web/20150216231520/http://www.circlejerks.net/"
+      },
+      {
+        "datetime": "20150402122152",
+        "uri": "http://web.archive.org/web/20150402122152/http://www.circlejerks.net/"
+      },
+      {
+        "datetime": "20150402131302",
+        "uri": "http://web.archive.org/web/20150402131302/http://www.circlejerks.net/"
+      },
+      {
+        "datetime": "20150801095820",
+        "uri": "http://web.archive.org/web/20150801095820/http://circlejerks.net/"
+      },
+      {
+        "datetime": "20150927185633",
+        "uri": "http://web.archive.org/web/20150927185633/http://www.circlejerks.net/"
+      },
+      {
+        "datetime": "20151014011252",
+        "uri": "http://web.archive.org/web/20151014011252/http://circlejerks.net/"
+      },
+      {
+        "datetime": "20160111144941",
+        "uri": "http://web.archive.org/web/20160111144941/http://circlejerks.net/"
+      },
+      {
+        "datetime": "20160303193100",
+        "uri": "http://web.archive.org/web/20160303193100/http://www.circlejerks.net/"
+      },
+      {
+        "datetime": "20160303234620",
+        "uri": "http://web.archive.org/web/20160303234620/http://www.circlejerks.net/"
+      },
+      {
+        "datetime": "20160307042135",
+        "uri": "http://web.archive.org/web/20160307042135/http://www.circlejerks.net/"
+      },
+      {
+        "datetime": "20160311010943",
+        "uri": "http://web.archive.org/web/20160311010943/http://circlejerks.net/"
+      },
+      {
+        "datetime": "20160410032019",
+        "uri": "http://web.archive.org/web/20160410032019/http://www.circlejerks.net/"
+      },
+      {
+        "datetime": "20160422080853",
+        "uri": "http://web.archive.org/web/20160422080853/http://www.circlejerks.net/"
+      },
+      {
+        "datetime": "20160503175818",
+        "uri": "http://web.archive.org/web/20160503175818/http://www.circlejerks.net/"
+      }
+    ],
+    "timegate": "http://web.archive.org/web/http://www.circlejerks.net/",
+    "original": "http://www.circlejerks.net/",
+    "last": "Mon, 03 Oct 2016 18:46:16 GMT"
+  }
+}

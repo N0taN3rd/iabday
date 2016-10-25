@@ -1,0 +1,3222 @@
+{
+  "info": [
+    {
+      "active": [
+        {
+          "from": "1991",
+          "to": "present"
+        }
+      ],
+      "member": "Varg Vikernes",
+      "plays": [
+        "synthesizer",
+        " drum kit",
+        "vocals",
+        " lyrics",
+        " rhythm and lead guitar",
+        " bass guitar"
+      ]
+    }
+  ],
+  "tm": {
+    "first": "Wed, 24 Jan 2001 06:50:00 GMT",
+    "self": "http://web.archive.org/web/timemap/link/http://burzum.org/",
+    "mementos": [
+      {
+        "datetime": "20010124065000",
+        "uri": "http://web.archive.org/web/20010124065000/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20010202070800",
+        "uri": "http://web.archive.org/web/20010202070800/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20010923043338",
+        "uri": "http://web.archive.org/web/20010923043338/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20020525141009",
+        "uri": "http://web.archive.org/web/20020525141009/http://burzum.org/"
+      },
+      {
+        "datetime": "20040327224118",
+        "uri": "http://web.archive.org/web/20040327224118/http://burzum.org/"
+      },
+      {
+        "datetime": "20040506070600",
+        "uri": "http://web.archive.org/web/20040506070600/http://burzum.org/"
+      },
+      {
+        "datetime": "20040519151504",
+        "uri": "http://web.archive.org/web/20040519151504/http://burzum.org/"
+      },
+      {
+        "datetime": "20040520200642",
+        "uri": "http://web.archive.org/web/20040520200642/http://burzum.org/"
+      },
+      {
+        "datetime": "20040612050422",
+        "uri": "http://web.archive.org/web/20040612050422/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20040612115536",
+        "uri": "http://web.archive.org/web/20040612115536/http://burzum.org/"
+      },
+      {
+        "datetime": "20040707081926",
+        "uri": "http://web.archive.org/web/20040707081926/http://burzum.org/"
+      },
+      {
+        "datetime": "20040710174612",
+        "uri": "http://web.archive.org/web/20040710174612/http://burzum.org/"
+      },
+      {
+        "datetime": "20040712081720",
+        "uri": "http://web.archive.org/web/20040712081720/http://burzum.org/"
+      },
+      {
+        "datetime": "20040727120409",
+        "uri": "http://web.archive.org/web/20040727120409/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20040831120248",
+        "uri": "http://web.archive.org/web/20040831120248/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20040901073208",
+        "uri": "http://web.archive.org/web/20040901073208/http://burzum.org/"
+      },
+      {
+        "datetime": "20040903124919",
+        "uri": "http://web.archive.org/web/20040903124919/http://burzum.org/"
+      },
+      {
+        "datetime": "20040924051132",
+        "uri": "http://web.archive.org/web/20040924051132/http://burzum.org/"
+      },
+      {
+        "datetime": "20040925165025",
+        "uri": "http://web.archive.org/web/20040925165025/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20040929053202",
+        "uri": "http://web.archive.org/web/20040929053202/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20041204020300",
+        "uri": "http://web.archive.org/web/20041204020300/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20041205004336",
+        "uri": "http://web.archive.org/web/20041205004336/http://burzum.org/"
+      },
+      {
+        "datetime": "20041209052839",
+        "uri": "http://web.archive.org/web/20041209052839/http://burzum.org/"
+      },
+      {
+        "datetime": "20041211001225",
+        "uri": "http://web.archive.org/web/20041211001225/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050114022055",
+        "uri": "http://web.archive.org/web/20050114022055/http://burzum.org/"
+      },
+      {
+        "datetime": "20050118021000",
+        "uri": "http://web.archive.org/web/20050118021000/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050130044528",
+        "uri": "http://web.archive.org/web/20050130044528/http://burzum.org/"
+      },
+      {
+        "datetime": "20050204170924",
+        "uri": "http://web.archive.org/web/20050204170924/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050206224121",
+        "uri": "http://web.archive.org/web/20050206224121/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050208092112",
+        "uri": "http://web.archive.org/web/20050208092112/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050210133400",
+        "uri": "http://web.archive.org/web/20050210133400/http://burzum.org/"
+      },
+      {
+        "datetime": "20050212004725",
+        "uri": "http://web.archive.org/web/20050212004725/http://burzum.org/"
+      },
+      {
+        "datetime": "20050220101200",
+        "uri": "http://web.archive.org/web/20050220101200/http://burzum.org/"
+      },
+      {
+        "datetime": "20050305104348",
+        "uri": "http://web.archive.org/web/20050305104348/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050402121223",
+        "uri": "http://web.archive.org/web/20050402121223/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050511002418",
+        "uri": "http://web.archive.org/web/20050511002418/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050512022456",
+        "uri": "http://web.archive.org/web/20050512022456/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050513230914",
+        "uri": "http://web.archive.org/web/20050513230914/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050515013754",
+        "uri": "http://web.archive.org/web/20050515013754/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050519031655",
+        "uri": "http://web.archive.org/web/20050519031655/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050519234737",
+        "uri": "http://web.archive.org/web/20050519234737/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050520234730",
+        "uri": "http://web.archive.org/web/20050520234730/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050522005545",
+        "uri": "http://web.archive.org/web/20050522005545/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050522080446",
+        "uri": "http://web.archive.org/web/20050522080446/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050523002253",
+        "uri": "http://web.archive.org/web/20050523002253/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050523233018",
+        "uri": "http://web.archive.org/web/20050523233018/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050527031538",
+        "uri": "http://web.archive.org/web/20050527031538/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050531214148",
+        "uri": "http://web.archive.org/web/20050531214148/http://burzum.org/"
+      },
+      {
+        "datetime": "20050602011709",
+        "uri": "http://web.archive.org/web/20050602011709/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050603014108",
+        "uri": "http://web.archive.org/web/20050603014108/http://burzum.org/"
+      },
+      {
+        "datetime": "20050604000047",
+        "uri": "http://web.archive.org/web/20050604000047/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050604233245",
+        "uri": "http://web.archive.org/web/20050604233245/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050607001250",
+        "uri": "http://web.archive.org/web/20050607001250/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050610023100",
+        "uri": "http://web.archive.org/web/20050610023100/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050611012357",
+        "uri": "http://web.archive.org/web/20050611012357/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050612233632",
+        "uri": "http://web.archive.org/web/20050612233632/http://burzum.org/"
+      },
+      {
+        "datetime": "20050614012518",
+        "uri": "http://web.archive.org/web/20050614012518/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050615013905",
+        "uri": "http://web.archive.org/web/20050615013905/http://burzum.org/"
+      },
+      {
+        "datetime": "20050616020034",
+        "uri": "http://web.archive.org/web/20050616020034/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050619023013",
+        "uri": "http://web.archive.org/web/20050619023013/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050627012654",
+        "uri": "http://web.archive.org/web/20050627012654/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050629005309",
+        "uri": "http://web.archive.org/web/20050629005309/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050701011519",
+        "uri": "http://web.archive.org/web/20050701011519/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050703022153",
+        "uri": "http://web.archive.org/web/20050703022153/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050707024134",
+        "uri": "http://web.archive.org/web/20050707024134/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050717002644",
+        "uri": "http://web.archive.org/web/20050717002644/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050720000315",
+        "uri": "http://web.archive.org/web/20050720000315/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050721003005",
+        "uri": "http://web.archive.org/web/20050721003005/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050722020414",
+        "uri": "http://web.archive.org/web/20050722020414/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050724003411",
+        "uri": "http://web.archive.org/web/20050724003411/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050726235748",
+        "uri": "http://web.archive.org/web/20050726235748/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050729012828",
+        "uri": "http://web.archive.org/web/20050729012828/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050801001926",
+        "uri": "http://web.archive.org/web/20050801001926/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050802083453",
+        "uri": "http://web.archive.org/web/20050802083453/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050802233948",
+        "uri": "http://web.archive.org/web/20050802233948/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050804013020",
+        "uri": "http://web.archive.org/web/20050804013020/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050806084041",
+        "uri": "http://web.archive.org/web/20050806084041/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050812021627",
+        "uri": "http://web.archive.org/web/20050812021627/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050814022121",
+        "uri": "http://web.archive.org/web/20050814022121/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050814233201",
+        "uri": "http://web.archive.org/web/20050814233201/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050819004907",
+        "uri": "http://web.archive.org/web/20050819004907/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050822210051",
+        "uri": "http://web.archive.org/web/20050822210051/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050823000109",
+        "uri": "http://web.archive.org/web/20050823000109/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050827185529",
+        "uri": "http://web.archive.org/web/20050827185529/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050828005415",
+        "uri": "http://web.archive.org/web/20050828005415/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050828164205",
+        "uri": "http://web.archive.org/web/20050828164205/http://burzum.org/"
+      },
+      {
+        "datetime": "20050828191436",
+        "uri": "http://web.archive.org/web/20050828191436/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050828201027",
+        "uri": "http://web.archive.org/web/20050828201027/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050828221221",
+        "uri": "http://web.archive.org/web/20050828221221/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050828224620",
+        "uri": "http://web.archive.org/web/20050828224620/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050921081041",
+        "uri": "http://web.archive.org/web/20050921081041/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050921083057",
+        "uri": "http://web.archive.org/web/20050921083057/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20050923180722",
+        "uri": "http://web.archive.org/web/20050923180722/http://burzum.org/"
+      },
+      {
+        "datetime": "20051101021437",
+        "uri": "http://web.archive.org/web/20051101021437/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20051126032236",
+        "uri": "http://web.archive.org/web/20051126032236/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20051126144138",
+        "uri": "http://web.archive.org/web/20051126144138/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20051128005130",
+        "uri": "http://web.archive.org/web/20051128005130/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20051207151928",
+        "uri": "http://web.archive.org/web/20051207151928/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20051210132122",
+        "uri": "http://web.archive.org/web/20051210132122/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20051212100330",
+        "uri": "http://web.archive.org/web/20051212100330/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20051224073248",
+        "uri": "http://web.archive.org/web/20051224073248/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20051230080651",
+        "uri": "http://web.archive.org/web/20051230080651/http://burzum.org/"
+      },
+      {
+        "datetime": "20060101023155",
+        "uri": "http://web.archive.org/web/20060101023155/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060111154518",
+        "uri": "http://web.archive.org/web/20060111154518/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060114050634",
+        "uri": "http://web.archive.org/web/20060114050634/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060115064747",
+        "uri": "http://web.archive.org/web/20060115064747/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060116062039",
+        "uri": "http://web.archive.org/web/20060116062039/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060202065327",
+        "uri": "http://web.archive.org/web/20060202065327/http://burzum.org/"
+      },
+      {
+        "datetime": "20060202233238",
+        "uri": "http://web.archive.org/web/20060202233238/http://burzum.org/"
+      },
+      {
+        "datetime": "20060206110754",
+        "uri": "http://web.archive.org/web/20060206110754/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060208025136",
+        "uri": "http://web.archive.org/web/20060208025136/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060217023730",
+        "uri": "http://web.archive.org/web/20060217023730/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060221122105",
+        "uri": "http://web.archive.org/web/20060221122105/http://burzum.org/"
+      },
+      {
+        "datetime": "20060221160036",
+        "uri": "http://web.archive.org/web/20060221160036/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060224185854",
+        "uri": "http://web.archive.org/web/20060224185854/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060302180809",
+        "uri": "http://web.archive.org/web/20060302180809/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060318095558",
+        "uri": "http://web.archive.org/web/20060318095558/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060318095754",
+        "uri": "http://web.archive.org/web/20060318095754/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060318100111",
+        "uri": "http://web.archive.org/web/20060318100111/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060320003504",
+        "uri": "http://web.archive.org/web/20060320003504/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060330115612",
+        "uri": "http://web.archive.org/web/20060330115612/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060331050151",
+        "uri": "http://web.archive.org/web/20060331050151/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060402195203",
+        "uri": "http://web.archive.org/web/20060402195203/http://burzum.org/"
+      },
+      {
+        "datetime": "20060404052123",
+        "uri": "http://web.archive.org/web/20060404052123/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060406134339",
+        "uri": "http://web.archive.org/web/20060406134339/http://burzum.org/"
+      },
+      {
+        "datetime": "20060407061214",
+        "uri": "http://web.archive.org/web/20060407061214/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060407061219",
+        "uri": "http://web.archive.org/web/20060407061219/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060408190720",
+        "uri": "http://web.archive.org/web/20060408190720/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060408190808",
+        "uri": "http://web.archive.org/web/20060408190808/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060410105910",
+        "uri": "http://web.archive.org/web/20060410105910/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060413110924",
+        "uri": "http://web.archive.org/web/20060413110924/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060417121150",
+        "uri": "http://web.archive.org/web/20060417121150/http://burzum.org/"
+      },
+      {
+        "datetime": "20060417194227",
+        "uri": "http://web.archive.org/web/20060417194227/http://burzum.org/"
+      },
+      {
+        "datetime": "20060419080450",
+        "uri": "http://web.archive.org/web/20060419080450/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060419213326",
+        "uri": "http://web.archive.org/web/20060419213326/http://burzum.org/"
+      },
+      {
+        "datetime": "20060420160410",
+        "uri": "http://web.archive.org/web/20060420160410/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060422152330",
+        "uri": "http://web.archive.org/web/20060422152330/http://burzum.org/"
+      },
+      {
+        "datetime": "20060423103019",
+        "uri": "http://web.archive.org/web/20060423103019/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060424103702",
+        "uri": "http://web.archive.org/web/20060424103702/http://burzum.org/"
+      },
+      {
+        "datetime": "20060426214140",
+        "uri": "http://web.archive.org/web/20060426214140/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060428080208",
+        "uri": "http://web.archive.org/web/20060428080208/http://burzum.org/"
+      },
+      {
+        "datetime": "20060503015025",
+        "uri": "http://web.archive.org/web/20060503015025/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060503210055",
+        "uri": "http://web.archive.org/web/20060503210055/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060506045438",
+        "uri": "http://web.archive.org/web/20060506045438/http://burzum.org/"
+      },
+      {
+        "datetime": "20060507022442",
+        "uri": "http://web.archive.org/web/20060507022442/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060509013243",
+        "uri": "http://web.archive.org/web/20060509013243/http://burzum.org/"
+      },
+      {
+        "datetime": "20060522084409",
+        "uri": "http://web.archive.org/web/20060522084409/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060522084445",
+        "uri": "http://web.archive.org/web/20060522084445/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060522084605",
+        "uri": "http://web.archive.org/web/20060522084605/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060522194408",
+        "uri": "http://web.archive.org/web/20060522194408/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060523194937",
+        "uri": "http://web.archive.org/web/20060523194937/http://burzum.org/"
+      },
+      {
+        "datetime": "20060523204637",
+        "uri": "http://web.archive.org/web/20060523204637/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060524212540",
+        "uri": "http://web.archive.org/web/20060524212540/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060525235832",
+        "uri": "http://web.archive.org/web/20060525235832/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060526203211",
+        "uri": "http://web.archive.org/web/20060526203211/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060527195134",
+        "uri": "http://web.archive.org/web/20060527195134/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060528211826",
+        "uri": "http://web.archive.org/web/20060528211826/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060529211122",
+        "uri": "http://web.archive.org/web/20060529211122/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060610095351",
+        "uri": "http://web.archive.org/web/20060610095351/http://burzum.org/"
+      },
+      {
+        "datetime": "20060613081912",
+        "uri": "http://web.archive.org/web/20060613081912/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060613082210",
+        "uri": "http://web.archive.org/web/20060613082210/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060613141938",
+        "uri": "http://web.archive.org/web/20060613141938/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060614224744",
+        "uri": "http://web.archive.org/web/20060614224744/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060615115458",
+        "uri": "http://web.archive.org/web/20060615115458/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060616014553",
+        "uri": "http://web.archive.org/web/20060616014553/http://burzum.org/"
+      },
+      {
+        "datetime": "20060616031837",
+        "uri": "http://web.archive.org/web/20060616031837/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060617133324",
+        "uri": "http://web.archive.org/web/20060617133324/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060618042550",
+        "uri": "http://web.archive.org/web/20060618042550/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060619220707",
+        "uri": "http://web.archive.org/web/20060619220707/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060621013732",
+        "uri": "http://web.archive.org/web/20060621013732/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060622012845",
+        "uri": "http://web.archive.org/web/20060622012845/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060623004412",
+        "uri": "http://web.archive.org/web/20060623004412/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060624105247",
+        "uri": "http://web.archive.org/web/20060624105247/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060625225020",
+        "uri": "http://web.archive.org/web/20060625225020/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060625225141",
+        "uri": "http://web.archive.org/web/20060625225141/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060627025613",
+        "uri": "http://web.archive.org/web/20060627025613/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060628050655",
+        "uri": "http://web.archive.org/web/20060628050655/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060629081507",
+        "uri": "http://web.archive.org/web/20060629081507/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060701054850",
+        "uri": "http://web.archive.org/web/20060701054850/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060704234159",
+        "uri": "http://web.archive.org/web/20060704234159/http://burzum.org/"
+      },
+      {
+        "datetime": "20060705050259",
+        "uri": "http://web.archive.org/web/20060705050259/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060706025932",
+        "uri": "http://web.archive.org/web/20060706025932/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060706160922",
+        "uri": "http://web.archive.org/web/20060706160922/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060707000611",
+        "uri": "http://web.archive.org/web/20060707000611/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060712091345",
+        "uri": "http://web.archive.org/web/20060712091345/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060717100634",
+        "uri": "http://web.archive.org/web/20060717100634/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060718152947",
+        "uri": "http://web.archive.org/web/20060718152947/http://burzum.org/"
+      },
+      {
+        "datetime": "20060720110037",
+        "uri": "http://web.archive.org/web/20060720110037/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060720110151",
+        "uri": "http://web.archive.org/web/20060720110151/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060721023704",
+        "uri": "http://web.archive.org/web/20060721023704/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060721093824",
+        "uri": "http://web.archive.org/web/20060721093824/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060803064725",
+        "uri": "http://web.archive.org/web/20060803064725/http://burzum.org/"
+      },
+      {
+        "datetime": "20060808184010",
+        "uri": "http://web.archive.org/web/20060808184010/http://burzum.org/"
+      },
+      {
+        "datetime": "20060811193103",
+        "uri": "http://web.archive.org/web/20060811193103/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060812153737",
+        "uri": "http://web.archive.org/web/20060812153737/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060819101807",
+        "uri": "http://web.archive.org/web/20060819101807/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060821023348",
+        "uri": "http://web.archive.org/web/20060821023348/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060821115026",
+        "uri": "http://web.archive.org/web/20060821115026/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060821115146",
+        "uri": "http://web.archive.org/web/20060821115146/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20060821115247",
+        "uri": "http://web.archive.org/web/20060821115247/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20061004040927",
+        "uri": "http://web.archive.org/web/20061004040927/http://burzum.org/"
+      },
+      {
+        "datetime": "20061205033923",
+        "uri": "http://web.archive.org/web/20061205033923/http://burzum.org/"
+      },
+      {
+        "datetime": "20061205093516",
+        "uri": "http://web.archive.org/web/20061205093516/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20061210020043",
+        "uri": "http://web.archive.org/web/20061210020043/http://burzum.org/"
+      },
+      {
+        "datetime": "20061210144039",
+        "uri": "http://web.archive.org/web/20061210144039/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20061210220430",
+        "uri": "http://web.archive.org/web/20061210220430/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20061215113321",
+        "uri": "http://web.archive.org/web/20061215113321/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20061222002700",
+        "uri": "http://web.archive.org/web/20061222002700/http://burzum.org/"
+      },
+      {
+        "datetime": "20061231164147",
+        "uri": "http://web.archive.org/web/20061231164147/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070102225133",
+        "uri": "http://web.archive.org/web/20070102225133/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070105105338",
+        "uri": "http://web.archive.org/web/20070105105338/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070110065845",
+        "uri": "http://web.archive.org/web/20070110065845/http://burzum.org/"
+      },
+      {
+        "datetime": "20070111084620",
+        "uri": "http://web.archive.org/web/20070111084620/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070115012602",
+        "uri": "http://web.archive.org/web/20070115012602/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070120003829",
+        "uri": "http://web.archive.org/web/20070120003829/http://burzum.org/"
+      },
+      {
+        "datetime": "20070124215322",
+        "uri": "http://web.archive.org/web/20070124215322/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070126101812",
+        "uri": "http://web.archive.org/web/20070126101812/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070202022734",
+        "uri": "http://web.archive.org/web/20070202022734/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070202103449",
+        "uri": "http://web.archive.org/web/20070202103449/http://burzum.org/"
+      },
+      {
+        "datetime": "20070203125939",
+        "uri": "http://web.archive.org/web/20070203125939/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070203144207",
+        "uri": "http://web.archive.org/web/20070203144207/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070208212812",
+        "uri": "http://web.archive.org/web/20070208212812/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070211001059",
+        "uri": "http://web.archive.org/web/20070211001059/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070212191426",
+        "uri": "http://web.archive.org/web/20070212191426/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070213031302",
+        "uri": "http://web.archive.org/web/20070213031302/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070217105145",
+        "uri": "http://web.archive.org/web/20070217105145/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070219072928",
+        "uri": "http://web.archive.org/web/20070219072928/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070220205651",
+        "uri": "http://web.archive.org/web/20070220205651/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070228180406",
+        "uri": "http://web.archive.org/web/20070228180406/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070308195121",
+        "uri": "http://web.archive.org/web/20070308195121/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070318161939",
+        "uri": "http://web.archive.org/web/20070318161939/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070327104258",
+        "uri": "http://web.archive.org/web/20070327104258/http://burzum.org/"
+      },
+      {
+        "datetime": "20070403044615",
+        "uri": "http://web.archive.org/web/20070403044615/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070404130857",
+        "uri": "http://web.archive.org/web/20070404130857/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070404161611",
+        "uri": "http://web.archive.org/web/20070404161611/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070406173709",
+        "uri": "http://web.archive.org/web/20070406173709/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070505115209",
+        "uri": "http://web.archive.org/web/20070505115209/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070510020523",
+        "uri": "http://web.archive.org/web/20070510020523/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070520071300",
+        "uri": "http://web.archive.org/web/20070520071300/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070527181340",
+        "uri": "http://web.archive.org/web/20070527181340/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070602104952",
+        "uri": "http://web.archive.org/web/20070602104952/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070611222354",
+        "uri": "http://web.archive.org/web/20070611222354/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070615144220",
+        "uri": "http://web.archive.org/web/20070615144220/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070703163127",
+        "uri": "http://web.archive.org/web/20070703163127/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070717022300",
+        "uri": "http://web.archive.org/web/20070717022300/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070727093510",
+        "uri": "http://web.archive.org/web/20070727093510/http://burzum.org/"
+      },
+      {
+        "datetime": "20070807100644",
+        "uri": "http://web.archive.org/web/20070807100644/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070826175150",
+        "uri": "http://web.archive.org/web/20070826175150/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070915015355",
+        "uri": "http://web.archive.org/web/20070915015355/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070927215855",
+        "uri": "http://web.archive.org/web/20070927215855/http://burzum.org/"
+      },
+      {
+        "datetime": "20070927215918",
+        "uri": "http://web.archive.org/web/20070927215918/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20070927220100",
+        "uri": "http://web.archive.org/web/20070927220100/http://www.burzum.org//"
+      },
+      {
+        "datetime": "20071002092856",
+        "uri": "http://web.archive.org/web/20071002092856/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071005030123",
+        "uri": "http://web.archive.org/web/20071005030123/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071006133057",
+        "uri": "http://web.archive.org/web/20071006133057/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071007085006",
+        "uri": "http://web.archive.org/web/20071007085006/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071007182230",
+        "uri": "http://web.archive.org/web/20071007182230/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071008202216",
+        "uri": "http://web.archive.org/web/20071008202216/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071009221117",
+        "uri": "http://web.archive.org/web/20071009221117/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071011194235",
+        "uri": "http://web.archive.org/web/20071011194235/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071012080555",
+        "uri": "http://web.archive.org/web/20071012080555/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071012113236",
+        "uri": "http://web.archive.org/web/20071012113236/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071012225844",
+        "uri": "http://web.archive.org/web/20071012225844/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071013113756",
+        "uri": "http://web.archive.org/web/20071013113756/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071014091617",
+        "uri": "http://web.archive.org/web/20071014091617/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071016041938",
+        "uri": "http://web.archive.org/web/20071016041938/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071019032209",
+        "uri": "http://web.archive.org/web/20071019032209/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071019042130",
+        "uri": "http://web.archive.org/web/20071019042130/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071021182533",
+        "uri": "http://web.archive.org/web/20071021182533/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071022064948",
+        "uri": "http://web.archive.org/web/20071022064948/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071025005806",
+        "uri": "http://web.archive.org/web/20071025005806/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071026002250",
+        "uri": "http://web.archive.org/web/20071026002250/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071029115529",
+        "uri": "http://web.archive.org/web/20071029115529/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071102022315",
+        "uri": "http://web.archive.org/web/20071102022315/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071109085131",
+        "uri": "http://web.archive.org/web/20071109085131/http://www.burzum.org/?"
+      },
+      {
+        "datetime": "20071112135047",
+        "uri": "http://web.archive.org/web/20071112135047/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071115222410",
+        "uri": "http://web.archive.org/web/20071115222410/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071119071804",
+        "uri": "http://web.archive.org/web/20071119071804/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071123013629",
+        "uri": "http://web.archive.org/web/20071123013629/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071126130934",
+        "uri": "http://web.archive.org/web/20071126130934/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071129212445",
+        "uri": "http://web.archive.org/web/20071129212445/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071203091926",
+        "uri": "http://web.archive.org/web/20071203091926/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071207113026",
+        "uri": "http://web.archive.org/web/20071207113026/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071209195359",
+        "uri": "http://web.archive.org/web/20071209195359/http://www.burzum.org/?"
+      },
+      {
+        "datetime": "20071211025331",
+        "uri": "http://web.archive.org/web/20071211025331/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071213070052",
+        "uri": "http://web.archive.org/web/20071213070052/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071216235749",
+        "uri": "http://web.archive.org/web/20071216235749/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071218205426",
+        "uri": "http://web.archive.org/web/20071218205426/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071229005200",
+        "uri": "http://web.archive.org/web/20071229005200/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20071230103510",
+        "uri": "http://web.archive.org/web/20071230103510/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080101085946",
+        "uri": "http://web.archive.org/web/20080101085946/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080104203045",
+        "uri": "http://web.archive.org/web/20080104203045/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080106075805",
+        "uri": "http://web.archive.org/web/20080106075805/http://www.burzum.org/?"
+      },
+      {
+        "datetime": "20080108061529",
+        "uri": "http://web.archive.org/web/20080108061529/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080111164216",
+        "uri": "http://web.archive.org/web/20080111164216/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080115072056",
+        "uri": "http://web.archive.org/web/20080115072056/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080118203433",
+        "uri": "http://web.archive.org/web/20080118203433/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080120093655",
+        "uri": "http://web.archive.org/web/20080120093655/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080122133015",
+        "uri": "http://web.archive.org/web/20080122133015/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080123183443",
+        "uri": "http://web.archive.org/web/20080123183443/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080126091102",
+        "uri": "http://web.archive.org/web/20080126091102/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080130043902",
+        "uri": "http://web.archive.org/web/20080130043902/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080203015817",
+        "uri": "http://web.archive.org/web/20080203015817/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080205204646",
+        "uri": "http://web.archive.org/web/20080205204646/http://www.burzum.org/?"
+      },
+      {
+        "datetime": "20080206191814",
+        "uri": "http://web.archive.org/web/20080206191814/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080206204446",
+        "uri": "http://web.archive.org/web/20080206204446/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080210162504",
+        "uri": "http://web.archive.org/web/20080210162504/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080214163831",
+        "uri": "http://web.archive.org/web/20080214163831/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080218125709",
+        "uri": "http://web.archive.org/web/20080218125709/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080222093127",
+        "uri": "http://web.archive.org/web/20080222093127/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080226114930",
+        "uri": "http://web.archive.org/web/20080226114930/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080301182616",
+        "uri": "http://web.archive.org/web/20080301182616/http://burzum.org/"
+      },
+      {
+        "datetime": "20080305162251",
+        "uri": "http://web.archive.org/web/20080305162251/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080307121502",
+        "uri": "http://web.archive.org/web/20080307121502/http://www.burzum.org/?"
+      },
+      {
+        "datetime": "20080311005658",
+        "uri": "http://web.archive.org/web/20080311005658/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080313141147",
+        "uri": "http://web.archive.org/web/20080313141147/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080315101345",
+        "uri": "http://web.archive.org/web/20080315101345/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080316151656",
+        "uri": "http://web.archive.org/web/20080316151656/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080319104047",
+        "uri": "http://web.archive.org/web/20080319104047/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080320234024",
+        "uri": "http://web.archive.org/web/20080320234024/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080325003732",
+        "uri": "http://web.archive.org/web/20080325003732/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080326220616",
+        "uri": "http://web.archive.org/web/20080326220616/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080329001447",
+        "uri": "http://web.archive.org/web/20080329001447/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080331024639",
+        "uri": "http://web.archive.org/web/20080331024639/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080403023534",
+        "uri": "http://web.archive.org/web/20080403023534/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080407132210",
+        "uri": "http://web.archive.org/web/20080407132210/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080407132214",
+        "uri": "http://web.archive.org/web/20080407132214/http://www.burzum.org/?"
+      },
+      {
+        "datetime": "20080411014633",
+        "uri": "http://web.archive.org/web/20080411014633/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080412044547",
+        "uri": "http://web.archive.org/web/20080412044547/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080416062904",
+        "uri": "http://web.archive.org/web/20080416062904/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080421011300",
+        "uri": "http://web.archive.org/web/20080421011300/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080425105950",
+        "uri": "http://web.archive.org/web/20080425105950/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080428232607",
+        "uri": "http://web.archive.org/web/20080428232607/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080502055219",
+        "uri": "http://web.archive.org/web/20080502055219/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080505093340",
+        "uri": "http://web.archive.org/web/20080505093340/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080507200603",
+        "uri": "http://web.archive.org/web/20080507200603/http://www.burzum.org/?"
+      },
+      {
+        "datetime": "20080509000609",
+        "uri": "http://web.archive.org/web/20080509000609/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080512050453",
+        "uri": "http://web.archive.org/web/20080512050453/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080513231344",
+        "uri": "http://web.archive.org/web/20080513231344/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080514091854",
+        "uri": "http://web.archive.org/web/20080514091854/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080515212149",
+        "uri": "http://web.archive.org/web/20080515212149/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080517120918",
+        "uri": "http://web.archive.org/web/20080517120918/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080522062644",
+        "uri": "http://web.archive.org/web/20080522062644/http://burzum.org/"
+      },
+      {
+        "datetime": "20080528151819",
+        "uri": "http://web.archive.org/web/20080528151819/http://burzum.org/"
+      },
+      {
+        "datetime": "20080601180641",
+        "uri": "http://web.archive.org/web/20080601180641/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080605103010",
+        "uri": "http://web.archive.org/web/20080605103010/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080607083020",
+        "uri": "http://web.archive.org/web/20080607083020/http://www.burzum.org/?"
+      },
+      {
+        "datetime": "20080608230408",
+        "uri": "http://web.archive.org/web/20080608230408/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080610125140",
+        "uri": "http://web.archive.org/web/20080610125140/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080612215536",
+        "uri": "http://web.archive.org/web/20080612215536/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080615131251",
+        "uri": "http://web.archive.org/web/20080615131251/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080619081447",
+        "uri": "http://web.archive.org/web/20080619081447/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080622063224",
+        "uri": "http://web.archive.org/web/20080622063224/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080622230319",
+        "uri": "http://web.archive.org/web/20080622230319/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080626193835",
+        "uri": "http://web.archive.org/web/20080626193835/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080630162508",
+        "uri": "http://web.archive.org/web/20080630162508/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080630191638",
+        "uri": "http://web.archive.org/web/20080630191638/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080701194152",
+        "uri": "http://web.archive.org/web/20080701194152/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080702215029",
+        "uri": "http://web.archive.org/web/20080702215029/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080703223145",
+        "uri": "http://web.archive.org/web/20080703223145/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080704224134",
+        "uri": "http://web.archive.org/web/20080704224134/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080705232600",
+        "uri": "http://web.archive.org/web/20080705232600/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080706233925",
+        "uri": "http://web.archive.org/web/20080706233925/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080708001537",
+        "uri": "http://web.archive.org/web/20080708001537/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080709021023",
+        "uri": "http://web.archive.org/web/20080709021023/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080710031418",
+        "uri": "http://web.archive.org/web/20080710031418/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080711052505",
+        "uri": "http://web.archive.org/web/20080711052505/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080712065528",
+        "uri": "http://web.archive.org/web/20080712065528/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080713082146",
+        "uri": "http://web.archive.org/web/20080713082146/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080714083948",
+        "uri": "http://web.archive.org/web/20080714083948/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080715123716",
+        "uri": "http://web.archive.org/web/20080715123716/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080716150616",
+        "uri": "http://web.archive.org/web/20080716150616/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080717170853",
+        "uri": "http://web.archive.org/web/20080717170853/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080718193509",
+        "uri": "http://web.archive.org/web/20080718193509/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080720194754",
+        "uri": "http://web.archive.org/web/20080720194754/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080721213655",
+        "uri": "http://web.archive.org/web/20080721213655/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080722214143",
+        "uri": "http://web.archive.org/web/20080722214143/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080723220754",
+        "uri": "http://web.archive.org/web/20080723220754/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080724231502",
+        "uri": "http://web.archive.org/web/20080724231502/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080725234030",
+        "uri": "http://web.archive.org/web/20080725234030/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080727004539",
+        "uri": "http://web.archive.org/web/20080727004539/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080728015034",
+        "uri": "http://web.archive.org/web/20080728015034/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080729030501",
+        "uri": "http://web.archive.org/web/20080729030501/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080730031312",
+        "uri": "http://web.archive.org/web/20080730031312/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080804184905",
+        "uri": "http://web.archive.org/web/20080804184905/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080805194748",
+        "uri": "http://web.archive.org/web/20080805194748/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080806205917",
+        "uri": "http://web.archive.org/web/20080806205917/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080807230724",
+        "uri": "http://web.archive.org/web/20080807230724/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080809001307",
+        "uri": "http://web.archive.org/web/20080809001307/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080810003706",
+        "uri": "http://web.archive.org/web/20080810003706/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080811011744",
+        "uri": "http://web.archive.org/web/20080811011744/http://burzum.org/"
+      },
+      {
+        "datetime": "20080812024105",
+        "uri": "http://web.archive.org/web/20080812024105/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080814043815",
+        "uri": "http://web.archive.org/web/20080814043815/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080815044220",
+        "uri": "http://web.archive.org/web/20080815044220/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080816055017",
+        "uri": "http://web.archive.org/web/20080816055017/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080817065014",
+        "uri": "http://web.archive.org/web/20080817065014/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080818070250",
+        "uri": "http://web.archive.org/web/20080818070250/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080819082539",
+        "uri": "http://web.archive.org/web/20080819082539/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080820085029",
+        "uri": "http://web.archive.org/web/20080820085029/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080821085331",
+        "uri": "http://web.archive.org/web/20080821085331/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080822091040",
+        "uri": "http://web.archive.org/web/20080822091040/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080823101458",
+        "uri": "http://web.archive.org/web/20080823101458/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080824104850",
+        "uri": "http://web.archive.org/web/20080824104850/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080825105835",
+        "uri": "http://web.archive.org/web/20080825105835/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080826130202",
+        "uri": "http://web.archive.org/web/20080826130202/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080827145459",
+        "uri": "http://web.archive.org/web/20080827145459/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080828152537",
+        "uri": "http://web.archive.org/web/20080828152537/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080829161258",
+        "uri": "http://web.archive.org/web/20080829161258/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080830165150",
+        "uri": "http://web.archive.org/web/20080830165150/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080831170353",
+        "uri": "http://web.archive.org/web/20080831170353/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080901182824",
+        "uri": "http://web.archive.org/web/20080901182824/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080902185103",
+        "uri": "http://web.archive.org/web/20080902185103/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080903190815",
+        "uri": "http://web.archive.org/web/20080903190815/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080904194047",
+        "uri": "http://web.archive.org/web/20080904194047/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080905194858",
+        "uri": "http://web.archive.org/web/20080905194858/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080906202051",
+        "uri": "http://web.archive.org/web/20080906202051/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080907205639",
+        "uri": "http://web.archive.org/web/20080907205639/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080908213451",
+        "uri": "http://web.archive.org/web/20080908213451/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080910224547",
+        "uri": "http://web.archive.org/web/20080910224547/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080911232446",
+        "uri": "http://web.archive.org/web/20080911232446/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080912235952",
+        "uri": "http://web.archive.org/web/20080912235952/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080919033832",
+        "uri": "http://web.archive.org/web/20080919033832/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080924224011",
+        "uri": "http://web.archive.org/web/20080924224011/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20080927080319",
+        "uri": "http://web.archive.org/web/20080927080319/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20081001005921",
+        "uri": "http://web.archive.org/web/20081001005921/http://burzum.org/"
+      },
+      {
+        "datetime": "20081006204421",
+        "uri": "http://web.archive.org/web/20081006204421/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20081012133440",
+        "uri": "http://web.archive.org/web/20081012133440/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20081015083302",
+        "uri": "http://web.archive.org/web/20081015083302/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20081020101550",
+        "uri": "http://web.archive.org/web/20081020101550/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20081025073446",
+        "uri": "http://web.archive.org/web/20081025073446/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20081028154433",
+        "uri": "http://web.archive.org/web/20081028154433/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20081102163651",
+        "uri": "http://web.archive.org/web/20081102163651/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20081107234003",
+        "uri": "http://web.archive.org/web/20081107234003/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20081108042924",
+        "uri": "http://web.archive.org/web/20081108042924/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20081204033622",
+        "uri": "http://web.archive.org/web/20081204033622/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20081211054258",
+        "uri": "http://web.archive.org/web/20081211054258/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20081215142952",
+        "uri": "http://web.archive.org/web/20081215142952/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20081216034506",
+        "uri": "http://web.archive.org/web/20081216034506/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20081217012731",
+        "uri": "http://web.archive.org/web/20081217012731/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20081218153717",
+        "uri": "http://web.archive.org/web/20081218153717/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20081226054211",
+        "uri": "http://web.archive.org/web/20081226054211/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20081228020528",
+        "uri": "http://web.archive.org/web/20081228020528/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20081228043534",
+        "uri": "http://web.archive.org/web/20081228043534/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090112072949",
+        "uri": "http://web.archive.org/web/20090112072949/http://burzum.org/"
+      },
+      {
+        "datetime": "20090205014032",
+        "uri": "http://web.archive.org/web/20090205014032/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090205014032",
+        "uri": "http://web.archive.org/web/20090205014032/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090205020345",
+        "uri": "http://web.archive.org/web/20090205020345/http://burzum.org/"
+      },
+      {
+        "datetime": "20090213002042",
+        "uri": "http://web.archive.org/web/20090213002042/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090213002042",
+        "uri": "http://web.archive.org/web/20090213002042/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090213181148",
+        "uri": "http://web.archive.org/web/20090213181148/http://burzum.org/"
+      },
+      {
+        "datetime": "20090216133433",
+        "uri": "http://web.archive.org/web/20090216133433/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090219095801",
+        "uri": "http://web.archive.org/web/20090219095801/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090219095801",
+        "uri": "http://web.archive.org/web/20090219095801/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090227060313",
+        "uri": "http://web.archive.org/web/20090227060313/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090228104115",
+        "uri": "http://web.archive.org/web/20090228104115/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090228104115",
+        "uri": "http://web.archive.org/web/20090228104115/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090305172010",
+        "uri": "http://web.archive.org/web/20090305172010/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090305172010",
+        "uri": "http://web.archive.org/web/20090305172010/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090311074601",
+        "uri": "http://web.archive.org/web/20090311074601/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090313042829",
+        "uri": "http://web.archive.org/web/20090313042829/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090313042829",
+        "uri": "http://web.archive.org/web/20090313042829/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090412102643",
+        "uri": "http://web.archive.org/web/20090412102643/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090412102643",
+        "uri": "http://web.archive.org/web/20090412102643/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090512164003",
+        "uri": "http://web.archive.org/web/20090512164003/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090603221236",
+        "uri": "http://web.archive.org/web/20090603221236/http://burzum.org/"
+      },
+      {
+        "datetime": "20090627022921",
+        "uri": "http://web.archive.org/web/20090627022921/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090722113925",
+        "uri": "http://web.archive.org/web/20090722113925/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090823042014",
+        "uri": "http://web.archive.org/web/20090823042014/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090827225125",
+        "uri": "http://web.archive.org/web/20090827225125/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090831034826",
+        "uri": "http://web.archive.org/web/20090831034826/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20090930082747",
+        "uri": "http://web.archive.org/web/20090930082747/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20091005215954",
+        "uri": "http://web.archive.org/web/20091005215954/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20091103083551",
+        "uri": "http://web.archive.org/web/20091103083551/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20091226155905",
+        "uri": "http://web.archive.org/web/20091226155905/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100106160434",
+        "uri": "http://web.archive.org/web/20100106160434/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100113024107",
+        "uri": "http://web.archive.org/web/20100113024107/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100123164847",
+        "uri": "http://web.archive.org/web/20100123164847/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100131065212",
+        "uri": "http://web.archive.org/web/20100131065212/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100131131103",
+        "uri": "http://web.archive.org/web/20100131131103/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100330063329",
+        "uri": "http://web.archive.org/web/20100330063329/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100408145837",
+        "uri": "http://web.archive.org/web/20100408145837/http://burzum.org/"
+      },
+      {
+        "datetime": "20100516164552",
+        "uri": "http://web.archive.org/web/20100516164552/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100612194526",
+        "uri": "http://web.archive.org/web/20100612194526/http://burzum.org/"
+      },
+      {
+        "datetime": "20100613184935",
+        "uri": "http://web.archive.org/web/20100613184935/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100615193211",
+        "uri": "http://web.archive.org/web/20100615193211/http://burzum.org/"
+      },
+      {
+        "datetime": "20100619215336",
+        "uri": "http://web.archive.org/web/20100619215336/http://burzum.org/"
+      },
+      {
+        "datetime": "20100621201929",
+        "uri": "http://web.archive.org/web/20100621201929/http://burzum.org/"
+      },
+      {
+        "datetime": "20100628015753",
+        "uri": "http://web.archive.org/web/20100628015753/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100712233253",
+        "uri": "http://web.archive.org/web/20100712233253/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100722001049",
+        "uri": "http://web.archive.org/web/20100722001049/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100723105112",
+        "uri": "http://web.archive.org/web/20100723105112/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100725000147",
+        "uri": "http://web.archive.org/web/20100725000147/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100729044910",
+        "uri": "http://web.archive.org/web/20100729044910/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100801175248",
+        "uri": "http://web.archive.org/web/20100801175248/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100805094050",
+        "uri": "http://web.archive.org/web/20100805094050/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100822193318",
+        "uri": "http://web.archive.org/web/20100822193318/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100901141523",
+        "uri": "http://web.archive.org/web/20100901141523/http://burzum.org/"
+      },
+      {
+        "datetime": "20100907015810",
+        "uri": "http://web.archive.org/web/20100907015810/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20100923024202",
+        "uri": "http://web.archive.org/web/20100923024202/http://burzum.org/"
+      },
+      {
+        "datetime": "20100926092253",
+        "uri": "http://web.archive.org/web/20100926092253/http://burzum.org/"
+      },
+      {
+        "datetime": "20101001001255",
+        "uri": "http://web.archive.org/web/20101001001255/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20101005062859",
+        "uri": "http://web.archive.org/web/20101005062859/http://burzum.org/"
+      },
+      {
+        "datetime": "20101008210005",
+        "uri": "http://web.archive.org/web/20101008210005/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20101010143338",
+        "uri": "http://web.archive.org/web/20101010143338/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20101112133325",
+        "uri": "http://web.archive.org/web/20101112133325/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20101120124900",
+        "uri": "http://web.archive.org/web/20101120124900/http://burzum.org/"
+      },
+      {
+        "datetime": "20101126040409",
+        "uri": "http://web.archive.org/web/20101126040409/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20101129071119",
+        "uri": "http://web.archive.org/web/20101129071119/http://burzum.org/"
+      },
+      {
+        "datetime": "20101130203634",
+        "uri": "http://web.archive.org/web/20101130203634/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20101210224245",
+        "uri": "http://web.archive.org/web/20101210224245/http://burzum.org/"
+      },
+      {
+        "datetime": "20110203024348",
+        "uri": "http://web.archive.org/web/20110203024348/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110206232137",
+        "uri": "http://web.archive.org/web/20110206232137/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110208225605",
+        "uri": "http://web.archive.org/web/20110208225605/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110219120857",
+        "uri": "http://web.archive.org/web/20110219120857/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110223034136",
+        "uri": "http://web.archive.org/web/20110223034136/http://burzum.org/"
+      },
+      {
+        "datetime": "20110302092203",
+        "uri": "http://web.archive.org/web/20110302092203/http://burzum.org/"
+      },
+      {
+        "datetime": "20110303080155",
+        "uri": "http://web.archive.org/web/20110303080155/http://burzum.org/"
+      },
+      {
+        "datetime": "20110308163753",
+        "uri": "http://web.archive.org/web/20110308163753/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110314213804",
+        "uri": "http://web.archive.org/web/20110314213804/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110408125541",
+        "uri": "http://web.archive.org/web/20110408125541/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110423153613",
+        "uri": "http://web.archive.org/web/20110423153613/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110508033417",
+        "uri": "http://web.archive.org/web/20110508033417/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110515034550",
+        "uri": "http://web.archive.org/web/20110515034550/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110520075324",
+        "uri": "http://web.archive.org/web/20110520075324/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110523015029",
+        "uri": "http://web.archive.org/web/20110523015029/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110531160431",
+        "uri": "http://web.archive.org/web/20110531160431/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110606021138",
+        "uri": "http://web.archive.org/web/20110606021138/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110606062148",
+        "uri": "http://web.archive.org/web/20110606062148/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110622195614",
+        "uri": "http://web.archive.org/web/20110622195614/http://burzum.org/"
+      },
+      {
+        "datetime": "20110622195615",
+        "uri": "http://web.archive.org/web/20110622195615/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110625013047",
+        "uri": "http://web.archive.org/web/20110625013047/http://burzum.org/"
+      },
+      {
+        "datetime": "20110625223551",
+        "uri": "http://web.archive.org/web/20110625223551/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110630223505",
+        "uri": "http://web.archive.org/web/20110630223505/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110701175953",
+        "uri": "http://web.archive.org/web/20110701175953/http://burzum.org/"
+      },
+      {
+        "datetime": "20110707233847",
+        "uri": "http://web.archive.org/web/20110707233847/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110714110007",
+        "uri": "http://web.archive.org/web/20110714110007/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110717071853",
+        "uri": "http://web.archive.org/web/20110717071853/http://burzum.org/"
+      },
+      {
+        "datetime": "20110717080300",
+        "uri": "http://web.archive.org/web/20110717080300/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110717080921",
+        "uri": "http://web.archive.org/web/20110717080921/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110718015433",
+        "uri": "http://web.archive.org/web/20110718015433/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110725112126",
+        "uri": "http://web.archive.org/web/20110725112126/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110725112644",
+        "uri": "http://web.archive.org/web/20110725112644/http://burzum.org/"
+      },
+      {
+        "datetime": "20110814110328",
+        "uri": "http://web.archive.org/web/20110814110328/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110912111720",
+        "uri": "http://web.archive.org/web/20110912111720/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110916102443",
+        "uri": "http://web.archive.org/web/20110916102443/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110919064259",
+        "uri": "http://web.archive.org/web/20110919064259/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110924032620",
+        "uri": "http://web.archive.org/web/20110924032620/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110926142558",
+        "uri": "http://web.archive.org/web/20110926142558/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20110928084548",
+        "uri": "http://web.archive.org/web/20110928084548/http://burzum.org/"
+      },
+      {
+        "datetime": "20110928085340",
+        "uri": "http://web.archive.org/web/20110928085340/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20111007044256",
+        "uri": "http://web.archive.org/web/20111007044256/http://burzum.org/"
+      },
+      {
+        "datetime": "20111008113711",
+        "uri": "http://web.archive.org/web/20111008113711/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20111009161534",
+        "uri": "http://web.archive.org/web/20111009161534/http://burzum.org/"
+      },
+      {
+        "datetime": "20111013035314",
+        "uri": "http://web.archive.org/web/20111013035314/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20111102161607",
+        "uri": "http://web.archive.org/web/20111102161607/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20111122193850",
+        "uri": "http://web.archive.org/web/20111122193850/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20111206235359",
+        "uri": "http://web.archive.org/web/20111206235359/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120101114544",
+        "uri": "http://web.archive.org/web/20120101114544/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120103092743",
+        "uri": "http://web.archive.org/web/20120103092743/http://burzum.org/"
+      },
+      {
+        "datetime": "20120111003346",
+        "uri": "http://web.archive.org/web/20120111003346/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120202142844",
+        "uri": "http://web.archive.org/web/20120202142844/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120204135440",
+        "uri": "http://web.archive.org/web/20120204135440/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120207123618",
+        "uri": "http://web.archive.org/web/20120207123618/http://burzum.org/"
+      },
+      {
+        "datetime": "20120209153242",
+        "uri": "http://web.archive.org/web/20120209153242/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120216075222",
+        "uri": "http://web.archive.org/web/20120216075222/http://burzum.org/"
+      },
+      {
+        "datetime": "20120217110734",
+        "uri": "http://web.archive.org/web/20120217110734/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120415085354",
+        "uri": "http://web.archive.org/web/20120415085354/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120424182246",
+        "uri": "http://web.archive.org/web/20120424182246/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120425064602",
+        "uri": "http://web.archive.org/web/20120425064602/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120429014233",
+        "uri": "http://web.archive.org/web/20120429014233/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120429161147",
+        "uri": "http://web.archive.org/web/20120429161147/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120503044518",
+        "uri": "http://web.archive.org/web/20120503044518/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120506032958",
+        "uri": "http://web.archive.org/web/20120506032958/http://burzum.org/"
+      },
+      {
+        "datetime": "20120507150855",
+        "uri": "http://web.archive.org/web/20120507150855/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120510070333",
+        "uri": "http://web.archive.org/web/20120510070333/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120512021732",
+        "uri": "http://web.archive.org/web/20120512021732/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120514122105",
+        "uri": "http://web.archive.org/web/20120514122105/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120516091725",
+        "uri": "http://web.archive.org/web/20120516091725/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120517134402",
+        "uri": "http://web.archive.org/web/20120517134402/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120518095119",
+        "uri": "http://web.archive.org/web/20120518095119/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120519093255",
+        "uri": "http://web.archive.org/web/20120519093255/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120520153055",
+        "uri": "http://web.archive.org/web/20120520153055/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120523170537",
+        "uri": "http://web.archive.org/web/20120523170537/http://burzum.org/"
+      },
+      {
+        "datetime": "20120524081221",
+        "uri": "http://web.archive.org/web/20120524081221/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120524162314",
+        "uri": "http://web.archive.org/web/20120524162314/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120527193637",
+        "uri": "http://web.archive.org/web/20120527193637/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120530211530",
+        "uri": "http://web.archive.org/web/20120530211530/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120602033136",
+        "uri": "http://web.archive.org/web/20120602033136/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120603221758",
+        "uri": "http://web.archive.org/web/20120603221758/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120604185144",
+        "uri": "http://web.archive.org/web/20120604185144/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120605112825",
+        "uri": "http://web.archive.org/web/20120605112825/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120606153151",
+        "uri": "http://web.archive.org/web/20120606153151/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120608063036",
+        "uri": "http://web.archive.org/web/20120608063036/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120614071241",
+        "uri": "http://web.archive.org/web/20120614071241/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120615071354",
+        "uri": "http://web.archive.org/web/20120615071354/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120617164139",
+        "uri": "http://web.archive.org/web/20120617164139/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120621011320",
+        "uri": "http://web.archive.org/web/20120621011320/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120623155435",
+        "uri": "http://web.archive.org/web/20120623155435/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120628060133",
+        "uri": "http://web.archive.org/web/20120628060133/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120629130911",
+        "uri": "http://web.archive.org/web/20120629130911/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120706151850",
+        "uri": "http://web.archive.org/web/20120706151850/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120707213856",
+        "uri": "http://web.archive.org/web/20120707213856/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120709032407",
+        "uri": "http://web.archive.org/web/20120709032407/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120710170941",
+        "uri": "http://web.archive.org/web/20120710170941/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120712071340",
+        "uri": "http://web.archive.org/web/20120712071340/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120713074238",
+        "uri": "http://web.archive.org/web/20120713074238/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120714135437",
+        "uri": "http://web.archive.org/web/20120714135437/http://burzum.org/"
+      },
+      {
+        "datetime": "20120716221908",
+        "uri": "http://web.archive.org/web/20120716221908/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120720045710",
+        "uri": "http://web.archive.org/web/20120720045710/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120721135641",
+        "uri": "http://web.archive.org/web/20120721135641/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120721231825",
+        "uri": "http://web.archive.org/web/20120721231825/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120724150210",
+        "uri": "http://web.archive.org/web/20120724150210/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120726071637",
+        "uri": "http://web.archive.org/web/20120726071637/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120729224104",
+        "uri": "http://web.archive.org/web/20120729224104/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120801023937",
+        "uri": "http://web.archive.org/web/20120801023937/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120804042036",
+        "uri": "http://web.archive.org/web/20120804042036/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120805063926",
+        "uri": "http://web.archive.org/web/20120805063926/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120807005800",
+        "uri": "http://web.archive.org/web/20120807005800/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120821194541",
+        "uri": "http://web.archive.org/web/20120821194541/http://burzum.org/"
+      },
+      {
+        "datetime": "20120903071949",
+        "uri": "http://web.archive.org/web/20120903071949/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120917134616",
+        "uri": "http://web.archive.org/web/20120917134616/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20120919061525",
+        "uri": "http://web.archive.org/web/20120919061525/http://burzum.org/"
+      },
+      {
+        "datetime": "20121003181215",
+        "uri": "http://web.archive.org/web/20121003181215/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20121004004056",
+        "uri": "http://web.archive.org/web/20121004004056/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20121006041912",
+        "uri": "http://web.archive.org/web/20121006041912/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20121013110926",
+        "uri": "http://web.archive.org/web/20121013110926/http://burzum.org/"
+      },
+      {
+        "datetime": "20121014152000",
+        "uri": "http://web.archive.org/web/20121014152000/http://burzum.org/"
+      },
+      {
+        "datetime": "20121017105610",
+        "uri": "http://web.archive.org/web/20121017105610/http://burzum.org/"
+      },
+      {
+        "datetime": "20121102011836",
+        "uri": "http://web.archive.org/web/20121102011836/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20121102181422",
+        "uri": "http://web.archive.org/web/20121102181422/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20121117045313",
+        "uri": "http://web.archive.org/web/20121117045313/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20121128141017",
+        "uri": "http://web.archive.org/web/20121128141017/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20121206060816",
+        "uri": "http://web.archive.org/web/20121206060816/http://burzum.org/"
+      },
+      {
+        "datetime": "20130114180155",
+        "uri": "http://web.archive.org/web/20130114180155/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130114214322",
+        "uri": "http://web.archive.org/web/20130114214322/http://burzum.org/"
+      },
+      {
+        "datetime": "20130118065252",
+        "uri": "http://web.archive.org/web/20130118065252/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130120011449",
+        "uri": "http://web.archive.org/web/20130120011449/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130121020309",
+        "uri": "http://web.archive.org/web/20130121020309/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130127171042",
+        "uri": "http://web.archive.org/web/20130127171042/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130302030756",
+        "uri": "http://web.archive.org/web/20130302030756/http://burzum.org/"
+      },
+      {
+        "datetime": "20130302143815",
+        "uri": "http://web.archive.org/web/20130302143815/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130305160851",
+        "uri": "http://web.archive.org/web/20130305160851/http://burzum.org/"
+      },
+      {
+        "datetime": "20130313093028",
+        "uri": "http://web.archive.org/web/20130313093028/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130316044157",
+        "uri": "http://web.archive.org/web/20130316044157/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130327163213",
+        "uri": "http://web.archive.org/web/20130327163213/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130327175403",
+        "uri": "http://web.archive.org/web/20130327175403/http://burzum.org/"
+      },
+      {
+        "datetime": "20130329041202",
+        "uri": "http://web.archive.org/web/20130329041202/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130402100644",
+        "uri": "http://web.archive.org/web/20130402100644/http://burzum.org/"
+      },
+      {
+        "datetime": "20130420044545",
+        "uri": "http://web.archive.org/web/20130420044545/http://burzum.org/"
+      },
+      {
+        "datetime": "20130420111205",
+        "uri": "http://web.archive.org/web/20130420111205/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130423071030",
+        "uri": "http://web.archive.org/web/20130423071030/http://burzum.org/"
+      },
+      {
+        "datetime": "20130426093439",
+        "uri": "http://web.archive.org/web/20130426093439/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130430041257",
+        "uri": "http://web.archive.org/web/20130430041257/http://burzum.org/"
+      },
+      {
+        "datetime": "20130501110659",
+        "uri": "http://web.archive.org/web/20130501110659/http://burzum.org/"
+      },
+      {
+        "datetime": "20130503002944",
+        "uri": "http://web.archive.org/web/20130503002944/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130509203004",
+        "uri": "http://web.archive.org/web/20130509203004/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130510022021",
+        "uri": "http://web.archive.org/web/20130510022021/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130512091650",
+        "uri": "http://web.archive.org/web/20130512091650/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130516110950",
+        "uri": "http://web.archive.org/web/20130516110950/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130530090404",
+        "uri": "http://web.archive.org/web/20130530090404/http://burzum.org/"
+      },
+      {
+        "datetime": "20130530130306",
+        "uri": "http://web.archive.org/web/20130530130306/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130620021417",
+        "uri": "http://web.archive.org/web/20130620021417/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130620122517",
+        "uri": "http://web.archive.org/web/20130620122517/http://burzum.org/"
+      },
+      {
+        "datetime": "20130629182051",
+        "uri": "http://web.archive.org/web/20130629182051/http://burzum.org/"
+      },
+      {
+        "datetime": "20130707210515",
+        "uri": "http://web.archive.org/web/20130707210515/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130718050535",
+        "uri": "http://web.archive.org/web/20130718050535/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130721184335",
+        "uri": "http://web.archive.org/web/20130721184335/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130721184336",
+        "uri": "http://web.archive.org/web/20130721184336/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130721184336",
+        "uri": "http://web.archive.org/web/20130721184336/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130721184337",
+        "uri": "http://web.archive.org/web/20130721184337/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130721184337",
+        "uri": "http://web.archive.org/web/20130721184337/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130722221910",
+        "uri": "http://web.archive.org/web/20130722221910/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130725222749",
+        "uri": "http://web.archive.org/web/20130725222749/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130731222653",
+        "uri": "http://web.archive.org/web/20130731222653/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130805071950",
+        "uri": "http://web.archive.org/web/20130805071950/http://burzum.org/"
+      },
+      {
+        "datetime": "20130807011351",
+        "uri": "http://web.archive.org/web/20130807011351/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130822155923",
+        "uri": "http://web.archive.org/web/20130822155923/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130902114955",
+        "uri": "http://web.archive.org/web/20130902114955/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130910222128",
+        "uri": "http://web.archive.org/web/20130910222128/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130911023806",
+        "uri": "http://web.archive.org/web/20130911023806/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20130919221857",
+        "uri": "http://web.archive.org/web/20130919221857/http://burzum.org/"
+      },
+      {
+        "datetime": "20131004111319",
+        "uri": "http://web.archive.org/web/20131004111319/http://burzum.org/"
+      },
+      {
+        "datetime": "20131008191659",
+        "uri": "http://web.archive.org/web/20131008191659/http://burzum.org/"
+      },
+      {
+        "datetime": "20131010081926",
+        "uri": "http://web.archive.org/web/20131010081926/http://burzum.org/"
+      },
+      {
+        "datetime": "20131011043707",
+        "uri": "http://web.archive.org/web/20131011043707/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20131029210648",
+        "uri": "http://web.archive.org/web/20131029210648/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20131031020448",
+        "uri": "http://web.archive.org/web/20131031020448/http://burzum.org/"
+      },
+      {
+        "datetime": "20131105072545",
+        "uri": "http://web.archive.org/web/20131105072545/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20131107170928",
+        "uri": "http://web.archive.org/web/20131107170928/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20131107172008",
+        "uri": "http://web.archive.org/web/20131107172008/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20131114010041",
+        "uri": "http://web.archive.org/web/20131114010041/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20131203110840",
+        "uri": "http://web.archive.org/web/20131203110840/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20131219231511",
+        "uri": "http://web.archive.org/web/20131219231511/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20131225232357",
+        "uri": "http://web.archive.org/web/20131225232357/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140201174851",
+        "uri": "http://web.archive.org/web/20140201174851/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140208014601",
+        "uri": "http://web.archive.org/web/20140208014601/http://burzum.org/"
+      },
+      {
+        "datetime": "20140209041714",
+        "uri": "http://web.archive.org/web/20140209041714/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140215143405",
+        "uri": "http://web.archive.org/web/20140215143405/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140217120018",
+        "uri": "http://web.archive.org/web/20140217120018/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140218185752",
+        "uri": "http://web.archive.org/web/20140218185752/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140218190022",
+        "uri": "http://web.archive.org/web/20140218190022/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140327170606",
+        "uri": "http://web.archive.org/web/20140327170606/http://burzum.org/"
+      },
+      {
+        "datetime": "20140426004337",
+        "uri": "http://web.archive.org/web/20140426004337/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140517034558",
+        "uri": "http://web.archive.org/web/20140517034558/http://burzum.org/"
+      },
+      {
+        "datetime": "20140523110805",
+        "uri": "http://web.archive.org/web/20140523110805/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140607224042",
+        "uri": "http://web.archive.org/web/20140607224042/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140618105111",
+        "uri": "http://web.archive.org/web/20140618105111/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140623234948",
+        "uri": "http://web.archive.org/web/20140623234948/http://burzum.org/"
+      },
+      {
+        "datetime": "20140625035603",
+        "uri": "http://web.archive.org/web/20140625035603/http://burzum.org/"
+      },
+      {
+        "datetime": "20140705230533",
+        "uri": "http://web.archive.org/web/20140705230533/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140709174245",
+        "uri": "http://web.archive.org/web/20140709174245/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140724042521",
+        "uri": "http://web.archive.org/web/20140724042521/http://burzum.org/"
+      },
+      {
+        "datetime": "20140808215050",
+        "uri": "http://web.archive.org/web/20140808215050/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140809125819",
+        "uri": "http://web.archive.org/web/20140809125819/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140809132524",
+        "uri": "http://web.archive.org/web/20140809132524/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140812163100",
+        "uri": "http://web.archive.org/web/20140812163100/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140812173607",
+        "uri": "http://web.archive.org/web/20140812173607/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140821070538",
+        "uri": "http://web.archive.org/web/20140821070538/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140825022923",
+        "uri": "http://web.archive.org/web/20140825022923/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140831074623",
+        "uri": "http://web.archive.org/web/20140831074623/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140912221608",
+        "uri": "http://web.archive.org/web/20140912221608/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140924152014",
+        "uri": "http://web.archive.org/web/20140924152014/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140924160410",
+        "uri": "http://web.archive.org/web/20140924160410/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20140925182040",
+        "uri": "http://web.archive.org/web/20140925182040/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20141006102412",
+        "uri": "http://web.archive.org/web/20141006102412/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20141009073549",
+        "uri": "http://web.archive.org/web/20141009073549/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20141010142810",
+        "uri": "http://web.archive.org/web/20141010142810/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20141017074636",
+        "uri": "http://web.archive.org/web/20141017074636/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20141025023612",
+        "uri": "http://web.archive.org/web/20141025023612/http://burzum.org/"
+      },
+      {
+        "datetime": "20141112175938",
+        "uri": "http://web.archive.org/web/20141112175938/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20141129053551",
+        "uri": "http://web.archive.org/web/20141129053551/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20141216224532",
+        "uri": "http://web.archive.org/web/20141216224532/http://burzum.org/"
+      },
+      {
+        "datetime": "20141217162607",
+        "uri": "http://web.archive.org/web/20141217162607/http://burzum.org/"
+      },
+      {
+        "datetime": "20141224165017",
+        "uri": "http://web.archive.org/web/20141224165017/http://burzum.org/"
+      },
+      {
+        "datetime": "20141231164852",
+        "uri": "http://web.archive.org/web/20141231164852/http://burzum.org/"
+      },
+      {
+        "datetime": "20141231224920",
+        "uri": "http://web.archive.org/web/20141231224920/http://burzum.org/"
+      },
+      {
+        "datetime": "20150118081004",
+        "uri": "http://web.archive.org/web/20150118081004/http://burzum.org/"
+      },
+      {
+        "datetime": "20150205010434",
+        "uri": "http://web.archive.org/web/20150205010434/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20150205232345",
+        "uri": "http://web.archive.org/web/20150205232345/http://burzum.org/"
+      },
+      {
+        "datetime": "20150207012125",
+        "uri": "http://web.archive.org/web/20150207012125/http://burzum.org/"
+      },
+      {
+        "datetime": "20150218070532",
+        "uri": "http://web.archive.org/web/20150218070532/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20150219202712",
+        "uri": "http://web.archive.org/web/20150219202712/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20150316040556",
+        "uri": "http://web.archive.org/web/20150316040556/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20150318041705",
+        "uri": "http://web.archive.org/web/20150318041705/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20150322043745",
+        "uri": "http://web.archive.org/web/20150322043745/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20150323210520",
+        "uri": "http://web.archive.org/web/20150323210520/http://burzum.org/"
+      },
+      {
+        "datetime": "20150330220753",
+        "uri": "http://web.archive.org/web/20150330220753/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20150407131355",
+        "uri": "http://web.archive.org/web/20150407131355/http://burzum.org/"
+      },
+      {
+        "datetime": "20150415091346",
+        "uri": "http://web.archive.org/web/20150415091346/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20150428083921",
+        "uri": "http://web.archive.org/web/20150428083921/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20150428090059",
+        "uri": "http://web.archive.org/web/20150428090059/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20150506054335",
+        "uri": "http://web.archive.org/web/20150506054335/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20150511072914",
+        "uri": "http://web.archive.org/web/20150511072914/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20150623064613",
+        "uri": "http://web.archive.org/web/20150623064613/http://burzum.org/"
+      },
+      {
+        "datetime": "20150716150346",
+        "uri": "http://web.archive.org/web/20150716150346/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20150730131100",
+        "uri": "http://web.archive.org/web/20150730131100/http://burzum.org/"
+      },
+      {
+        "datetime": "20150731112223",
+        "uri": "http://web.archive.org/web/20150731112223/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20150801011104",
+        "uri": "http://web.archive.org/web/20150801011104/http://burzum.org/"
+      },
+      {
+        "datetime": "20150826080231",
+        "uri": "http://web.archive.org/web/20150826080231/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20150827051921",
+        "uri": "http://web.archive.org/web/20150827051921/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20150905080308",
+        "uri": "http://web.archive.org/web/20150905080308/http://burzum.org/"
+      },
+      {
+        "datetime": "20150909225039",
+        "uri": "http://web.archive.org/web/20150909225039/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20150924040555",
+        "uri": "http://web.archive.org/web/20150924040555/http://burzum.org/"
+      },
+      {
+        "datetime": "20151009104700",
+        "uri": "http://web.archive.org/web/20151009104700/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20151031124540",
+        "uri": "http://web.archive.org/web/20151031124540/http://burzum.org/"
+      },
+      {
+        "datetime": "20151105114752",
+        "uri": "http://web.archive.org/web/20151105114752/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20151106142128",
+        "uri": "http://web.archive.org/web/20151106142128/http://burzum.org/"
+      },
+      {
+        "datetime": "20151125012250",
+        "uri": "http://web.archive.org/web/20151125012250/http://burzum.org/"
+      },
+      {
+        "datetime": "20151125131446",
+        "uri": "http://web.archive.org/web/20151125131446/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20151223050815",
+        "uri": "http://web.archive.org/web/20151223050815/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20160109030848",
+        "uri": "http://web.archive.org/web/20160109030848/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20160109113714",
+        "uri": "http://web.archive.org/web/20160109113714/http://burzum.org/"
+      },
+      {
+        "datetime": "20160110104513",
+        "uri": "http://web.archive.org/web/20160110104513/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20160115115906",
+        "uri": "http://web.archive.org/web/20160115115906/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20160129053538",
+        "uri": "http://web.archive.org/web/20160129053538/http://burzum.org/"
+      },
+      {
+        "datetime": "20160208155614",
+        "uri": "http://web.archive.org/web/20160208155614/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20160208171137",
+        "uri": "http://web.archive.org/web/20160208171137/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20160215044155",
+        "uri": "http://web.archive.org/web/20160215044155/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20160219182817",
+        "uri": "http://web.archive.org/web/20160219182817/http://burzum.org/"
+      },
+      {
+        "datetime": "20160303162100",
+        "uri": "http://web.archive.org/web/20160303162100/http://burzum.org/"
+      },
+      {
+        "datetime": "20160303165642",
+        "uri": "http://web.archive.org/web/20160303165642/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20160303183328",
+        "uri": "http://web.archive.org/web/20160303183328/http://burzum.org/"
+      },
+      {
+        "datetime": "20160303230524",
+        "uri": "http://web.archive.org/web/20160303230524/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20160304112516",
+        "uri": "http://web.archive.org/web/20160304112516/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20160304190239",
+        "uri": "http://web.archive.org/web/20160304190239/http://burzum.org/"
+      },
+      {
+        "datetime": "20160305055544",
+        "uri": "http://web.archive.org/web/20160305055544/http://burzum.org/"
+      },
+      {
+        "datetime": "20160309030131",
+        "uri": "http://web.archive.org/web/20160309030131/http://burzum.org/"
+      },
+      {
+        "datetime": "20160315163032",
+        "uri": "http://web.archive.org/web/20160315163032/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20160330104639",
+        "uri": "http://web.archive.org/web/20160330104639/http://burzum.org/"
+      },
+      {
+        "datetime": "20160410025253",
+        "uri": "http://web.archive.org/web/20160410025253/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20160415113831",
+        "uri": "http://web.archive.org/web/20160415113831/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20160416224931",
+        "uri": "http://web.archive.org/web/20160416224931/http://burzum.org/"
+      },
+      {
+        "datetime": "20160427225954",
+        "uri": "http://web.archive.org/web/20160427225954/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20160531194315",
+        "uri": "http://web.archive.org/web/20160531194315/http://burzum.org/"
+      },
+      {
+        "datetime": "20160610172045",
+        "uri": "http://web.archive.org/web/20160610172045/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20160715164609",
+        "uri": "http://web.archive.org/web/20160715164609/http://burzum.org/"
+      },
+      {
+        "datetime": "20160817090408",
+        "uri": "http://web.archive.org/web/20160817090408/http://www.burzum.org/"
+      },
+      {
+        "datetime": "20161002035137",
+        "uri": "http://web.archive.org/web/20161002035137/http://burzum.org/"
+      }
+    ],
+    "timegate": "http://web.archive.org/web/http://burzum.org/",
+    "original": "http://burzum.org/",
+    "last": "Tue, 11 Oct 2016 15:01:00 GMT"
+  }
+}

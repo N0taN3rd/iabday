@@ -1,4 +1,6 @@
 {
+  "timemap": "http://web.archive.org/web/timemap/link/http://sunn.southernlord.com/",
+  "timegate": "http://web.archive.org/web/http://sunn.southernlord.com/",
   "mementos": [
     {
       "datetime": "20100409152938",
@@ -217,61 +219,8 @@
       "uri": "http://web.archive.org/web/20161010085345/http://sunn.southernlord.com/"
     }
   ],
-  "first": "Fri, 09 Apr 2010 15:29:38 GMT",
-  "timegate": "http://web.archive.org/web/http://sunn.southernlord.com/",
-  "member_points": [
-    {
-      "t": "20161025051062",
-      "member": "Greg Anderson",
-      "plays": [
-        "bass"
-      ],
-      "f": "19980101000100"
-    },
-    {
-      "t": "20161025051062",
-      "member": "Stephen OMalley",
-      "plays": [
-        "bass"
-      ],
-      "f": "19980101000100"
-    },
-    {
-      "t": "20161025051062",
-      "member": "Attila Csihar",
-      "plays": [
-        "vocals"
-      ],
-      "f": "20040101000100"
-    },
-    {
-      "t": "19700821040800",
-      "member": "Atsuo Mizuno",
-      "plays": [
-        "vocals",
-        "drums"
-      ],
-      "f": "20050101000100"
-    },
-    {
-      "t": "19700821120800",
-      "member": "Atsuo Mizuno",
-      "plays": [
-        "vocals",
-        "drums"
-      ],
-      "f": "20090101000100"
-    },
-    {
-      "t": "19700821070800",
-      "member": "Wrest",
-      "plays": [
-        "vocals"
-      ],
-      "f": "20020101000100"
-    }
-  ],
   "original": "http://sunn.southernlord.com/",
-  "timemap": "http://web.archive.org/web/timemap/link/http://sunn.southernlord.com/",
+  "member_points": [],
+  "first": "Fri, 09 Apr 2010 15:29:38 GMT",
   "last": "Thu, 20 Oct 2016 09:03:26 GMT"
 }

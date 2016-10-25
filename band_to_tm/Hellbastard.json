@@ -1,0 +1,156 @@
+{
+  "info": [],
+  "tm": {
+    "first": "Thu, 25 Dec 2008 06:46:14 GMT",
+    "self": "http://web.archive.org/web/timemap/link/http://www.hellbastard.co.uk/",
+    "mementos": [
+      {
+        "datetime": "20081225064614",
+        "uri": "http://web.archive.org/web/20081225064614/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20090106115238",
+        "uri": "http://web.archive.org/web/20090106115238/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20090207065058",
+        "uri": "http://web.archive.org/web/20090207065058/http://hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20090311060925",
+        "uri": "http://web.archive.org/web/20090311060925/http://hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20090412110342",
+        "uri": "http://web.archive.org/web/20090412110342/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20090605164610",
+        "uri": "http://web.archive.org/web/20090605164610/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20090913072406",
+        "uri": "http://web.archive.org/web/20090913072406/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20100604071629",
+        "uri": "http://web.archive.org/web/20100604071629/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20100706201242",
+        "uri": "http://web.archive.org/web/20100706201242/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20111018152246",
+        "uri": "http://web.archive.org/web/20111018152246/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20111118055235",
+        "uri": "http://web.archive.org/web/20111118055235/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20111218221643",
+        "uri": "http://web.archive.org/web/20111218221643/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20120119091514",
+        "uri": "http://web.archive.org/web/20120119091514/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20120529014500",
+        "uri": "http://web.archive.org/web/20120529014500/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20120629032954",
+        "uri": "http://web.archive.org/web/20120629032954/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20130125204421",
+        "uri": "http://web.archive.org/web/20130125204421/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20130521083525",
+        "uri": "http://web.archive.org/web/20130521083525/http://hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20140305040433",
+        "uri": "http://web.archive.org/web/20140305040433/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20140516190719",
+        "uri": "http://web.archive.org/web/20140516190719/http://hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20140518053942",
+        "uri": "http://web.archive.org/web/20140518053942/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20140618233020",
+        "uri": "http://web.archive.org/web/20140618233020/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20140620060747",
+        "uri": "http://web.archive.org/web/20140620060747/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20141218173844",
+        "uri": "http://web.archive.org/web/20141218173844/http://hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20141223075306",
+        "uri": "http://web.archive.org/web/20141223075306/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20150713205212",
+        "uri": "http://web.archive.org/web/20150713205212/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20150828110951",
+        "uri": "http://web.archive.org/web/20150828110951/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20151118190238",
+        "uri": "http://web.archive.org/web/20151118190238/http://hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20160109173415",
+        "uri": "http://web.archive.org/web/20160109173415/http://hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20160110143758",
+        "uri": "http://web.archive.org/web/20160110143758/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20160215073819",
+        "uri": "http://web.archive.org/web/20160215073819/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20160221034111",
+        "uri": "http://web.archive.org/web/20160221034111/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20160304065604",
+        "uri": "http://web.archive.org/web/20160304065604/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20160305004623",
+        "uri": "http://web.archive.org/web/20160305004623/http://hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20160315205813",
+        "uri": "http://web.archive.org/web/20160315205813/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20160317122717",
+        "uri": "http://web.archive.org/web/20160317122717/http://www.hellbastard.co.uk/"
+      },
+      {
+        "datetime": "20161001195050",
+        "uri": "http://web.archive.org/web/20161001195050/http://hellbastard.co.uk/"
+      }
+    ],
+    "timegate": "http://web.archive.org/web/http://www.hellbastard.co.uk/",
+    "original": "http://www.hellbastard.co.uk/",
+    "last": "Wed, 12 Oct 2016 08:16:41 GMT"
+  }
+}

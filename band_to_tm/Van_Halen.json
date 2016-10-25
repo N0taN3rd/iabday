@@ -1,0 +1,4516 @@
+{
+  "info": [
+    {
+      "active": [
+        {
+          "from": "2006",
+          "to": "present"
+        }
+      ],
+      "member": "Wolfgang Van Halen",
+      "plays": [
+        "bass",
+        "backing vocals"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1974",
+          "to": "2006"
+        }
+      ],
+      "member": "Michael Anthony",
+      "plays": [
+        "bass",
+        " backing vocals ("
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1996",
+          "to": "99"
+        }
+      ],
+      "member": "Gary Cherone",
+      "plays": [
+        "lead vocals ("
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1972",
+          "to": "74"
+        }
+      ],
+      "member": "Mark Stone",
+      "plays": [
+        "bass",
+        " backing vocals ("
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1974",
+          "to": "85"
+        },
+        {
+          "from": "1996",
+          "to": "1996"
+        },
+        {
+          "from": "2007",
+          "to": "present"
+        }
+      ],
+      "member": "e Roth",
+      "plays": [
+        "lead vocals",
+        " occasional acoustic guitars ("
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1972",
+          "to": "present"
+        }
+      ],
+      "member": "Alex Van Halen",
+      "plays": [
+        "drums",
+        "percussion"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "2006",
+          "to": "present"
+        }
+      ],
+      "member": "n Halen",
+      "plays": [
+        "bass",
+        " backing vocals ("
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1972",
+          "to": "1974"
+        },
+        {
+          "from": "1974",
+          "to": "present"
+        }
+      ],
+      "member": "Eddie Van Halen",
+      "plays": [
+        "lead guitar",
+        "lead vocals",
+        " keyboards"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1974",
+          "to": "85"
+        },
+        {
+          "from": "1996",
+          "to": "1996"
+        },
+        {
+          "from": "2007",
+          "to": "present"
+        }
+      ],
+      "member": "David Lee Roth",
+      "plays": [
+        "lead vocals",
+        "occasional acoustic guitars"
+      ]
+    },
+    {
+      "active": [
+        {
+          "from": "1985",
+          "to": "96"
+        },
+        {
+          "from": "2003",
+          "to": "05"
+        }
+      ],
+      "member": "Sammy Hagar",
+      "plays": [
+        "lead vocals",
+        " rhythm guitar",
+        " occasional co-lead guitars ("
+      ]
+    }
+  ],
+  "tm": {
+    "first": "Sun, 11 Jan 1998 06:29:13 GMT",
+    "self": "http://web.archive.org/web/timemap/link/http://van-halen.com/",
+    "mementos": [
+      {
+        "datetime": "19980111062913",
+        "uri": "http://web.archive.org/web/19980111062913/http://van-halen.com/"
+      },
+      {
+        "datetime": "19980129185859",
+        "uri": "http://web.archive.org/web/19980129185859/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "19980216133616",
+        "uri": "http://web.archive.org/web/19980216133616/http://van-halen.com/"
+      },
+      {
+        "datetime": "19980514073055",
+        "uri": "http://web.archive.org/web/19980514073055/http://van-halen.com/"
+      },
+      {
+        "datetime": "19980520031556",
+        "uri": "http://web.archive.org/web/19980520031556/http://van-halen.com/"
+      },
+      {
+        "datetime": "19981201033741",
+        "uri": "http://web.archive.org/web/19981201033741/http://van-halen.com/"
+      },
+      {
+        "datetime": "19981212021943",
+        "uri": "http://web.archive.org/web/19981212021943/http://van-halen.com/"
+      },
+      {
+        "datetime": "19981212033804",
+        "uri": "http://web.archive.org/web/19981212033804/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "19990125092522",
+        "uri": "http://web.archive.org/web/19990125092522/http://van-halen.com/"
+      },
+      {
+        "datetime": "19990125104225",
+        "uri": "http://web.archive.org/web/19990125104225/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "19990208010726",
+        "uri": "http://web.archive.org/web/19990208010726/http://van-halen.com/"
+      },
+      {
+        "datetime": "19990208021159",
+        "uri": "http://web.archive.org/web/19990208021159/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "19990222030107",
+        "uri": "http://web.archive.org/web/19990222030107/http://van-halen.com/"
+      },
+      {
+        "datetime": "19990223222015",
+        "uri": "http://web.archive.org/web/19990223222015/http://van-halen.com/"
+      },
+      {
+        "datetime": "19990223233249",
+        "uri": "http://web.archive.org/web/19990223233249/http://van-halen.com/"
+      },
+      {
+        "datetime": "19990224073503",
+        "uri": "http://web.archive.org/web/19990224073503/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "19990224211748",
+        "uri": "http://web.archive.org/web/19990224211748/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "19990224214347",
+        "uri": "http://web.archive.org/web/19990224214347/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "19990225002059",
+        "uri": "http://web.archive.org/web/19990225002059/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "19990225083511",
+        "uri": "http://web.archive.org/web/19990225083511/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "19990225101941",
+        "uri": "http://web.archive.org/web/19990225101941/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "19990225111135",
+        "uri": "http://web.archive.org/web/19990225111135/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "19990225130700",
+        "uri": "http://web.archive.org/web/19990225130700/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "19990225143748",
+        "uri": "http://web.archive.org/web/19990225143748/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "19990225161055",
+        "uri": "http://web.archive.org/web/19990225161055/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "19990420125428",
+        "uri": "http://web.archive.org/web/19990420125428/http://van-halen.com/"
+      },
+      {
+        "datetime": "19990421015054",
+        "uri": "http://web.archive.org/web/19990421015054/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "19990429142412",
+        "uri": "http://web.archive.org/web/19990429142412/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "19990429192002",
+        "uri": "http://web.archive.org/web/19990429192002/http://van-halen.com/"
+      },
+      {
+        "datetime": "19991012053957",
+        "uri": "http://web.archive.org/web/19991012053957/http://van-halen.com/"
+      },
+      {
+        "datetime": "19991013095034",
+        "uri": "http://web.archive.org/web/19991013095034/http://van-halen.com/"
+      },
+      {
+        "datetime": "20000301131452",
+        "uri": "http://web.archive.org/web/20000301131452/http://van-halen.com/"
+      },
+      {
+        "datetime": "20000301182832",
+        "uri": "http://web.archive.org/web/20000301182832/http://van-halen.com/"
+      },
+      {
+        "datetime": "20000301225158",
+        "uri": "http://web.archive.org/web/20000301225158/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20000302085952",
+        "uri": "http://web.archive.org/web/20000302085952/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20000407200629",
+        "uri": "http://web.archive.org/web/20000407200629/http://van-halen.com/"
+      },
+      {
+        "datetime": "20000510022848",
+        "uri": "http://web.archive.org/web/20000510022848/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20000510140531",
+        "uri": "http://web.archive.org/web/20000510140531/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20000511223826",
+        "uri": "http://web.archive.org/web/20000511223826/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20000519231937",
+        "uri": "http://web.archive.org/web/20000519231937/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20000520024254",
+        "uri": "http://web.archive.org/web/20000520024254/http://van-halen.com/"
+      },
+      {
+        "datetime": "20000607134503",
+        "uri": "http://web.archive.org/web/20000607134503/http://van-halen.com/"
+      },
+      {
+        "datetime": "20000619002846",
+        "uri": "http://web.archive.org/web/20000619002846/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20000619032710",
+        "uri": "http://web.archive.org/web/20000619032710/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20000621191548",
+        "uri": "http://web.archive.org/web/20000621191548/http://van-halen.com/"
+      },
+      {
+        "datetime": "20000622004729",
+        "uri": "http://web.archive.org/web/20000622004729/http://van-halen.com/"
+      },
+      {
+        "datetime": "20000622094819",
+        "uri": "http://web.archive.org/web/20000622094819/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20000706223957",
+        "uri": "http://web.archive.org/web/20000706223957/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20000815061426",
+        "uri": "http://web.archive.org/web/20000815061426/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20000819080951",
+        "uri": "http://web.archive.org/web/20000819080951/http://van-halen.com/"
+      },
+      {
+        "datetime": "20000929063654",
+        "uri": "http://web.archive.org/web/20000929063654/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20001005142047",
+        "uri": "http://web.archive.org/web/20001005142047/http://van-halen.com/"
+      },
+      {
+        "datetime": "20001018181813",
+        "uri": "http://web.archive.org/web/20001018181813/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20001203043400",
+        "uri": "http://web.archive.org/web/20001203043400/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20001207004500",
+        "uri": "http://web.archive.org/web/20001207004500/http://van-halen.com/"
+      },
+      {
+        "datetime": "20010118201700",
+        "uri": "http://web.archive.org/web/20010118201700/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20010201060100",
+        "uri": "http://web.archive.org/web/20010201060100/http://van-halen.com/"
+      },
+      {
+        "datetime": "20010301172110",
+        "uri": "http://web.archive.org/web/20010301172110/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20010302002057",
+        "uri": "http://web.archive.org/web/20010302002057/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20010302070143",
+        "uri": "http://web.archive.org/web/20010302070143/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20010302134627",
+        "uri": "http://web.archive.org/web/20010302134627/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20010331101733",
+        "uri": "http://web.archive.org/web/20010331101733/http://van-halen.com/"
+      },
+      {
+        "datetime": "20010402113546",
+        "uri": "http://web.archive.org/web/20010402113546/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20010405034922",
+        "uri": "http://web.archive.org/web/20010405034922/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20010504065051",
+        "uri": "http://web.archive.org/web/20010504065051/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20010505180921",
+        "uri": "http://web.archive.org/web/20010505180921/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20010512161307",
+        "uri": "http://web.archive.org/web/20010512161307/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20010515225704",
+        "uri": "http://web.archive.org/web/20010515225704/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20010522015601",
+        "uri": "http://web.archive.org/web/20010522015601/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20010523232922",
+        "uri": "http://web.archive.org/web/20010523232922/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20010629082336",
+        "uri": "http://web.archive.org/web/20010629082336/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20010720121840",
+        "uri": "http://web.archive.org/web/20010720121840/http://van-halen.com/"
+      },
+      {
+        "datetime": "20011202092206",
+        "uri": "http://web.archive.org/web/20011202092206/http://van-halen.com/"
+      },
+      {
+        "datetime": "20020118161650",
+        "uri": "http://web.archive.org/web/20020118161650/http://van-halen.com/"
+      },
+      {
+        "datetime": "20020124172042",
+        "uri": "http://web.archive.org/web/20020124172042/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20020331014112",
+        "uri": "http://web.archive.org/web/20020331014112/http://van-halen.com/"
+      },
+      {
+        "datetime": "20020524042431",
+        "uri": "http://web.archive.org/web/20020524042431/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20020524080905",
+        "uri": "http://web.archive.org/web/20020524080905/http://van-halen.com/"
+      },
+      {
+        "datetime": "20020528150759",
+        "uri": "http://web.archive.org/web/20020528150759/http://van-halen.com/"
+      },
+      {
+        "datetime": "20020603143617",
+        "uri": "http://web.archive.org/web/20020603143617/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20020606053901",
+        "uri": "http://web.archive.org/web/20020606053901/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20020721143733",
+        "uri": "http://web.archive.org/web/20020721143733/http://van-halen.com/"
+      },
+      {
+        "datetime": "20020802153851",
+        "uri": "http://web.archive.org/web/20020802153851/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20020923184116",
+        "uri": "http://web.archive.org/web/20020923184116/http://van-halen.com/"
+      },
+      {
+        "datetime": "20020925202316",
+        "uri": "http://web.archive.org/web/20020925202316/http://van-halen.com/"
+      },
+      {
+        "datetime": "20020928162105",
+        "uri": "http://web.archive.org/web/20020928162105/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20020930101114",
+        "uri": "http://web.archive.org/web/20020930101114/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20021121020130",
+        "uri": "http://web.archive.org/web/20021121020130/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20021128144733",
+        "uri": "http://web.archive.org/web/20021128144733/http://van-halen.com/"
+      },
+      {
+        "datetime": "20021129185713",
+        "uri": "http://web.archive.org/web/20021129185713/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20030130150045",
+        "uri": "http://web.archive.org/web/20030130150045/http://van-halen.com/"
+      },
+      {
+        "datetime": "20030203123124",
+        "uri": "http://web.archive.org/web/20030203123124/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20030211095019",
+        "uri": "http://web.archive.org/web/20030211095019/http://van-halen.com/"
+      },
+      {
+        "datetime": "20030219005728",
+        "uri": "http://web.archive.org/web/20030219005728/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20030403010026",
+        "uri": "http://web.archive.org/web/20030403010026/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20030409011038",
+        "uri": "http://web.archive.org/web/20030409011038/http://van-halen.com/"
+      },
+      {
+        "datetime": "20030420143940",
+        "uri": "http://web.archive.org/web/20030420143940/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20030423142757",
+        "uri": "http://web.archive.org/web/20030423142757/http://van-halen.com/"
+      },
+      {
+        "datetime": "20030523012306",
+        "uri": "http://web.archive.org/web/20030523012306/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20030524235900",
+        "uri": "http://web.archive.org/web/20030524235900/http://van-halen.com/"
+      },
+      {
+        "datetime": "20030601011557",
+        "uri": "http://web.archive.org/web/20030601011557/http://van-halen.com/"
+      },
+      {
+        "datetime": "20030619225403",
+        "uri": "http://web.archive.org/web/20030619225403/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20030623210402",
+        "uri": "http://web.archive.org/web/20030623210402/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20030727164340",
+        "uri": "http://web.archive.org/web/20030727164340/http://van-halen.com/"
+      },
+      {
+        "datetime": "20030731223048",
+        "uri": "http://web.archive.org/web/20030731223048/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20030806131720",
+        "uri": "http://web.archive.org/web/20030806131720/http://van-halen.com/"
+      },
+      {
+        "datetime": "20030807092655",
+        "uri": "http://web.archive.org/web/20030807092655/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20030920084417",
+        "uri": "http://web.archive.org/web/20030920084417/http://van-halen.com/"
+      },
+      {
+        "datetime": "20031018230825",
+        "uri": "http://web.archive.org/web/20031018230825/http://van-halen.com/"
+      },
+      {
+        "datetime": "20031021215642",
+        "uri": "http://web.archive.org/web/20031021215642/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20031120001202",
+        "uri": "http://web.archive.org/web/20031120001202/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20031120035057",
+        "uri": "http://web.archive.org/web/20031120035057/http://van-halen.com/"
+      },
+      {
+        "datetime": "20031121085009",
+        "uri": "http://web.archive.org/web/20031121085009/http://van-halen.com/"
+      },
+      {
+        "datetime": "20031220170419",
+        "uri": "http://web.archive.org/web/20031220170419/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20031220174703",
+        "uri": "http://web.archive.org/web/20031220174703/http://van-halen.com/"
+      },
+      {
+        "datetime": "20031221182754",
+        "uri": "http://web.archive.org/web/20031221182754/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040120232845",
+        "uri": "http://web.archive.org/web/20040120232845/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040209101748",
+        "uri": "http://web.archive.org/web/20040209101748/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040406175950",
+        "uri": "http://web.archive.org/web/20040406175950/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040415145545",
+        "uri": "http://web.archive.org/web/20040415145545/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040518035256",
+        "uri": "http://web.archive.org/web/20040518035256/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040520072353",
+        "uri": "http://web.archive.org/web/20040520072353/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040520212208",
+        "uri": "http://web.archive.org/web/20040520212208/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040523085555",
+        "uri": "http://web.archive.org/web/20040523085555/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040609072033",
+        "uri": "http://web.archive.org/web/20040609072033/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040609165901",
+        "uri": "http://web.archive.org/web/20040609165901/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040611075417",
+        "uri": "http://web.archive.org/web/20040611075417/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040611105501",
+        "uri": "http://web.archive.org/web/20040611105501/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040611120920",
+        "uri": "http://web.archive.org/web/20040611120920/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040612071647",
+        "uri": "http://web.archive.org/web/20040612071647/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040612075517",
+        "uri": "http://web.archive.org/web/20040612075517/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040614144149",
+        "uri": "http://web.archive.org/web/20040614144149/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040615084221",
+        "uri": "http://web.archive.org/web/20040615084221/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040615181514",
+        "uri": "http://web.archive.org/web/20040615181514/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040616015741",
+        "uri": "http://web.archive.org/web/20040616015741/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040616091042",
+        "uri": "http://web.archive.org/web/20040616091042/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040618052707",
+        "uri": "http://web.archive.org/web/20040618052707/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040619173436",
+        "uri": "http://web.archive.org/web/20040619173436/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040622120821",
+        "uri": "http://web.archive.org/web/20040622120821/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040622183234",
+        "uri": "http://web.archive.org/web/20040622183234/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040622230329",
+        "uri": "http://web.archive.org/web/20040622230329/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040623083129",
+        "uri": "http://web.archive.org/web/20040623083129/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040623110513",
+        "uri": "http://web.archive.org/web/20040623110513/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040624221747",
+        "uri": "http://web.archive.org/web/20040624221747/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040625190939",
+        "uri": "http://web.archive.org/web/20040625190939/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040626083232",
+        "uri": "http://web.archive.org/web/20040626083232/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040627001013",
+        "uri": "http://web.archive.org/web/20040627001013/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040629020136",
+        "uri": "http://web.archive.org/web/20040629020136/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040630085038",
+        "uri": "http://web.archive.org/web/20040630085038/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040701082235",
+        "uri": "http://web.archive.org/web/20040701082235/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040701124117",
+        "uri": "http://web.archive.org/web/20040701124117/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040701224012",
+        "uri": "http://web.archive.org/web/20040701224012/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040703032022",
+        "uri": "http://web.archive.org/web/20040703032022/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040703104803",
+        "uri": "http://web.archive.org/web/20040703104803/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040704022222",
+        "uri": "http://web.archive.org/web/20040704022222/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040705030608",
+        "uri": "http://web.archive.org/web/20040705030608/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040706042746",
+        "uri": "http://web.archive.org/web/20040706042746/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040707060436",
+        "uri": "http://web.archive.org/web/20040707060436/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040707080710",
+        "uri": "http://web.archive.org/web/20040707080710/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040708023945",
+        "uri": "http://web.archive.org/web/20040708023945/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040710015220",
+        "uri": "http://web.archive.org/web/20040710015220/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040710080201",
+        "uri": "http://web.archive.org/web/20040710080201/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040710103829",
+        "uri": "http://web.archive.org/web/20040710103829/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040710144746",
+        "uri": "http://web.archive.org/web/20040710144746/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040711054042",
+        "uri": "http://web.archive.org/web/20040711054042/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040713002714",
+        "uri": "http://web.archive.org/web/20040713002714/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040713082644",
+        "uri": "http://web.archive.org/web/20040713082644/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040714015959",
+        "uri": "http://web.archive.org/web/20040714015959/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040715041646",
+        "uri": "http://web.archive.org/web/20040715041646/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040715074432",
+        "uri": "http://web.archive.org/web/20040715074432/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040716014925",
+        "uri": "http://web.archive.org/web/20040716014925/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040717025108",
+        "uri": "http://web.archive.org/web/20040717025108/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040717184328",
+        "uri": "http://web.archive.org/web/20040717184328/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040718055854",
+        "uri": "http://web.archive.org/web/20040718055854/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040718075759",
+        "uri": "http://web.archive.org/web/20040718075759/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040719010214",
+        "uri": "http://web.archive.org/web/20040719010214/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040720074838",
+        "uri": "http://web.archive.org/web/20040720074838/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040721065503",
+        "uri": "http://web.archive.org/web/20040721065503/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040722071640",
+        "uri": "http://web.archive.org/web/20040722071640/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040722080835",
+        "uri": "http://web.archive.org/web/20040722080835/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040723094553",
+        "uri": "http://web.archive.org/web/20040723094553/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040724082024",
+        "uri": "http://web.archive.org/web/20040724082024/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040725040759",
+        "uri": "http://web.archive.org/web/20040725040759/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040726003949",
+        "uri": "http://web.archive.org/web/20040726003949/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040804010508",
+        "uri": "http://web.archive.org/web/20040804010508/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040808053020",
+        "uri": "http://web.archive.org/web/20040808053020/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040809215903",
+        "uri": "http://web.archive.org/web/20040809215903/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040810103920",
+        "uri": "http://web.archive.org/web/20040810103920/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040812084128",
+        "uri": "http://web.archive.org/web/20040812084128/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040813084059",
+        "uri": "http://web.archive.org/web/20040813084059/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040814071628",
+        "uri": "http://web.archive.org/web/20040814071628/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040814080359",
+        "uri": "http://web.archive.org/web/20040814080359/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040815080445",
+        "uri": "http://web.archive.org/web/20040815080445/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040816031134",
+        "uri": "http://web.archive.org/web/20040816031134/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040816081600",
+        "uri": "http://web.archive.org/web/20040816081600/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040817011524",
+        "uri": "http://web.archive.org/web/20040817011524/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040817080250",
+        "uri": "http://web.archive.org/web/20040817080250/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040818031958",
+        "uri": "http://web.archive.org/web/20040818031958/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040818075647",
+        "uri": "http://web.archive.org/web/20040818075647/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040820085109",
+        "uri": "http://web.archive.org/web/20040820085109/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040821034838",
+        "uri": "http://web.archive.org/web/20040821034838/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040822043201",
+        "uri": "http://web.archive.org/web/20040822043201/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040822085101",
+        "uri": "http://web.archive.org/web/20040822085101/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040823000037",
+        "uri": "http://web.archive.org/web/20040823000037/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040823214334",
+        "uri": "http://web.archive.org/web/20040823214334/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040826075725",
+        "uri": "http://web.archive.org/web/20040826075725/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040827082143",
+        "uri": "http://web.archive.org/web/20040827082143/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040829221524",
+        "uri": "http://web.archive.org/web/20040829221524/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040831081447",
+        "uri": "http://web.archive.org/web/20040831081447/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040901032814",
+        "uri": "http://web.archive.org/web/20040901032814/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040903150043",
+        "uri": "http://web.archive.org/web/20040903150043/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040903181331",
+        "uri": "http://web.archive.org/web/20040903181331/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040904070537",
+        "uri": "http://web.archive.org/web/20040904070537/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040904184204",
+        "uri": "http://web.archive.org/web/20040904184204/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040905082240",
+        "uri": "http://web.archive.org/web/20040905082240/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040906000505",
+        "uri": "http://web.archive.org/web/20040906000505/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040906081317",
+        "uri": "http://web.archive.org/web/20040906081317/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040907085054",
+        "uri": "http://web.archive.org/web/20040907085054/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040908011051",
+        "uri": "http://web.archive.org/web/20040908011051/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040908091623",
+        "uri": "http://web.archive.org/web/20040908091623/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040909064454",
+        "uri": "http://web.archive.org/web/20040909064454/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040909080148",
+        "uri": "http://web.archive.org/web/20040909080148/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040910001104",
+        "uri": "http://web.archive.org/web/20040910001104/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040914012650",
+        "uri": "http://web.archive.org/web/20040914012650/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040915022030",
+        "uri": "http://web.archive.org/web/20040915022030/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040916074850",
+        "uri": "http://web.archive.org/web/20040916074850/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040917075304",
+        "uri": "http://web.archive.org/web/20040917075304/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040918081800",
+        "uri": "http://web.archive.org/web/20040918081800/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040919031657",
+        "uri": "http://web.archive.org/web/20040919031657/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040923224758",
+        "uri": "http://web.archive.org/web/20040923224758/http://van-halen.com/"
+      },
+      {
+        "datetime": "20040923235743",
+        "uri": "http://web.archive.org/web/20040923235743/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040924081801",
+        "uri": "http://web.archive.org/web/20040924081801/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040925085116",
+        "uri": "http://web.archive.org/web/20040925085116/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20040926084608",
+        "uri": "http://web.archive.org/web/20040926084608/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041001012645",
+        "uri": "http://web.archive.org/web/20041001012645/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041001080939",
+        "uri": "http://web.archive.org/web/20041001080939/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041015074631",
+        "uri": "http://web.archive.org/web/20041015074631/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041016084012",
+        "uri": "http://web.archive.org/web/20041016084012/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041026080228",
+        "uri": "http://web.archive.org/web/20041026080228/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041104044729",
+        "uri": "http://web.archive.org/web/20041104044729/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041106090531",
+        "uri": "http://web.archive.org/web/20041106090531/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041108091520",
+        "uri": "http://web.archive.org/web/20041108091520/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041109093510",
+        "uri": "http://web.archive.org/web/20041109093510/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041111085349",
+        "uri": "http://web.archive.org/web/20041111085349/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041117085223",
+        "uri": "http://web.archive.org/web/20041117085223/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041119093435",
+        "uri": "http://web.archive.org/web/20041119093435/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041120094827",
+        "uri": "http://web.archive.org/web/20041120094827/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041123090410",
+        "uri": "http://web.archive.org/web/20041123090410/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041124091928",
+        "uri": "http://web.archive.org/web/20041124091928/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041126094819",
+        "uri": "http://web.archive.org/web/20041126094819/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041129061403",
+        "uri": "http://web.archive.org/web/20041129061403/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041130214606",
+        "uri": "http://web.archive.org/web/20041130214606/http://van-halen.com/"
+      },
+      {
+        "datetime": "20041205093726",
+        "uri": "http://web.archive.org/web/20041205093726/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041206092926",
+        "uri": "http://web.archive.org/web/20041206092926/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041208104110",
+        "uri": "http://web.archive.org/web/20041208104110/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041211053822",
+        "uri": "http://web.archive.org/web/20041211053822/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041212084102",
+        "uri": "http://web.archive.org/web/20041212084102/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041214093417",
+        "uri": "http://web.archive.org/web/20041214093417/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041215092015",
+        "uri": "http://web.archive.org/web/20041215092015/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041229090433",
+        "uri": "http://web.archive.org/web/20041229090433/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041230093342",
+        "uri": "http://web.archive.org/web/20041230093342/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20041231091352",
+        "uri": "http://web.archive.org/web/20041231091352/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050105094238",
+        "uri": "http://web.archive.org/web/20050105094238/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050109094522",
+        "uri": "http://web.archive.org/web/20050109094522/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050113092310",
+        "uri": "http://web.archive.org/web/20050113092310/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050118034409",
+        "uri": "http://web.archive.org/web/20050118034409/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050119085049",
+        "uri": "http://web.archive.org/web/20050119085049/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050122051421",
+        "uri": "http://web.archive.org/web/20050122051421/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050124203810",
+        "uri": "http://web.archive.org/web/20050124203810/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050127061032",
+        "uri": "http://web.archive.org/web/20050127061032/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050203205136",
+        "uri": "http://web.archive.org/web/20050203205136/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050205095154",
+        "uri": "http://web.archive.org/web/20050205095154/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050206092449",
+        "uri": "http://web.archive.org/web/20050206092449/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050207092344",
+        "uri": "http://web.archive.org/web/20050207092344/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050210020541",
+        "uri": "http://web.archive.org/web/20050210020541/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050210020549",
+        "uri": "http://web.archive.org/web/20050210020549/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050210181834",
+        "uri": "http://web.archive.org/web/20050210181834/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050210200621",
+        "uri": "http://web.archive.org/web/20050210200621/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050211130001",
+        "uri": "http://web.archive.org/web/20050211130001/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050212094849",
+        "uri": "http://web.archive.org/web/20050212094849/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050213090055",
+        "uri": "http://web.archive.org/web/20050213090055/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050215085219",
+        "uri": "http://web.archive.org/web/20050215085219/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050217085437",
+        "uri": "http://web.archive.org/web/20050217085437/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050303004813",
+        "uri": "http://web.archive.org/web/20050303004813/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050305093556",
+        "uri": "http://web.archive.org/web/20050305093556/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050306042704",
+        "uri": "http://web.archive.org/web/20050306042704/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050308032604",
+        "uri": "http://web.archive.org/web/20050308032604/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050308093748",
+        "uri": "http://web.archive.org/web/20050308093748/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050316023341",
+        "uri": "http://web.archive.org/web/20050316023341/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050316092040",
+        "uri": "http://web.archive.org/web/20050316092040/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050319095138",
+        "uri": "http://web.archive.org/web/20050319095138/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050324094854",
+        "uri": "http://web.archive.org/web/20050324094854/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050325100443",
+        "uri": "http://web.archive.org/web/20050325100443/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050327025434",
+        "uri": "http://web.archive.org/web/20050327025434/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050328013430",
+        "uri": "http://web.archive.org/web/20050328013430/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050329023751",
+        "uri": "http://web.archive.org/web/20050329023751/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050331085515",
+        "uri": "http://web.archive.org/web/20050331085515/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050401084712",
+        "uri": "http://web.archive.org/web/20050401084712/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050401233245",
+        "uri": "http://web.archive.org/web/20050401233245/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050403085143",
+        "uri": "http://web.archive.org/web/20050403085143/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050406083307",
+        "uri": "http://web.archive.org/web/20050406083307/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050410084527",
+        "uri": "http://web.archive.org/web/20050410084527/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050411080622",
+        "uri": "http://web.archive.org/web/20050411080622/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050412013742",
+        "uri": "http://web.archive.org/web/20050412013742/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050419081536",
+        "uri": "http://web.archive.org/web/20050419081536/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050420085341",
+        "uri": "http://web.archive.org/web/20050420085341/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050421073401",
+        "uri": "http://web.archive.org/web/20050421073401/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050427074744",
+        "uri": "http://web.archive.org/web/20050427074744/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050509012418",
+        "uri": "http://web.archive.org/web/20050509012418/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050509083621",
+        "uri": "http://web.archive.org/web/20050509083621/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050511023356",
+        "uri": "http://web.archive.org/web/20050511023356/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050511233459",
+        "uri": "http://web.archive.org/web/20050511233459/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050512085923",
+        "uri": "http://web.archive.org/web/20050512085923/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050513222627",
+        "uri": "http://web.archive.org/web/20050513222627/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050514000521",
+        "uri": "http://web.archive.org/web/20050514000521/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050514081148",
+        "uri": "http://web.archive.org/web/20050514081148/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050515024128",
+        "uri": "http://web.archive.org/web/20050515024128/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050515083425",
+        "uri": "http://web.archive.org/web/20050515083425/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050516014041",
+        "uri": "http://web.archive.org/web/20050516014041/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050516233717",
+        "uri": "http://web.archive.org/web/20050516233717/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050517232954",
+        "uri": "http://web.archive.org/web/20050517232954/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050519023800",
+        "uri": "http://web.archive.org/web/20050519023800/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050519075551",
+        "uri": "http://web.archive.org/web/20050519075551/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050520021443",
+        "uri": "http://web.archive.org/web/20050520021443/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050521021349",
+        "uri": "http://web.archive.org/web/20050521021349/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050522001018",
+        "uri": "http://web.archive.org/web/20050522001018/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050522081440",
+        "uri": "http://web.archive.org/web/20050522081440/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050523002012",
+        "uri": "http://web.archive.org/web/20050523002012/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050524014500",
+        "uri": "http://web.archive.org/web/20050524014500/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050525020449",
+        "uri": "http://web.archive.org/web/20050525020449/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050525083340",
+        "uri": "http://web.archive.org/web/20050525083340/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050526025635",
+        "uri": "http://web.archive.org/web/20050526025635/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050527031348",
+        "uri": "http://web.archive.org/web/20050527031348/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050528233806",
+        "uri": "http://web.archive.org/web/20050528233806/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050531011023",
+        "uri": "http://web.archive.org/web/20050531011023/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050531211849",
+        "uri": "http://web.archive.org/web/20050531211849/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050601040945",
+        "uri": "http://web.archive.org/web/20050601040945/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050602030930",
+        "uri": "http://web.archive.org/web/20050602030930/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050602233457",
+        "uri": "http://web.archive.org/web/20050602233457/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050604023116",
+        "uri": "http://web.archive.org/web/20050604023116/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050605002421",
+        "uri": "http://web.archive.org/web/20050605002421/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050606014529",
+        "uri": "http://web.archive.org/web/20050606014529/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050606234825",
+        "uri": "http://web.archive.org/web/20050606234825/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050608030030",
+        "uri": "http://web.archive.org/web/20050608030030/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050610003035",
+        "uri": "http://web.archive.org/web/20050610003035/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050611015740",
+        "uri": "http://web.archive.org/web/20050611015740/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050611080058",
+        "uri": "http://web.archive.org/web/20050611080058/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050612023102",
+        "uri": "http://web.archive.org/web/20050612023102/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050613010007",
+        "uri": "http://web.archive.org/web/20050613010007/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050613234016",
+        "uri": "http://web.archive.org/web/20050613234016/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050614081603",
+        "uri": "http://web.archive.org/web/20050614081603/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050615021536",
+        "uri": "http://web.archive.org/web/20050615021536/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050616015330",
+        "uri": "http://web.archive.org/web/20050616015330/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050617012645",
+        "uri": "http://web.archive.org/web/20050617012645/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050618020253",
+        "uri": "http://web.archive.org/web/20050618020253/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050619001136",
+        "uri": "http://web.archive.org/web/20050619001136/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050620003646",
+        "uri": "http://web.archive.org/web/20050620003646/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050621011938",
+        "uri": "http://web.archive.org/web/20050621011938/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050621082916",
+        "uri": "http://web.archive.org/web/20050621082916/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050622054339",
+        "uri": "http://web.archive.org/web/20050622054339/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050622235116",
+        "uri": "http://web.archive.org/web/20050622235116/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050624000036",
+        "uri": "http://web.archive.org/web/20050624000036/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050625012610",
+        "uri": "http://web.archive.org/web/20050625012610/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050626015345",
+        "uri": "http://web.archive.org/web/20050626015345/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050626232708",
+        "uri": "http://web.archive.org/web/20050626232708/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050628013232",
+        "uri": "http://web.archive.org/web/20050628013232/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050628075520",
+        "uri": "http://web.archive.org/web/20050628075520/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050628235942",
+        "uri": "http://web.archive.org/web/20050628235942/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050630022530",
+        "uri": "http://web.archive.org/web/20050630022530/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050701003137",
+        "uri": "http://web.archive.org/web/20050701003137/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050702004823",
+        "uri": "http://web.archive.org/web/20050702004823/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050703010427",
+        "uri": "http://web.archive.org/web/20050703010427/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050706013045",
+        "uri": "http://web.archive.org/web/20050706013045/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050706060035",
+        "uri": "http://web.archive.org/web/20050706060035/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050706110129",
+        "uri": "http://web.archive.org/web/20050706110129/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050707015459",
+        "uri": "http://web.archive.org/web/20050707015459/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050708015238",
+        "uri": "http://web.archive.org/web/20050708015238/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050709015051",
+        "uri": "http://web.archive.org/web/20050709015051/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050709234636",
+        "uri": "http://web.archive.org/web/20050709234636/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050711000032",
+        "uri": "http://web.archive.org/web/20050711000032/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050711232926",
+        "uri": "http://web.archive.org/web/20050711232926/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050712073420",
+        "uri": "http://web.archive.org/web/20050712073420/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050712235302",
+        "uri": "http://web.archive.org/web/20050712235302/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050713232912",
+        "uri": "http://web.archive.org/web/20050713232912/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050715074300",
+        "uri": "http://web.archive.org/web/20050715074300/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050717025037",
+        "uri": "http://web.archive.org/web/20050717025037/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050718004817",
+        "uri": "http://web.archive.org/web/20050718004817/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050718081817",
+        "uri": "http://web.archive.org/web/20050718081817/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050721023925",
+        "uri": "http://web.archive.org/web/20050721023925/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050723011334",
+        "uri": "http://web.archive.org/web/20050723011334/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050724005535",
+        "uri": "http://web.archive.org/web/20050724005535/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050725001903",
+        "uri": "http://web.archive.org/web/20050725001903/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050726000028",
+        "uri": "http://web.archive.org/web/20050726000028/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050726081840",
+        "uri": "http://web.archive.org/web/20050726081840/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050727001946",
+        "uri": "http://web.archive.org/web/20050727001946/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050728022021",
+        "uri": "http://web.archive.org/web/20050728022021/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050728101315",
+        "uri": "http://web.archive.org/web/20050728101315/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050729005746",
+        "uri": "http://web.archive.org/web/20050729005746/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050730004033",
+        "uri": "http://web.archive.org/web/20050730004033/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050730082139",
+        "uri": "http://web.archive.org/web/20050730082139/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050731002516",
+        "uri": "http://web.archive.org/web/20050731002516/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050731095118",
+        "uri": "http://web.archive.org/web/20050731095118/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050801003804",
+        "uri": "http://web.archive.org/web/20050801003804/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050801091012",
+        "uri": "http://web.archive.org/web/20050801091012/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050802014004",
+        "uri": "http://web.archive.org/web/20050802014004/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050803015901",
+        "uri": "http://web.archive.org/web/20050803015901/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050803090437",
+        "uri": "http://web.archive.org/web/20050803090437/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050804010104",
+        "uri": "http://web.archive.org/web/20050804010104/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050805013328",
+        "uri": "http://web.archive.org/web/20050805013328/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050806012425",
+        "uri": "http://web.archive.org/web/20050806012425/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050806082223",
+        "uri": "http://web.archive.org/web/20050806082223/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050807021256",
+        "uri": "http://web.archive.org/web/20050807021256/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050808004240",
+        "uri": "http://web.archive.org/web/20050808004240/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050809012510",
+        "uri": "http://web.archive.org/web/20050809012510/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050812010931",
+        "uri": "http://web.archive.org/web/20050812010931/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050813235324",
+        "uri": "http://web.archive.org/web/20050813235324/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050814081753",
+        "uri": "http://web.archive.org/web/20050814081753/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050816174437",
+        "uri": "http://web.archive.org/web/20050816174437/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050816204452",
+        "uri": "http://web.archive.org/web/20050816204452/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050820032952",
+        "uri": "http://web.archive.org/web/20050820032952/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050822053328",
+        "uri": "http://web.archive.org/web/20050822053328/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050822062211",
+        "uri": "http://web.archive.org/web/20050822062211/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050822092447",
+        "uri": "http://web.archive.org/web/20050822092447/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050822093012",
+        "uri": "http://web.archive.org/web/20050822093012/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050822114103",
+        "uri": "http://web.archive.org/web/20050822114103/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050823023659",
+        "uri": "http://web.archive.org/web/20050823023659/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050824212316",
+        "uri": "http://web.archive.org/web/20050824212316/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050825073954",
+        "uri": "http://web.archive.org/web/20050825073954/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050825100647",
+        "uri": "http://web.archive.org/web/20050825100647/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050825185936",
+        "uri": "http://web.archive.org/web/20050825185936/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050825190034",
+        "uri": "http://web.archive.org/web/20050825190034/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050825225824",
+        "uri": "http://web.archive.org/web/20050825225824/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050826074637",
+        "uri": "http://web.archive.org/web/20050826074637/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050826092452",
+        "uri": "http://web.archive.org/web/20050826092452/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050826094806",
+        "uri": "http://web.archive.org/web/20050826094806/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050826125654",
+        "uri": "http://web.archive.org/web/20050826125654/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050826163912",
+        "uri": "http://web.archive.org/web/20050826163912/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050827005356",
+        "uri": "http://web.archive.org/web/20050827005356/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050827071938",
+        "uri": "http://web.archive.org/web/20050827071938/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050827143259",
+        "uri": "http://web.archive.org/web/20050827143259/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050828023721",
+        "uri": "http://web.archive.org/web/20050828023721/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050828162657",
+        "uri": "http://web.archive.org/web/20050828162657/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050828163916",
+        "uri": "http://web.archive.org/web/20050828163916/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050828165647",
+        "uri": "http://web.archive.org/web/20050828165647/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050828172506",
+        "uri": "http://web.archive.org/web/20050828172506/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050828183458",
+        "uri": "http://web.archive.org/web/20050828183458/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050828201131",
+        "uri": "http://web.archive.org/web/20050828201131/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050828222118",
+        "uri": "http://web.archive.org/web/20050828222118/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050828234513",
+        "uri": "http://web.archive.org/web/20050828234513/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050829050530",
+        "uri": "http://web.archive.org/web/20050829050530/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050829063302",
+        "uri": "http://web.archive.org/web/20050829063302/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050829185255",
+        "uri": "http://web.archive.org/web/20050829185255/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050829191350",
+        "uri": "http://web.archive.org/web/20050829191350/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050829195316",
+        "uri": "http://web.archive.org/web/20050829195316/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050829195816",
+        "uri": "http://web.archive.org/web/20050829195816/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050829200526",
+        "uri": "http://web.archive.org/web/20050829200526/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050829210108",
+        "uri": "http://web.archive.org/web/20050829210108/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050829215514",
+        "uri": "http://web.archive.org/web/20050829215514/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050829221724",
+        "uri": "http://web.archive.org/web/20050829221724/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050829222344",
+        "uri": "http://web.archive.org/web/20050829222344/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050829232414",
+        "uri": "http://web.archive.org/web/20050829232414/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050829233143",
+        "uri": "http://web.archive.org/web/20050829233143/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050829234512",
+        "uri": "http://web.archive.org/web/20050829234512/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050830000849",
+        "uri": "http://web.archive.org/web/20050830000849/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050830002446",
+        "uri": "http://web.archive.org/web/20050830002446/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050830003417",
+        "uri": "http://web.archive.org/web/20050830003417/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050830003935",
+        "uri": "http://web.archive.org/web/20050830003935/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050830010001",
+        "uri": "http://web.archive.org/web/20050830010001/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050830014500",
+        "uri": "http://web.archive.org/web/20050830014500/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050830162742",
+        "uri": "http://web.archive.org/web/20050830162742/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050830172956",
+        "uri": "http://web.archive.org/web/20050830172956/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050831033437",
+        "uri": "http://web.archive.org/web/20050831033437/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050831043608",
+        "uri": "http://web.archive.org/web/20050831043608/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050831144239",
+        "uri": "http://web.archive.org/web/20050831144239/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050831144936",
+        "uri": "http://web.archive.org/web/20050831144936/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050901004453",
+        "uri": "http://web.archive.org/web/20050901004453/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050901040324",
+        "uri": "http://web.archive.org/web/20050901040324/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050901145736",
+        "uri": "http://web.archive.org/web/20050901145736/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050901164636",
+        "uri": "http://web.archive.org/web/20050901164636/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050905173653",
+        "uri": "http://web.archive.org/web/20050905173653/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050907073459",
+        "uri": "http://web.archive.org/web/20050907073459/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050909044316",
+        "uri": "http://web.archive.org/web/20050909044316/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050916002813",
+        "uri": "http://web.archive.org/web/20050916002813/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050917012035",
+        "uri": "http://web.archive.org/web/20050917012035/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050920105951",
+        "uri": "http://web.archive.org/web/20050920105951/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050922121301",
+        "uri": "http://web.archive.org/web/20050922121301/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20050924153650",
+        "uri": "http://web.archive.org/web/20050924153650/http://van-halen.com/"
+      },
+      {
+        "datetime": "20050926054644",
+        "uri": "http://web.archive.org/web/20050926054644/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051001033257",
+        "uri": "http://web.archive.org/web/20051001033257/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051013054601",
+        "uri": "http://web.archive.org/web/20051013054601/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051013062514",
+        "uri": "http://web.archive.org/web/20051013062514/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051023005502",
+        "uri": "http://web.archive.org/web/20051023005502/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051024003958",
+        "uri": "http://web.archive.org/web/20051024003958/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051025093354",
+        "uri": "http://web.archive.org/web/20051025093354/http://van-halen.com/"
+      },
+      {
+        "datetime": "20051026010955",
+        "uri": "http://web.archive.org/web/20051026010955/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051027040323",
+        "uri": "http://web.archive.org/web/20051027040323/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051030010626",
+        "uri": "http://web.archive.org/web/20051030010626/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051030041739",
+        "uri": "http://web.archive.org/web/20051030041739/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051030080900",
+        "uri": "http://web.archive.org/web/20051030080900/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051101102132",
+        "uri": "http://web.archive.org/web/20051101102132/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051102092426",
+        "uri": "http://web.archive.org/web/20051102092426/http://van-halen.com/"
+      },
+      {
+        "datetime": "20051103035959",
+        "uri": "http://web.archive.org/web/20051103035959/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051104011352",
+        "uri": "http://web.archive.org/web/20051104011352/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051104094854",
+        "uri": "http://web.archive.org/web/20051104094854/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051105093520",
+        "uri": "http://web.archive.org/web/20051105093520/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051106095601",
+        "uri": "http://web.archive.org/web/20051106095601/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051107093417",
+        "uri": "http://web.archive.org/web/20051107093417/http://van-halen.com/"
+      },
+      {
+        "datetime": "20051107204510",
+        "uri": "http://web.archive.org/web/20051107204510/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051124012841",
+        "uri": "http://web.archive.org/web/20051124012841/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051124021527",
+        "uri": "http://web.archive.org/web/20051124021527/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051124040418",
+        "uri": "http://web.archive.org/web/20051124040418/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051124115557",
+        "uri": "http://web.archive.org/web/20051124115557/http://van-halen.com/"
+      },
+      {
+        "datetime": "20051124142109",
+        "uri": "http://web.archive.org/web/20051124142109/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051124145402",
+        "uri": "http://web.archive.org/web/20051124145402/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051124212642",
+        "uri": "http://web.archive.org/web/20051124212642/http://van-halen.com/"
+      },
+      {
+        "datetime": "20051124212930",
+        "uri": "http://web.archive.org/web/20051124212930/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051124235711",
+        "uri": "http://web.archive.org/web/20051124235711/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051125021406",
+        "uri": "http://web.archive.org/web/20051125021406/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051128023721",
+        "uri": "http://web.archive.org/web/20051128023721/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051128091107",
+        "uri": "http://web.archive.org/web/20051128091107/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051129030642",
+        "uri": "http://web.archive.org/web/20051129030642/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051130094508",
+        "uri": "http://web.archive.org/web/20051130094508/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051130234201",
+        "uri": "http://web.archive.org/web/20051130234201/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051204012921",
+        "uri": "http://web.archive.org/web/20051204012921/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051204022929",
+        "uri": "http://web.archive.org/web/20051204022929/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051204094414",
+        "uri": "http://web.archive.org/web/20051204094414/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051205102834",
+        "uri": "http://web.archive.org/web/20051205102834/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051207085042",
+        "uri": "http://web.archive.org/web/20051207085042/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051208044624",
+        "uri": "http://web.archive.org/web/20051208044624/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051210025926",
+        "uri": "http://web.archive.org/web/20051210025926/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051211000716",
+        "uri": "http://web.archive.org/web/20051211000716/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051211065758",
+        "uri": "http://web.archive.org/web/20051211065758/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051212063830",
+        "uri": "http://web.archive.org/web/20051212063830/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051213013240",
+        "uri": "http://web.archive.org/web/20051213013240/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051214104947",
+        "uri": "http://web.archive.org/web/20051214104947/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051214203848",
+        "uri": "http://web.archive.org/web/20051214203848/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051215082116",
+        "uri": "http://web.archive.org/web/20051215082116/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051216095203",
+        "uri": "http://web.archive.org/web/20051216095203/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051218050412",
+        "uri": "http://web.archive.org/web/20051218050412/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051219084956",
+        "uri": "http://web.archive.org/web/20051219084956/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051220151632",
+        "uri": "http://web.archive.org/web/20051220151632/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051221041439",
+        "uri": "http://web.archive.org/web/20051221041439/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051223064329",
+        "uri": "http://web.archive.org/web/20051223064329/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051223184534",
+        "uri": "http://web.archive.org/web/20051223184534/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051229174705",
+        "uri": "http://web.archive.org/web/20051229174705/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051231052043",
+        "uri": "http://web.archive.org/web/20051231052043/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051231183200",
+        "uri": "http://web.archive.org/web/20051231183200/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20051231222917",
+        "uri": "http://web.archive.org/web/20051231222917/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060101042806",
+        "uri": "http://web.archive.org/web/20060101042806/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060101123044",
+        "uri": "http://web.archive.org/web/20060101123044/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060101153350",
+        "uri": "http://web.archive.org/web/20060101153350/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060101170815",
+        "uri": "http://web.archive.org/web/20060101170815/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060101203350",
+        "uri": "http://web.archive.org/web/20060101203350/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060101233819",
+        "uri": "http://web.archive.org/web/20060101233819/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060102014302",
+        "uri": "http://web.archive.org/web/20060102014302/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060102045113",
+        "uri": "http://web.archive.org/web/20060102045113/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060102083933",
+        "uri": "http://web.archive.org/web/20060102083933/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060102153352",
+        "uri": "http://web.archive.org/web/20060102153352/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060102173214",
+        "uri": "http://web.archive.org/web/20060102173214/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060102232345",
+        "uri": "http://web.archive.org/web/20060102232345/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060103064232",
+        "uri": "http://web.archive.org/web/20060103064232/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060103085609",
+        "uri": "http://web.archive.org/web/20060103085609/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060103153348",
+        "uri": "http://web.archive.org/web/20060103153348/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060103215530",
+        "uri": "http://web.archive.org/web/20060103215530/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060104005616",
+        "uri": "http://web.archive.org/web/20060104005616/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060104034034",
+        "uri": "http://web.archive.org/web/20060104034034/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060104043722",
+        "uri": "http://web.archive.org/web/20060104043722/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060104084322",
+        "uri": "http://web.archive.org/web/20060104084322/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060104103953",
+        "uri": "http://web.archive.org/web/20060104103953/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060104160228",
+        "uri": "http://web.archive.org/web/20060104160228/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060104171732",
+        "uri": "http://web.archive.org/web/20060104171732/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060104205318",
+        "uri": "http://web.archive.org/web/20060104205318/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060110192746",
+        "uri": "http://web.archive.org/web/20060110192746/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060111151130",
+        "uri": "http://web.archive.org/web/20060111151130/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060114061251",
+        "uri": "http://web.archive.org/web/20060114061251/http://van-halen.com/"
+      },
+      {
+        "datetime": "20060115065455",
+        "uri": "http://web.archive.org/web/20060115065455/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060116055538",
+        "uri": "http://web.archive.org/web/20060116055538/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060206230232",
+        "uri": "http://web.archive.org/web/20060206230232/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060207011844",
+        "uri": "http://web.archive.org/web/20060207011844/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060207063224",
+        "uri": "http://web.archive.org/web/20060207063224/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060316035522",
+        "uri": "http://web.archive.org/web/20060316035522/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060402204844",
+        "uri": "http://web.archive.org/web/20060402204844/http://van-halen.com/"
+      },
+      {
+        "datetime": "20060402225125",
+        "uri": "http://web.archive.org/web/20060402225125/http://van-halen.com/"
+      },
+      {
+        "datetime": "20060403093639",
+        "uri": "http://web.archive.org/web/20060403093639/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060409223140",
+        "uri": "http://web.archive.org/web/20060409223140/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060409223349",
+        "uri": "http://web.archive.org/web/20060409223349/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060411203232",
+        "uri": "http://web.archive.org/web/20060411203232/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060412203657",
+        "uri": "http://web.archive.org/web/20060412203657/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060413231644",
+        "uri": "http://web.archive.org/web/20060413231644/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060414181629",
+        "uri": "http://web.archive.org/web/20060414181629/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060417184435",
+        "uri": "http://web.archive.org/web/20060417184435/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060423041808",
+        "uri": "http://web.archive.org/web/20060423041808/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060423041901",
+        "uri": "http://web.archive.org/web/20060423041901/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060423041902",
+        "uri": "http://web.archive.org/web/20060423041902/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060423084630",
+        "uri": "http://web.archive.org/web/20060423084630/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060423165126",
+        "uri": "http://web.archive.org/web/20060423165126/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060424071917",
+        "uri": "http://web.archive.org/web/20060424071917/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060424172740",
+        "uri": "http://web.archive.org/web/20060424172740/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060513003302",
+        "uri": "http://web.archive.org/web/20060513003302/http://van-halen.com/"
+      },
+      {
+        "datetime": "20060610085823",
+        "uri": "http://web.archive.org/web/20060610085823/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060613043410",
+        "uri": "http://web.archive.org/web/20060613043410/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060629053840",
+        "uri": "http://web.archive.org/web/20060629053840/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060705051128",
+        "uri": "http://web.archive.org/web/20060705051128/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060706024825",
+        "uri": "http://web.archive.org/web/20060706024825/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060715073835",
+        "uri": "http://web.archive.org/web/20060715073835/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060720052709",
+        "uri": "http://web.archive.org/web/20060720052709/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060721043237",
+        "uri": "http://web.archive.org/web/20060721043237/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060721043314",
+        "uri": "http://web.archive.org/web/20060721043314/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060721065649",
+        "uri": "http://web.archive.org/web/20060721065649/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060721101706",
+        "uri": "http://web.archive.org/web/20060721101706/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060721130009",
+        "uri": "http://web.archive.org/web/20060721130009/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060721214053",
+        "uri": "http://web.archive.org/web/20060721214053/http://van-halen.com/"
+      },
+      {
+        "datetime": "20060803130733",
+        "uri": "http://web.archive.org/web/20060803130733/http://van-halen.com/"
+      },
+      {
+        "datetime": "20060813110027",
+        "uri": "http://web.archive.org/web/20060813110027/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060820093556",
+        "uri": "http://web.archive.org/web/20060820093556/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060820142543",
+        "uri": "http://web.archive.org/web/20060820142543/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060821002756",
+        "uri": "http://web.archive.org/web/20060821002756/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060821063021",
+        "uri": "http://web.archive.org/web/20060821063021/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060821063033",
+        "uri": "http://web.archive.org/web/20060821063033/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060821063134",
+        "uri": "http://web.archive.org/web/20060821063134/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060821105202",
+        "uri": "http://web.archive.org/web/20060821105202/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060821194636",
+        "uri": "http://web.archive.org/web/20060821194636/http://van-halen.com/"
+      },
+      {
+        "datetime": "20060821194653",
+        "uri": "http://web.archive.org/web/20060821194653/http://van-halen.com/"
+      },
+      {
+        "datetime": "20060825232705",
+        "uri": "http://web.archive.org/web/20060825232705/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060830202421",
+        "uri": "http://web.archive.org/web/20060830202421/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060901165258",
+        "uri": "http://web.archive.org/web/20060901165258/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20060903041456",
+        "uri": "http://web.archive.org/web/20060903041456/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20061004013039",
+        "uri": "http://web.archive.org/web/20061004013039/http://van-halen.com/"
+      },
+      {
+        "datetime": "20061017182016",
+        "uri": "http://web.archive.org/web/20061017182016/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20061018175339",
+        "uri": "http://web.archive.org/web/20061018175339/http://van-halen.com/"
+      },
+      {
+        "datetime": "20061108011225",
+        "uri": "http://web.archive.org/web/20061108011225/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20061115162243",
+        "uri": "http://web.archive.org/web/20061115162243/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20061115193358",
+        "uri": "http://web.archive.org/web/20061115193358/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20061202183521",
+        "uri": "http://web.archive.org/web/20061202183521/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20061205054245",
+        "uri": "http://web.archive.org/web/20061205054245/http://van-halen.com/"
+      },
+      {
+        "datetime": "20061205082605",
+        "uri": "http://web.archive.org/web/20061205082605/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20061210055253",
+        "uri": "http://web.archive.org/web/20061210055253/http://van-halen.com/"
+      },
+      {
+        "datetime": "20061214183828",
+        "uri": "http://web.archive.org/web/20061214183828/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20061219082231",
+        "uri": "http://web.archive.org/web/20061219082231/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070101231222",
+        "uri": "http://web.archive.org/web/20070101231222/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070106221212",
+        "uri": "http://web.archive.org/web/20070106221212/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070111183418",
+        "uri": "http://web.archive.org/web/20070111183418/http://van-halen.com/"
+      },
+      {
+        "datetime": "20070117011425",
+        "uri": "http://web.archive.org/web/20070117011425/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070117103423",
+        "uri": "http://web.archive.org/web/20070117103423/http://van-halen.com/"
+      },
+      {
+        "datetime": "20070129004445",
+        "uri": "http://web.archive.org/web/20070129004445/http://van-halen.com/"
+      },
+      {
+        "datetime": "20070129062034",
+        "uri": "http://web.archive.org/web/20070129062034/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070202023901",
+        "uri": "http://web.archive.org/web/20070202023901/http://van-halen.com/"
+      },
+      {
+        "datetime": "20070206002431",
+        "uri": "http://web.archive.org/web/20070206002431/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070210010322",
+        "uri": "http://web.archive.org/web/20070210010322/http://van-halen.com/"
+      },
+      {
+        "datetime": "20070217172040",
+        "uri": "http://web.archive.org/web/20070217172040/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070225131652",
+        "uri": "http://web.archive.org/web/20070225131652/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070306004503",
+        "uri": "http://web.archive.org/web/20070306004503/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070315015524",
+        "uri": "http://web.archive.org/web/20070315015524/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070406172856",
+        "uri": "http://web.archive.org/web/20070406172856/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070426103814",
+        "uri": "http://web.archive.org/web/20070426103814/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070506202159",
+        "uri": "http://web.archive.org/web/20070506202159/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070527141904",
+        "uri": "http://web.archive.org/web/20070527141904/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070612093710",
+        "uri": "http://web.archive.org/web/20070612093710/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070612093737",
+        "uri": "http://web.archive.org/web/20070612093737/http://www.van-halen.com//"
+      },
+      {
+        "datetime": "20070617164828",
+        "uri": "http://web.archive.org/web/20070617164828/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070623103853",
+        "uri": "http://web.archive.org/web/20070623103853/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070703002755",
+        "uri": "http://web.archive.org/web/20070703002755/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070704180552",
+        "uri": "http://web.archive.org/web/20070704180552/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070716233230",
+        "uri": "http://web.archive.org/web/20070716233230/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070810001829",
+        "uri": "http://web.archive.org/web/20070810001829/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070818001602",
+        "uri": "http://web.archive.org/web/20070818001602/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070819210547",
+        "uri": "http://web.archive.org/web/20070819210547/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070821053654",
+        "uri": "http://web.archive.org/web/20070821053654/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070821060050",
+        "uri": "http://web.archive.org/web/20070821060050/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070822101200",
+        "uri": "http://web.archive.org/web/20070822101200/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070824145722",
+        "uri": "http://web.archive.org/web/20070824145722/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070825204248",
+        "uri": "http://web.archive.org/web/20070825204248/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070826225528",
+        "uri": "http://web.archive.org/web/20070826225528/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070828171708",
+        "uri": "http://web.archive.org/web/20070828171708/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070901182427",
+        "uri": "http://web.archive.org/web/20070901182427/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070910065650",
+        "uri": "http://web.archive.org/web/20070910065650/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070920213623",
+        "uri": "http://web.archive.org/web/20070920213623/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070922112430",
+        "uri": "http://web.archive.org/web/20070922112430/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070925183955",
+        "uri": "http://web.archive.org/web/20070925183955/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070927032134",
+        "uri": "http://web.archive.org/web/20070927032134/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070927182358",
+        "uri": "http://web.archive.org/web/20070927182358/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070929084633",
+        "uri": "http://web.archive.org/web/20070929084633/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070930162406",
+        "uri": "http://web.archive.org/web/20070930162406/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20070930194011",
+        "uri": "http://web.archive.org/web/20070930194011/http://van-halen.com/"
+      },
+      {
+        "datetime": "20071001221538",
+        "uri": "http://web.archive.org/web/20071001221538/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20071003070341",
+        "uri": "http://web.archive.org/web/20071003070341/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20071004081740",
+        "uri": "http://web.archive.org/web/20071004081740/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20071005224000",
+        "uri": "http://web.archive.org/web/20071005224000/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20071006100628",
+        "uri": "http://web.archive.org/web/20071006100628/http://van-halen.com/"
+      },
+      {
+        "datetime": "20071007013004",
+        "uri": "http://web.archive.org/web/20071007013004/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20071007222656",
+        "uri": "http://web.archive.org/web/20071007222656/http://van-halen.com/"
+      },
+      {
+        "datetime": "20071008061705",
+        "uri": "http://web.archive.org/web/20071008061705/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20071008230348",
+        "uri": "http://web.archive.org/web/20071008230348/http://van-halen.com/"
+      },
+      {
+        "datetime": "20071009112759",
+        "uri": "http://web.archive.org/web/20071009112759/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20071011014204",
+        "uri": "http://web.archive.org/web/20071011014204/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20071012021732",
+        "uri": "http://web.archive.org/web/20071012021732/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20071012193441",
+        "uri": "http://web.archive.org/web/20071012193441/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20071014173611",
+        "uri": "http://web.archive.org/web/20071014173611/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20071015221431",
+        "uri": "http://web.archive.org/web/20071015221431/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20071019205500",
+        "uri": "http://web.archive.org/web/20071019205500/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20071022094716",
+        "uri": "http://web.archive.org/web/20071022094716/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20071025020246",
+        "uri": "http://web.archive.org/web/20071025020246/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20071027165808",
+        "uri": "http://web.archive.org/web/20071027165808/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20071028174309",
+        "uri": "http://web.archive.org/web/20071028174309/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20071030164958",
+        "uri": "http://web.archive.org/web/20071030164958/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20071111070500",
+        "uri": "http://web.archive.org/web/20071111070500/http://van-halen.com/"
+      },
+      {
+        "datetime": "20080117004428",
+        "uri": "http://web.archive.org/web/20080117004428/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080207021717",
+        "uri": "http://web.archive.org/web/20080207021717/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080220215046",
+        "uri": "http://web.archive.org/web/20080220215046/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080226215036",
+        "uri": "http://web.archive.org/web/20080226215036/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080227085808",
+        "uri": "http://web.archive.org/web/20080227085808/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080306003811",
+        "uri": "http://web.archive.org/web/20080306003811/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080308222652",
+        "uri": "http://web.archive.org/web/20080308222652/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080312001646",
+        "uri": "http://web.archive.org/web/20080312001646/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080314213306",
+        "uri": "http://web.archive.org/web/20080314213306/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080320075532",
+        "uri": "http://web.archive.org/web/20080320075532/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080324092741",
+        "uri": "http://web.archive.org/web/20080324092741/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080328075622",
+        "uri": "http://web.archive.org/web/20080328075622/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080330081417",
+        "uri": "http://web.archive.org/web/20080330081417/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080404032416",
+        "uri": "http://web.archive.org/web/20080404032416/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080405065114",
+        "uri": "http://web.archive.org/web/20080405065114/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080412011301",
+        "uri": "http://web.archive.org/web/20080412011301/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080412112820",
+        "uri": "http://web.archive.org/web/20080412112820/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080417030648",
+        "uri": "http://web.archive.org/web/20080417030648/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080417121253",
+        "uri": "http://web.archive.org/web/20080417121253/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080418151217",
+        "uri": "http://web.archive.org/web/20080418151217/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080427183029",
+        "uri": "http://web.archive.org/web/20080427183029/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080430035218",
+        "uri": "http://web.archive.org/web/20080430035218/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080501035530",
+        "uri": "http://web.archive.org/web/20080501035530/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080505004803",
+        "uri": "http://web.archive.org/web/20080505004803/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080506012546",
+        "uri": "http://web.archive.org/web/20080506012546/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080508222206",
+        "uri": "http://web.archive.org/web/20080508222206/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080509091012",
+        "uri": "http://web.archive.org/web/20080509091012/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080513155508",
+        "uri": "http://web.archive.org/web/20080513155508/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080517075521",
+        "uri": "http://web.archive.org/web/20080517075521/http://van-halen.com/"
+      },
+      {
+        "datetime": "20080518034217",
+        "uri": "http://web.archive.org/web/20080518034217/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080526153009",
+        "uri": "http://web.archive.org/web/20080526153009/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080531063537",
+        "uri": "http://web.archive.org/web/20080531063537/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080604164653",
+        "uri": "http://web.archive.org/web/20080604164653/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080605171942",
+        "uri": "http://web.archive.org/web/20080605171942/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080609033426",
+        "uri": "http://web.archive.org/web/20080609033426/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080611105316",
+        "uri": "http://web.archive.org/web/20080611105316/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080612181809",
+        "uri": "http://web.archive.org/web/20080612181809/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080616104206",
+        "uri": "http://web.archive.org/web/20080616104206/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080621012123",
+        "uri": "http://web.archive.org/web/20080621012123/http://van-halen.com/"
+      },
+      {
+        "datetime": "20080623185453",
+        "uri": "http://web.archive.org/web/20080623185453/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080625033351",
+        "uri": "http://web.archive.org/web/20080625033351/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080630201844",
+        "uri": "http://web.archive.org/web/20080630201844/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080702235011",
+        "uri": "http://web.archive.org/web/20080702235011/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080704105256",
+        "uri": "http://web.archive.org/web/20080704105256/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080705171318",
+        "uri": "http://web.archive.org/web/20080705171318/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080706194812",
+        "uri": "http://web.archive.org/web/20080706194812/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080709052905",
+        "uri": "http://web.archive.org/web/20080709052905/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080710195219",
+        "uri": "http://web.archive.org/web/20080710195219/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080712100311",
+        "uri": "http://web.archive.org/web/20080712100311/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080713232555",
+        "uri": "http://web.archive.org/web/20080713232555/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080715181245",
+        "uri": "http://web.archive.org/web/20080715181245/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080717235344",
+        "uri": "http://web.archive.org/web/20080717235344/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080719114155",
+        "uri": "http://web.archive.org/web/20080719114155/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080721015703",
+        "uri": "http://web.archive.org/web/20080721015703/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080723164402",
+        "uri": "http://web.archive.org/web/20080723164402/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080726165538",
+        "uri": "http://web.archive.org/web/20080726165538/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080727210845",
+        "uri": "http://web.archive.org/web/20080727210845/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080729002722",
+        "uri": "http://web.archive.org/web/20080729002722/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080730055135",
+        "uri": "http://web.archive.org/web/20080730055135/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080731224001",
+        "uri": "http://web.archive.org/web/20080731224001/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080802233135",
+        "uri": "http://web.archive.org/web/20080802233135/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080810191112",
+        "uri": "http://web.archive.org/web/20080810191112/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080811231318",
+        "uri": "http://web.archive.org/web/20080811231318/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080813033900",
+        "uri": "http://web.archive.org/web/20080813033900/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080815215242",
+        "uri": "http://web.archive.org/web/20080815215242/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080817091912",
+        "uri": "http://web.archive.org/web/20080817091912/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20080823000648",
+        "uri": "http://web.archive.org/web/20080823000648/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20081002055936",
+        "uri": "http://web.archive.org/web/20081002055936/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20081022064433",
+        "uri": "http://web.archive.org/web/20081022064433/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20081102110527",
+        "uri": "http://web.archive.org/web/20081102110527/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20081105033224",
+        "uri": "http://web.archive.org/web/20081105033224/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20081108040233",
+        "uri": "http://web.archive.org/web/20081108040233/http://van-halen.com/"
+      },
+      {
+        "datetime": "20081111143701",
+        "uri": "http://web.archive.org/web/20081111143701/http://van-halen.com/"
+      },
+      {
+        "datetime": "20081202185346",
+        "uri": "http://web.archive.org/web/20081202185346/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20081208034537",
+        "uri": "http://web.archive.org/web/20081208034537/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20081216235138",
+        "uri": "http://web.archive.org/web/20081216235138/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20090118152222",
+        "uri": "http://web.archive.org/web/20090118152222/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20090122051345",
+        "uri": "http://web.archive.org/web/20090122051345/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20090205003218",
+        "uri": "http://web.archive.org/web/20090205003218/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20090207001023",
+        "uri": "http://web.archive.org/web/20090207001023/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20090210010551",
+        "uri": "http://web.archive.org/web/20090210010551/http://van-halen.com/"
+      },
+      {
+        "datetime": "20090212033816",
+        "uri": "http://web.archive.org/web/20090212033816/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20090216100220",
+        "uri": "http://web.archive.org/web/20090216100220/http://van-halen.com/"
+      },
+      {
+        "datetime": "20090226200622",
+        "uri": "http://web.archive.org/web/20090226200622/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20090228161314",
+        "uri": "http://web.archive.org/web/20090228161314/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20090307004323",
+        "uri": "http://web.archive.org/web/20090307004323/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20090430095504",
+        "uri": "http://web.archive.org/web/20090430095504/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20090704213239",
+        "uri": "http://web.archive.org/web/20090704213239/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20090707095806",
+        "uri": "http://web.archive.org/web/20090707095806/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20090725225818",
+        "uri": "http://web.archive.org/web/20090725225818/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20090730084844",
+        "uri": "http://web.archive.org/web/20090730084844/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20090831001357",
+        "uri": "http://web.archive.org/web/20090831001357/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20091011230430",
+        "uri": "http://web.archive.org/web/20091011230430/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20091019053405",
+        "uri": "http://web.archive.org/web/20091019053405/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20091027052441",
+        "uri": "http://web.archive.org/web/20091027052441/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20091027225809",
+        "uri": "http://web.archive.org/web/20091027225809/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20091031132448",
+        "uri": "http://web.archive.org/web/20091031132448/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20091206072959",
+        "uri": "http://web.archive.org/web/20091206072959/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20091213001953",
+        "uri": "http://web.archive.org/web/20091213001953/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20100104190246",
+        "uri": "http://web.archive.org/web/20100104190246/http://van-halen.com/"
+      },
+      {
+        "datetime": "20100126002410",
+        "uri": "http://web.archive.org/web/20100126002410/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20100226153145",
+        "uri": "http://web.archive.org/web/20100226153145/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20101130184710",
+        "uri": "http://web.archive.org/web/20101130184710/http://van-halen.com/"
+      },
+      {
+        "datetime": "20101221100907",
+        "uri": "http://web.archive.org/web/20101221100907/http://van-halen.com/"
+      },
+      {
+        "datetime": "20110105091857",
+        "uri": "http://web.archive.org/web/20110105091857/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110112191021",
+        "uri": "http://web.archive.org/web/20110112191021/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110201233734",
+        "uri": "http://web.archive.org/web/20110201233734/http://van-halen.com/"
+      },
+      {
+        "datetime": "20110208081832",
+        "uri": "http://web.archive.org/web/20110208081832/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110220142634",
+        "uri": "http://web.archive.org/web/20110220142634/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110310124254",
+        "uri": "http://web.archive.org/web/20110310124254/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110327185146",
+        "uri": "http://web.archive.org/web/20110327185146/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110409075602",
+        "uri": "http://web.archive.org/web/20110409075602/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110413013106",
+        "uri": "http://web.archive.org/web/20110413013106/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110423151426",
+        "uri": "http://web.archive.org/web/20110423151426/http://van-halen.com/"
+      },
+      {
+        "datetime": "20110426184106",
+        "uri": "http://web.archive.org/web/20110426184106/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110614210620",
+        "uri": "http://web.archive.org/web/20110614210620/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110614212257",
+        "uri": "http://web.archive.org/web/20110614212257/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110714010656",
+        "uri": "http://web.archive.org/web/20110714010656/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110717163047",
+        "uri": "http://web.archive.org/web/20110717163047/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110717184328",
+        "uri": "http://web.archive.org/web/20110717184328/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110717184344",
+        "uri": "http://web.archive.org/web/20110717184344/http://van-halen.com/"
+      },
+      {
+        "datetime": "20110717184352",
+        "uri": "http://web.archive.org/web/20110717184352/http://van-halen.com/"
+      },
+      {
+        "datetime": "20110717184555",
+        "uri": "http://web.archive.org/web/20110717184555/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110719104126",
+        "uri": "http://web.archive.org/web/20110719104126/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110719104453",
+        "uri": "http://web.archive.org/web/20110719104453/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110719104500",
+        "uri": "http://web.archive.org/web/20110719104500/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110719155511",
+        "uri": "http://web.archive.org/web/20110719155511/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110725073343",
+        "uri": "http://web.archive.org/web/20110725073343/http://van-halen.com/"
+      },
+      {
+        "datetime": "20110725073433",
+        "uri": "http://web.archive.org/web/20110725073433/http://van-halen.com/"
+      },
+      {
+        "datetime": "20110727183926",
+        "uri": "http://web.archive.org/web/20110727183926/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110808141613",
+        "uri": "http://web.archive.org/web/20110808141613/http://van-halen.com/"
+      },
+      {
+        "datetime": "20110809061625",
+        "uri": "http://web.archive.org/web/20110809061625/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110819094941",
+        "uri": "http://web.archive.org/web/20110819094941/http://van-halen.com/"
+      },
+      {
+        "datetime": "20110902055445",
+        "uri": "http://web.archive.org/web/20110902055445/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110905033138",
+        "uri": "http://web.archive.org/web/20110905033138/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110923195143",
+        "uri": "http://web.archive.org/web/20110923195143/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110929230121",
+        "uri": "http://web.archive.org/web/20110929230121/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20110929230505",
+        "uri": "http://web.archive.org/web/20110929230505/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20111001062506",
+        "uri": "http://web.archive.org/web/20111001062506/http://van-halen.com/"
+      },
+      {
+        "datetime": "20111001185657",
+        "uri": "http://web.archive.org/web/20111001185657/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20111002232516",
+        "uri": "http://web.archive.org/web/20111002232516/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20111004062613",
+        "uri": "http://web.archive.org/web/20111004062613/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20111006161827",
+        "uri": "http://web.archive.org/web/20111006161827/http://van-halen.com/"
+      },
+      {
+        "datetime": "20111006185716",
+        "uri": "http://web.archive.org/web/20111006185716/http://van-halen.com/"
+      },
+      {
+        "datetime": "20111012101058",
+        "uri": "http://web.archive.org/web/20111012101058/http://van-halen.com/"
+      },
+      {
+        "datetime": "20111012224726",
+        "uri": "http://web.archive.org/web/20111012224726/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20111020214748",
+        "uri": "http://web.archive.org/web/20111020214748/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20111031065531",
+        "uri": "http://web.archive.org/web/20111031065531/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20111109111710",
+        "uri": "http://web.archive.org/web/20111109111710/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20111113080513",
+        "uri": "http://web.archive.org/web/20111113080513/http://van-halen.com/"
+      },
+      {
+        "datetime": "20111118085444",
+        "uri": "http://web.archive.org/web/20111118085444/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20111123004529",
+        "uri": "http://web.archive.org/web/20111123004529/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20111205204209",
+        "uri": "http://web.archive.org/web/20111205204209/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20111209124537",
+        "uri": "http://web.archive.org/web/20111209124537/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20111220024103",
+        "uri": "http://web.archive.org/web/20111220024103/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120103031515",
+        "uri": "http://web.archive.org/web/20120103031515/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120103085645",
+        "uri": "http://web.archive.org/web/20120103085645/http://van-halen.com/"
+      },
+      {
+        "datetime": "20120103174223",
+        "uri": "http://web.archive.org/web/20120103174223/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120109015012",
+        "uri": "http://web.archive.org/web/20120109015012/http://www.van-halen.com/?"
+      },
+      {
+        "datetime": "20120111092323",
+        "uri": "http://web.archive.org/web/20120111092323/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120111102313",
+        "uri": "http://web.archive.org/web/20120111102313/http://van-halen.com/"
+      },
+      {
+        "datetime": "20120111141825",
+        "uri": "http://web.archive.org/web/20120111141825/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120111231141",
+        "uri": "http://web.archive.org/web/20120111231141/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120112012013",
+        "uri": "http://web.archive.org/web/20120112012013/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120112032638",
+        "uri": "http://web.archive.org/web/20120112032638/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120112201852",
+        "uri": "http://web.archive.org/web/20120112201852/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120113012935",
+        "uri": "http://web.archive.org/web/20120113012935/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120113122949",
+        "uri": "http://web.archive.org/web/20120113122949/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120113135706",
+        "uri": "http://web.archive.org/web/20120113135706/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120113211825",
+        "uri": "http://web.archive.org/web/20120113211825/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120114103620",
+        "uri": "http://web.archive.org/web/20120114103620/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120114122813",
+        "uri": "http://web.archive.org/web/20120114122813/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120114133223",
+        "uri": "http://web.archive.org/web/20120114133223/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120114175900",
+        "uri": "http://web.archive.org/web/20120114175900/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120115011932",
+        "uri": "http://web.archive.org/web/20120115011932/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120206002754",
+        "uri": "http://web.archive.org/web/20120206002754/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120207065244",
+        "uri": "http://web.archive.org/web/20120207065244/http://van-halen.com/"
+      },
+      {
+        "datetime": "20120211172226",
+        "uri": "http://web.archive.org/web/20120211172226/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120212200540",
+        "uri": "http://web.archive.org/web/20120212200540/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120426222000",
+        "uri": "http://web.archive.org/web/20120426222000/http://van-halen.com/"
+      },
+      {
+        "datetime": "20120502075324",
+        "uri": "http://web.archive.org/web/20120502075324/http://van-halen.com/"
+      },
+      {
+        "datetime": "20120502205523",
+        "uri": "http://web.archive.org/web/20120502205523/http://van-halen.com/"
+      },
+      {
+        "datetime": "20120504004632",
+        "uri": "http://web.archive.org/web/20120504004632/http://van-halen.com/"
+      },
+      {
+        "datetime": "20120504021640",
+        "uri": "http://web.archive.org/web/20120504021640/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120505084135",
+        "uri": "http://web.archive.org/web/20120505084135/http://van-halen.com/"
+      },
+      {
+        "datetime": "20120506102616",
+        "uri": "http://web.archive.org/web/20120506102616/http://van-halen.com/"
+      },
+      {
+        "datetime": "20120507114238",
+        "uri": "http://web.archive.org/web/20120507114238/http://van-halen.com/"
+      },
+      {
+        "datetime": "20120508103044",
+        "uri": "http://web.archive.org/web/20120508103044/http://van-halen.com/"
+      },
+      {
+        "datetime": "20120511061117",
+        "uri": "http://web.archive.org/web/20120511061117/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120511132544",
+        "uri": "http://web.archive.org/web/20120511132544/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120514045426",
+        "uri": "http://web.archive.org/web/20120514045426/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120516112011",
+        "uri": "http://web.archive.org/web/20120516112011/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120518094448",
+        "uri": "http://web.archive.org/web/20120518094448/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120519062722",
+        "uri": "http://web.archive.org/web/20120519062722/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120522181122",
+        "uri": "http://web.archive.org/web/20120522181122/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120529181107",
+        "uri": "http://web.archive.org/web/20120529181107/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120604132930",
+        "uri": "http://web.archive.org/web/20120604132930/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120609111152",
+        "uri": "http://web.archive.org/web/20120609111152/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120612071652",
+        "uri": "http://web.archive.org/web/20120612071652/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120625182608",
+        "uri": "http://web.archive.org/web/20120625182608/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120701201431",
+        "uri": "http://web.archive.org/web/20120701201431/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120707110241",
+        "uri": "http://web.archive.org/web/20120707110241/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120710012157",
+        "uri": "http://web.archive.org/web/20120710012157/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120714075538",
+        "uri": "http://web.archive.org/web/20120714075538/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120716041656",
+        "uri": "http://web.archive.org/web/20120716041656/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120718011306",
+        "uri": "http://web.archive.org/web/20120718011306/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120721091009",
+        "uri": "http://web.archive.org/web/20120721091009/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120723081638",
+        "uri": "http://web.archive.org/web/20120723081638/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120725072355",
+        "uri": "http://web.archive.org/web/20120725072355/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120728140035",
+        "uri": "http://web.archive.org/web/20120728140035/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120730034544",
+        "uri": "http://web.archive.org/web/20120730034544/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20120919092122",
+        "uri": "http://web.archive.org/web/20120919092122/http://van-halen.com/"
+      },
+      {
+        "datetime": "20120920021900",
+        "uri": "http://web.archive.org/web/20120920021900/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20121005233149",
+        "uri": "http://web.archive.org/web/20121005233149/http://van-halen.com/"
+      },
+      {
+        "datetime": "20121009012427",
+        "uri": "http://web.archive.org/web/20121009012427/http://van-halen.com/"
+      },
+      {
+        "datetime": "20121013135243",
+        "uri": "http://web.archive.org/web/20121013135243/http://van-halen.com/"
+      },
+      {
+        "datetime": "20121015101831",
+        "uri": "http://web.archive.org/web/20121015101831/http://van-halen.com/"
+      },
+      {
+        "datetime": "20121028171645",
+        "uri": "http://web.archive.org/web/20121028171645/http://van-halen.com/"
+      },
+      {
+        "datetime": "20121130140933",
+        "uri": "http://web.archive.org/web/20121130140933/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20121206173246",
+        "uri": "http://web.archive.org/web/20121206173246/http://van-halen.com/"
+      },
+      {
+        "datetime": "20130113102011",
+        "uri": "http://web.archive.org/web/20130113102011/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20130115043827",
+        "uri": "http://web.archive.org/web/20130115043827/http://van-halen.com/"
+      },
+      {
+        "datetime": "20130115192516",
+        "uri": "http://web.archive.org/web/20130115192516/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20130211050647",
+        "uri": "http://web.archive.org/web/20130211050647/http://van-halen.com/"
+      },
+      {
+        "datetime": "20130302071201",
+        "uri": "http://web.archive.org/web/20130302071201/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20130302155429",
+        "uri": "http://web.archive.org/web/20130302155429/http://van-halen.com/"
+      },
+      {
+        "datetime": "20130325233844",
+        "uri": "http://web.archive.org/web/20130325233844/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20130330235125",
+        "uri": "http://web.archive.org/web/20130330235125/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20130331033825",
+        "uri": "http://web.archive.org/web/20130331033825/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20130402041422",
+        "uri": "http://web.archive.org/web/20130402041422/http://van-halen.com/"
+      },
+      {
+        "datetime": "20130403050859",
+        "uri": "http://web.archive.org/web/20130403050859/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20130412174123",
+        "uri": "http://web.archive.org/web/20130412174123/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20130414034441",
+        "uri": "http://web.archive.org/web/20130414034441/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20130420062815",
+        "uri": "http://web.archive.org/web/20130420062815/http://van-halen.com/"
+      },
+      {
+        "datetime": "20130422095719",
+        "uri": "http://web.archive.org/web/20130422095719/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20130428195204",
+        "uri": "http://web.archive.org/web/20130428195204/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20130430051724",
+        "uri": "http://web.archive.org/web/20130430051724/http://van-halen.com/"
+      },
+      {
+        "datetime": "20130502172153",
+        "uri": "http://web.archive.org/web/20130502172153/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20130529211424",
+        "uri": "http://web.archive.org/web/20130529211424/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20130531093149",
+        "uri": "http://web.archive.org/web/20130531093149/http://van-halen.com/"
+      },
+      {
+        "datetime": "20130713123035",
+        "uri": "http://web.archive.org/web/20130713123035/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20130713123035",
+        "uri": "http://web.archive.org/web/20130713123035/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20130713123035",
+        "uri": "http://web.archive.org/web/20130713123035/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20130718075640",
+        "uri": "http://web.archive.org/web/20130718075640/http://van-halen.com/"
+      },
+      {
+        "datetime": "20130805064252",
+        "uri": "http://web.archive.org/web/20130805064252/http://van-halen.com/"
+      },
+      {
+        "datetime": "20130806001752",
+        "uri": "http://web.archive.org/web/20130806001752/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20130806173711",
+        "uri": "http://web.archive.org/web/20130806173711/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20130921134210",
+        "uri": "http://web.archive.org/web/20130921134210/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20131017073344",
+        "uri": "http://web.archive.org/web/20131017073344/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20131017201153",
+        "uri": "http://web.archive.org/web/20131017201153/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20131021220959",
+        "uri": "http://web.archive.org/web/20131021220959/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20131031155313",
+        "uri": "http://web.archive.org/web/20131031155313/http://van-halen.com/"
+      },
+      {
+        "datetime": "20131103030121",
+        "uri": "http://web.archive.org/web/20131103030121/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20131109033002",
+        "uri": "http://web.archive.org/web/20131109033002/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20131215063957",
+        "uri": "http://web.archive.org/web/20131215063957/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20140103170059",
+        "uri": "http://web.archive.org/web/20140103170059/http://van-halen.com/"
+      },
+      {
+        "datetime": "20140107102441",
+        "uri": "http://web.archive.org/web/20140107102441/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20140207224558",
+        "uri": "http://web.archive.org/web/20140207224558/http://van-halen.com/"
+      },
+      {
+        "datetime": "20140208012404",
+        "uri": "http://web.archive.org/web/20140208012404/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20140308064455",
+        "uri": "http://web.archive.org/web/20140308064455/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20140407134245",
+        "uri": "http://web.archive.org/web/20140407134245/http://van-halen.com/"
+      },
+      {
+        "datetime": "20140522204426",
+        "uri": "http://web.archive.org/web/20140522204426/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20140625071832",
+        "uri": "http://web.archive.org/web/20140625071832/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20140705113313",
+        "uri": "http://web.archive.org/web/20140705113313/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20140730200701",
+        "uri": "http://web.archive.org/web/20140730200701/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20140826074743",
+        "uri": "http://web.archive.org/web/20140826074743/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20140829050542",
+        "uri": "http://web.archive.org/web/20140829050542/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20140903004625",
+        "uri": "http://web.archive.org/web/20140903004625/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20140905055457",
+        "uri": "http://web.archive.org/web/20140905055457/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20140908134045",
+        "uri": "http://web.archive.org/web/20140908134045/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20140912090809",
+        "uri": "http://web.archive.org/web/20140912090809/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20140919181958",
+        "uri": "http://web.archive.org/web/20140919181958/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20140926143912",
+        "uri": "http://web.archive.org/web/20140926143912/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20140928190953",
+        "uri": "http://web.archive.org/web/20140928190953/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20141001031206",
+        "uri": "http://web.archive.org/web/20141001031206/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20141007164046",
+        "uri": "http://web.archive.org/web/20141007164046/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20141014214337",
+        "uri": "http://web.archive.org/web/20141014214337/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20141018003409",
+        "uri": "http://web.archive.org/web/20141018003409/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20141117175139",
+        "uri": "http://web.archive.org/web/20141117175139/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20141218064108",
+        "uri": "http://web.archive.org/web/20141218064108/http://van-halen.com/"
+      },
+      {
+        "datetime": "20141219093554",
+        "uri": "http://web.archive.org/web/20141219093554/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20141221233035",
+        "uri": "http://web.archive.org/web/20141221233035/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20141226171442",
+        "uri": "http://web.archive.org/web/20141226171442/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20141227230402",
+        "uri": "http://web.archive.org/web/20141227230402/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150105160011",
+        "uri": "http://web.archive.org/web/20150105160011/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150117032725",
+        "uri": "http://web.archive.org/web/20150117032725/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150118060129",
+        "uri": "http://web.archive.org/web/20150118060129/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150122111345",
+        "uri": "http://web.archive.org/web/20150122111345/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150205232349",
+        "uri": "http://web.archive.org/web/20150205232349/http://van-halen.com/"
+      },
+      {
+        "datetime": "20150205234143",
+        "uri": "http://web.archive.org/web/20150205234143/http://www.van-halen.com./"
+      },
+      {
+        "datetime": "20150207010827",
+        "uri": "http://web.archive.org/web/20150207010827/http://van-halen.com/"
+      },
+      {
+        "datetime": "20150208160528",
+        "uri": "http://web.archive.org/web/20150208160528/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150209050410",
+        "uri": "http://web.archive.org/web/20150209050410/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150219065832",
+        "uri": "http://web.archive.org/web/20150219065832/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150225025157",
+        "uri": "http://web.archive.org/web/20150225025157/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150303023217",
+        "uri": "http://web.archive.org/web/20150303023217/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150309080348",
+        "uri": "http://web.archive.org/web/20150309080348/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150314191708",
+        "uri": "http://web.archive.org/web/20150314191708/http://van-halen.com/"
+      },
+      {
+        "datetime": "20150315042715",
+        "uri": "http://web.archive.org/web/20150315042715/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150316064456",
+        "uri": "http://web.archive.org/web/20150316064456/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150321023015",
+        "uri": "http://web.archive.org/web/20150321023015/http://van-halen.com/"
+      },
+      {
+        "datetime": "20150330093420",
+        "uri": "http://web.archive.org/web/20150330093420/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150520160255",
+        "uri": "http://web.archive.org/web/20150520160255/http://van-halen.com/"
+      },
+      {
+        "datetime": "20150627232557",
+        "uri": "http://web.archive.org/web/20150627232557/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150629064726",
+        "uri": "http://web.archive.org/web/20150629064726/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150629210650",
+        "uri": "http://web.archive.org/web/20150629210650/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150701162827",
+        "uri": "http://web.archive.org/web/20150701162827/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150714065224",
+        "uri": "http://web.archive.org/web/20150714065224/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150730233524",
+        "uri": "http://web.archive.org/web/20150730233524/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150810100705",
+        "uri": "http://web.archive.org/web/20150810100705/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150810164757",
+        "uri": "http://web.archive.org/web/20150810164757/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150815201337",
+        "uri": "http://web.archive.org/web/20150815201337/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150821100725",
+        "uri": "http://web.archive.org/web/20150821100725/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150828171529",
+        "uri": "http://web.archive.org/web/20150828171529/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150905035524",
+        "uri": "http://web.archive.org/web/20150905035524/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150905052235",
+        "uri": "http://web.archive.org/web/20150905052235/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150907202113",
+        "uri": "http://web.archive.org/web/20150907202113/http://van-halen.com/"
+      },
+      {
+        "datetime": "20150913042203",
+        "uri": "http://web.archive.org/web/20150913042203/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150921062506",
+        "uri": "http://web.archive.org/web/20150921062506/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20150930054327",
+        "uri": "http://web.archive.org/web/20150930054327/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20151009081330",
+        "uri": "http://web.archive.org/web/20151009081330/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20151022203633",
+        "uri": "http://web.archive.org/web/20151022203633/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20151026175549",
+        "uri": "http://web.archive.org/web/20151026175549/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20151028143112",
+        "uri": "http://web.archive.org/web/20151028143112/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20151104060042",
+        "uri": "http://web.archive.org/web/20151104060042/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20151104215410",
+        "uri": "http://web.archive.org/web/20151104215410/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20151105055613",
+        "uri": "http://web.archive.org/web/20151105055613/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160104195153",
+        "uri": "http://web.archive.org/web/20160104195153/http://van-halen.com/"
+      },
+      {
+        "datetime": "20160109023424",
+        "uri": "http://web.archive.org/web/20160109023424/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160110043708",
+        "uri": "http://web.archive.org/web/20160110043708/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160111055417",
+        "uri": "http://web.archive.org/web/20160111055417/http://van-halen.com/"
+      },
+      {
+        "datetime": "20160114033941",
+        "uri": "http://web.archive.org/web/20160114033941/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160125092734",
+        "uri": "http://web.archive.org/web/20160125092734/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160125165544",
+        "uri": "http://web.archive.org/web/20160125165544/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160222002059",
+        "uri": "http://web.archive.org/web/20160222002059/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160301020733",
+        "uri": "http://web.archive.org/web/20160301020733/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160303183539",
+        "uri": "http://web.archive.org/web/20160303183539/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160303185510",
+        "uri": "http://web.archive.org/web/20160303185510/http://van-halen.com/"
+      },
+      {
+        "datetime": "20160303192339",
+        "uri": "http://web.archive.org/web/20160303192339/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160303204411",
+        "uri": "http://web.archive.org/web/20160303204411/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160303211031",
+        "uri": "http://web.archive.org/web/20160303211031/http://van-halen.com/"
+      },
+      {
+        "datetime": "20160305014953",
+        "uri": "http://web.archive.org/web/20160305014953/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160306185507",
+        "uri": "http://web.archive.org/web/20160306185507/http://van-halen.com/"
+      },
+      {
+        "datetime": "20160307165222",
+        "uri": "http://web.archive.org/web/20160307165222/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160314193321",
+        "uri": "http://web.archive.org/web/20160314193321/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160315215248",
+        "uri": "http://web.archive.org/web/20160315215248/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160317013254",
+        "uri": "http://web.archive.org/web/20160317013254/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160331044732",
+        "uri": "http://web.archive.org/web/20160331044732/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160406040743",
+        "uri": "http://web.archive.org/web/20160406040743/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160409195721",
+        "uri": "http://web.archive.org/web/20160409195721/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160410174240",
+        "uri": "http://web.archive.org/web/20160410174240/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160411065857",
+        "uri": "http://web.archive.org/web/20160411065857/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160414134549",
+        "uri": "http://web.archive.org/web/20160414134549/http://van-halen.com/"
+      },
+      {
+        "datetime": "20160415075952",
+        "uri": "http://web.archive.org/web/20160415075952/http://van-halen.com/"
+      },
+      {
+        "datetime": "20160419230646",
+        "uri": "http://web.archive.org/web/20160419230646/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160422101126",
+        "uri": "http://web.archive.org/web/20160422101126/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160422101131",
+        "uri": "http://web.archive.org/web/20160422101131/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160504104000",
+        "uri": "http://web.archive.org/web/20160504104000/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160504104002",
+        "uri": "http://web.archive.org/web/20160504104002/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160504104004",
+        "uri": "http://web.archive.org/web/20160504104004/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160526034930",
+        "uri": "http://web.archive.org/web/20160526034930/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160527071955",
+        "uri": "http://web.archive.org/web/20160527071955/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160527071959",
+        "uri": "http://web.archive.org/web/20160527071959/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160527072005",
+        "uri": "http://web.archive.org/web/20160527072005/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160530030743",
+        "uri": "http://web.archive.org/web/20160530030743/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160530030746",
+        "uri": "http://web.archive.org/web/20160530030746/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160530030748",
+        "uri": "http://web.archive.org/web/20160530030748/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160530030750",
+        "uri": "http://web.archive.org/web/20160530030750/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160602045016",
+        "uri": "http://web.archive.org/web/20160602045016/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160611033729",
+        "uri": "http://web.archive.org/web/20160611033729/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160616191544",
+        "uri": "http://web.archive.org/web/20160616191544/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160714082424",
+        "uri": "http://web.archive.org/web/20160714082424/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160724081336",
+        "uri": "http://web.archive.org/web/20160724081336/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160727023335",
+        "uri": "http://web.archive.org/web/20160727023335/http://van-halen.com/"
+      },
+      {
+        "datetime": "20160727190508",
+        "uri": "http://web.archive.org/web/20160727190508/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160806224639",
+        "uri": "http://web.archive.org/web/20160806224639/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160903041807",
+        "uri": "http://web.archive.org/web/20160903041807/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20160910213725",
+        "uri": "http://web.archive.org/web/20160910213725/http://van-halen.com/"
+      },
+      {
+        "datetime": "20161003193235",
+        "uri": "http://web.archive.org/web/20161003193235/http://van-halen.com/"
+      },
+      {
+        "datetime": "20161011075354",
+        "uri": "http://web.archive.org/web/20161011075354/http://www.van-halen.com/"
+      },
+      {
+        "datetime": "20161011092222",
+        "uri": "http://web.archive.org/web/20161011092222/http://www.van-halen.com/"
+      }
+    ],
+    "timegate": "http://web.archive.org/web/http://van-halen.com/",
+    "original": "http://van-halen.com/",
+    "last": "Sat, 22 Oct 2016 03:03:39 GMT"
+  }
+}

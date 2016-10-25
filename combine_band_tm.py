@@ -53,8 +53,8 @@ def sanitiz():
             for i in info:
                 for f,t in map(extract_binfo_date,i['active']):
                     mem_point.append({
-                        "f": f.format('YYYYMMDDHHMMSS'),
-                        "t": t.format('YYYYMMDDHHMMSS'),
+                        "f": f.format(),
+                        "t": t.format(),
                         "plays": i['plays'],
                         "member": i['member']
                     })
@@ -75,6 +75,7 @@ def sanitiz():
 
 
 if __name__ == '__main__':
+    # do_combine()
     sanitiz()
     # with open('/home/john/PycharmProjects/ia-bday/band_to_tm/Anata.json', 'r') as min:
     #     metal = json.load(min)
