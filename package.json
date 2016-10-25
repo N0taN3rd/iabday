@@ -2,13 +2,15 @@
   "name": "ia-bday",
   "version": "0.0.1",
   "dependencies": {
-    "jquery": "^3.1.1",
+    "axios": "^0.15.2",
     "bluebird": "^3.4.6",
     "d3": "^4.2.8",
     "fs-extra": "^0.30.0",
+    "jquery": "^3.1.1",
     "metrics-graphics": "^2.10.1",
     "moment": "^2.15.2",
-    "nvd3": "^1.8.4"
+    "nvd3": "^1.8.4",
+    "vis": "^4.16.1"
   },
   "scripts": {
     "dev-ui": "node -r babel-register ./node_modules/.bin/webpack-dev-server --port 9000 --content-base . --hot --inline"
