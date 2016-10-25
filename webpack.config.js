@@ -27,12 +27,7 @@ export default {
           ],
         },
       },
-      { test: /\.css$/, loader: 'style!css?sourceMap', exclude: /flexboxgrid/ },
-      {
-        test: /\.css$/,
-        loader: 'style!css?sourceMap&modules&localIdentName=[name]__[local]___[hash:base64:5]',
-        include: /flexboxgrid/,
-      },
+      { test: /\.css$/, loader: 'style!css?sourceMap&modules&localIdentName=[name]__[local]___[hash:base64:5]' },
       {
         test: /\.scss$/,
         loaders: [ 'style!css!less|scss', 'style-loader',
