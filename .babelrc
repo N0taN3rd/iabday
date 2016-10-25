@@ -1,0 +1,8 @@
+{
+  "presets": [ "latest", "react"],
+  "plugins": [
+    "transform-runtime",
+    "add-module-exports",
+    "babel-plugin-transform-decorators-legacy"
+  ]
+}
